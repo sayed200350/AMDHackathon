@@ -1,0 +1,120 @@
+version: "3.9"
+
+# ============================================================================
+# Counsel-in-a-Box — Docker Compose for AMD MI300X Development
+# ============================================================================
+# Usage:
+#   docker compose -f infra/docker-compose.yml up             # all services
+#   docker compose -f infra/docker-compose.yml up vllm-legal  # legal model only
+#   docker compose -f infra/docker-compose.yml up postgres     # database only
+# ============================================================================
+
+services:
+  # --------------------------------------------------------------------------
+  # vLLM — Legal Reasoning Model (Qwen3-32B)
+  # --------------------------------------------------------------------------
+  vllm-legal:
+    image: rocm/vllm-dev:nightly
+    container_name: counsel-vllm-legal
+    command: >
+      python -m vllm.entrypoints.openai.api_server
+        --model ${LEGAL_MODEL:-Qwen/Qwen3-32B}
+        --port 8000
+        --dtype bfloat16
+        --max-model-len ${MAX_MODEL_LEN:-262144}
+        --gpu-memory-utilization ${GPU_MEMORY_UTILIZATION:-0.92}
+        --max-num-seqs ${MAX_NUM_SEQS:-8}
+        --tensor-parallel-size 1
+        --trust-remote-code
+        --enable-chunked-prefill
+        --max-num-batched-tokens ${MAX_MODEL_LEN:-262144}
+        --served-model-name qwen3-32b-legal
+        --disable-log-requests
+    ports:
+      - "${LEGAL_PORT:-8000}:8000"
+    volumes:
+      - huggingface-cache:/root/.cache/huggingface
+    devices:
+      - /dev/kfd:/dev/kfd
+      - /dev/dri:/dev/dri
+    group_add:
+      - video
+      - render
+    environment:
+      - HIP_VISIBLE_DEVICES=0
+      - VLLM_USE_TRITON_FLASH_ATTN=1
+      - HF_TOKEN=${HF_TOKEN:-}
+    shm_size: "16gb"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 20
+      start_period: 120s
+
+  # --------------------------------------------------------------------------
+  # vLLM — Orchestration Model (Qwen3.6-A3B)
+  # --------------------------------------------------------------------------
+  vllm-orch:
+    image: rocm/vllm-dev:nightly
+    container_name: counsel-vllm-orch
+    command: >
+      python -m vllm.entrypoints.openai.api_server
+        --model ${ORCH_MODEL:-Qwen/Qwen3.6-A3B}
+        --port 8001
+        --dtype bfloat16
+        --max-model-len 32768
+        --gpu-memory-utilization 0.08
+        --max-num-seqs 16
+        --tensor-parallel-size 1
+        --trust-remote-code
+        --served-model-name qwen3-a3b-orch
+        --disable-log-requests
+    ports:
+      - "${ORCH_PORT:-8001}:8001"
+    volumes:
+      - huggingface-cache:/root/.cache/huggingface
+    devices:
+      - /dev/kfd:/dev/kfd
+      - /dev/dri:/dev/dri
+    group_add:
+      - video
+      - render
+    environment:
+      - HIP_VISIBLE_DEVICES=0
+      - VLLM_USE_TRITON_FLASH_ATTN=1
+      - HF_TOKEN=${HF_TOKEN:-}
+    shm_size: "4gb"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 60s
+
+  # --------------------------------------------------------------------------
+  # PostgreSQL — Matter State Persistence
+  # --------------------------------------------------------------------------
+  postgres:
+    image: postgres:16-alpine
+    container_name: counsel-postgres
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-counsel}
+      POSTGRES_USER: ${POSTGRES_USER:-counsel}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-counsel_dev_pw}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-counsel}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  huggingface-cache:
+  pgdata:
