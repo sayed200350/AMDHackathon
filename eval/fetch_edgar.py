@@ -100,6 +100,8 @@ def search_filings(
         "dateRange": "custom",
         "startdt": "2023-01-01",
         "enddt": "2025-12-31",
+        "from": "0",
+        "size": str(count),
     }
 
     try:
@@ -120,12 +122,15 @@ def fetch_filing_documents(
     accession: str,
 ) -> list[dict[str, str]]:
     """Fetch all documents from a filing's index page."""
+    # Strip leading zeros from CIK (SEC redirects otherwise)
+    cik_clean = str(int(cik))
     acc_clean = accession.replace("-", "")
-    index_url = f"{EDGAR_ARCHIVES_URL}/{cik}/{acc_clean}/{accession}-index.htm"
+    index_url = f"{EDGAR_ARCHIVES_URL}/{cik_clean}/{acc_clean}/{accession}-index.htm"
 
     client = httpx.Client(
         headers={"User-Agent": USER_AGENT},
         timeout=30,
+        follow_redirects=True,
     )
 
     try:
@@ -145,7 +150,7 @@ def fetch_filing_documents(
             if match_url.startswith("/"):
                 doc_url = f"https://www.sec.gov{match_url}"
             else:
-                doc_url = f"{EDGAR_ARCHIVES_URL}/{cik}/{acc_clean}/{match_url}"
+                doc_url = f"{EDGAR_ARCHIVES_URL}/{cik_clean}/{acc_clean}/{match_url}"
 
             time.sleep(REQUEST_DELAY)
 
@@ -202,16 +207,11 @@ def fetch_deals(total_count: int = 10, query: str | None = None) -> None:
                 break
 
             source = hit.get("_source", {})
-            cik = str(source.get("entity_id", ""))
-            entity_name = source.get("entity_name", "unknown")
-
-            # Extract accession from hit ID
-            file_id = hit.get("_id", "")
-            accession = ""
-            if ":" in file_id:
-                parts = file_id.split(":")
-                if len(parts) >= 2:
-                    accession = parts[1]
+            ciks = source.get("ciks", [])
+            cik = ciks[0] if ciks else ""
+            display_names = source.get("display_names", [])
+            entity_name = display_names[0] if display_names else "unknown"
+            accession = source.get("adsh", "")
 
             if not cik or not accession:
                 continue
