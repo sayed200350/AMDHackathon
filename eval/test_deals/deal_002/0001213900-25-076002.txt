@@ -1,0 +1,4638 @@
+0001213900-25-076002.txt : 20250814
+0001213900-25-076002.hdr.sgml : 20250814
+20250814063135
+ACCESSION NUMBER: 0001213900-25-076002
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 15
+CONFORMED PERIOD OF REPORT: 20250813
+ITEM INFORMATION: Entry into a Material Definitive Agreement
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20250814
+DATE AS OF CHANGE: 20250814
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: T1 Energy Inc.
+ CENTRAL INDEX KEY: 0001992243
+ STANDARD INDUSTRIAL CLASSIFICATION: SEMICONDUCTORS & RELATED DEVICES [3674]
+ ORGANIZATION NAME: 04 Manufacturing
+ EIN: 933205861
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-41903
+ FILM NUMBER: 251214143
+
+ BUSINESS ADDRESS: 
+ STREET 1: 1211 E 4TH ST.
+ CITY: AUSTIN
+ STATE: TX
+ ZIP: 78702
+ BUSINESS PHONE: 409-599-5706
+
+ MAIL ADDRESS: 
+ STREET 1: 1211 E 4TH ST.
+ CITY: AUSTIN
+ STATE: TX
+ ZIP: 78702
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: FREYR Battery, Inc. /DE/
+ DATE OF NAME CHANGE: 20230901
+
+8-K
+1
+ea0253099-8k_t1energy.htm
+CURRENT REPORT
+
+ 
+
+ 
+ false
+ 0001992243
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0001992243
+ 
+ 
+ 2025-08-13
+ 2025-08-13
+ 
+ 
+ 
+ 
+ 0001992243
+ 
+ TE:CommonStock0.01ParValueMember
+ 
+ 
+ 
+ 2025-08-13
+ 2025-08-13
+ 
+ 
+ 
+ 
+ 0001992243
+ 
+ TE:WarrantsEachWholeWarrantExercisableForOneCommonStockAtExercisePriceFor11.50PerShareMember
+ 
+ 
+ 
+ 2025-08-13
+ 2025-08-13
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ xbrli:shares
+ 
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ xbrli:shares
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+FORM 8-K
+
+ 
+
+CURRENT REPORT
+
+ 
+
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+
+SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Date of Report (Date of earliest event reported):
+August 14, 2025 (August 13, 2025)
+
+ 
+
+T1 Energy Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+ Delaware
+  
+ 333-274434
+  
+ 93-3205861
+
+ 
+ (State or other jurisdiction 
+
+of incorporation)
+  
+ (Commission File Number)
+  
+ (IRS Employer 
+
+Identification No.)
+
+ 
+ 
+
+1211 E 4th St.
+
+Austin, Texas 78702
+
+(Address of principal executive offices, including
+zip code)
+
+ 
+
+Registrant’s telephone number, including
+area code: 409-599-5706
+
+ 
+
+ 
+
+(Former name or former address, if changed since
+last report)
+
+ 
+
+Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+
+ 
+
+☐Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+☐Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+☐Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+☐Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities registered pursuant
+to Section 12(b) of the Act:
+
+ 
+
+ 
+ 
+ Title of each
+ class
+
+  
+ Trading Symbol(s)
+  
+ Name of each exchange on which registered
+
+ 
+ Common Stock, $0.01 par value
+  
+ TE
+  
+ The New York Stock Exchange
+
+ 
+ Warrants, each whole warrant exercisable for one Common Stock at an exercise price for $11.50 per share
+  
+ TE WS
+  
+ The New York Stock Exchange
+
+ 
+ 
+
+Indicate by check mark whether
+the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+ 
+
+Emerging growth company ☐
+
+ 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+Amendment to Sales Agency and Aftermarket Support Agreement
+
+ 
+
+On December 23, 2024, T1 G1
+Dallas Solar Module (Trina) LLC (f/k/a Trina Solar US Manufacturing Module 1 LLC), a Texas limited liability company (“G1”)
+and a wholly owned subsidiary of T1 Energy Inc., a Delaware corporation (the “Company”), entered into a sales
+agency and aftermarket services agreement with Trina Solar (U.S.), Inc., a Delaware corporation (“TUS”) (as amended,
+restated, supplemented or otherwise modified from time to time, the “Sales Agency Agreement”). Capitalized terms used
+in this section of this Current Report on Form 8-K but not otherwise defined herein have the meanings given to them in the Sales Agency
+Agreement.
+
+ 
+
+In connection with the Sales
+Agency Agreement, on August 13, 2025, the parties thereto entered into that certain Amendment No. 1 to the Sales Agency Agreement (the
+“First Amendment”), which provides that any and all Service Fees that are payable or that become payable by G1 on or
+following the date of the First Amendment, shall be deferred, without interest, and no payments shall be due with respect to such Service
+Fee, until the earlier of (i) thirty (30) days following the date on which G1 or its Affiliates receives a cash payment with respect to
+any 45X Tax Credits, including as a result of any election under Section 6418 of the Internal Revenue Code with respect to the relevant
+45X Tax Credit and (ii) August 15, 2026.
+
+ 
+
+The foregoing description
+of the First Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the First
+Amendment. A copy of the First Amendment is filed as Exhibit 10.1 hereto and is incorporated into this Item 1.01 by reference.
+
+ 
+
+Amendment to Preferred Stock Purchase Agreement
+
+ 
+
+On November 6, 2024,  the
+Company and certain funds and accounts managed by Encompass Capital Advisors LLC (“Encompass”) entered into a preferred
+stock purchase agreement which was subsequently amended on March 21, 2025 and April 29, 2025, respectively, pursuant to which Encompass
+purchased non-voting preferred stock of the Company (the “Preferred Stock”) in exchange for $100.0 million, to be funded
+across two tranches of $50.0 million each (as amended, restated, supplemented or otherwise modified from time to time, the “Preferred
+Stock Purchase Agreement”). Capitalized terms used in this section of this Current Report on Form 8-K but not otherwise defined
+herein have the meanings given to them in the Preferred Stock Purchase Agreement.
+
+ 
+
+In connection with the Preferred
+Stock Purchase Agreement, on August 13, 2025, the parties thereto entered into that certain Amendment No. 3 to the Preferred Stock Purchase
+Agreement (the “Third Amendment”), in order to amend and restate in entirety, among other things:
+
+ 
+
+(i)the definition of “Second Tranche Closing Date” to reflect that the date of issuance of the
+Second Tranche shall be 10 Business Days following the date the Company notifies the Purchasers of its decision to exercise the Second
+Tranche Option;
+
+ 
+
+(ii)the definition of “Conversion Price” with respect to the Second Tranche to reflect various
+Conversion Prices with respect to the First and Second Tranches;
+
+ 
+
+(iii)the inclusion of definitions of “Trading Day”, “Trading Market”, “Principal
+Trading Market”, “Trading Market” and “10-Day VWAP”;
+
+ 
+
+(iv)the inclusion of a condition precedent to the consummation of the Second Tranche which relates to the
+Company’s financial statements that also replaces an existing condition precedent related to the Company’s final investment
+decision with regard to the facility to be developed by Trina Solar US Manufacturing Cell 1, LLC;
+
+ 
+
+ 1
+
+  
+
+ 
+
+ 
+
+(v)the inclusion of a covenant that if the Company has issued any shares of preferred stock with a Lower
+Conversion Price (as defined in the Third Amendment), the Company shall make such amendment as is necessary to the terms of the Second
+Tranche so that the conversion price applicable to the Second Tranche is no higher than the Lower Conversion Price (with such Lower Conversion
+Price to be no lower than $1.05 in any event); and
+
+ 
+
+(vi)the issuance of warrants of the Company to the Purchasers which are exercisable for 3,500,000 shares of
+the Company’s Common Stock at a purchase price of $0.01 per share upon certain conditions, including if the Second Tranche Closing
+does not occur by December 31, 2026.
+
+ 
+
+The foregoing description
+of the Third Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Third
+Amendment. A copy of the Third Amendment is filed as Exhibit 10.2 hereto and is incorporated into this Item 1.01 by reference.
+
+ 
+
+Item 9.01. Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+ 
+ Exhibit No.
+  
+ Description
+
+ 
+ 10.1
+  
+ Amendment No. 1 to the Sales Agency and Aftermarket Support Agreement, dated as of August 13, 2025
+
+ 
+ 10.2
+  
+ Amendment No. 3 to the Preferred Stock Purchase Agreement, dated as of August 13, 2025++
+
+ 
+ 104
+  
+ Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+ 
+
+++Certain portions of this exhibit (indicated by “[***]”)
+have been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K because it is not material and is the type of information that the
+registrant treats as private or confidential.
+
+ 
+
+ 2
+
+  
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto
+duly authorized.
+
+ 
+
+ 
+  
+ T1 Energy Inc.
+
+ 
+  
+  
+  
+
+ 
+  
+ By:  
+ /s/ Daniel Barcelo
+
+ 
+  
+  
+ Name:  
+ Daniel Barcelo
+
+ 
+  
+  
+ Title: 
+ Chief Executive Officer and Chairman of the Board of Directors
+
+ 
+ 
+
+Dated: August 14, 2025
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+EX-10.1
+2
+ea025309901ex10-1_t1energy.htm
+AMENDMENT NO. 1 TO THE SALES AGENCY AND AFTERMARKET SUPPORT AGREEMENT, DATED AS OF AUGUST 13, 2025
+
+ 
+
+Exhibit 10.1
+
+ 
+
+CONFIDENTIAL
+
+ 
+
+August 13, 2025
+
+ 
+
+VIA EMAIL
+
+ 
+
+Trina Solar (US), Inc.
+
+7100 Stevenson Boulevard
+
+Fremont, California 94538
+
+Attention: Legal Department; Steve Liang
+
+Email: steve.liang@trinasolar.com
+
+ 
+
+With a copy to:
+
+Dorsey & Whitney LLP
+
+51 West 52nd Street
+
+New York, NY 10019-6119
+
+United States
+
+Attention: Catherine X. Pan-Giordano
+
+Kevin Maler
+
+Email: pan.catherine@dorsey.com
+
+maler.kevin@dorsey.com
+
+ 
+
+RE:Amendment to Sales Agency Agreement (the “Amendment”)
+
+ 
+
+Reference is made to the Sales
+Agency Agreement by and between Trina Solar (US), Inc. (“TUS”) and T1 G1 Dallas Solar Module (Trina) LLC (f/k/a Trina
+Solar US Manufacturing Module 1 LLC) (“G1”) dated December 23, 2024 (the “Sales Agency Agreement”).
+Capitalized terms used herein and not otherwise defined have the meaning given to them in the Sales Agency Agreement.
+
+ 
+
+The Parties hereby agree that
+a new Section 6.9 shall be added to the Sales Agency Agreement as set out below:
+
+ 
+
+6.9Service Fees. Notwithstanding anything to the contrary
+in this Agreement, any and all Service Fees that are payable or that become payable by G1 on or following the date of this Amendment,
+shall be deferred, without interest, and no payments shall be due with respect to such Service Fee, until the earlier of (i) thirty (30)
+days following the date on which G1 or its Affiliates receives a cash payment with respect to any 45X Tax Credits, including as a result
+of any election under Section 6418 of the Code with respect to the relevant 45X Tax Credit and (ii) August 15, 2026.
+
+ 
+
+Miscellaneous.
+
+ 
+
+(a)The Sales Agency Agreement, as amended by this Amendment, is and shall continue to be in full force and
+effect.
+
+ 
+
+(b)Any reference to the Sales Agency Agreement contained in any document executed concurrently with or after
+the execution and delivery of this Amendment shall be deemed to be references to the Sales Agency Agreement as amended by this Amendment.
+Any reference to the “Agreement,” “herein,” “hereof,” “hereunder” or words of similar
+import contained in the Sales Agency Agreement shall be deemed to be references to the Sales Agency Agreement as amended by this Amendment.
+
+ 
+
+(c)This Amendment shall be governed by and construed in accordance with the Laws of the State of Delaware,
+without giving effect to principles of conflicts of laws.
+
+ 
+
+(d)This Amendment may be executed in any number of counterparts, and each such counterpart shall be deemed
+to be an original instrument, but all such counterparts together shall constitute one and the same agreement. This Amendment may be executed
+and delivered in counterpart signatures delivered via electronic transmission and any such counterpart so delivered shall be deemed to
+be an original instrument.
+
+ 
+
+[Signature page follows]
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ Sincerely,
+
+ 
+  
+  
+
+ 
+  
+ T1 G1 Dallas Solar Module (Trina) LLC
+
+ 
+  
+  
+
+ 
+  
+ /s/ Evan Calio
+
+ 
+  
+ Name 
+ Evan Calio
+
+ 
+  
+ Title:
+ President and Treasurer
+
+ 
+ 
+
+ 
+ Accepted and Agreed:
+  
+
+ 
+  
+  
+
+ 
+ Trina Solar (US), Inc.
+  
+
+ 
+  
+  
+
+ 
+ /s/ Su Wang
+  
+
+ 
+ Name: 
+ Su Wang
+  
+
+ 
+ Title:
+ Treasurer
+  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+EX-10.2
+3
+ea025309901ex10-2_t1energy.htm
+AMENDMENT NO. 3 TO THE PREFERRED STOCK PURCHASE AGREEMENT, DATED AS OF AUGUST 13, 2025
+
+ 
+
+Exhibit 10.2
+
+ 
+
+Execution Version
+
+ 
+
+T1 ENERGY INC.
+
+ 
+
+AMENDMENT NO. 3 TO THE
+
+CONVERTIBLE SERIES A PREFERRED STOCK PURCHASE
+AGREEMENT
+
+ 
+
+This AMENDMENT NO. 3 TO THE
+CONVERTIBLE SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this “Amendment”) is made as of August 13, 2025, by and among
+T1 Energy Inc., a Delaware corporation (the “Company”), and the Purchasers listed on the signature pages hereto (collectively,
+the “Parties”).
+
+ 
+
+WHEREAS, the Company
+and the Purchasers are parties to that certain Convertible Series A Preferred Stock Purchase Agreement, dated as of November 6, 2024,
+as amended on March 21, 2025 and April 29, 2025 (as amended, restated, supplemented or otherwise modified from time to time, the “Preferred
+Stock Purchase Agreement”), pursuant to which the Company has agreed to issue, and the Purchasers have agreed to purchase, Series
+A Preferred Stock;
+
+ 
+
+WHEREAS, pursuant to
+Section 9.11 of the Preferred Stock Purchase Agreement, the Preferred Stock Purchase Agreement may be amended with the written
+instrument executed by or on behalf of the Company and the Purchasers; and
+
+ 
+
+NOW, THEREFORE, in consideration
+of the foregoing and the promises and conditions contained herein, the Parties hereby agree as follows:
+
+ 
+
+1. Definitions.
+Unless otherwise indicated herein, words and terms which are defined in the Preferred Stock Purchase Agreement shall have the same meaning
+where used herein (including the Recitals above).
+
+ 
+
+2. Amendments of Section
+1 and Exhibit C of the Preferred Stock Purchase Agreement. The Parties agree that:
+
+ 
+
+(a) The
+definition of “Second Tranche Closing Date” in Section 1 of the Preferred Stock Purchase Agreement is hereby
+amended and restated in its entirety as follows:
+
+ 
+
+““Second
+Tranche Closing Date” means the date of issuance of the Second Tranche, being 10 Business Days following the date the Company
+notifies the Purchasers of its decision to exercise the Second Tranche Option.”
+
+ 
+
+(b) The
+definition of “Second Tranche Closing Date” in Section 3(oo) of Exhibit C of the Preferred Stock Purchase
+Agreement (Form of Certificate of Designation of Series A Convertible Preferred Stock) is hereby amended and restated in its entirety
+as follows:
+
+ 
+
+““Second
+Tranche Closing Date” means the date of issuance of the Second Tranche, being 10 Business Days following the date the Corporation
+notifies the Purchasers of its decision to exercise the Second Tranche Option.”
+
+ 
+
+(c) The
+definition of “Conversion Price” in Section 3(j) of Exhibit C of the Preferred Stock Purchase Agreement
+(Form of Certificate of Designation of Series A Convertible Preferred Stock) is hereby amended and restated in its entirety as
+follows:
+
+ 
+
+““Conversion
+Price” means (x) with respect to the First Tranche, $1.70 per share of Common Stock; and (y) with respect to the Second Tranche,
+(i) if the 10-Day VWAP of the Common Stock immediately prior to the Conversion Date is $2.50 or more per share, then the Conversion Price
+shall be $1.90 per share of Common Stock and (ii) if the 10-Day VWAP of the Common Stock immediately prior to the Conversion Date is
+less than $2.50 per share, the Conversion price shall be $1.70 per share of Common Stock.”
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+(d) The
+definition of “TUM 2” in Section 1 of the Preferred Stock Purchase Agreement and Section 3(yy) of Exhibit
+C thereto (Form of Certificate of Designation of Series A Convertible Preferred Stock) is deleted.
+
+ 
+
+(e) The
+definition of “Trading Day” in Section 3 of Exhibit C of the Preferred Stock Purchase Agreement (Form
+of Certificate of Designation of Series A Convertible Preferred Stock) is hereby amended and restated in its entirety as follows:
+
+ 
+
+““Trading
+Day” means (i) a day on which the Common Stock is listed or quoted and traded on its Principal Trading Market (other than the
+OTC Bulletin Board), or (ii) if the Common Stock is not listed on a Trading Market (other than the OTC Bulletin Board), a day on which
+the Common Stock is traded in the over-the-counter market, as reported by the OTC Bulletin Board, or (iii) if the Common Stock is not
+quoted on any Trading Market, a day on which the Common Stock is quoted in the over-the-counter market as reported by OTC Markets Group
+Inc. (formerly OTC Markets Inc.) (or any similar organization or agency succeeding to its functions of reporting prices); provided, that
+in the event that the Common Stock is not listed or quoted as set forth in (i), (ii) and (iii) hereof, then Trading Day shall mean a Business
+Day.”
+
+ 
+
+(f) Section
+3 of Exhibit C of the Preferred Stock Purchase Agreement (Form of Certificate of Designation of Series A Convertible Preferred
+Stock) is hereby amended by inserting the definition “10-Day VWAP” in proper alphabetical order.
+
+ 
+
+““10-Day
+VWAP” means the volume weighted average price of the Common Stock in composite transactions for the principal U.S.
+national or regional securities exchange on which the shares of Common Stock are then listed as reported by Bloomberg L.P. (based on a
+Trading Day from 9:30 a.m. (New York City time) to 4:00 p.m. (New York City time)) (or a similar organization or agency succeeding to
+its functions of reporting prices) for the ten (10) consecutive full Trading Days prior to and including such determination date.”
+
+ 
+
+(g) Section
+3 of Exhibit C of the Preferred Stock Purchase Agreement (Form of Certificate of Designation of Series A Convertible Preferred
+Stock) is hereby amended by inserting the definition “Principal Trading Market” in proper alphabetical order.
+
+ 
+
+““Principal
+Trading Market” means the Trading Market on which the Common Stock is primarily listed on and quoted for trading, which, as
+of the date of the Preferred Stock Purchase Agreement, shall be the NYSE.”
+
+ 
+
+(h) Section
+3 of Exhibit C of the Preferred Stock Purchase Agreement (Form of Certificate of Designation of Series A Convertible Preferred
+Stock) is hereby amended by inserting the definition “Trading Market” in proper alphabetical order.
+
+ 
+
+““Trading
+Market” means whichever of the New York Stock Exchange, the American Stock Exchange, The Nasdaq Global Select Market, The Nasdaq
+Global Market, The Nasdaq Capital Market or the OTC Bulletin Board on which the Common Stock is listed or quoted for trading on the date
+in question.”
+
+ 
+
+ 2
+
+ 
+
+ 
+
+ 
+
+3. Amendment
+of Section 6.2(d) of the Preferred Stock Purchase Agreement. The Parties agree that Section 6.2(d) of the Preferred
+Stock Purchase Agreement is hereby amended and restated in its entirety by deleting the following paragraph:
+
+ 
+
+“TUM 2
+Final Investment Decision. The Company shall have proceeded with its final investment decision with regard to the TUM 2 facility.”
+
+ 
+
+and replacing it with
+the following paragraph:
+
+ 
+
+“No Going
+Concern Qualification. The most recent financial statements files with the SEC do not include a qualification that material uncertainty
+exists that may cast significant doubt on the Company’s ability to continue as a going concern.”
+
+ 
+
+4. Amendment
+of Section 2.1(b) of the Preferred Stock Purchase Agreement. The Parties agree that Section 2.1(b) of the Preferred Stock Purchase
+Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“Second
+Tranche. Following the completion of the First Tranche and subject to the terms of this Agreement, upon subsequent mutual agreement
+of the Parties in writing (each in their sole discretion) to issue and sell to the Purchasers, and for Purchasers to subscribe for an
+additional 5 million shares of Series A Preferred Stock (the “Second Tranche Option”), the Company shall issue and sell to
+the Purchasers an additional 5 million shares of Series A Preferred Stock and each Purchaser agrees to purchase from the Company, the
+additional number of shares of Series A Preferred Stock set out against their name in Schedule I, free and clear of all Encumbrances at
+the Second Tranche Closing (the “Second Tranche”). The Purchasers shall have the right, upon providing at least five (5) Business
+Days’ notice to the Company, to reallocate amongst themselves the Series A Preferred Stock to be issued pursuant to the exercise
+of the Second Tranche Option.”
+
+ 
+
+5. Amendment
+of Section 2.5 of the Preferred Stock Purchase Agreement. The Parties agree that the first sentence of Section 2.5 of the Preferred
+Stock Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“At the Second
+Tranche Closing, if any, the Purchasers and the Company (as applicable) shall take or cause to be taken the following actions (“Second
+Tranche Closing Actions”):”
+
+ 
+
+6. Amendment
+of Section 5.7 of the Preferred Stock Purchase Agreement. The Parties Agree that Section 5.7 of the Preferred Stock Purchase
+Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“In the event
+that between the date of this Agreement and one year following the Second Tranche Closing Date, if any, the Company has issued any shares
+of preferred stock with a conversion price for converting into shares of Common Stock that is lower than the conversion price set out
+in the Certificate of Designation and that would otherwise be applicable to the Second Tranche (such lower conversion price being referred
+to as the “Lower Conversion Price”), the Company shall make such amendment as is necessary to the terms of the Second
+Tranche so that the conversion price applicable to the Second Tranche is no higher than the Lower Conversion Price. In no event shall
+the Lower Conversion Price be below $1.05.”
+
+ 
+
+ 3
+
+ 
+
+ 
+
+ 
+
+7.
+Amendment of Section 5 of the Preferred Stock Purchase Agreement. The Parties agree that Section 5 of the Preferred Stock
+Purchase Agreement is hereby amended by adding the following paragraph as Section 5.9:
+
+ 
+
+“Issuance
+of Penny Warrants. If the Second Tranche Closing does not occur by December 31, 2026, the Company shall promptly (and in all events
+within 7 days) issue to Purchasers an aggregate 3,500,000 warrants of the Company exercisable for 3,500,000 shares of Common Stock at
+a purchase price of $0.01 per share (the “Warrants”). Subject to reasonable and customary terms and conditions, the
+Warrants shall be exercisable, in whole and not in part, commencing from the date of issuance of such warrants and ending on the three-year
+anniversary of the issuance of such Warrants. The Warrants shall provide that at the Purchasers’ option, the Company shall settle
+the exercise of the Warrants on a cashless basis on reasonable and customary terms. The Common Stock for which the Warrants are exercisable
+shall be deemed to be Registrable Securities under this Agreement such that, inter alia, they shall be registered for resale in accordance
+with Section 5.6 hereof.”
+
+ 
+
+8. Amendment
+of Section 6.2 of the Preferred Stock Purchase Agreement. The Parties agree that the lead in paragraph of Section 6.2 of the
+Preferred Stock Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“If the Second
+Tranche Option is exercised, the obligations of the Purchasers to consummate the Second Tranche and the related transactions thereto pursuant
+to this Agreement on the Second Tranche Closing Date shall be subject to the satisfaction at or prior to the Second Tranche Closing Date
+of each of the following conditions, any one or more of which may be waived in writing by the Purchasers:”
+
+ 
+
+9. Continued
+Validity of the Preferred Stock Purchase Agreement. Except as specifically set forth herein, the Preferred Stock Purchase Agreement
+shall continue to be, and shall remain, unaltered and in full force and effect in accordance with their terms.
+
+ 
+
+10. Affirmations.
+Each party hereto hereby (a) ratifies and affirms all the provisions of the Preferred Stock Purchase Agreement and (b) agrees
+that the terms and conditions of the Preferred Stock Purchase Agreement (as amended and supplemented hereby) shall continue in full force
+and effect as amended hereby and that all of its obligations thereunder are valid and enforceable and shall not be impaired or limited
+by the execution or effectiveness of this Amendment or any other documents or instruments executed in connection herewith.
+
+ 
+
+11. Integration.
+This Amendment constitutes the sole agreement of the Parties with respect to the transactions contemplated hereby and shall supersede
+all oral negotiations and the terms of prior writings with respect thereto. From and after the date hereof, all references in the Preferred
+Stock Purchase Agreement modified hereby or in connection herewith shall be deemed to be references to the Preferred Stock Purchase Agreement
+modified in connection herewith as modified hereby or thereby.
+
+ 
+
+12. No
+Novation. This Amendment shall not constitute a termination of the Preferred Stock Purchase Agreement amended or amended and restated
+in connection herewith, nor a novation of any obligations owing to any Purchaser under the Preferred Stock Purchase Agreement.
+
+ 
+
+13. General
+Provisions. The provisions of Section 9 of the Preferred Stock Purchase Agreement shall apply mutatis mutandis to this
+Amendment.
+
+ 
+
+[Remainder of page intentionally left blank]
+
+ 
+
+ 4
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the Parties hereto have executed this Amendment No. 3 to the Convertible Series A Preferred Stock Purchase
+Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ T1 ENERGY INC.
+
+ 
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Daniel Barcelo
+
+ 
+  
+  
+ Name:
+  Daniel Barcelo
+
+ 
+  
+  
+ Title:
+  Chief Executive Officer
+
+ 
+ 
+
+[Signature Page to Amendment No. 3 to Convertible
+Series A Preferred Stock Purchase Agreement]
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have executed this Amendment No. 3 to the Convertible Series A Preferred Stock Purchase
+Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ PURCHASERS
+
+ 
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ [***]
+  
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By:
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+ 
+
+[Signature Page to Amendment No. 3 to the Convertible
+Series A Preferred Stock Purchase Agreement]
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ PURCHASERS (CONTINUED)
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By:  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By:  
+ [***]
+
+ 
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+ 
+
+[Signature Page to Amendment No. 3 to the Convertible
+Series A Preferred Stock Purchase Agreement]
+
+ 
+
+ 
+
+ 
+
+EX-101.SCH
+4
+te-20250813.xsd
+XBRL SCHEMA FILE
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 00000001 - Document - Cover
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+EX-101.DEF
+5
+te-20250813_def.xml
+XBRL DEFINITION FILE
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+EX-101.LAB
+6
+te-20250813_lab.xml
+XBRL LABEL FILE
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Class of Stock [Axis]
+ 
+ 
+ Common Stock, $0.01 par value
+ 
+ 
+ Warrants, each whole warrant exercisable for one Common Stock at an exercise price for $11.50 per share
+ 
+ 
+ Statement [Table]
+ 
+ 
+ Statement [Line Items]
+ 
+ 
+ Document Type
+ 
+ 
+ Amendment Flag
+ 
+ 
+ Amendment Description
+ 
+ 
+ Document Registration Statement
+ 
+ 
+ Document Annual Report
+ 
+ 
+ Document Quarterly Report
+ 
+ 
+ Document Transition Report
+ 
+ 
+ Document Shell Company Report
+ 
+ 
+ Document Shell Company Event Date
+ 
+ 
+ Document Period Start Date
+ 
+ 
+ Document Period End Date
+ 
+ 
+ Document Fiscal Period Focus
+ 
+ 
+ Document Fiscal Year Focus
+ 
+ 
+ Current Fiscal Year End Date
+ 
+ 
+ Entity File Number
+ 
+ 
+ Entity Registrant Name
+ 
+ 
+ Entity Central Index Key
+ 
+ 
+ Entity Primary SIC Number
+ 
+ 
+ Entity Tax Identification Number
+ 
+ 
+ Entity Incorporation, State or Country Code
+ 
+ 
+ Entity Address, Address Line One
+ 
+ 
+ Entity Address, Address Line Two
+ 
+ 
+ Entity Address, Address Line Three
+ 
+ 
+ Entity Address, City or Town
+ 
+ 
+ Entity Address, State or Province
+ 
+ 
+ Entity Address, Country
+ 
+ 
+ Entity Address, Postal Zip Code
+ 
+ 
+ Country Region
+ 
+ 
+ City Area Code
+ 
+ 
+ Local Phone Number
+ 
+ 
+ Extension
+ 
+ 
+ Written Communications
+ 
+ 
+ Soliciting Material
+ 
+ 
+ Pre-commencement Tender Offer
+ 
+ 
+ Pre-commencement Issuer Tender Offer
+ 
+ 
+ Title of 12(b) Security
+ 
+ 
+ No Trading Symbol Flag
+ 
+ 
+ Trading Symbol
+ 
+ 
+ Security Exchange Name
+ 
+ 
+ Title of 12(g) Security
+ 
+ 
+ Security Reporting Obligation
+ 
+ 
+ Annual Information Form
+ 
+ 
+ Audited Annual Financial Statements
+ 
+ 
+ Entity Well-known Seasoned Issuer
+ 
+ 
+ Entity Voluntary Filers
+ 
+ 
+ Entity Current Reporting Status
+ 
+ 
+ Entity Interactive Data Current
+ 
+ 
+ Entity Filer Category
+ 
+ 
+ Entity Small Business
+ 
+ 
+ Entity Emerging Growth Company
+ 
+ 
+ Elected Not To Use the Extended Transition Period
+ 
+ 
+ Document Accounting Standard
+ 
+ 
+ Other Reporting Standard Item Number
+ 
+ 
+ Entity Shell Company
+ 
+ 
+ Entity Public Float
+ 
+ 
+ Entity Bankruptcy Proceedings, Reporting Current
+ 
+ 
+ Entity Common Stock, Shares Outstanding
+ 
+ 
+ Documents Incorporated by Reference [Text Block]
+ 
+
+EX-101.PRE
+7
+te-20250813_pre.xml
+XBRL PRESENTATION FILE
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+XML
+9
+R1.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.2
+
+Cover
+
+Aug. 13, 2025
+
+Document Type
+8-K
+
+Amendment Flag
+false
+
+Document Period End Date
+Aug. 13, 2025
+
+Entity File Number
+333-274434
+
+Entity Registrant Name
+T1 Energy Inc.
+
+Entity Central Index Key
+0001992243
+
+Entity Tax Identification Number
+93-3205861
+
+Entity Incorporation, State or Country Code
+DE
+
+Entity Address, Address Line One
+1211 E 4th St.
+
+Entity Address, City or Town
+Austin
+
+Entity Address, State or Province
+TX
+
+Entity Address, Postal Zip Code
+78702
+
+City Area Code
+409
+
+Local Phone Number
+599-5706
+
+Written Communications
+false
+
+Soliciting Material
+false
+
+Pre-commencement Tender Offer
+false
+
+Pre-commencement Issuer Tender Offer
+false
+
+Entity Emerging Growth Company
+false
+
+Common Stock, $0.01 par value
+ 
+
+Title of 12(b) Security
+Common Stock, $0.01 par value
+
+Trading Symbol
+TE
+
+Security Exchange Name
+NYSE
+
+Warrants, each whole warrant exercisable for one Common Stock at an exercise price for $11.50 per share
+ 
+
+Title of 12(b) Security
+Warrants, each whole warrant exercisable for one Common Stock at an exercise price for $11.50 per share
+
+Trading Symbol
+TE WS
+
+Security Exchange Name
+NYSE
+
+X
+
+- DefinitionBoolean flag that is true when the XBRL content amends previously-filed or accepted submission.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_AmendmentFlag
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionArea code of city
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CityAreaCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFor the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentPeriodEndDate
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:dateItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentType
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:submissionTypeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAddress Line 1 such as Attn, Building Name, Street Name
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressAddressLine1
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the City or Town
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressCityOrTown
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCode for the postal or zip code
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressPostalZipCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the state or province.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressStateOrProvince
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:stateOrProvinceItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityCentralIndexKey
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:centralIndexKeyItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicate if registrant meets the emerging growth company criteria.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityEmergingGrowthCompany
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCommission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityFileNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:fileNumberItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTwo-character EDGAR code representing the state or country of incorporation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityIncorporationStateCountryCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarStateCountryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityRegistrantName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityTaxIdentificationNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:employerIdItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLocal phone number for entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_LocalPhoneNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 13e -Subsection 4c
+
++ Details
+
+ Name:
+dei_PreCommencementIssuerTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 14d -Subsection 2b
+
++ Details
+
+ Name:
+dei_PreCommencementTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTitle of a 12(b) registered security.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b
+
++ Details
+
+ Name:
+dei_Security12bTitle
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:securityTitleItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the Exchange on which a security is registered.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection d1-1
+
++ Details
+
+ Name:
+dei_SecurityExchangeName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarExchangeCodeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 14a -Subsection 12
+
++ Details
+
+ Name:
+dei_SolicitingMaterial
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTrading symbol of an instrument as listed on an exchange.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_TradingSymbol
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:tradingSymbolItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Securities Act -Number 230 -Section 425
+
++ Details
+
+ Name:
+dei_WrittenCommunications
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=TE_CommonStock0.01ParValueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=TE_WarrantsEachWholeWarrantExercisableForOneCommonStockAtExercisePriceFor11.50PerShareMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+XML
+10
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+
+XML
+11
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+.report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+.report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+.report table.authRefData p {
+ margin-top: 0px;
+}
+
+.report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+.report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+.report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+.report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+.pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+.report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+.report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+.report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+.report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+.report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+.report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+.report td.pl div.a {
+ width: 200px;
+}
+
+.report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+.report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+.report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+.report .re, .report .reu {
+ background-color: #def;
+}
+
+.report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+.report .ro, .report .rou {
+ background-color: white;
+}
+
+.report .rou td {
+ border-bottom: 1px solid black;
+}
+
+.report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+.report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+.report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+.report .nump {
+ padding-left: 2em;
+}
+
+.report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+.report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+.report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+.report .text .more {
+ display: none;
+}
+
+.report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+.report .text .small {
+ width: 10em;
+}
+
+.report sup {
+ font-style: italic;
+}
+
+.report .outerFootnotes {
+ font-size: 1em;
+}
+
+XML
+13
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+ 3.25.2
+ 
+ html
+ 3
+ 22
+ 1
+ false
+ 2
+ 0
+ false
+ 3
+ 
+ 
+ false
+ false
+ R1.htm
+ 00000001 - Document - Cover
+ Sheet
+ http://t1energy.com/role/Cover
+ Cover
+ Cover
+ 1
+ 
+ 
+ false
+ false
+ All Reports
+ Book
+ All Reports
+ 
+ 
+ 
+ ea0253099-8k_t1energy.htm
+ te-20250813.xsd
+ te-20250813_def.xml
+ te-20250813_lab.xml
+ te-20250813_pre.xml
+ 
+ 
+ 
+ http://xbrl.sec.gov/dei/2025
+ 
+ true
+ false
+
+JSON
+15
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "ea0253099-8k_t1energy.htm": {
+ "nsprefix": "TE",
+ "nsuri": "http://t1energy.com/20250813",
+ "dts": {
+ "inline": {
+ "local": [
+ "ea0253099-8k_t1energy.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "te-20250813.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2022-03-31/types.xsd",
+ "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+ "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+ "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+ "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+ "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+ "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+ ]
+ },
+ "definitionLink": {
+ "local": [
+ "te-20250813_def.xml"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "te-20250813_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "te-20250813_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 1,
+ "axisCustom": 0,
+ "memberStandard": 0,
+ "memberCustom": 2,
+ "hidden": {
+ "total": 2,
+ "http://xbrl.sec.gov/dei/2025": 2
+ },
+ "contextCount": 3,
+ "entityCount": 1,
+ "segmentCount": 2,
+ "elementCount": 65,
+ "unitCount": 3,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2025": 25
+ },
+ "report": {
+ "R1": {
+ "role": "http://t1energy.com/role/Cover",
+ "longName": "00000001 - Document - Cover",
+ "shortName": "Cover",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "AsOf2025-08-13",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "b",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "ea0253099-8k_t1energy.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "AsOf2025-08-13",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "b",
+ "p",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "ea0253099-8k_t1energy.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentDescription": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentDescription",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Description",
+ "documentation": "Description of changes contained within amended document."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_AnnualInformationForm": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AnnualInformationForm",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Annual Information Form",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing an annual information form."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_AuditedAnnualFinancialStatements": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "AuditedAnnualFinancialStatements",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Audited Annual Financial Statements",
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing audited financial statements."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_ClassOfStockDomain": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "ClassOfStockDomain",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "auth_ref": []
+ },
+ "TE_CommonStock0.01ParValueMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://t1energy.com/20250813",
+ "localname": "CommonStock0.01ParValueMember",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Common Stock, $0.01 par value"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CountryRegion": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CountryRegion",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Country Region",
+ "documentation": "Region code of country"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CurrentFiscalYearEndDate": {
+ "xbrltype": "gMonthDayItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "CurrentFiscalYearEndDate",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Current Fiscal Year End Date",
+ "documentation": "End date of current fiscal year in the format --MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentAccountingStandard": {
+ "xbrltype": "accountingStandardItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAccountingStandard",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Accounting Standard",
+ "documentation": "The basis of accounting the registrant has used to prepare the financial statements included in this filing This can either be 'U.S. GAAP', 'International Financial Reporting Standards', or 'Other'."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentAnnualReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentAnnualReport",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Annual Report",
+ "documentation": "Boolean flag that is true only for a form used as an annual report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r11",
+ "r13",
+ "r14"
+ ]
+ },
+ "dei_DocumentFiscalPeriodFocus": {
+ "xbrltype": "fiscalPeriodItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalPeriodFocus",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Period Focus",
+ "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentFiscalYearFocus": {
+ "xbrltype": "gYearItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentFiscalYearFocus",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Fiscal Year Focus",
+ "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodStartDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentPeriodStartDate",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period Start Date",
+ "documentation": "The start date of the period covered in the document, in YYYY-MM-DD format."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentQuarterlyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentQuarterlyReport",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Quarterly Report",
+ "documentation": "Boolean flag that is true only for a form used as an quarterly report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r12"
+ ]
+ },
+ "dei_DocumentRegistrationStatement": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentRegistrationStatement",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Registration Statement",
+ "documentation": "Boolean flag that is true only for a form used as a registration statement."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_DocumentShellCompanyEventDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyEventDate",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Event Date",
+ "documentation": "Date of event requiring a shell company report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentShellCompanyReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentShellCompanyReport",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Shell Company Report",
+ "documentation": "Boolean flag that is true for a Shell Company Report pursuant to section 13 or 15(d) of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_DocumentTransitionReport": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentTransitionReport",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Transition Report",
+ "documentation": "Boolean flag that is true only for a form used as a transition report."
+ }
+ }
+ },
+ "auth_ref": [
+ "r15"
+ ]
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentsIncorporatedByReferenceTextBlock": {
+ "xbrltype": "textBlockItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "DocumentsIncorporatedByReferenceTextBlock",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Documents Incorporated by Reference [Text Block]",
+ "documentation": "Documents incorporated by reference."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine2": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine2",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Two",
+ "documentation": "Address Line 2 such as Street or Suite number"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine3": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressAddressLine3",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line Three",
+ "documentation": "Address Line 3 such as an Office Park"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCountry": {
+ "xbrltype": "countryCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressCountry",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Country",
+ "documentation": "ISO 3166-1 alpha-2 country code."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityBankruptcyProceedingsReportingCurrent": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityBankruptcyProceedingsReportingCurrent",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Bankruptcy Proceedings, Reporting Current",
+ "documentation": "For registrants involved in bankruptcy proceedings during the preceding five years, the value Yes indicates that the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court; the value No indicates the registrant has not. Registrants not involved in bankruptcy proceedings during the preceding five years should not report this element."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityCommonStockSharesOutstanding": {
+ "xbrltype": "sharesItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCommonStockSharesOutstanding",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Common Stock, Shares Outstanding",
+ "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCurrentReportingStatus": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityCurrentReportingStatus",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Current Reporting Status",
+ "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityExTransitionPeriod": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityExTransitionPeriod",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Elected Not To Use the Extended Transition Period",
+ "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards."
+ }
+ }
+ },
+ "auth_ref": [
+ "r19"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityFilerCategory": {
+ "xbrltype": "filerCategoryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityFilerCategory",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Filer Category",
+ "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Incorporation, State or Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityInteractiveDataCurrent": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityInteractiveDataCurrent",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Interactive Data Current",
+ "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r16"
+ ]
+ },
+ "dei_EntityPrimarySicNumber": {
+ "xbrltype": "sicNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPrimarySicNumber",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Primary SIC Number",
+ "documentation": "Primary Standard Industrial Classification (SIC) Number for the Entity."
+ }
+ }
+ },
+ "auth_ref": [
+ "r14"
+ ]
+ },
+ "dei_EntityPublicFloat": {
+ "xbrltype": "monetaryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityPublicFloat",
+ "crdr": "credit",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Public Float",
+ "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityShellCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityShellCompany",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Shell Company",
+ "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntitySmallBusiness": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntitySmallBusiness",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Small Business",
+ "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_EntityVoluntaryFilers": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityVoluntaryFilers",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Voluntary Filers",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityWellKnownSeasonedIssuer": {
+ "xbrltype": "yesNoItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "EntityWellKnownSeasonedIssuer",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Well-known Seasoned Issuer",
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+ }
+ }
+ },
+ "auth_ref": [
+ "r17"
+ ]
+ },
+ "dei_Extension": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Extension",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Extension",
+ "documentation": "Extension number for local phone number."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_NoTradingSymbolFlag": {
+ "xbrltype": "trueItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "NoTradingSymbolFlag",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "No Trading Symbol Flag",
+ "documentation": "Boolean flag that is true only for a security having no trading symbol."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_OtherReportingStandardItemNumber": {
+ "xbrltype": "otherReportingStandardItemNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "OtherReportingStandardItemNumber",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Other Reporting Standard Item Number",
+ "documentation": "\"Item 17\" or \"Item 18\" specified when the basis of accounting is neither US GAAP nor IFRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r13"
+ ]
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r7"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre-commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r9"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(b) Security",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_Security12gTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "Security12gTitle",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Title of 12(g) Security",
+ "documentation": "Title of a 12(g) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_SecurityReportingObligation": {
+ "xbrltype": "securityReportingObligationItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SecurityReportingObligation",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Reporting Obligation",
+ "documentation": "15(d), indicating whether the security has a reporting obligation under that section of the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r10"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r8"
+ ]
+ },
+ "us-gaap_StatementClassOfStockAxis": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementClassOfStockAxis",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Class of Stock [Axis]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_StatementLineItems": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementLineItems",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Statement [Line Items]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "us-gaap_StatementTable": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://fasb.org/us-gaap/2025",
+ "localname": "StatementTable",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Statement [Table]"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "TE_WarrantsEachWholeWarrantExercisableForOneCommonStockAtExercisePriceFor11.50PerShareMember": {
+ "xbrltype": "domainItemType",
+ "nsuri": "http://t1energy.com/20250813",
+ "localname": "WarrantsEachWholeWarrantExercisableForOneCommonStockAtExercisePriceFor11.50PerShareMember",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Warrants, each whole warrant exercisable for one Common Stock at an exercise price for $11.50 per share"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2025",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://t1energy.com/role/Cover"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r18"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-23"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "g"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12, 13, 15d"
+ },
+ "r7": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r8": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14a",
+ "Subsection": "12"
+ },
+ "r9": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r10": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "15",
+ "Subsection": "d"
+ },
+ "r11": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-K",
+ "Number": "249",
+ "Section": "310"
+ },
+ "r12": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 10-Q",
+ "Number": "240",
+ "Section": "308",
+ "Subsection": "a"
+ },
+ "r13": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 20-F",
+ "Number": "249",
+ "Section": "220",
+ "Subsection": "f"
+ },
+ "r14": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Form 40-F",
+ "Number": "249",
+ "Section": "240",
+ "Subsection": "f"
+ },
+ "r15": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Forms 10-K, 10-Q, 20-F",
+ "Number": "240",
+ "Section": "13",
+ "Subsection": "a-1"
+ },
+ "r16": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Regulation S-T",
+ "Number": "232",
+ "Section": "405"
+ },
+ "r17": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "405"
+ },
+ "r18": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ },
+ "r19": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "7A",
+ "Section": "B",
+ "Subsection": "2"
+ }
+ }
+}
+
+ZIP
+16
+0001213900-25-076002-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001213900-25-076002-xbrl.zip
+M4$L#!!0 ( / S#EOX&!?M !L -:9 9 96$P,C4S,#DY+3AK7W0Q
+M96YEU=>U?BRK+_GT_1E[WWV7I&( F@HHYG >(,,RJ.H#/.77>Y
+MFJ2!:$AB'@)^^EO5G4 "0=$!'_O,7N?,#.E.=U77HW]5_?X9]@]PQQ]4M
+M\^/?B!!;*F8D):-L1AK)N$R-
+M-02_LUWK[M%VMC-Y.6QG1CAQ3K&X3=WQB&ML:KC#/J$ WE"*847?S70IM<>5
+M.]1M\V:#@NG*CF4P-[$V+XE5USPGXXULYB83#L4Y+,9WE(R4CW"K6K[I.:-D
+M%H+"6%>NX\T2!0]CE5JU<1U/9B9SNJ.L:O5Y'6E;SJ?1U!C5]E,$_]OS=,]@
+M^WLY\7=JK\\\2K"!#+OU];N/Z:IE>LST,BW@(DU4\>MCVF-#+\?M,0=OY423
+M>_^3R9!#G1G:#FDR;Y>H4&[5QUJ
+MN.P)+1U&6JJ9(()1%9IRJ%$W-3;\RD97$OBS4DE1"D\@<+," WQP)5\%KD&T
+M#X^>T(1RU>Q1A[E7RA5WA*(-ES][0C,'2,EIT%1^AJ!Y;;A'56H^- [8YV/Z;+;Z*"&H)\"VR&Z]C%]
+M2%5/PO_@MPE,0U],WXDI0GJ?:\)>+M;RK_15B/:5J"KI_8FN)'6MPV&7B#H
+M)-:NZ,BU?"?H!RIQH>\$K',VIU@/?%-8DW%VPX?CQ[J&!1V=.823S1+GGVK]
+M:WQDIE\>=Y9+ZBWHRX9AM+09$@ !.-X!]=C^A/JPG4G9]%N@*'/>"4NF2(KV
+M'CX+AF_ND!XZ5G_2P>1?5ZKO>N UJU:_;YE-SU)OI*PDGU+G@AH^.V;]-G->
+M1P*3865=M*3)\Z!$ TJ&MJ&KNB?H)!HX ),#RW0PE^\T/1A!?+UJ4!?TBK-8
+M'NIN>K]5VWF0[;U<8B\1^G*)!/Z7JX"(@@>U(7-4W:5M
+M@QU:3L-DD<$NAZ7L%!P2ELMRMBB=,H=/#O]TM5O9D/T7JZQOZD)? 4A,:TZ?
+M4==WV'X .':@2MA46!1K']M*;EQ@EWGM!\SS.L_L8 *0ICL!- /:.C.@^":?
+MV*EG.3/*NCCOT^0EM!GI\8"95E\W'^GST?&8[C2AV; XRO[T, 9 8X(K!+P)
+M\-U>#M[=3Z52>_934>0NZ5.GJYL[!*M*:8B,;&@IBG;/?(-E3FF7 _THY!SH
+MFM?#3J2_TK&"MN4 71G/LG=(Q:#J#5&@<=
+M;-8;)WNY]OZJ"?M.W9YN=CT+WC_(5K-$D8J%TLI[?IE1/VR<'9,]UZ8F]T48
+MM)6D/(]*,YD#2_5QSL#(_TH=1\R3V/F^;WV5SVMFO539AN:>&=J4HJ%-M,_T
+M_G;FZW0HLY=#:O?_(>,/"GY6.VF1L]IIXZSU$NH<\K7ZGD[/SYKG96"NU2!@
+MRBVP5R+G2>.,R,4U;9TT#DGK*H)
+M9)5LM/7KKVUYT[^X<3M/,EJ1N?V8UH?>CH9@%^KV-#H: 0?,C!NU+"49=8RX
+M])BYO&!NCJ6O_Q.$#Z*\5AL"S9Q8-!-G3"2A+G%MIF(0IQ$=
+MQM1SB0J0$UY;?SE%\3!H@R+#@/%0<3$K#4J/OVVJ:>'O)Y,1 9%C;*A:AD%M
+M%Q!@^"\>*NQY3MC^'7,\7:5&2#% S2":V/.T*1@:(LVV0)K9X@1K!IWGE;_F
+MJ#'7X0A/F0[MZ\9HYS&NHB!60A2;8!#EF$& ZED.N$*^5L2#ZZI8$JE:VAS[
+MZ'PZ';:O^U;YV_5S'1LN8V$LZS';L>Y0]V8\FS)K0 _2"IZ?&70 /O)!2PK^
+MZ6DS8@N$,D\FH5(FO/G&!7X8$_BA;C 8F39SDJ6K'!?TNGD[^G+X"]XO/RN\
+M2;_I_7P^GU&V"@5$'+]E%955+2:K%AW6@SR:RI7^(<'YG\WJV8%UT6QHSQ=<
+MPOK''"+2^Z5\)@]!VO:FO* 4X0_G.0YUM5)8XYZ$6 ZQO!YSR+7OZ*ZFJ\@J
+M$; 9YD4]ZGO6']+-)RKDBIG#1*?N8@Z5H 42(;QWQ$#]#&*5OFU8(Y"-$$=<
+M'E]69$!VY*"UR--[]60[:/!0$!T%?[9<%K6P$P>NL;(K8P^;RJC
+M+[\P=)MSAV[2/89JKJ>;<4@!4XK3D8[NB\?T=+I_[H
+M5E\AAMN:R_04D1 ,L2%UYS ^PW]3"X@Q?NKV?.2:OU9&C<\W]8;["U/D
+M]ERF8A2D][>VMR3EU<*Z@":,Z6P'QEBWJ4'8D*F^I]]AJ ?^$YN$(L/'."IU
+MK]LP"AI[P>!N-5U, NU__;&MR%N[+E0SF-VS3$9,/@%&^8:0@7+&=\@#+@/-
+MM PUYVN7?^-H=S>W[=$E?;YVQ;*TT3[3^P6I-$>;,O-2RT<68*M3Y/LAY&A=
+M2WVS>87Z&+M$/POX""1K7&X.X:?
+M5-@Z*'4',S1FEP$Z0[^:,J@;YCJ7;-:ZB2@,GF6+NKE2YJ]Q4NR,9OI5>,?5
+M'H,(#I [H39,1.#K$,VWK6&JS0QK@$."A3AP9#OSE71T XR>Z"YX (]!8QH$
+M'3!:?=_PJ,DLWS5&Q 5DZ79&_,W@!:L-U C :8DF(ZDR']H!,9BCL*QC&= Y
+M>A><''7$W^[.RPE@DC2+)LFFDVC/)$,LL$+U\8,PFN;/XLNS#X9ZB7+&380S
+MD7X@[=S^O*)X4P;K>.D95QYZQ>^.[H'H,33RS2"*<.>XQD*]<][\?.^?J.GE
+MQ/S/6PAH6Y;!J,FW.TXYWEBF.9$U5([25J&P.]?Y8M24'-&-A;*\D"Z@,:7&
+MB"2V[[@^&A.8(ZZNDX)2# P++:H)R 5>U*&KLNJ1-7F+5 _/B)*7LE Q'M#R
+M"'!YX=]OXUK N X"XVI:?'\4#,,Q.&+PQD:R95%].,@[['/IF+Y5RXJEH&?Y
+M>F-F-2$PU0\HG+4IN4 SLA(QJ]I0 (:X416DK*CYVZY>VZ["Y9I3AV]:Q W?
+M?.,&0A>GT>G,30>??_NQ?4%KJE-\J_856R68S]\;LS,@-*-&*'UT'I,+6D99
+M:Z\O9G6B[F^[>VV[VTJVN[KK^LQYU/JJ]).FR1>%\V_LK5I?X0'KF^'RW=M@
+MGF4*:^IB-AC47:D-OD 4S?_,)&G\O(B:TQ !VB+"90[$R.&(IF!$H0:/@V7N
+MU8*(%T;Q50+<-[@K1'BXV77,RJ<>7I9>]--+"@ZAB8YS:X]2H>*(B
+M3,0]O.S^GI;86PY%A2#-4;]M&6ON^L*;"]X3ER?!_BV4)F&A:P,C'?1T>#*Q
+MY.'.8(C[VV'\^OS(^O[%3HU3V]&+5Z
+ME0MZ?LA^2^A';IOV9FM:"9:H7*JHQ^;%?>V)-/2NU#.TH,S
+M(/G>?)=ZL]I)<(7J;/)]3QFBI^RSJ)L:
+MIM<8:8^(RO=<0%,W,$4PW#6=FMH0H;M\*H#AZF+L#7!CX/5 :_HV;I*@+M%8
+M1S?%N2*QV"L5PTS2U$HO/)5+^3Q90]:W=L6*;UA;YT>2;#R21"PG)7)]2CNC
+M)#062_B)5@N35C'Q-WDQTFYV55FMK=<5:&V.<.;->V*K8_C6)_Y25;R3G ._
+M--G%UGWE4W?K:?MF%\M?YQ-.V"42]WCJ>BE#_YJFV7G V#92>K+EZC.[F'I@
+ME\Q@J@=V:5H\>>X#CL-:T&VP5PHO%]1Y^E=<(,(!'O9EC+#S@0Y=HQJ9P":4
+M..P.G#C4TDUJJCHU4E3EE^YA9;S94:..YA*^2TJ+Y)E)-,^<7Z/C/'/4BK-D
+M+-KWO:]O-;=?1&ZW2+S]0K'?RNT7+S#P28.,'.Q"[5L?%Y*@4"2,?SJU9F2',8O$W&
+M%]8W0-GX819BZ'T=IU)#IVW= '@RAEAK>"Y!@:&(!IV<0$R&J*I@W"_38']9XEA$V)B]J9HA/MI!'M=)ESA\=0" W54[S&441T
+MS-?.L\TL]/ P+T_EHW7>G.*!K('@:)]CG8V4P_CY)FT#QM:V#4X@L!<>%1U@
+MEJMO:>*&A Z$P<0#A46;Q+\WR'/&-F;-$:N-D9DE56KK'BC_/6(R&$\7H9H&
+M6$\$+VX G<)@INH[#KJ+X%84/ T:;HAO^QY'>Q.6PM@,?C-HL$?O! CL Q('
+M?7=)%[RGR=GL@;?E?;*8&TI%7>N+X^'7\C-U$^,:,QAZKL/C@4E-2W0#A3!U
+M-8O0&)LZ/%Y%>3 8Y*A5P4/J 4!R/ K#/ID&3JPL^!\A$9*L0MS44T]5QT/=
+M 0+''#N"[*\CC(3Y:NF'@D**%DT,V+G60Q1%/(UN.>-:&SON3QQ"H
+M?))Q?""D'Y^DX*QIP6T^_$A'G+0-S"U#CVVNP ST'>P6A6"!@NM\#%VHA(29
+M%G:%+[F1EWPF9 ;U;) A/Q;B W,!"RE@88-@Y&*(D(A?*.0@-6OZ.IJ9 RY^
+M+2^M Y4CER01'B['(W<.OU"EW,'S)5"(NVU4!H8%_H>HU.V%)$X3E<+A+11_
+MD!8=DBIPJ7O18WR87*%8W3=XE@-K\Z .=5+L?@KCJLV"O!T.9AT'R 1\=(;W
+M(_F8V==FQT,$C :[PYU <1KXP*[I,!*A4A>Y4F^NU .\GK&W^"D?B)XM''30
+M?=71;1S65+)Z$LT",M#10HC+G3",9YN)T)F!?VV]=BM(6NWOI 3?0*
+M'CS[#GYA!%8B_$7'!P7FM\I&>TZ->\Z2,O1BC^;8#78*.@@=4,R1]?0V"%.6
+MLC()_$] V.0&A(DO@L=CP(U6.[Z3>L5"7_T%:]&NI@'WJ1/XER!-?.H[:H^Z
+M[&5!]JOBZ1/K3N#IS1!."V)PBJF&65[0FW"FZH#G<<6D(-(_+O1N4CRH"&I3
+M,SDR=MT0UI"R=J>[EN,*#/[426O_9C"2T21@ZOC> !F.S!)**5P5@\\*#AW VPVFN(2S8_I
+M3844X!QE9NXLGB8;DTD$F8$=A^/\+ @_IN&H>,-
+MG<)WH51A\*CJ6" [;V#Q]*#:8_S8^9_%R"MB03F*KLEKH.LQVZGYIKL0TB;+
+M1-JIIR'MQ_W/RZ+NMPBZ'Q?T\@%X/H1(\P24BH/Q)VMO"S"F]@ 8UQ$Q\_WM
+MEC S[HT".^,V'6 '@!9]"P\U\QN//+QX=]G'DY^L,RLZAA+;TKW F93'CJ',
+M.7$R_\ )YQ0BA(6.2/!0(]
+M,SAX1"6-QDNZBU..&L9.J:GFQD&0+)&*#RWCS2$'W?#B!^'I"##V0 4VIHN.>:YVNO0TO%0H]7"]Q%*N!$$%6_DT*/VM#HNKP]TSM0%O/#*U8"$?,T]:$-QB32AR_;[X?F!D(TW4"83'
+M2@R>NA+OA9'?^-:E\:(_<<.=;&$2T'#1B]@&Y=E_C#9TEP<[262);K20O*1N
+M#&#O#H ./PTXGG8"+]2ESOCE#@B=+\:($$9C$)19MHA#'USEJ8+*$(CR(")=
+MJH(N_MKC"]C*;C"5NCNHND&B;Y?P'>LOM[XMS,C$?3S&0M8TN_J_J%'%/H\G
+MAF&7X%<-=DC9H6U=#;^8AT-U8N$ R+'U[/ MOL_BS:^T__9]$]_W*ZX/HFJ>
+M@4%?I,?3*;@+"N$R)D3A9_"]1'Z-7CP-([8ZD2-KP)P9!,13'9%-CMC#5/BV
+MOA'K5V#P/KUA8MF!CF-+3A"!$!=0.:[N!IY,)"-B[GD,J%UK$@.H$]+$EGQJ
+MXS>LN&XD(SSLS2(]O2NB0RK(YXR264;Y.'"2IVND1 WA::%%@Y?S!O^4LU(1
+M!X:O3^ G&=8Y*O@]]2^L_D\!@I'P+SC.X4ZG$>"$F"F#@U
+M7FBQ5-5W<%X?[_[(R^,UJ8?4[%<.W,MS#MN_X96J*;_T@BM5O.?Y*U73A,U9
+MJ5+>PDK5RC:SE?AFML,QE&Y.H#3R&XR#N\P]; LKUP.'"5]+V_&31Y$Q65+W
+MB['YIF^E^+5OE93^6O*%!:']GEC9!2]DD)=T(4-)6C8O!Q.?NKSK%9QN>TV1
+M"AM*?GM#*1;7)\);(O&XSO\KQ^=6<+?/'B7B<]B,2DHQ+Y5*DLR&LI21)]^C
+M[WG]]/XBNY\>W0Z[P7/:?$:!26?F4UET2<+\'C]AO5P)*N]%@LJ#$GQT^6Q!
+MJ7WXL#RYO9 1%A:5X!)[K4(0[/"TB-C\1?D&!5Q1HN)3(6N(F37CQPK0_1\(LF'O7
+MPJ-A//L9Y./_]]___O?_C?>9\RT);<9,8O7QVM[X"2T.4#:V]OB9+ZYB.
+M%M]>[/J&R!XW<=\#4RD>)-,]D5GPR/B"T@"Q\W3&R!9+E:8X ,B7#8,<1BIR
+M2LUS&$7LBX?&]+O@TST0"';$)\>ID4VZL.U];,):),>;_YW.C:5SE7>;<.^*:]4\GY=;Y66VI1YA>/#(,SQ^=1CR7V,E\Z^N.B*53UD+GQ3>2SLQJ
+MOC$BW,5IPK^*#RX$:1,7*!,[!3$GTF8]:G30W6)#?&^/J+#!DQB^Z5DIWA[U
+MO9[EX*ZS%64HWD^PF@AEH24$'1_3^67?%SCU6=9?^X9=(HA[D!\E%N4NI;_E
+MC4]EM",Z((D!>X2)1:>C94HOY^8 OYK@<$F%.J#*UC(^/QAH]*;TY;BK#:_XGX5E;.&=#E06!'VXAQ$
+MTM0WV-\#W'AW'Y=Z)+Q-ZCC_'B^^F+XX^6U?;1$+>KPPPAEJPUU2/^#_N)*V
+M*U?\#A;^)2E.&G^-?1G*-YKL#Z[+Q[V?'\K:5OGVJ%>[R5]2)7]=J]&*[1XV
+M#R[;S5[_[.AL6+QL=DZU(Z;>&$7=_VO>O/7X[RUFE'
+M\N6C(OMZODTO[]J5X[/K5FE++G35;SG6^E#5OOR4RTZQ_K.OY6^_#+_[W[OW
+ME9]-VZ[+#?>BHUU^-WR[VBOG+#/K\=7ISTZYO&14'R#V[DP4"__CSP3]RMSI9VT>K\E%K6[8WS0S_^
+MXFJWWT>YO-%HR-L'5M<>VK?WE\5KR^P<=&XKU?OZT5G)Z$F?O@U__E0.[[ZT
+MM$JQIA_EZ%?ULGU8\6ZN[7KO^NNW]H^MGM>LE*KWA;1>42NW@
+MTV635BOG3>/TY%1VN]]&W:IO-)2O!_1'KC:\LSK;PX*TY5A5^^;VQZVY_>'P
+M0\_?B@Z5X,JO9F_T,WUQIL-7)"JKFVI8WP[Y[7-_;_'U!+ P04
+M" #P,PY;%:/#W+\( O+@ '@ &5A,#(U,S Y.3 Q97@Q,"TQ7W0Q96YE
+MU:;7/:2!+^3A7_88ZJ2]E5O-JQ-\&$6@PXH0X[+H/7F[JZ#X,T
+M@ED+B9V1[+"__IX>"1!8QHY7)-Z[]0<,HYGNGI[NIY^6U/@T/.\W\[G&IVZK
+M@_^,_AK#WK#?;38JT7]?.U_88/BEW_U0<'POJ+-:=1:PH9P*S2[$
+M/;ORI]PK1@-%-A!*.@4LQ-++;UUWPJ9L("\34H<5>.,:3D>!(4
+MFHW39O?K1(YD ('E6J-R"K,OLU%8:+[Q1GIVDIG ]!U<-]N?+\YZG>[%L-?J
+M-RK7?[4=M,)QJ.'_PR([J!X<96@]3G>Q@4S/%7+A]E]Z+=8];_5BG[_FR"DT
+MATIZG U\ERNV=SW8+[*>9Y4S5/!3K5IE@T#<"4_['COU0U?<<65GJ.),B2G6
+M%ED; >3XRI.('V,],68NZPC9EP%4PR>1-MC?6/YNSP*]G*+GC*RWF[ V?
+MSD[8S40&'G[U^Y<9JCBJL1L!Z#DZ\&P3!&T>3##'$^S7,KOD7NFC])7-/3]#=?\2=])CY]P5
+M*ONTFG&O;"TV\;-M@BKCI)J2Y>5;VL5N%&QD[;!UVN^R=A?)T.IT>A9=CFZ>MJ\ZM:CHAK-HZ$68-@F*(9X
+M-H#7-6N-A6?-\0_):Z[LX:C9&]?^/?1/EO-)T!MEQO8C@97A%7V0)W=!;7X#
+MHY'./!Z4GBV,4-K:3BG5%KU7PA$*SA),:HBP!3F1G&4R$\ELX@V%[L:QS/\'J0=+19/:RQCS76X:[+=;SXW+?!#=B>$;@/2&^S/:=R
+M6^&1BGPNFG8] "1XH<.M(,3X>+&N1BOVDWH_UM;4VIQ L2,L,1T)Q0XB7OEV
+M+3*P*CU^DI+*^5R;SV0 W_X!B8%04\U"C:] $P'(H@UZ?L!\@I=[J06SA0.8
+MP00.HD#ZIH)[9/Q8@AC%'I\RK%UZ_H$)V;&R5Q^30SCA$O1*0C3YE$*.W #O
+M\""?X\R#OH&PJ!:QX_)[IB>()(0DX[9-1^)O\2-#Q&F!TPD1R\+U[[-C)R]U
+M[# IY$[=WF-POAW-#W!Y79PK')0.'.;FFE2=E*A"W4G UID0
+MNDSYR2[\X!Z\4P=(0$HN[LV#"7V)X\&"YQ17\WS.))K4JZ HTF23N!1(2=$F
+MYAA7 I1ASD= &E]%8R.!0A[F.['*1?$IYG/+
+ML+4)A)6PBXPV0)$I/> *2&@Q1A-20ZOT*M;M4)CI#/-F2 ;:I@ZM2=+\(@O!
+MV%QCAN#*E4 ^6+(G]\D:%?1N_(19=K3V% Z.*"I+\2'FUYG^.E#P63R3L#BA;.&B"*GYPQ*;J)6DW(YC;6FI?IHI/AK.
+MZ )2=[WH,9=)$;<-BPM1CY VZCMIHZ;^+<;AAGM?V9JVJN54HB$"F9G.?+7A
+MURV;VJ5/_L[5'YBKUG/Q.SU%QC[L\:)CI;1"/.E A7&>6I:YOV?%C(L"I,_O
+M]8*+F7N-]*,C7'X/M@QVNZ"RZ'&)Y45P3M$U0]]NR1F%%U9 C^-**S _L%C_
+M'44_,HKL%T71E,\IAI8('D.[%YI[+>:40^IHZ*&)CGH:P=%6F'XE<6T3G8#W
+M!IXXM542;N N9%-<1I1BA/BB!9MR",7&@NZ_K.@&+ ]"T],8@F'B5@/+HGL+
+M!K_8]FWE$A8.=SC[KD%2=/MG=7+$'>VM!<);7_;O2:@\51H"<=B[BS16?1:_YG9S?@
+M(?(?I1([D\*UZ^P2>D^P[O>0JBK$LU(I?A.BT>G]LM"=S/;:04JZ']/8". K
+MU'+LU.76+:M1KXA0<:6-K+Y\ U_1^@O]">S:J]3'=K4TU<7W>$:9=H,8]8^HAS?W3=J8:U1S*
+MP!7UC<%+%$IIFYZ"G@@!AS0 6VTH7A:Q;$K8X596]_IA8RW"&V>?+X9)PTH.
+M1U,XKS_UYAP]-+4L,2.J1LXW[9U--]%Q2"2TN7%6?RJ7TM+F8=G>%J);9^_*
+MH,?>C7HU!OY@CSV%?&G1-Z7GDAV.+W-4=FV$M];Q5)X@A)?@0Z5%K0X22YH=&WM'6M3&LGV.U7\A[[6WBW<0D2,YD9=JU PH6Z"7B%)I;;V
+M0S/30&^&&;9G1L/^^GO.Z9X7#(@1U$2V:A/"]'2?/N]7-R?ONA_>GQ8+)^^:
+M]0;\S?"_DVZK^[YY>K*K_X:GN^;QR=EEXPOK=+^\;_Z^U??1@&&R=GIR=-K\-94\&,&&E=K)[!F!?K7?!7]V>/SY^E*5.6K ]886!]%SV
+M22@?_C[9;9TN6KSG.?9#(;"$&PBU%6]U_2MU]UBSW;Q^^X6UVN>5GVMO]0_-
+M=@/^[[+V987ML^XEZ[YK/L;*YY?M3\WK;NOL?9-UFM>M9H?5V=5U\Z)Y?=UL
+MP+J7Y_]E5Q^OS]_5.\UBH?[VNME$0-?$V'^%?B#[$_.E=&U!DTKW+FJL;]WN
+M4/HLGT#%PKW0QV+LL5* L_[JV'^'WC&(<7TD7!O^#U!N?U7T]3:#(2-N"\9]
+MYO59/1P E&QOO\QJU=I!F?4FC+LVXR//'10+*!^N4(,):[E6I\P&@?"B4"#Q6LCS'$58@;X0S*1<+V:6NN JD\--+S17C]9'S,=3SXN4_
+MOVM>-^L=7+],V#0T*!9R\,X)QX0X!A@.ACP V54!ERZ\Y][ 1]ES! $%0X#Y
+ME.@+I8!6G<"SOL9SL?I "8$L5F8V1UIJKFI[-V+4$XH=$EN] K+! X[\J.G]
+M@<,$K+:GN8YXHSY6TF&U-^:K4O)"F2GA!SA]F?GA>.S0BCB18AYL3=U* &7D
+MV;(OX=N^\D8L +32WN!OC9 4ST2[*1;F;2?+NN-0^2%W YSP=B@!\A2&V1 A
+MQ1=M?"Y]/Q2YW#[D-R(U<&R>E V:00].X_D)%-,SX^04Y@&,CZ<=5 3 /V\J
+M>WLGNQ]/D=D(S4LPZ'+C / )ZXF866]EH,E]JV00"+=8D*X?J)#&"O*28!1H
+M361&%]X<+?^T:-BH%HY>"*7PZR\5V$@0@W1EZ[&&DI0I5CXZ#K"]U.J%-Z3%JGS
+M")FWGK(USL'!&_E&"Z(=L7$Z&"G=907,!PEQM#8DLP^2QD:"NQ(=CEMF!D'MG8/SD):T3"V+$C8VMT8K&P1P2* M/S
+MY74C\0'KI@1&2PHZ!B]%1D@_E?@VHJ%8L&,A02Q&K@/9'] YK*NX:Z%^=SP?
+M&;,!PH)(-"X#"D/*6-W34J&'KA46>$W&"B%A(R<(9Y= >A@JP4.>K$6AZ3^1
+M&DN1;0U$^QX(-)TB'JM "Y#L;#1"BFM "3)8XEB888G
+MM"HH?=O6J0% \1CX0^?1!+N0R@\2+?#+7N5UE8V%PJA'$8G!$1@!=76"AZA4
+MFN3/-:52@'$D$%KSV5YU!_0)^_2Y?I5*-L03,SD:"5L"[9T)Q,S24]&D*79'
+M)8>,\TNMR8ZNU)H_4I@DZON1-X8QA2&P<1%#L]+PB\T1$[Q.]ZGK*%
+MBK\[ GA+\ZTY/8/KHB*H),0@$
+MU&$.3 CHW"5G%DLA91>QHA'QR"1Z,I-JWV%2NQ\_L-KJXF%4(1DS/)GDV.%B
+M01OB(*H;K"=9*,J6TE >0%(85
+M@W<#0Y8 9M;50R0*^"&N)#JJP .H3RV]@H"Y-G+[CD$80Z(+=#S
+MS./*WB[CU&FO9!H ",%2U6E^QQHL=XGL/G7A>GH=LR>3//> 4W?@PX[EA=A)
+M@02"Y$I @&A*3?E+1IM:N*MBP6 4M^5.IC8V#73N+&:"Q3!/@XS@ZC5\
+M]E9YX;A8P(X"5@(;/1+*R8[ 1]N 944P^G(D':Y@>P/NRG^,C,.S ;@A\#BT
+M+"%T@< CWNB'KJ7+0J )-!3XE'Q ?_L8BT@WD@K+F.'&BAYM1=R@AJ%J^%T\
+MD3"FSWS8+>P"_'>J5@#EB;.,XPN?4,5X?>-.IS2E<4=1,@#O49Z )"=Q/EEOITQ&L; RF_%0-\#T"N39#/@H75]H)J.T3F(E$\68"GRF3"2P(T8B
+MW!D/>0_DV0*E1L[QZIR,G\W*:&06"U/8U "3J=$?D1HWGA..!+L5V-^((@O$
+M19==AX2Y,2C6HT=CSY>8GH/PV^=&G_0Q'J4R=&1]/E8ZE6)!^E@
+M4*AW*N$8DP'LL[17W:8. .HYO1'PKN.D-:6?I )0K28585AW".*&16EI)!ES
+MJB]7?0Y^5O4YS]_;Z-*'ZM(8LXGZF$5M4@"9/GZ/Q['2([0+L[\Q!;C=K8[9)^Z$^/BQZ@8:&RZH*N"299 R>YHE6SFHYD"E
+M*P0I;$1X.&;=R1BV6U>\)ZUCX-J1T+AJ>XB!6J:,$+V%3UYP<>/)^7L_VV))
+MWDB4P3ZLU+#X<:_&2M"SU(,QI[\RG2#7T^=:XOE'%>Z;Q(9Q5,.(#&O2D3+F
+M$!#"X)A<72,
+M@,)BFD@F$\7M/*8%8( &R]2\:7'6YY9T("+_25MYO@,"S>!C4/W(M^"^(NYT
+MAGW#S@O9&2S/6X]>'P"BT1(2XT*<
+MB'DM5"RZ_;PO'0 ]/B/3:9XSVZ-,N<[1",;!94HMH'7>""90.%7HFG-GV*DH
+MOH$GYD&IJPH%3KS$'=)WU($VW9\N%(#),#&&FB2%EE][A+C
+MMU3;+(Q"B"PE>W2B#,84"]S6)\< N ,VDHZ#VT_R\7-/OJ9/.N?VVR:G1H,9
+MGV &?&VRTB=S7?:]D.&TA,%X.HUV/WW8U!R.32 KZQIY:E$WI).[L-02BV+M
+MTPL#6(GCL4A#.A>/= $A.X 6.P0RMLJPL-!;MQS!:7K$2-.U8#E$(.J00.-C
+M3L_^?-3')[^U2DK0.774C&ZX,$RJ:\!TM#!@ )*/%@[&E0ZVLZ58WU@8M&I8
+M,(K;$2/\>:":8!F/4F!T;EXC8@1$OC%=W',1"&_WA&8,.W/.F K2IKL[EIK\
+M#N\7FXHX6&C2#E9DS\BK)(WH8T; ]/QGK-S!FF.VC8F;9^+J04HP9LYQE+$3
+M)M)R63UK9_0SW38P'CO@9_81EKKZ,7*[^$"^3VHO'Z(_-9S_5&8=..,/I&DME)-5FCG@3(]$=P*
+MD6389SU*0K;G"C9!IR%[>&K!T;ZLW*H^6J61AXL%%WS*_B8,VB-4%[S;=*3@SI?&@XB:T!?4TK;1@VELO=.S4
+M>7V\KB)67OFG1UB)6B4T-#- Z,-JB=W"/@OMN"0:[3V]NN"T5*[+.T(52DOS
+M2,P9D8&Y GP^GZM)3E QJ]!]+S'&,^#?N7GJWF-#MEA8RIG'C[:]H,*".C#CE[S!13>)ZB11W3+GJ\D^7PD7+,IG
+MKD"?!_K:&M;*#8DC+\#VA.[8]BPK5$B0!M@;RFSLZUO'#O/,%5XO- X<# BH
+MSY"2%&0)P%% KP"^>HTM\OZVR>: P9G*WPP&6,0!\[U?/JA6R]5JE=T:R*?O
+MA3(!/EDN]"V2-^:UAH*CP)-L3MS"^DNU4MU+G6
+M2W!0C@:(!!1&VTQ&.7O9DLD919,F?5>I[="E3K=#STRH*P)TZ5P9$XX@)U2Z
+MB=-1>91QR>,<\.,"1VA/(3Z5;R")EZ*S)!;WAW1PM<=]2=\MQGXE
+MJBXF;("\DC2TQ-,CY5,T2)W2M5%5V2:$O18#Z0>*ZRO^XA[E$&113?O?A#C$
+M"1(TH'8JR6G_DX3NBB84RO3. .-RAQ* W++ .=!B3#YU1N<=DJ+5IR->;EWF
+M/XO[#5:8Q'($MXT4&BN4S6,=5FHITX='WY>_JNB'BHZ?DZEKY<<[.K6+^(V4
+MB:VUCM>#R7G<6#^5U]+%3S\=S&FZ!(5'+U81O2%%=&YJY\"+$!Q*&TOJ]U1!S6^6
+M&%.8C]=94#+# 97N:)QB0M3-$/%57VR8KK4IY\H,>(X7^AR1YLAX[W1
+M.1)8T]*,+_I]9,>,88J;%Z0RYO9E47VOJNU/OR\A*$]?"]E$<4./;1)=Q6Q4
+M?8EO:WCQPB*ZJ(ANC*89?/*8]1$I<*C\C)Y:[JA_J6>FU^5+DRM,,D13-W_>
+MHV<]=0>Q+FJG[A+6>XLR_S&O99A(7Z9LN"@U660"H_P)E2Z09E1XYD@*)IU):(;^F'AQHN4'!TVU2<
+M2DVB9GV:5A]=MCTK-#=(*I;<:.LG5]KJ2UE=XQL@Z"@I+TTZ])VI+6"1@4HZ
+MI,!.9W&+1C>0 2!.ITVI>8$G1C/;])!WV4_&$"/[B='8X4&6NTRH$4*@!PX!
+M\B-RFL*JO1AX@32,%AGY.*.JS:RQ>=/K:^&NL N,Q;0D!T(E45ET?%EK6A R
+M0=7ZZ0M?%U0[XZNYS5:(Y?*XB^4'+*E5HY:/):Q&O.J7QN?Z
+M8MFV5RRTO9N$T=D4GR>:*>%X"&G3YR_OH>RC^^!5;O1 )9$!3P*C;?25R9->GIZ]CO
+M>7I,LQ&6;28,8J!1&&!H@-UBP #2IW9Y$WH4"S'WK8LBR_TTRXH6^0/V>TW^
+MJJV[K+!@0+D55S=@X6%)T0?3[W"7KAWZ\U&WO;AD]&I3,LJ6C%YM2D;/4)F=
+M7%RVN^GE=OI\))W)T>(%Z0<*6NUBX7.KVVYV.HQ^B^+R0O]8 LYY.ON[ A@7
+M88-A[#A/N=UM#W_;)W.)X9*_KI)N0^%QH$,^F>Y',S])H:_"?P[VJEO'WRPZ
+M;[Y_W[FJG[?:;W_?JF[1OZ_JC4;T[WM#=ROM8(A#J_^.=0?^*A ?^R ^T:RL9JZ4TWO^KNLP5U0-.R,0PCK>-\):S3*D/JP
+M^N^M?.QDQ^TO-^P AI'F7CQ9+9YM)7M:GN:G71DXT]"9D>=#*?K,_!X?Z)G+
+M?E]:0DW!M$NB=[JJ;';M]2LD\Y30[]1J^.TC>4K@*/W1B7\3C(P8:-$;JU"?T3)[N9Y >R4$9;QR4']Y!B4;E['6.T4LY
+M+PM?QM_ ,S\?>=UY@%.S/@@?Y/>L%7%__/;;;W^N &>)HY/+S4MZ/]__[L%#
+MUJTM\?*:_=596N3.LU:O[:XOGZW+WIF +O\O_V7
+M/PVK3,>O#]56SV^'RPC#S[OSC0+8*("- GC!"F#C!SRB&EAQ4FW_$
+M307]3YA F[N1V9.LBW-KAYO39SS:)C)OY/].G3$3A0$I,.0
+ME(^]E7E =6A?_H._[)H*A2@VR1&G:!<8?Y@_T_%'9OWU(&[W[++Q!9EU]UWW
+MP_O3_P-02P,$% @ \#,.6XYYS17; P $ \ \ !T92TR,#(U,#@Q
+M,RYXCHT/ZP2&(T(T)2SCJ6[W@6(BSD$663CO5E
+M8'\<7':[%OKP_M=?$/S:O]DVNJ$DC@)TQ4.[R\;\'?H;)R1 MX01@147[]!7
+M'&=:PF]H3 2ZY$D:$T5 47@*T+GC8V3;!YC]2EC$Q9>';F5VJE0J ]>=S^<.
+MXS,\Y^)9.B%/#C,X4%AELK+F+;SR=QC]CLJP(O_^^8]4_KEXH-\F]^PB^PLS
+M3PYP\KD1]EOS)W]Y__2\F#VVSD=/"1XOY8_A5;>5#C[-[FYODHM_)KW"95N&
+M4Y)@!&?!9,?2^97IS9L.%Q.WX7F^^^VN-\AQ5@$,%C%ES]O@?JO5FFJ]4C+$EE&;1T#YXRJ3 +U_"1J@BKX#.W4*Y!Z5;H>0&E!AJ1#9PD
+MH3/A,Q<4@&^<&6 F[0G&:04>8SG*C9:*-; 4J@X$X2;(5LN4R*W00K5&B)38
+M(*SM&JA=K=:AE>XEAV9B(1IUK&*Y8LR8B\B8,IJ[+F^>CVQ]SS*=)BQS
+M9MO=!-JVN=Q+XWNPV;4B;"X58K6WM>VV*=[+'P]S4
+M'HK^L@W/UB+;;T#3=18R>HGTF"!>MN&X( SOA"!VO'G;_,M=<+W(B^E0ISO>
+MSKU.MW)<$BMI)">'L/K2_H<88^;<\J0A"GC$EEL<4PBK%
+M?)QV&B\STF$'8?#%(>BQZ52W)U1!W?G.$BC'JWQF&5Y_AS\K"6<#Q<-GS_'\
+M/A;YK']'DI&>;'2D>K;9#Z(Q/#>Z32J1Z,K*3RT6A)7]!0ZWW?.?/Z1 RF6&QLP5LZ^'^WK^T6-07+
+M?P%02P,$% @ \#,.6U$MK)@,"0 X&@ !, !T92TR,#(U,#@Q,U]D
+M968N>&ULU5W?<^*V%GZ_,_T?7.XS&)*F[::;VV%9TF&ZNTE#NMO>EXRP!6@B
+M)$:2$_CO*_D'L4''-FFBV'E(P#Z2OO-]\I&.+3GO?]VLJ/> A22<770&O7['
+MPRS@(6&+B\Z?T^YP.II,.IY4B(6(
+M 'G=;HUJOV(65-24G4.M"3G,O;D$P^0BCM()2(/M##?NIE9UQSJ#DZZIX/>1H:=3*>8;,$I
+MOL%S+V;D7&W7NM-)8OI,)SVV%'A^T5&FFI.S_L^#4U/)?T=<=^2.9XKK_K$#
+MJP:F)RZVIDOXYJ2?&OJ%5I$(ZC8,^)A1;9P[BQ$M=14BB&:X&Y(59J:O=[RT
+MH3S$72V$*5^;^JF-;ZW@]7'O&NN&?(7(D: /2SM '+?47>'5S$A[%-QBT=?'
+MBB@]#F%W2FSXD7,^C!AQ(2Y3_IK 3?>*#WJ
+MX#!#;BJL#B]I#409XW1,&7A=,P!%&HO2'Q/+%$8&A/*@T#HUT9>+0]IDYN\<
+MR5GL="2["X36O@F+/J9*9D?B0!G3F!ZX,\,>-C"TMWBB/\JL 8IFF,;-WJ7&
+M-EO_;5'?HME33RI!G-KMHWT2>R@RW&E/J7DY)MWS/.!,Z>XQIG%KNHOCA?F0
+M(9L+OJJD,J6-EWJ0YU8#Z7A=5CD166SCJ55,A79!R2"?+6H]5:ZY"%^3$=E2!";[8LJ<3A!J)(!
+M9)A7(H>D..FW4XN[@07X2\F1#8W_-KH]6Z_8.TBRT^=*MI\IW([O=!*ZXBQN
+MN=_K#ZZ1B!/ S^DL\$"/VW%IB5=0I3@M!1@OZ?&\/G P7#TW7ED(_X:$0$S)
+M,0J6WY;:P_3 >*.C,I$FSEYR<<5P#NXP.XNO!0G,^<&@=]:_QF*Z1*),K%=K
+M[ J=^LM=-F^^U35:--8N[
+M']Y&I^H)G@THQ.V+C%'5U XUF- NJ1H8>>V8-)H<@^1ONIL[ AV/V(9"+)6
+MN9DG0'+.LAU<[P,&@X7;6'&#%T0J$=^]W#E4'CRL11HM0C5R<$+E5HTA8Q&B
+M-WC-184(>4_Q$AH;"@VSJL[QFW@G@;9HC[,\<3%3WWDC%5
+M=-B-7J_8?VK9 @ V)\-/;B3!^,!,%[5I]
+M'79%6B=%$3FDQL]NU=!9'>&A]DG4T&'/N!4*V#!#W+]["^['+*S+?&K:(M[S
+MB,N>5[BD_9+( -$$WZ4^9GL0D7/DP+P5]-M1O_A=O7\EP=\8B=H"[(Q;1'\1
+M,TB^HPQX% E1@%8:>2#K1M-?"AKDWU'..V:*J*U9\/8E NY2:[-]JT;S;04+
+M\NPHT4U 9;<^F#*+^LJX+EJV@&\+8)!S1PEN FRDX0M$)RS$F]_QMHST/=,6
+ML&Y##-+N*+%-D%T+LD)B.R5!=6#9MVT!\5;((/..LMD$VBW:3$+M!)F39#UL
+MM0! D1;H4(8\>\4A?M=L1#TN'@-*"+9"F&C\HD*.<
+M-\$Y#$.!I4S_&+\&9;)8S%L@!H0:? #F*/^%T)T<)\%)*R4X*9? 4?X+H3L]
+M3H+35DIP6BZ!HRRX@&ZD/UZ)6_X(/'T'C-M#_QYFD'RG*7"*+?;F2EP+_D"2
+M[455"NR5:(\,-N"@%D[3Y*R?)-.%.E=!8MD>[O. 01ZFQ&7.& B.X6^0@"=_5M-&4PTC!FEWE')..26!9H@M/FL_!$'4SOFA
+M7:,)!^"";#O*+J]%O),"ZTE^O!C.;!(65_,Y%*EA^T:S7P$;5,%1FKD';R)E
+MA,6Q6AR4:I,B=O"@+HY2SBD.(ATHMX.3V:W9! ]$HCVK1O-N!0OR["C-_,)O
+M!3(O[)EN5S-.X2T\%L-&LPWA!0EWE%$64-FI+I@TFN1#I""]CC+*["(;;X(E
+M8@L,K^BP63::;! PR+FC3/,IL"UJQ>I%FV+UHD:L=I1I9J"2A?KZNKN:4;)
+M\([ D@*M8!_"#0EA\^DUA$CV:YGWP(E5C.I2?[!+8#5M-/DP8I!V5UMAHY H
+M'"8 +PE#+-#)W,XIX Y!5:EFBU$'/*B+T^>DWS"EOS/^R*882G7SF-F$(B7G(K@&O#:MH"^FV(0=J=/B1-EY7O1J[D!:%E
+M[-M+M$"$$N"@%DX?GDZ8P@(%BCS@CTBA%&^9%O82+="B!#BHA=.%Q_&%.M+^
+M+'CYVH&"80N8/\0+$NYTO?%TA2C]$$GM@"R-/P7#%A!^B!,N*M!5H@ (P;%,+IRN'QYNG% LFNQE(5#JS;(($=-,3_F>-M
+ML\,@,$M-DCD!"Y$ %(#M&ZU!!6Q0!4=I\I5:8I&?E<70C#-E"T&J2C5:D5K@
+M05V"!QB;!T-R=TW62+YJ5= ">>K[ 0KG=BONT_L\X[=VRJM(Q?^R
+M1:,MO7%14JX%,E7"!]5Q_"HJ^;1E#XD:3($2Y-]_0^+/ZQ^&0W0>DV1VC-ZQ:'A!Y^PW=(67Y!C]
+M22CA.&/\-_0))VMYA)W'">'HE"U7"9=DJ/1Z--IO-/F4/>,/X?;H?L66_#"<9SM9IF=O!]J#XDX>_3F)Z?RS_
+MFN*4('&Z:'J\3>,W UEN4>SF:)_QQ>CPX& \^O?[RTET1Y9X&%-YVB(RT%$R
+M%UO<^-6K5R.5JJ4-Y7;*$UW&T4C;*7,6J7&+ON(DC8]39>^213A3K=Y9# (5
+M\G]#+1O*0\/QX?!HO+]-9P-]\M49Y"PA'\@9X\K05(:2Q &Q;$[3N9V
+M,PGG(QD_HF2!,S*3!;V2!8U_D07]HSA\B:T-X
+MS&9G]'FNS6A/]L5WAV??4(%JO/,JW+(,)\\R7XUT;ON*/.^,[^+E*Y(O8SIJ6GWQZ[>:1;+-Q !&9MJDS**E!U8EJ(&AR+O,G46U
+M?!/9FS/>K+L<&56>"4*./QY1)(LU4>&\H@Z"<6!KW)L)$M"
+ML],$I^GU?)*QZ/YD&Z>Z'%7)-X,>^I%9 1EYPG4M,(\Z3D6A&$5,#&2K;)CD
+M)ST/GW.V[&6C.&>LA_AK,BWSST^RL !4I";C)&5K'I$GM7&U-GW/:N%PF8@(
+M.5\C=/AQ,OA=R1";(R5$7Z3T?Z]'NZR?PU)&%!X'OXZ/%"*W9U_%/&[)J"KD
+M8/]@?(.YFD.])\LIX49=NN4N .EK6O+1I?6.1T^##3I43,[&'OI1QJ$5YNA!
+M1KX )9\QYYAFZ1F.[C[?B4E$3["_8PFI$XAT1\V+$A_O/U'8O6BF:1HU&A9K(+
+M#B!3LO7--.]M#A@R6UI+D-0X;N 34?!,%GZ>X(7%OI'NJHFMMG0;UQ*#:&2;
+M([.52PV2(E_-_(ZD$8]7\G9Q6SUJ,N>-;C'9:/N*)BP$FL9@$BI:3QW[![*(
+MTXRKWP_*$:>E&P/TKKO^5MOF6& 5!P%-'X?@:%$-0F64)XY.*%WCY -9,=Z&
+M3UWFFAJ;21.6JB8H1BS&0#1R+E:WH?<+3L-W&
+M3RD.%B'384^*5!B2<9Y(JCSFTL%00^F:'L"JR8TA"XH8NS>0E5R.E-X_)&=T
+MU@N14N<'$,.F'8]"%" <=6==: BU3S#.XS3"2>[E7!PS?U[IT+H&!+1K0M(0
+M!@4*Y Z$)0_0S*@0K\#\AV#>#Y>*T@\L#:MV5$I9@*"8WKHPD7HOD)RN.:^Y
+MAD<<6.H*DRZSFA-(%P0H'>8:3V;E\AHHGD:@,YK%V:-X8@,R
+MIYDPTX-@ 3!E,I#+D-2A7.BEY?6O!#23BV3 ZI@RMP383=8IJ&L"(L%J#*!A
+MIU5KEKP0<2IZ)HZ3"SHCV[_((UBOALXM$X#-.A2&*" J[,X + HQ4FHDY%[
+MN.'Q$O/'21QU#!5-H5LT(*-U-DQ50' U@ Z"C6:7)SZ'$EN\?9B)D"-YW&^
+MWK"#$E#O%I8.VW5F '% Z+0[! @20:@>Y1.D"QHQOF*5QQU.V5IT@(^G; ;/
+M4#JBW$+5JPIUM%I# @*LCT\ LUKH7OY,"F)RF;C* ,D
+MD&E:M0*SDX6'2\-;%RPR0,YG9(A/3-3$ZIK?,D-R+\ IJW4&-KP
+MT+$;[.*GG!#K.*]]33XI[_R2:)F?7J9NTM[%Y)KP(*D;Z^Q<I*AI3.T]UXN8-9:N^^
+M*VG.1G;33CF0ZX0@6M=TTQBF=;KCUOS,XTR4+'>D6=/B5Q[;
+M"8L(&$:5")2'(!7C%YN+-%T3_B1X+"&>$ +- R U]"'B!)GLA"H/],G6A$1K
+M,3X^C@^GMW'6V(3.+G$V)@'FRA')2 ^"#<"4R8)*DWO*C@]_FOX3Z2C'S7_%
+M;CF6[R:8/"ZG+ %VG[*J7$'08E%S8)$$@0+LRZ3ABJ%"BG*MC]VI:F8MU3'2
+M70%@M:6;OI881*/;'#6^_+6V]M3EGVVC.V&* L2[#+77;_-I-G]5S5!(-!B
+MK'%14DB1UOI8D+ ;LA;=DX"%MTG HF,2L AQ$K#H.PE8>)L$Z&+S+4)$OW0]
+M3>(%!C8G;%6[AJ+%LLF'11H4*K _L,\H0] NQO6.EFJ+,_GZ)[Y4Y9^+#Y9:
+M CIG>UJVV2PWM;2)@F"DS5EC6\M\T[F*&$FU:R[6LS@CL]S,>4PQC6*7W4FR_%+7KW3XQTV&[_M ,( X"ISX.@4=G9-#P7D8A'5;<"?-"TB>6
+MK&F&N5I+SFT]$Z!S2PY@LTZ,(0J(%+LS@)!2C'*UGP7:^>X1Y20K?Z\E6$%(
+M[GBY=JMI8]6V51L0,ZT&H372N
+M%U6VF3974]JT 2'4:A!;>
+M,:4D(#QLOEIVD.%(:[VP,%GB)'F[3F-*4G@@,E1N6;!:K+-0DP3$@LT7P(*2
+M(JWUPL+9DO"%&-[^Y&R3W17[LX)U ]1NV6BU7&?$*@V(E39_ #,Z!.4Q>DM=
+M/_!L=QN*Y[LLPC6U2!UC YHUF&GH0@(&,M>@)2&1O-]RQ3)TR]#'E*#LCJ"S
+MXC7'U9W@\WQ\O6DDBN2"B'Q63F>8VQ!J$SM_ZPAHN/'ND88R") Z[<'O(2DC
+MD YQ3,VU8)A7K^.4"?DN/7"U0W>(*X+ZFM<<=>F#H*FG29,I%5:_N%:!ZKV(
+M/GS*N\'UV]!3V]7F>I'$&%
+M,?@N>&N0XY\7>E3 ^)&A)2(@]'K8A'YPJ+Q[?@_EP:@2[>GZ+-WM DAF;Q\_
+MD#GA3'7&1@$A$]U"UWJI:B: 9K*9\2*
+M+- 7F0E2N=C>7UX]="D^B*J(AEPL3BMO7[I'TW&8S'K4@;
+M(A+"I:"W+2%;O_S]SW^*[+]W?VFWHQ&C/+F)/LBX/19S^7/TF:SH3?0K%501
+M(]7/T1?"4W=$CABG*AK(U9I30^V)7<,WT0^=/HG:;4"U7ZA(I/K]<;RO=FG,
+M6M]TNR\O+QTAG\F+5$^Z$\L5K,*)(2;5^]IZFU[^;U?\'6?BZ<;]F!%-(XM+
+MZ)N-9K[,MU1ZI%]ZK7ZW?_^>GC)%[2%6DSX;#%M%64N_??NV
+MFYTM3$N6FYGB11O7W<*=?CDU8!/R.H)*>/=!YE,F_,=FU[DF:N([3R8TM%Y[M/[
+MJ7_M*OGK0-K>V8I<<1OTO;.F[[K78NOBW'4GN[EA]ZC5M:*:"I,)_6@/'#5/
+M-\9V)IH4#KAJZAO(:V#&&>==I1^U7;]*5[8M^W%GF3M2N,)E?-0Z=_RE.E9?
+M].6,LJ9Q9R&?NPEE7
+MJ6//B8J+BNW'HUB6^VUNT5T39>MKQTO&]]U@KN3*AR]O4 :]EBJAR@ZFO1XZ
+M;]OGZ=A^U #F![;(W#U;IL*9$'>S]-?Z=,/L[2\&W5D*I/_RO8'\E2A%A
+M])#$RZ]+*RD_,-Q0%3/M+L^15/>"'CAX5YRE#XK%[GR_WWG3>Z!JLK0\ H'Z
+MCJT!@WR-&>3O#ON/=I SYXS%/'5J:ZR>,AY; &/TO4+DG\H4(2IYC(+USK:?
+M.!]&G"RJN9Z8 ,'V4Z8"[Q
+M<:[L-82'#$\1[''^K$$D*!LI%'="I(0_TK54-1$XM@2"_ULCP%>)1.+]CY0H
+M0Q7?0I"7C('4WS2"NDL5YE#V
+MN-ELK5Y4_O^B1('I'QA#V>,FN#5:+TQ^D"IUY$QPP/%;0]GCIK9U:B\,?R@,
+M,UNW&.1SZKGM;,W*5E#8N.FL3QT*Y.)FAC!NM4L(]*DE%#9N%AM2B0)\8!U6
+MA(]%0C>_T6V(>,D4BAPW>PWJ1&'^H-B*J.V$Q?7C2=D62ATW9PTK1<$^)9MQ
+M8MUF<[9;2E9/WUL$&@3>/F^76ZL7D/[ ?[]54OG@>GWN-H>QQL]P:K9CD,__OU8.2SVRW#K\.
+M?ZD$- 9-2'[#JE$O@=V, -+_"TLH^"8DPM4J,8$_2&T(_S=;UTU$J^VA\)N0
+M$H<47_KVYJX#N/LBOK52)R90T+A9<*6N2[-UH5:4^#OTL064+&YJ6Z7JPF _
+M2O=09BE%\+9PV0H*&#=']:F[].#L-KUI[ZAP7Q4SU@.W
+M^#L5^?T@SP,\CRF4,VYB&=1Y8>83R5G,#!.+3]9SQ0BO!EYE!Z6-FT;Z%5X8
+M]8/*]C50.WW/5JRY#;/J?C[WCRAZW"RR7C%N",9:IU2=&XB*4M!PX":4
+M4/67'H)HG-H1<=N_FDW=5G#/ %2R@D+'329]ZBX,^;.<*N)>13'9KF:2^W?6
+M5!I"4>.FC@&-%Z9]Y$7'F^(R;2_K4(4'>K9VWU]C]C+,%\>_/"Q8 [U5J!/J YDMOC\RV
+M3;E7&JE5YL?(?JCF[S&%DD?>BAK2>6GF:<(,378NC9@@(K8YVEZ&YP9 ?2EH
+M))#WJ@+5HSQW^$HY_TW(%S&A1$M!DUW*$'KTX"T"#4<3GGO6Z$:)Q1?)4XM+
+M9:MAE>>J\)A"V3?A>:=')\X"U-U:[_WWT^[]=B'TOA+0"#3AP6=8-=*2/$/=
+M6\/8,_U #,D]# 7"5P(:B"8\! VK1MMHH 96P4*&G_R?&$*Q-V%A<*5&%-J3
+M%>'\?:JMRSHX[)P80FDW805PI484VL,550L[WOVJY(M9YGMH0]0]!:#TF[#.
+M-Z@9)PJ;UZW\NUV%P1!46(-?&=$$_EZU6&]'B6.W+F3WM2\2HCSX0_;0 #1C
+M ZM?\85#<&^65!W.NC)GG/NA-1SUI:#AP$V$H>IQOH@/WJH0_!X^LH.";T+*
+M6Z409P-:.N,L'G%)@O/[(S,HZ";DMQ7Z4#B_)^))I6L3;Q^4C"EUSW7T_OH#
+M9%C "J"Q:4+F>Q83G#L2KR_&S%Y_J>]3D_U! >M?\+Y$L!PT1DU(BB$$D.9.
+M^G77'$W>;Q_IG"JWV&)*-^:];>@I/)4"%(<&JAGOA +SJ(C7NVY)H&WRR9[-
+MS[@?[B\EV"/_ 5!+ 0(4 Q0 ( / S#EOX&!?M !L -:9 9
+M " 0 !E83 R-3,P.3DM.&M?=#%E;F5R9WDN:'1M4$L! A0#%
+M @ \#,.6Q6CP]R_" +RX !X ( !-QL &5A,#(U,S Y
+M.3 Q97@Q,"TQ7W0Q96YE " 3(D !E83 R-3,P.3DP,65X,3 M,E]T,65N
+M97)G>2YH=&U02P$"% ,4 " #P,PY;CGG-%=L# 0#P #P
+M @ %3.0 =&4M,C R-3 X,3,N>'-D4$L! A0#% @ \#,.6U$MK)@,
+M"0 X&@ !, ( !6ST '1E+3(P,C4P.#$S7V1E9BYX;6Q0
+M2P$"% ,4 " #P,PY;8#3A"AT, #?D $P @ &81@
+M=&4M,C R-3 X,3-?;&%B+GAM;%!+ 0(4 Q0 ( / S#EO92 !T92TR,#(U,#@Q,U]P&UL4$L%!@
+0 ' < WP$ '); $!
+
+end
+
+XML
+17
+ea0253099-8k_t1energy_htm.xml
+IDEA: XBRL DOCUMENT
+
+ 
+ 
+ 
+ 0001992243
+ 
+ 
+ 2025-08-13
+ 2025-08-13
+ 
+ 
+ 
+ 
+ 0001992243
+ 
+ TE:CommonStock0.01ParValueMember
+ 
+ 
+ 
+ 2025-08-13
+ 2025-08-13
+ 
+ 
+ 
+ 
+ 0001992243
+ 
+ TE:WarrantsEachWholeWarrantExercisableForOneCommonStockAtExercisePriceFor11.50PerShareMember
+ 
+ 
+ 
+ 2025-08-13
+ 2025-08-13
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ shares
+ 
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ shares
+ 
+ 
+ 
+ false
+ 0001992243
+ 8-K
+ 2025-08-13
+ T1 Energy Inc.
+ DE
+ 333-274434
+ 93-3205861
+ 1211 E 4th St.
+ Austin
+ TX
+ 78702
+ 409
+ 599-5706
+ false
+ false
+ false
+ false
+ Common Stock, $0.01 par value
+ TE
+ NYSE
+ Warrants, each whole warrant exercisable for one Common Stock at an exercise price for $11.50 per share
+ TE WS
+ NYSE
+ false

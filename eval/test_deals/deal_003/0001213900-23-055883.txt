@@ -1,0 +1,4100 @@
+0001213900-23-055883.txt : 20230710
+0001213900-23-055883.hdr.sgml : 20230710
+20230710172017
+ACCESSION NUMBER: 0001213900-23-055883
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 13
+CONFORMED PERIOD OF REPORT: 20230703
+ITEM INFORMATION: Entry into a Material Definitive Agreement
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20230710
+DATE AS OF CHANGE: 20230710
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: ENZO BIOCHEM INC
+ CENTRAL INDEX KEY: 0000316253
+ STANDARD INDUSTRIAL CLASSIFICATION: SERVICES-MEDICAL LABORATORIES [8071]
+ IRS NUMBER: 132866202
+ STATE OF INCORPORATION: NY
+ FISCAL YEAR END: 0731
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-09974
+ FILM NUMBER: 231080598
+
+ BUSINESS ADDRESS: 
+ STREET 1: 60 EXECUTIVE BLVD
+ CITY: FARMINGDALE
+ STATE: NY
+ ZIP: 11735
+ BUSINESS PHONE: 5167555500
+
+ MAIL ADDRESS: 
+ STREET 1: ENZO BIOCHEM INC
+ STREET 2: 60 EXECUTIVE BLVD
+ CITY: FARMINGDALE
+ STATE: NY
+ ZIP: 11735
+
+8-K
+1
+ea181491-8k_enzobio.htm
+CURRENT REPORT
+
+ 
+
+ 
+ 0000316253
+ false
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0000316253
+ 
+ 
+ 2023-07-03
+ 2023-07-03
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ xbrli:shares
+ 
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ xbrli:shares
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+DC 20549
+
+ 
+
+FORM
+8-K
+
+ 
+
+CURRENT
+REPORT
+
+Pursuant
+to Section 13 or 15(d)
+
+of
+the Securities Exchange Act of 1934
+
+ 
+
+Date
+of report (Date of earliest event reported): July 3, 2023
+
+ 
+
+Enzo Biochem, Inc.
+
+(Exact
+Name of Registrant as Specified in Its Charter)
+
+ 
+
+New York
+
+(State
+or Other Jurisdiction of Incorporation)
+
+ 
+
+ 
+ 001-09974
+  
+ 13-2866202
+
+ 
+ (Commission File Number)
+  
+ (IRS Employer
+
+Identification No.)
+
+ 
+  
+  
+  
+
+ 
+ 81 Executive Blvd. Suite 3
+  
+  
+
+ 
+ Farmingdale, New York
+  
+ 11735
+
+ 
+ (Address of Principal Executive Offices)
+  
+ (Zip Code)
+
+ 
+ 
+
+(631)
+755-5500
+
+(Registrant’s
+Telephone Number, Including Area Code)
+
+ 
+
+N/A
+
+(Former
+Name or Former Address, if Changed Since Last Report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:
+
+ 
+
+ 
+ ☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+  
+  
+
+ 
+ ☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+  
+  
+
+ 
+ ☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+  
+  
+
+ 
+ ☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+ 
+ Title of Each Class
+  
+ Trading Symbol
+  
+ Name of Each Exchange on Which Registered
+
+ 
+ Common Stock, $0.01 par value
+  
+ ENZ
+  
+ The New York Stock Exchange
+
+ 
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-1 of this chapter). 
+
+ 
+
+Emerging
+growth company ☐
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive
+Agreement
+
+ 
+
+As
+previously disclosed, on March 16, 2023, Enzo Biochem, Inc., a New York corporation (the “Company”), Enzo Clinical Labs, Inc.,
+a New York corporation (the “Subsidiary” and, together with the Company, the “Seller”), and Laboratory Corporation
+of America Holdings, a Delaware corporation (the “Buyer”) entered into an Asset Purchase Agreement (the “Purchase Agreement”)
+pursuant to which the Seller agreed to sell certain assets and assign certain liabilities of its clinical labs business (the “Business”)
+to the Buyer on and subject to the terms and conditions set forth therein (such transaction, the “Transaction”). On July 3,
+2023, the Company, the Subsidiary and the Buyer entered into Amendment No. 1 to the Purchase Agreement (the “Purchase Agreement
+Amendment”), which, among other things, adjusted the purchase price for the Business from $146 million to $113.25 million payable
+as a $30 million refundable earnest money deposit on July 17, 2023 with the remainder, subject to offsetting credits and deductions as
+provided in the Purchase Agreement, payable at the closing of the Transaction. The Purchase Agreement Amendment also provides that (i)
+Buyer may offset from the purchase price amounts outstanding for reference testing services performed by Buyer or its Affiliates prior
+to the closing, (ii) the closing, which is subject to the satisfaction or waiver of customary conditions to closing, shall, at the earliest,
+occur 127 days after execution of the Purchase Agreement (or July 24, 2023), and (iii) Seller Parent shall indemnify Buyer in connection
+with any proceeding challenging the Transaction (and related matters) as contemplated by the Purchase Agreement Amendment. In addition,
+pursuant to the Purchase Agreement Amendment, the Parties waived all breaches that existed prior to entering into the Purchase Agreement
+Amendment (provided that the parties were aware of such breach) solely for purposes of determining that closing conditions under the Purchase
+Agreement have been satisfied.
+
+ 
+
+The
+foregoing description of the Purchase Agreement Amendment does not purport to be complete and is qualified in its entirety by reference
+to the full text of the Purchase Agreement Amendment, which is filed as Exhibit 2.1 to this Current Report on Form 8-K and incorporated
+herein by reference. 
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits
+
+ 
+
+(d) Exhibits.
+
+ 
+
+ 
+ Exhibit No.
+  
+ Description
+
+ 
+ 2.1*
+  
+ Amendment No. 1 to Asset Purchase Agreement, dated as of July 3, 2023, by and among Enzo Biochem, Inc., Enzo Clinical Labs, Inc., and Laboratory Corporation of America Holdings.
+
+ 
+ 104
+  
+ Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+ 
+
+*       Certain schedules to this Exhibit
+have been omitted pursuant to Regulation S-K Item 601(b)(2) or 601(a)(5) (as applicable). The Company agrees to furnish supplementally
+a copy of any omitted schedule to the SEC upon request; provided, however, that the Company may request confidential treatment pursuant
+to Rule 24b-2 of the Securities Exchange Act of 1934, as amended, for any document so furnished.
+
+ 
+
+ 1
+
+  
+
+ 
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+  
+ ENZO BIOCHEM, INC.
+
+ 
+  
+  
+  
+
+ 
+ Date: July 10, 2023
+ By:
+ /s/ Hamid Erfanian
+
+ 
+  
+  
+ Hamid Erfanian
+
+ 
+  
+  
+ Chief Executive Officer
+
+ 
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+EX-2.1
+2
+ea181491ex2-1_enzobio.htm
+AMENDMENT NO. 1 TO ASSET PURCHASE AGREEMENT, DATED AS OF JULY 3, 2023, BY AND AMONG ENZO BIOCHEM, INC., ENZO CLINICAL LABS, INC., AND LABORATORY CORPORATION OF AMERICA HOLDINGS
+
+ 
+
+Exhibit 2.1
+
+ 
+
+CONFIDENTIAL
+
+Execution Version
+
+ 
+
+AMENDMENT NO. 1
+
+TO ASSET PURCHASE AGREEMENT
+
+ 
+
+This Amendment No. 1 to the Asset Purchase Agreement
+(this “Amendment”) is entered into as of July 3, 2023 (the “Amendment Effective Date”), by and among
+Laboratory Corporation of America Holdings, a Delaware corporation (“Buyer”),
+Enzo Clinical Labs, Inc., a New York corporation (“Seller”), and Enzo Biochem, Inc., a New York corporation (“Seller
+Parent”). Buyer, Seller and Seller Parent are sometimes hereinafter referred to individually as a “Party”
+and collectively as the “Parties”. Capitalized terms used but not defined in this Amendment shall have the meanings
+given to such terms in the Asset Purchase Agreement (as defined below), and all references to Sections herein are references to Sections
+of the Asset Purchase Agreement.
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, the Parties entered into an Asset Purchase
+Agreement dated as of March 16, 2023 relating to the purchase by Buyer of certain assets related to the Business (the “Asset
+Purchase Agreement”);
+
+ 
+
+WHEREAS, on May 1, 2023 the waiting period applicable
+to the transactions contemplated by the Asset Purchase Agreement and the other Transaction Documents under the HSR Act expired;
+
+ 
+
+WHEREAS, on May 22, 2023 Stockholder Approval was
+obtained in accordance with applicable Law;
+
+ 
+
+WHEREAS, the Parties have agreed to revise certain
+terms of the Asset Purchase Agreement;
+
+ 
+
+WHEREAS, the Parties desire to amend the Asset
+Purchase Agreement as set forth herein to reflect such agreement; and
+
+ 
+
+WHEREAS, Section 10.13 of the Asset Purchase Agreement
+provides that any amendment to the Asset Purchase Agreement shall be made in writing and signed by each Party.
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+NOW, THEREFORE, in consideration of the foregoing
+and the mutual covenants and agreements, representations, and warranties contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, and incorporating the above recitals with and into this Amendment, the Parties
+hereby agree as follows:
+
+ 
+
+1.Amendment.
+
+ 
+
+1.1
+The following defined terms are hereby added to Section 1.1 of the Asset Purchase Agreement:
+
+ 
+
+“Amendment” means
+that certain Amendment No.1 to Asset Purchase Agreement dated as of July 3, 2023 (the “Amendment Effective Date”)
+by and among the Parties.
+
+ 
+
+“Buyer Receivable”
+means all Liabilities of Seller, Seller Parent or their respective Affiliates to Buyer for reference testing services performed by Buyer
+or its Affiliates prior to the Closing , including pursuant to invoices up to and including May 27, 2023 for client account numbers 31002760,
+88040331, and 88611401.
+
+ 
+
+1.2
+The definition of “Debt Amount” in Section 1.1 of the Asset Purchase Agreement is hereby deleted in its entirety
+and replaced with the following:
+
+ 
+
+(yy) “Debt Amount” means (i) all
+Liabilities of Seller or Seller Parent under any Assigned Contract outstanding as of immediately prior to the Closing (“Pre-Closing
+Lease Obligations”), (ii) all Buyer Receivables outstanding as of immediately prior to the Closing and (iii) all Debt of
+Seller, Seller Parent or their Affiliates that shall be paid off at the Closing pursuant to Section 2.8(a)(iv); provided
+that the Debt Amount may not exceed the total amount of the Purchase Price before the exclusion of the Debt Amount.
+
+ 
+
+1.3
+The definition of “Retention Bonus Amount” in Section 1.1 of the Asset Purchase Agreement is hereby deleted in
+its entirety and replaced with the following:
+
+ 
+
+(kkkkkkk) “Retention Bonus Amount”
+means an amount equal to the lesser of (x) one-half of the aggregate amount of the retention bonuses previously paid or to be paid by
+Seller to Business Employees, in each case, in connection with the transactions contemplated by this Agreement, and which shall include
+the retention bonus amounts paid to the employees set forth on Schedule 1.1(kkkkkkk) and (y) $1,600,000.
+
+ 
+
+ 2
+
+  
+
+ 
+
+ 
+
+1.4
+A new Schedule 1.1(kkkkkkk) in the form attached hereto as Exhibit
+A shall be added to the Agreement Purchase Agreement.
+
+ 
+
+1.5
+Section 2.2 of the Asset Purchase Agreement is hereby amended by changing the reference from “120 days” to “127
+days”.
+
+ 
+
+1.6
+Section 2.3(a) of the Asset Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+(a)
+ On July 17, 2023, as payment for the Acquired Assets, Buyer shall pay to Seller $30,000,000,
+which amount represents an upfront payment of the Purchase Price that shall be fully credited against the amount paid by Buyer to Seller
+at Closing and shall be fully refundable to Buyer within two Business Days upon termination of this Agreement pursuant to Article VIII
+(the “Earnest Money Deposit”) as provided in Section 2.3(f) below. At the Closing, as payment for the
+Acquired Assets, Buyer shall pay to Seller $113,250,000 minus (i) the Estimated Vacation Rollover Amount plus (ii) the Estimated
+Prepaid Amount minus (iii) the Escrow Amount minus (iv) the Estimated Debt Amount minus (v) the Aggregate Ticking
+Fee Closing Payment plus (vi) the Retention Bonus Amount minus (vii) the Earnest Money Deposit and minus (viii) any
+amounts deducted for motor vehicles as provided in Section 2.8(a)(ix)
+below (such collective amount, as may be adjusted by this Section 2.3, the “Purchase Price”), by wire
+transfer of immediately available funds in lawful currency of the United States of America to the account designated by Seller in writing
+at least four Business Days prior to the Closing. At the Closing, Buyer shall (x) deposit the Escrow Amount in accordance with Section
+2.10 and (y) deliver or cause to be delivered on behalf of Seller or Seller Parent the amount payable to each holder of Debt identified
+in the Payoff Letters in order to fully discharge such Debt and terminate all applicable obligations and Liabilities of Seller or Seller
+Parent related thereto, as specified in the Payoff Letters and in accordance with this Agreement. Seller shall pay the portion of the
+Retention Bonus Amount payable to Business Employees (less any applicable Tax withholding) who are not Hired Employees (the “Seller
+Retention Bonus Amount”) on or before the first regularly scheduled payroll date following the Closing Date (the “Bonus
+Payroll Date”). If the Seller Retention Bonus Amount is not paid by Seller to such Business Employees in full on or before
+the Bonus Payroll Date, then the Seller Retention Bonus Amount shall be refunded to Buyer and Seller shall deposit by wire transfer of
+immediately available funds in lawful currency of the United States of America to an account designated in writing by Buyer an amount
+equal to the Seller Retention Bonus Amount within two Business Days after the Bonus Payroll Date.
+
+ 
+
+1.7
+Section 2.3(c) of the Asset Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+(c) No
+later than five Business Days prior to the Closing Date, Seller shall calculate (i) the amount of all reserves, security and other deposits,
+advances and prepaid expenses and credits that are assignable to Buyer and related to the Assigned Contracts or any other Acquired Asset
+(the “Prepaid Amount”), (ii) the Vacation Rollover Amount, (iii) the Debt Amount and (iv) the Retention Bonus
+Amount with respect to the applicable Business Employees, and provide to Buyer a statement setting forth each such calculation in reasonable
+detail with reasonable supporting documentation, including with respect to the Retention Bonus Amount the names and amounts payable to
+each individual employee and the date or anticipated date of the payment of such amounts to such individual employees. The Prepaid Amount
+set forth on such statement provided prior to the Closing (the “Estimated Prepaid Amount”), the Vacation Rollover
+Amount set forth on such statement provided prior to the Closing (the “Estimated Vacation Rollover Amount”)
+and the Debt Amount set forth on such statement provided prior to the Closing (the “Estimated Debt Amount”)
+shall, in each case, be used to calculate the Purchase Price to be paid by Buyer to Seller at the Closing pursuant to Section 2.3(a).
+
+ 
+
+ 3
+
+  
+
+ 
+
+ 
+
+1.8
+Section 2.3(d) of the Asset Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+(d) As
+soon as reasonably practicable after the Closing Date, but in any event no later than 90 days thereafter, Buyer will calculate the Prepaid
+Amount, the Vacation Rollover Amount, and the Debt Amount and provide Seller with a statement (the “Post-Closing Adjustment
+Statement”) setting forth each such calculation in reasonable detail with reasonable supporting documentation. The Post-Closing
+Adjustment Statement will be deemed to be accepted by Seller and shall be conclusive for purposes of determining the Prepaid Amount, the
+Vacation Rollover Amount, and the Debt Amount, unless Seller delivers to Buyer, within 30 days following receipt of the Post-Closing Adjustment
+Statement from Buyer, a notice (each, a “Post-Closing Adjustment Objection Notice”) setting forth Seller’s
+objections to such Post-Closing Adjustment Statement in reasonable detail. If Seller and Buyer fail to resolve the issues raised in the
+Post-Closing Adjustment Objection Notice within 30 days of Buyer’s receipt of the Post-Closing Adjustment Objection Notice, Seller
+and Buyer shall submit the items under dispute in the Post-Closing Adjustment Statement (the “Disputed Items”)
+to Ernst & Young LLP (or if such firm is unable to serve, another nationally recognized independent firm jointly chosen by Buyer and
+Seller) (the “Independent Accountant”), for resolution in accordance with the dispute resolution provisions
+set forth in Section 2.3(d) and the relevant terms of this Agreement. Within ten Business Days following the final determination
+of the Prepaid Amount, the Vacation Rollover Amount, and the Debt Amount, in each case, pursuant to this Section 2.3(c) (such amounts
+as so finally determined pursuant to this Section 2.3(c), the “Final Prepaid Amount”, the “Final
+Vacation Rollover Amount”, and the “Final Debt Amount”), (w) if the difference of (1) the Final
+Prepaid Amount minus (2) the sum of (A) the Final Vacation Rollover Amount and (B) the Final Debt Amount is greater than (x) the
+difference of (1) the Estimated Prepaid Amount minus (2) the sum of (A) the Estimated Vacation Rollover Amount and (B) the Estimated
+Debt Amount, Buyer shall pay such difference to Seller, and (y) if the difference of (1) the Final Prepaid Amount minus (2) the
+sum of (A) the Final Vacation Rollover Amount and (B) the Final Debt Amount is less than (z) the difference of (1) the Estimated Prepaid
+Amount minus (2) the sum of (A) the Estimated Vacation Rollover Amount and (B) the Estimated Debt Amount, Seller and Seller Parent
+shall pay such difference to Buyer. Any payments required to be made pursuant to this Section 2.3(c) shall be made by wire transfer
+of immediately available funds in lawful currency of the United States of America to the account designated by Seller or Buyer, as applicable,
+in writing at least four Business Days prior to the date of such payment.
+
+ 
+
+1.9
+Section 2.3(f) of the Asset Purchase Agreement is hereby amended by adding the following sentence to the end of Section 2.3(f):
+
+ 
+
+Furthermore, if this Agreement is terminated
+pursuant to Article VIII, Seller shall return the Earnest Money Deposit without interest to Buyer within two Business Days after
+termination of this Agreement, and shall deposit by wire transfer of immediately available funds in lawful currency of the United States
+of America to an account designated in writing by Buyer an amount equal to the Earnest Money Deposit.
+
+ 
+
+1.10
+Section 2.4 of the Asset Purchase Agreement is hereby amended by deleting the fifth sentence thereof and replacing such
+sentence in its entirety with the following sentence:
+
+ 
+
+Seller
+shall be liable for all amounts apportioned to periods prior to the Closing and Buyer shall be liable for all amounts apportioned to periods
+on and after the Closing. Buyer and Seller shall settle all prorations within 90 Business Days following the Closing Date; provided
+that Buyer shall have the right to withhold and set-off against any amount otherwise due to be paid by Buyer to Seller pursuant
+to this Section 2.4, any Pre-Closing Lease Obligations that were not otherwise
+taken into account in the Debt Amount deducted from the Purchase Price paid to Seller at Closing. 
+
+ 
+
+1.11
+Section 2.8(a)(x) of the Asset Purchase Agreement is hereby deleted in its entirety and replaced with the following:
+
+ 
+
+(x)an agreement evidencing the termination of the STAT Services Agreement as of the Closing in a form reasonably acceptable to Buyer
+(the “STAT Services Termination Agreement”), duly executed by Seller; and
+
+ 
+
+(xi)such other customary instruments of transfer, assumption, filings or documents, in form and substance reasonably satisfactory to Buyer,
+as may be required to give effect to this Agreement.
+
+ 
+
+1.12
+Section 2.8(b)(vii) of the Asset Purchase Agreement is hereby deleted in its entirety and replaced with the following:
+
+ 
+
+(vii)the STAT Services Termination Agreement, duly executed by Buyer; and
+
+ 
+
+(viii)such other customary instruments of transfer, assumption, filings or documents, in form and substance reasonably satisfactory to Seller,
+as may be required to give effect to this Agreement.
+
+ 
+
+ 4
+
+  
+
+ 
+
+ 
+
+1.13
+Section 3.2 of the Asset Purchase Agreement is hereby amended by adding the following paragraph as a new Section 3.2(c):
+
+ 
+
+(c)
+ Each of Seller and Seller Parent has all requisite power and authority to execute and deliver
+the Amendment and to perform its obligations under the Amendment and this Agreement as amended by the Amendment and to consummate the
+transactions contemplated by the Amendment and this Agreement as amended by the Amendment. The execution and delivery by each of Seller
+and Seller Parent of the Amendment, the performance by each of Seller and Seller Parent of its obligations under the Amendment and under
+this Agreement as amended by the Amendment and the consummation by each of Seller and Seller Parent of the transactions contemplated the
+Amendment and this Agreement as amended by the Amendment, have been duly authorized by all necessary corporate action, and no other action,
+or approval on the part of Seller or Seller Parent or the stockholders
+of Seller Parent is necessary to authorize the Amendment and this Agreement as amended by the Amendment or to consummate the transactions
+contemplated hereby or thereby. The Amendment has been duly executed and delivered by each of Seller and Seller Parent and, assuming the
+due authorization, execution and delivery thereof by Buyer, constitutes the legal, valid and binding obligation of Seller and Seller Parent,
+enforceable against Seller and Seller Parent in accordance with its terms, except as such enforceability may be limited by bankruptcy,
+insolvency, reorganization, moratorium and similar Laws relating to or affecting creditors generally or by general equity principles (regardless
+of whether such enforceability is considered in a proceeding in equity or at law). 
+
+ 
+
+1.14
+Schedule 5.8 of the Asset Purchase Agreement is hereby amended by deleting references to the following therefrom:
+
+ 
+
+ 
+ 6. 
+ 4131 Richmond Avenue, Staten Island, NY 10312
+ Lease dated September 1, 2019 (as amended, restated and modified from time to time), by and between 4131 Richmond Avenue Corp. and Enzo Clinical Labs, Inc.
+
+ 
+ 10.
+ 248-260 Middle Country Road, Selden NY 11784
+ Commercial Lease (as amended, restated and modified from time to time), by and between 248-260 Middle Country Road Associates LLC and Enzo Clinical Labs, Inc.
+
+ 
+ 12.
+ 30 Newbridge Road, Suite LL2, East Meadow, NY 11554
+ Lease (as amended, restated and modified from time to time) by and between John Simon Realty LLC and Enzo Clinical Labs, Inc.
+
+ 
+ 
+
+ 5
+
+  
+
+ 
+
+ 
+
+1.15
+Schedule 5.8 of the Asset Purchase Agreement is hereby amended by adding a reference to the following:
+
+ 
+
+ 
+ 22.
+ 174 Edison Road, Lake Hopatcong, NJ 07849
+ Lease (as amended, restated and modified from time to time) by and between 174 Edison Rd, LLC and Enzo Clinical Labs, Inc. 
+
+ 
+ 
+
+1.16
+Section 7.6 of the Asset Purchase Agreement is hereby amended by adding the following sentence to the end of Section 7.6:
+
+ 
+
+Beginning on the Saturday before the Closing Date, Seller
+shall afford Buyer with unlimited access to the Assigned Locations for the express and limited purpose of facilitating Buyer’s integration
+activities with respect to the Business.
+
+ 
+
+1.17
+Section 8.3 of the Asset Purchase Agreement is hereby amended by adding the following new clause (c) prior to the period at
+the end of Section 8.3:
+
+ 
+
+; or (c) a Restraint is then in effect
+
+ 
+
+1.18
+Section 9.1(a)(i) of the Asset Purchase Agreement is hereby deleted in its entirety and replaced with the following:
+
+ 
+
+(i) any
+breach of or inaccuracy in any representation or warranty made by Seller or Seller Parent in this Agreement or in any Schedule or certificate
+delivered pursuant to this Agreement (other than the representations and warranties set forth in Section 3.2(c)), as of the Effective
+Date or as of the Closing Date;
+
+ 
+
+1.19
+Section 9.1(a) of the Asset Purchase Agreement is hereby amended by adding the following clause as a new Section 9.1(a)(v)
+after Section 9.1(a)(iv):
+
+ 
+
+(v) (A)
+any breach of or inaccuracy in any representation or warranty made by Seller or Seller Parent in Section 3.2(c), as of the Amendment
+Effective Date or as of the Closing Date or (B) any Proceeding (1) challenging, disputing or objecting to the Amendment or performance
+by the Parties of this Agreement, as amended by the Amendment or the consummation of the transactions contemplated by this Agreement,
+as amended by the Amendment, including as a result of any failure to obtain any required approval of the stockholders of Seller Parent
+or otherwise comply with Seller Parent’s governing documents or applicable Law in connection therewith, or (2) alleging violations
+of fiduciary duty by any director, officer or agent of Seller Parent or Seller in connection with the Amendment or the transactions contemplated
+by this Agreement or this Agreement, as amended by the Amendment.
+
+ 
+
+ 6
+
+  
+
+ 
+
+ 
+
+1.20
+Section 9.6(a) is hereby amended by adding the following as a new Section 9.6(a)(vi) after Section 9.6(a)(v):
+
+ 
+
+(vi) with
+respect to any claim by a Buyer Indemnified Party pursuant to Section 9.1(a)(v), Buyer shall be entitled to satisfy the Losses
+therefrom, at Buyer’s election (in its sole discretion), (A) from the Escrow Fund in the Escrow Account, or (B) from Seller or Seller
+Parent directly.
+
+ 
+
+2.Effect of this Amendment. 
+
+ 
+
+2.1 The
+Asset Purchase Agreement as amended by this Amendment comprises the entire
+agreement and understanding between the Parties with respect to the subject matter hereof and thereof. Except as specifically provided
+in this Amendment, and as the context of this Amendment otherwise may require to give effect to the intent and purposes of this Amendment,
+the Asset Purchase Agreement shall remain in full force and effect without any other amendments or modifications and all references to
+“this Agreement” set forth in the Asset Purchase Agreement shall refer to the Asset Purchase
+Agreement as amended by this Amendment.
+
+ 
+
+2.2 Each
+Party agrees and acknowledges that, solely for purposes of determining whether the conditions to Closing set forth in Article VI of the
+Asset Purchase Agreement, as amended by this Amendment, are satisfied and not for any other purpose, each Party waives any breaches of
+any representations, warranties or covenants by the other Parties occurring prior to the Amendment Effective Date; provided that such
+Party was aware of the breach prior to the Amendment Effective Date. Each Party further agrees and acknowledges that, except as set forth
+in the foregoing sentence, the Closing of the transactions contemplated by the Asset Purchase Agreement, as amended by this Amendment,
+does not and shall not operate as a waiver or be deemed to relieve any other Party or any of their respective Affiliates of any of their
+obligations under the Asset Purchase Agreement, this Amendment or any other Transaction Document that were to be taken
+or satisfied prior to or on the Closing and that were not complied with prior to Closing (whether or not such Party was aware
+of such non-compliance). The Parties further agree and acknowledge that, except as set forth in the first sentence of this Section
+2.2, (i) any amendments, restatements, eliminations, replacements or deletions of any of the provisions of the Asset Purchase Agreement
+by virtue of this Amendment shall not operate as a waiver of or consent to any breach or default of any Party’s obligations under
+any such provisions occurring prior to the Amendment Effective Date and (ii) no such amendments, restatements, eliminations, replacements
+or deletions of any such provisions shall relieve a defaulting or breaching Party from any Liability arising out of or relating to a breach
+or default of a Party’s obligations under any such provisions occurring prior to the Amendment Effective Date.
+
+ 
+
+3.
+Amended STAT Services Agreement Term Extension. The Parties hereto acknowledge and agree that this Amendment constitutes
+written notice of Buyer’s intention to exercise its right to extend the Amended STAT Services Agreement term through August 17,
+2023, pursuant to Section 13 of the Amended STAT Services Agreement, and that such term is so extended.
+
+ 
+
+4.
+Incorporation. The provisions of Sections 10.1 (Notices), 10.2 (Interpretation), 10.3 (Rules of Construction), 10.5
+(Jurisdiction; Governing Law), 10.6 (Waiver of Jury Trial), 10.7 (Severability), 10.10 (Assignment), 10.11 (No Third-Party Beneficiaries),
+10.13 (Amendments and Waivers), and 10.16 (Counterparts) of the Asset Purchase Agreement are hereby incorporated into, and shall be deemed
+to apply to, this Amendment, mutatis mutandis.
+
+ 
+
+(Signature pages follow)
+
+ 
+
+ 7
+
+  
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the Parties have executed
+this Amendment No. 1 to Asset Purchase Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ BUYER:
+
+ 
+  
+  
+  
+
+ 
+  
+ LABORATORY CORPORATION OF AMERICA HOLDINGS
+
+ 
+  
+  
+  
+
+ 
+  
+ By:
+ /s/ William B. Haas
+
+ 
+  
+ Name:
+ William B. Haas
+
+ 
+  
+ Title:
+ Senior Vice President
+
+ 
+
+ 
+
+[Signature Page to Amendment No. 1 to Asset Purchase Agreement]
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the Parties have executed
+this Amendment No. 1 to Asset Purchase Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ SELLER:
+
+ 
+  
+  
+
+ 
+  
+ ENZO CLINICAL LABS INC.
+
+ 
+  
+  
+
+ 
+  
+ By:
+ /s/ Hamid Erfanian
+
+ 
+  
+ Name: 
+ Hamid Erfanian
+
+ 
+  
+ Title:
+ Chief Executive Officer
+
+ 
+  
+  
+  
+
+ 
+  
+ SELLER PARENT:
+
+ 
+  
+  
+
+ 
+  
+ ENZO BIOCHEM, INC.
+
+ 
+  
+  
+  
+
+ 
+  
+ By:
+ /s/ Hamid Erfanian
+
+ 
+  
+ Name:
+ Hamid Erfanian
+
+ 
+  
+ Title:
+ Chief Executive Officer
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+Exhibit A
+
+ 
+
+Schedule 1.1(kkkkkkk)
+
+ 
+
+ 
+
+ 
+
+10
+
+ 
+
+EX-101.LAB
+3
+enz-20230703_lab.xml
+XBRL LABEL FILE
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cover [Abstract]
+ 
+ 
+ Document Type
+ 
+ 
+ Amendment Flag
+ 
+ 
+ Amendment Description
+ 
+ 
+ Document Registration Statement
+ 
+ 
+ Document Annual Report
+ 
+ 
+ Document Quarterly Report
+ 
+ 
+ Document Transition Report
+ 
+ 
+ Document Shell Company Report
+ 
+ 
+ Document Shell Company Event Date
+ 
+ 
+ Document Period Start Date
+ 
+ 
+ Document Period End Date
+ 
+ 
+ Document Fiscal Period Focus
+ 
+ 
+ Document Fiscal Year Focus
+ 
+ 
+ Current Fiscal Year End Date
+ 
+ 
+ Entity File Number
+ 
+ 
+ Entity Registrant Name
+ 
+ 
+ Entity Central Index Key
+ 
+ 
+ Entity Primary SIC Number
+ 
+ 
+ Entity Tax Identification Number
+ 
+ 
+ Entity Incorporation, State or Country Code
+ 
+ 
+ Entity Address, Address Line One
+ 
+ 
+ Entity Address, Address Line Two
+ 
+ 
+ Entity Address, Address Line Three
+ 
+ 
+ Entity Address, City or Town
+ 
+ 
+ Entity Address, State or Province
+ 
+ 
+ Entity Address, Country
+ 
+ 
+ Entity Address, Postal Zip Code
+ 
+ 
+ Country Region
+ 
+ 
+ City Area Code
+ 
+ 
+ Local Phone Number
+ 
+ 
+ Extension
+ 
+ 
+ Written Communications
+ 
+ 
+ Soliciting Material
+ 
+ 
+ Pre-commencement Tender Offer
+ 
+ 
+ Pre-commencement Issuer Tender Offer
+ 
+ 
+ Title of 12(b) Security
+ 
+ 
+ No Trading Symbol Flag
+ 
+ 
+ Trading Symbol
+ 
+ 
+ Security Exchange Name
+ 
+ 
+ Title of 12(g) Security
+ 
+ 
+ Security Reporting Obligation
+ 
+ 
+ Annual Information Form
+ 
+ 
+ Audited Annual Financial Statements
+ 
+ 
+ Entity Well-known Seasoned Issuer
+ 
+ 
+ Entity Voluntary Filers
+ 
+ 
+ Entity Current Reporting Status
+ 
+ 
+ Entity Interactive Data Current
+ 
+ 
+ Entity Filer Category
+ 
+ 
+ Entity Small Business
+ 
+ 
+ Entity Emerging Growth Company
+ 
+ 
+ Elected Not To Use the Extended Transition Period
+ 
+ 
+ Document Accounting Standard
+ 
+ 
+ Other Reporting Standard Item Number
+ 
+ 
+ Entity Shell Company
+ 
+ 
+ Entity Public Float
+ 
+ 
+ Entity Bankruptcy Proceedings, Reporting Current
+ 
+ 
+ Entity Common Stock, Shares Outstanding
+ 
+ 
+ Documents Incorporated by Reference [Text Block]
+ 
+
+EX-101.PRE
+4
+enz-20230703_pre.xml
+XBRL PRESENTATION FILE
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+EX-101.SCH
+5
+enz-20230703.xsd
+XBRL SCHEMA FILE
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 00000001 - Document - Cover
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+
+v3.23.2
+
+Cover
+
+Jul. 03, 2023
+
+Cover [Abstract]
+ 
+
+Document Type
+8-K
+
+Amendment Flag
+false
+
+Document Period End Date
+Jul. 03, 2023
+
+Entity File Number
+001-09974
+
+Entity Registrant Name
+Enzo Biochem, Inc.
+
+Entity Central Index Key
+0000316253
+
+Entity Tax Identification Number
+13-2866202
+
+Entity Incorporation, State or Country Code
+NY
+
+Entity Address, Address Line One
+81 Executive Blvd. Suite 3
+
+Entity Address, City or Town
+Farmingdale
+
+Entity Address, State or Province
+NY
+
+Entity Address, Postal Zip Code
+11735
+
+City Area Code
+631
+
+Local Phone Number
+755-5500
+
+Written Communications
+false
+
+Soliciting Material
+false
+
+Pre-commencement Tender Offer
+false
+
+Pre-commencement Issuer Tender Offer
+false
+
+Title of 12(b) Security
+Common Stock, $0.01 par value
+
+Trading Symbol
+ENZ
+
+Security Exchange Name
+NYSE
+
+Entity Emerging Growth Company
+false
+
+X
+
+- DefinitionBoolean flag that is true when the XBRL content amends previously-filed or accepted submission.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_AmendmentFlag
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionArea code of city
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CityAreaCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCover page.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CoverAbstract
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFor the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentPeriodEndDate
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:dateItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentType
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:submissionTypeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAddress Line 1 such as Attn, Building Name, Street Name
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressAddressLine1
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the City or Town
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressCityOrTown
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCode for the postal or zip code
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressPostalZipCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the state or province.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressStateOrProvince
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:stateOrProvinceItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityCentralIndexKey
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:centralIndexKeyItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicate if registrant meets the emerging growth company criteria.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityEmergingGrowthCompany
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCommission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityFileNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:fileNumberItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTwo-character EDGAR code representing the state or country of incorporation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityIncorporationStateCountryCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarStateCountryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityRegistrantName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityTaxIdentificationNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:employerIdItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLocal phone number for entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_LocalPhoneNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 13e -Subsection 4c
+
++ Details
+
+ Name:
+dei_PreCommencementIssuerTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 14d -Subsection 2b
+
++ Details
+
+ Name:
+dei_PreCommencementTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTitle of a 12(b) registered security.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b
+
++ Details
+
+ Name:
+dei_Security12bTitle
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:securityTitleItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the Exchange on which a security is registered.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection d1-1
+
++ Details
+
+ Name:
+dei_SecurityExchangeName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarExchangeCodeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Section 14a -Number 240 -Subsection 12
+
++ Details
+
+ Name:
+dei_SolicitingMaterial
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTrading symbol of an instrument as listed on an exchange.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_TradingSymbol
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:tradingSymbolItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Securities Act -Number 230 -Section 425
+
++ Details
+
+ Name:
+dei_WrittenCommunications
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+XML
+7
+ea181491-8k_enzobio_htm.xml
+IDEA: XBRL DOCUMENT
+
+ 
+ 
+ 
+ 0000316253
+ 
+ 
+ 2023-07-03
+ 2023-07-03
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ shares
+ 
+ 
+ 
+ 
+ iso4217:USD
+ 
+ 
+ shares
+ 
+ 
+ 
+ 0000316253
+ false
+ 8-K
+ 2023-07-03
+ Enzo Biochem, Inc.
+ NY
+ 001-09974
+ 13-2866202
+ 81 Executive Blvd. Suite 3
+ Farmingdale
+ NY
+ 11735
+ 631
+ 755-5500
+ false
+ false
+ false
+ false
+ Common Stock, $0.01 par value
+ ENZ
+ NYSE
+ false
+
+EXCEL
+8
+Financial_Report.xlsx
+IDEA: XBRL DOCUMENT
+
+begin 644 Financial_Report.xlsx
+M4$L#!!0 ( (B*ZE8'04UB@0 +$ 0 9&]C4')O<',O87!P+GAM
+M;$V./0L",1!$_\IQO;=!P4)B0-!2L+(/>QLOD&1#LD)^OCG!CVX>;QA&WPIG
+M*N*I#BV&5(_C(I(/ !47BK9.7:=N')=HI6-Y #OGDK7A.YNJQ<&4GPZ4A!0W_J=0U[R;UEA_6\#MI7E!+ P04
+M " "(BNI6U!"X6>T K @ $0 &1O8U!R;W!S+V-O&ULS9+!
+M2L0P$(9?17)O)TE!(71[6?&D(+B@> O)[&ZP24,RTN[;F];=+J(/X#$S?[[Y
+M!J8U49DAX7,:(B9RF&\FWX>L3-RP(U%4 -DM(VGSH
+M X+D_!8\DK::-,S *JY$UK76*)-0TY#.>&M6?/Q,_0*S!K!'CX$RB%H Z^:)
+M\33U+5P!,XPP^?Q=0+L2E^J?V*4#[)R7Y9U*Q&PO=&AE
+M;64O=&AE;64Q+GAM;.U:6W/:.!1^[Z_0>&?V;0O&-H&VM!-S:7;;M)F$[4X?
+MA1%8C6QY9)&$?[]'-A#+E@WMDDVZFSP$+.G[SD5'Y^@X>?/N+F+HAHB4\GA@
+MV2_;UKNW+][@5S(D$4$P&:>O\, *I4Q>M5II ,,X?+&A T%116F]?(+3E'S/X%/F7/Z3H=,H%N,!M8('_.;Z?D3EJ(X53"Q,!J9S]6:\?1
+MTDB @LE]E 6Z2?:CTQ4(,@T[.IU8SG9\]L3MGXS*VG0T;1K@X_%X.+;+THMP
+M' 3@4;N>PIWT;+^D00FTHVG09-CVVJZ1IJJ-4T_3]WW?ZYMHG J-6T_3:W?=
+MTXZ)QJW0> V^\4^'PZZ)QJO0=.MI)B?]KFNDZ19H0D;CZWH2%;7E0-,@ %AP
+M=M;,T@.67BGZ=90:V1V[W4%<\%CN.8D1_L;%!-9ITAF6-$9RG9 %#@ WQ-%,
+M4'RO0;:*X,*2TER0UL\IM5 :")K(@?5'@B'%W*_]]9>[R:0S>IU].LYKE']I
+MJP&G[;N;SY/\<^CDGZ>3UTU"SG"\+ GQ^R-;88C'(CN]WV6'WV3T=N(]>IP+,BUY1&)$6?R"VZ
+MY!$XM4D-,A,_")V&F&I0' *D"3&6H8;XM,:L$> 3?;>^",C?C8CWJV^:/5>A
+M6$G:A/@01AKBG'/F<]%L^P>E1M'V5;SC
+MFED)O816:I^JAS0^J!XR"@7QN1X^Y7IX"C>6QKQ0KH)[ ?_1VC?"J_B"P#E_
+M+GW/I>^Y]#VATK\>WZV22$KYI9+2,6D$N!LT$DN/R+RO JQ GH9%LE"
+M0AMNZ5/U2I77Y:^Y*+@\6^3IKZ%T/BS/^3Q?Y[3-"S-#MW)+ZK:4OK4F.$KT
+ML@'37[]EUVY".E,%.70[@:0KX#;;J=W#HXGIB1N0K3
+M4I!OP_GIQ7@:XCG9!+E]F%=MY]C1T?OGP5&PH^\\EAW'B/*B(>ZAAIC/PT.'
+M>7M?F&>5QE T%&ULK"0L1K=@N-?Q+!3@9& MH >#KU$"\E)58#%;Q@,KD*)\
+M3(Q%Z'#GEUQ?X]&2X]NF9;5NKREW&6TB4CG":9@39ZO*WF6QP54=SU5;\K"^
+M:CVT%4[/_EFMR)\,$4X6"Q)(8Y07IDJB\QE3ON>;G*YZ(G;ZEW?!
+M8/+]<,E'#^4[YU_T74.N?O;=X_INDSM(3)QYQ1$!=$4"(Y4U#VT%SU&\Z.9X!ZSAW.;>KC"1:S_6-8>^3+?.7#;.MX#7N83
+M+$.D?L%]BHJ $:MBOKJO3_DEG#NT>_&!()O\UMND]MW@#'S4JUJE9"L1/TL'
+M?!^2!F.,6_0T7X\48JVFL:W&VC$,>8!8\PRA9CC?AT6:&C/5BZPYC0IO0=5
+MY3_;U UH]@TT')$%7C&9MC:CY$X*/-S^[PVPPL2.X>V+OP%02P,$% @
+MB(KJ5BP>F,I#! =Q !@ !X;"]W;W)K)).L>_W1W>H[,:*?TD]EP;LES(E,S]C;69E>^;Z(-3YAIJXRG
+M\,E*Z819.-5KWV2:L[@(2J0?!D'?3YA(O]1[O? @UAOK+OB34<;6?,'MG]E-;VZ";LN
+MH+CC+\%WYNB8N$=9*O7D3N[BL1^5R5C$QQZTI^%ZR[W)
+M3S_0?O KPM7S)>!X>'#R_>(A#=$J*+JEP#05Q0W$JV
+MKJ/ XU=,&HYP]$J.WGG)F',M5$QF:4R@^6KS@BL5;53T45,C]4NV/JHX2ZVP
+M+^162$[N\V19W]RX1A#0B^#R 8ES^ ^%JZU(6GW+*G-5)/.%T5N
+MA'*NW")W:=1&X(8EW/ KA3 3X?VPQY6P\L2Z_(<
+MK$?V3.YB8!,K$;'"PT]7%%>DG8MPV.]#CR%X-*@\,S@'$*J@=*9TP=8B"POO
+M %&:3%4."86\JKBVT@WJ]Y\PR"-CI^= 7L3S4>W26EI<[I9I&)CKF$G,
+M]&@U BANXM_BE?6>:[45:52?45P3KW4U&"CN[-^BS96Q\$)_%MGI)L05*1UT
+M>AA;-2PH[O%%%:]AQ7@:!1?H=R@&4DT&BMOZ.Q5!3N8;E6*CH4%DT.M=]'I!
+M@!%5LX'BIOY1"VMY"HE)DCP]F)RII<*%FB8[K28"Q8U\H:2(A(7WAKR']M:"
+MR5H>7*61IQH%%'?NN>87$:2'P_NU7X#!&@B6BA]6JQ/UP_6:R,)J"(2X37]'
+M=F=,#F1-@ VRC8#5 AQMWX4%A9!:D5H^//R%[( XX9^JQWN#4JN/V'Z+JR*
+MGEKDQZ =4)(Q3;9,YBCKT?(?]^I'S6+7JU!Z/[38H815=X>GN7MLX3KM4O1;Z!@-\XS,I;65_-_;@/\
+MHVVDVY*_9^X;#9%\!4)!>P ^K?>[W/V)55FQLUPJ"_O4XG##&72_NP$^7REE
+M7T_<9K7\7\/D*U!+ P04 " "(BNI6GZ ;\+$" #B# #0 'AL+W-T
+M>6QEO%DN7/Z
+MZZ>S;"=I=67=A['-HN
+M6/O.-%Q[I#)6,>=56R=M8SDK6W!2,EG>W&2)8D+38JT[=:=<2PZFTVY#;VA2
+MK"NCSY:4!H-?RA0GCTQNZ)9)L;=B6,N4D*=@7H+A8*2QQ'DJ?$,78&F? KP(
+M&K XU7=>&18/QA<0&>7=
+MJ?$,:\M.B^4M/3L,/S[)WMB2VSG-@DZF8BUY!72LJ(_PZTR3 .B<45XH!:N-
+M9@.'R6,4?-@#E_(!6OBMNHK=5R3TXE,);2"PU4GTA$8QA D*Q+^,%F)?A+W]
+MK;"D$8_&?>S\;O2@?^^,X_>65Z(?]+Z:\V/1%WATUC3R]$&*6BL>]O[+"8LU
+MF_S(T5CQY+/!I!R\@5M*'KEUXG!I^6%9L^.]FZ:IKW#.RW^0\Y^M<\TUMTQ>
+MDO:C_S=7^2V,D_'T7!S1JP,Z6PEY7>>9 ]IV03NA1.XJRY/K%.?7A
+M'=O["_PJOE]?\HIUTNUF<$//\A=>BD[E\ZI[J,NXZBQ_AOMHD\%G'!QR>(W?#$T%^@2O&+(=/EB>N$_NG_A.\SQ-LPRKZ'8;9;#%ZI9E\!>/AG$##RP/
+M9'I;K?%NXQ/R^AQ@/7UM0K"=XI.([12O-2#QNH%'GL>[C>4!#ZP+V.Q _G@>
+MF*FX3YI"5S%NV G&D3S'$)C%^(QF&5*=##[Q_F"G)$WS/(X %F>0IA@"IQ%'
+M, ; 4/2='@//GL?)=-[*CG_5U/\!%!+ P04 " "(BNI6EXJ[', 3
+M @ "P %]R96QS+RYR96QSG9*Y;L,P#$!_Q=">, ?0(8@S9?$6!/D!5J(/
+MV!(%BD6=OZ_:I7&0"QEY/3P2W!YI0.TXI+:+J1C]$%)I6M6X 4BV)8]ISI%"
+MKM0L'C6'TD!$VV-#L%HL/D N&6:WO606IW.D5XA-/E_G;@2=&A(E@6FD7)TZ(=I7\=Q_:0
+MT^FO8R*T>EOH^7%H5 J.W&,EC'%BM/XU@LD/['X 4$L#!!0 ( (B*ZE:J
+MQ"(6,P$ "(" / >&PO=V]R:V)O;VLN>&ULC5'1;L(P#/R5*A^P%K0A
+M#5%>0-N0I@V-B??0NM0BB2O'A8VOG]NJ&M)>]I31=B
+M;FJ19IZFL:C!VWA'#02=5,3>BD(^IK%AL&6L <2[=)IEL]1;#&:Y&+6VG-X"
+M$B@$*2C9$7N$2_R==S Y8\0#.I3OW/1W!R;Q&-#C%B/%*0:S;
+M%4S.Y68R#/; @L4?>M>9_+2'V#-B#Q]6C>1FEJE@A1REW^CUK7H\@RX/J!5Z
+M0B? :ROPS-0V&(Z=C*9(;V+T/8SG4.*<_U,C5146L*:B]1!DZ)'!=09#K+&)
+M)@G60VY6= ;N\N@#FW+()FKJIBF>HPYX4P[V1D\E5!B@?%.9J+SV4VPYZ8Y>
+M9WK_,'G4'EKG5LJ]AU>RY1AQ_)[E#U!+ P04 " "(BNI6)!Z;HJT #X
+M 0 &@ 'AL+U]R96QS+W=O[IFBG#S^0W1U
+MW6E\./VR./ /,+Q=Z*E%9"E*%1KD3,)HMC;!4N++3):BJ#(9BBJ6<%H@XLD@
+M;6E6?;!/3K3G>1,)KM\,<'AT_@%02P,$% @ B(KJ5F60>9(9
+M 0 SP, !, !;0V]N=&5N=%]4>7!E&ULK9--3L,P$(6O$F5;)2XL
+M6*"F&V +77 !8T\:J_Z39UK2VS-.VDJ@$A6%3:QXWKS/GI>LWH\1L.B=]=B4
+M'5%\% )5!TYB'2)XKK0A.4G\FK8B2K636Q#WR^6#4,$3>*HH>Y3KU3.T.EY&TWP39G 8ED\C<+,:DH9HS5*$M?%P>L?E.I$J+EST&!G(BY84(JKA%SY
+M'7#J>SM 2D9#L9&)7J5CE>BM0#I:P'K:XLH90]L:!3JHO>.6&F,"J;$#(&?K
+MT70Q32:>,(S/N]G\P68*R,I-"A$YL01_QYTCR=U59"-(9*:O>"&R]>S[04Y;
+M@[Z1S>/]#&DWY(%B6.;/^'O&%_\;SO$1PNZ_/[&\UDX:?^:+X3]>?P%02P$"
+M% ,4 " "(BNI6!T%-8H$ "Q $ @ $ 9&]C
+M4')O<',O87!P+GAM;%!+ 0(4 Q0 ( (B*ZE;4$+A9[0 "L" 1
+M " :\ !D;V-0&UL4$L! A0#% @ B(KJ5BP>F,I#! =Q !@
+M ("!# @ 'AL+W=O7!E&UL4$L%!@ ) D /@(
+' -D3 $!
+
+end
+
+XML
+9
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+
+XML
+10
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+..report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+..report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+..report table.authRefData p {
+ margin-top: 0px;
+}
+
+..report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+..report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+..report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+..report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+..pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+..report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+..report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+..report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+..report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+..report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+..report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+..report td.pl div.a {
+ width: 200px;
+}
+
+..report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+..report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+..report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+..report .re, .report .reu {
+ background-color: #def;
+}
+
+..report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+..report .ro, .report .rou {
+ background-color: white;
+}
+
+..report .rou td {
+ border-bottom: 1px solid black;
+}
+
+..report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+..report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+..report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+..report .nump {
+ padding-left: 2em;
+}
+
+..report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+..report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+..report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+..report .text .more {
+ display: none;
+}
+
+..report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+..report .text .small {
+ width: 10em;
+}
+
+..report sup {
+ font-style: italic;
+}
+
+..report .outerFootnotes {
+ font-size: 1em;
+}
+
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+ 3.23.2
+ 
+ html
+ 1
+ 22
+ 1
+ false
+ 0
+ 0
+ false
+ 3
+ 
+ 
+ false
+ false
+ R1.htm
+ 00000001 - Document - Cover
+ Sheet
+ http://enzo.com/role/Cover
+ Cover
+ Cover
+ 1
+ 
+ 
+ false
+ false
+ All Reports
+ Book
+ All Reports
+ 
+ 
+ 
+ ea181491-8k_enzobio.htm
+ ea181491ex2-1_enzobio.htm
+ enz-20230703.xsd
+ enz-20230703_lab.xml
+ enz-20230703_pre.xml
+ 
+ 
+ 
+ http://xbrl.sec.gov/dei/2023
+ 
+ true
+ false
+
+JSON
+13
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "instance": {
+ "ea181491-8k_enzobio.htm": {
+ "axisCustom": 0,
+ "axisStandard": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2023": 22
+ },
+ "contextCount": 1,
+ "dts": {
+ "inline": {
+ "local": [
+ "ea181491-8k_enzobio.htm"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "enz-20230703_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "enz-20230703_pre.xml"
+ ]
+ },
+ "schema": {
+ "local": [
+ "enz-20230703.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+ "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+ "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+ "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://www.xbrl.org/dtr/type/2022-03-31/types.xsd",
+ "https://xbrl.fasb.org/srt/2023/elts/srt-2023.xsd",
+ "https://xbrl.fasb.org/srt/2023/elts/srt-roles-2023.xsd",
+ "https://xbrl.fasb.org/srt/2023/elts/srt-types-2023.xsd",
+ "https://xbrl.fasb.org/us-gaap/2023/elts/us-gaap-2023.xsd",
+ "https://xbrl.fasb.org/us-gaap/2023/elts/us-roles-2023.xsd",
+ "https://xbrl.fasb.org/us-gaap/2023/elts/us-types-2023.xsd",
+ "https://xbrl.sec.gov/country/2023/country-2023.xsd",
+ "https://xbrl.sec.gov/dei/2023/dei-2023.xsd"
+ ]
+ }
+ },
+ "elementCount": 59,
+ "entityCount": 1,
+ "hidden": {
+ "http://xbrl.sec.gov/dei/2023": 2,
+ "total": 2
+ },
+ "keyCustom": 0,
+ "keyStandard": 22,
+ "memberCustom": 0,
+ "memberStandard": 0,
+ "nsprefix": "ENZ",
+ "nsuri": "http://enzo.com/20230703",
+ "report": {
+ "R1": {
+ "firstAnchor": {
+ "ancestors": [
+ "span",
+ "b",
+ "span",
+ "p",
+ "body",
+ "html"
+ ],
+ "baseRef": "ea181491-8k_enzobio.htm",
+ "contextRef": "From2023-07-03to2023-07-03",
+ "decimals": null,
+ "first": true,
+ "lang": "en-US",
+ "name": "dei:DocumentType",
+ "reportCount": 1,
+ "unique": true,
+ "unitRef": null,
+ "xsiNil": "false"
+ },
+ "groupType": "document",
+ "isDefault": "true",
+ "longName": "00000001 - Document - Cover",
+ "menuCat": "Cover",
+ "order": "1",
+ "role": "http://enzo.com/role/Cover",
+ "shortName": "Cover",
+ "subGroupType": "",
+ "uniqueAnchor": {
+ "ancestors": [
+ "span",
+ "b",
+ "span",
+ "p",
+ "body",
+ "html"
+ ],
+ "baseRef": "ea181491-8k_enzobio.htm",
+ "contextRef": "From2023-07-03to2023-07-03",
+ "decimals": null,
+ "first": true,
+ "lang": "en-US",
+ "name": "dei:DocumentType",
+ "reportCount": 1,
+ "unique": true,
+ "unitRef": null,
+ "xsiNil": "false"
+ }
+ }
+ },
+ "segmentCount": 0,
+ "tag": {
+ "dei_AmendmentDescription": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Description of changes contained within amended document.",
+ "label": "Amendment Description"
+ }
+ }
+ },
+ "localname": "AmendmentDescription",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "stringItemType"
+ },
+ "dei_AmendmentFlag": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.",
+ "label": "Amendment Flag"
+ }
+ }
+ },
+ "localname": "AmendmentFlag",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_AnnualInformationForm": {
+ "auth_ref": [
+ "r14"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing an annual information form.",
+ "label": "Annual Information Form"
+ }
+ }
+ },
+ "localname": "AnnualInformationForm",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_AuditedAnnualFinancialStatements": {
+ "auth_ref": [
+ "r14"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag with value true on a form if it is an annual report containing audited financial statements.",
+ "label": "Audited Annual Financial Statements"
+ }
+ }
+ },
+ "localname": "AuditedAnnualFinancialStatements",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_CityAreaCode": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Area code of city",
+ "label": "City Area Code"
+ }
+ }
+ },
+ "localname": "CityAreaCode",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_CountryRegion": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Region code of country",
+ "label": "Country Region"
+ }
+ }
+ },
+ "localname": "CountryRegion",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_CoverAbstract": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Cover page.",
+ "label": "Cover [Abstract]"
+ }
+ }
+ },
+ "localname": "CoverAbstract",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "xbrltype": "stringItemType"
+ },
+ "dei_CurrentFiscalYearEndDate": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "End date of current fiscal year in the format --MM-DD.",
+ "label": "Current Fiscal Year End Date"
+ }
+ }
+ },
+ "localname": "CurrentFiscalYearEndDate",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "gMonthDayItemType"
+ },
+ "dei_DocumentAccountingStandard": {
+ "auth_ref": [
+ "r13"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The basis of accounting the registrant has used to prepare the financial statements included in this filing This can either be 'U.S. GAAP', 'International Financial Reporting Standards', or 'Other'.",
+ "label": "Document Accounting Standard"
+ }
+ }
+ },
+ "localname": "DocumentAccountingStandard",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "accountingStandardItemType"
+ },
+ "dei_DocumentAnnualReport": {
+ "auth_ref": [
+ "r11",
+ "r13",
+ "r14"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true only for a form used as an annual report.",
+ "label": "Document Annual Report"
+ }
+ }
+ },
+ "localname": "DocumentAnnualReport",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_DocumentFiscalPeriodFocus": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY.",
+ "label": "Document Fiscal Period Focus"
+ }
+ }
+ },
+ "localname": "DocumentFiscalPeriodFocus",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "fiscalPeriodItemType"
+ },
+ "dei_DocumentFiscalYearFocus": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006.",
+ "label": "Document Fiscal Year Focus"
+ }
+ }
+ },
+ "localname": "DocumentFiscalYearFocus",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "gYearItemType"
+ },
+ "dei_DocumentPeriodEndDate": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.",
+ "label": "Document Period End Date"
+ }
+ }
+ },
+ "localname": "DocumentPeriodEndDate",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "dateItemType"
+ },
+ "dei_DocumentPeriodStartDate": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The start date of the period covered in the document, in YYYY-MM-DD format.",
+ "label": "Document Period Start Date"
+ }
+ }
+ },
+ "localname": "DocumentPeriodStartDate",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "dateItemType"
+ },
+ "dei_DocumentQuarterlyReport": {
+ "auth_ref": [
+ "r12"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true only for a form used as an quarterly report.",
+ "label": "Document Quarterly Report"
+ }
+ }
+ },
+ "localname": "DocumentQuarterlyReport",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_DocumentRegistrationStatement": {
+ "auth_ref": [
+ "r0"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true only for a form used as a registration statement.",
+ "label": "Document Registration Statement"
+ }
+ }
+ },
+ "localname": "DocumentRegistrationStatement",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_DocumentShellCompanyEventDate": {
+ "auth_ref": [
+ "r13"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Date of event requiring a shell company report.",
+ "label": "Document Shell Company Event Date"
+ }
+ }
+ },
+ "localname": "DocumentShellCompanyEventDate",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "dateItemType"
+ },
+ "dei_DocumentShellCompanyReport": {
+ "auth_ref": [
+ "r13"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true for a Shell Company Report pursuant to section 13 or 15(d) of the Exchange Act.",
+ "label": "Document Shell Company Report"
+ }
+ }
+ },
+ "localname": "DocumentShellCompanyReport",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_DocumentTransitionReport": {
+ "auth_ref": [
+ "r15"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true only for a form used as a transition report.",
+ "label": "Document Transition Report"
+ }
+ }
+ },
+ "localname": "DocumentTransitionReport",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_DocumentType": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.",
+ "label": "Document Type"
+ }
+ }
+ },
+ "localname": "DocumentType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "submissionTypeItemType"
+ },
+ "dei_DocumentsIncorporatedByReferenceTextBlock": {
+ "auth_ref": [
+ "r3"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Documents incorporated by reference.",
+ "label": "Documents Incorporated by Reference [Text Block]"
+ }
+ }
+ },
+ "localname": "DocumentsIncorporatedByReferenceTextBlock",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "textBlockItemType"
+ },
+ "dei_EntityAddressAddressLine1": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name",
+ "label": "Entity Address, Address Line One"
+ }
+ }
+ },
+ "localname": "EntityAddressAddressLine1",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressAddressLine2": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Address Line 2 such as Street or Suite number",
+ "label": "Entity Address, Address Line Two"
+ }
+ }
+ },
+ "localname": "EntityAddressAddressLine2",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressAddressLine3": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Address Line 3 such as an Office Park",
+ "label": "Entity Address, Address Line Three"
+ }
+ }
+ },
+ "localname": "EntityAddressAddressLine3",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressCityOrTown": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Name of the City or Town",
+ "label": "Entity Address, City or Town"
+ }
+ }
+ },
+ "localname": "EntityAddressCityOrTown",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressCountry": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "ISO 3166-1 alpha-2 country code.",
+ "label": "Entity Address, Country"
+ }
+ }
+ },
+ "localname": "EntityAddressCountry",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "countryCodeItemType"
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Code for the postal or zip code",
+ "label": "Entity Address, Postal Zip Code"
+ }
+ }
+ },
+ "localname": "EntityAddressPostalZipCode",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Name of the state or province.",
+ "label": "Entity Address, State or Province"
+ }
+ }
+ },
+ "localname": "EntityAddressStateOrProvince",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "stateOrProvinceItemType"
+ },
+ "dei_EntityBankruptcyProceedingsReportingCurrent": {
+ "auth_ref": [
+ "r6"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "For registrants involved in bankruptcy proceedings during the preceding five years, the value Yes indicates that the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court; the value No indicates the registrant has not. Registrants not involved in bankruptcy proceedings during the preceding five years should not report this element.",
+ "label": "Entity Bankruptcy Proceedings, Reporting Current"
+ }
+ }
+ },
+ "localname": "EntityBankruptcyProceedingsReportingCurrent",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_EntityCentralIndexKey": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.",
+ "label": "Entity Central Index Key"
+ }
+ }
+ },
+ "localname": "EntityCentralIndexKey",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "centralIndexKeyItemType"
+ },
+ "dei_EntityCommonStockSharesOutstanding": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument.",
+ "label": "Entity Common Stock, Shares Outstanding"
+ }
+ }
+ },
+ "localname": "EntityCommonStockSharesOutstanding",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "sharesItemType"
+ },
+ "dei_EntityCurrentReportingStatus": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure.",
+ "label": "Entity Current Reporting Status"
+ }
+ }
+ },
+ "localname": "EntityCurrentReportingStatus",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "yesNoItemType"
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate if registrant meets the emerging growth company criteria.",
+ "label": "Entity Emerging Growth Company"
+ }
+ }
+ },
+ "localname": "EntityEmergingGrowthCompany",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_EntityExTransitionPeriod": {
+ "auth_ref": [
+ "r19"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.",
+ "label": "Elected Not To Use the Extended Transition Period"
+ }
+ }
+ },
+ "localname": "EntityExTransitionPeriod",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_EntityFileNumber": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.",
+ "label": "Entity File Number"
+ }
+ }
+ },
+ "localname": "EntityFileNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "fileNumberItemType"
+ },
+ "dei_EntityFilerCategory": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure.",
+ "label": "Entity Filer Category"
+ }
+ }
+ },
+ "localname": "EntityFilerCategory",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "filerCategoryItemType"
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation.",
+ "label": "Entity Incorporation, State or Country Code"
+ }
+ }
+ },
+ "localname": "EntityIncorporationStateCountryCode",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "edgarStateCountryItemType"
+ },
+ "dei_EntityInteractiveDataCurrent": {
+ "auth_ref": [
+ "r16"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).",
+ "label": "Entity Interactive Data Current"
+ }
+ }
+ },
+ "localname": "EntityInteractiveDataCurrent",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "yesNoItemType"
+ },
+ "dei_EntityPrimarySicNumber": {
+ "auth_ref": [
+ "r14"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Primary Standard Industrial Classification (SIC) Number for the Entity.",
+ "label": "Entity Primary SIC Number"
+ }
+ }
+ },
+ "localname": "EntityPrimarySicNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "sicNumberItemType"
+ },
+ "dei_EntityPublicFloat": {
+ "auth_ref": [],
+ "crdr": "credit",
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter.",
+ "label": "Entity Public Float"
+ }
+ }
+ },
+ "localname": "EntityPublicFloat",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "monetaryItemType"
+ },
+ "dei_EntityRegistrantName": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.",
+ "label": "Entity Registrant Name"
+ }
+ }
+ },
+ "localname": "EntityRegistrantName",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityShellCompany": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act.",
+ "label": "Entity Shell Company"
+ }
+ }
+ },
+ "localname": "EntityShellCompany",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_EntitySmallBusiness": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicates that the company is a Smaller Reporting Company (SRC).",
+ "label": "Entity Small Business"
+ }
+ }
+ },
+ "localname": "EntitySmallBusiness",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.",
+ "label": "Entity Tax Identification Number"
+ }
+ }
+ },
+ "localname": "EntityTaxIdentificationNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "employerIdItemType"
+ },
+ "dei_EntityVoluntaryFilers": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.",
+ "label": "Entity Voluntary Filers"
+ }
+ }
+ },
+ "localname": "EntityVoluntaryFilers",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "yesNoItemType"
+ },
+ "dei_EntityWellKnownSeasonedIssuer": {
+ "auth_ref": [
+ "r17"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A.",
+ "label": "Entity Well-known Seasoned Issuer"
+ }
+ }
+ },
+ "localname": "EntityWellKnownSeasonedIssuer",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "yesNoItemType"
+ },
+ "dei_Extension": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Extension number for local phone number.",
+ "label": "Extension"
+ }
+ }
+ },
+ "localname": "Extension",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_LocalPhoneNumber": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Local phone number for entity.",
+ "label": "Local Phone Number"
+ }
+ }
+ },
+ "localname": "LocalPhoneNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_NoTradingSymbolFlag": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true only for a security having no trading symbol.",
+ "label": "No Trading Symbol Flag"
+ }
+ }
+ },
+ "localname": "NoTradingSymbolFlag",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "trueItemType"
+ },
+ "dei_OtherReportingStandardItemNumber": {
+ "auth_ref": [
+ "r13"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "\"Item 17\" or \"Item 18\" specified when the basis of accounting is neither US GAAP nor IFRS.",
+ "label": "Other Reporting Standard Item Number"
+ }
+ }
+ },
+ "localname": "OtherReportingStandardItemNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "otherReportingStandardItemNumberItemType"
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "auth_ref": [
+ "r7"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.",
+ "label": "Pre-commencement Issuer Tender Offer"
+ }
+ }
+ },
+ "localname": "PreCommencementIssuerTenderOffer",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_PreCommencementTenderOffer": {
+ "auth_ref": [
+ "r8"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.",
+ "label": "Pre-commencement Tender Offer"
+ }
+ }
+ },
+ "localname": "PreCommencementTenderOffer",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_Security12bTitle": {
+ "auth_ref": [
+ "r1"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Title of a 12(b) registered security.",
+ "label": "Title of 12(b) Security"
+ }
+ }
+ },
+ "localname": "Security12bTitle",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "securityTitleItemType"
+ },
+ "dei_Security12gTitle": {
+ "auth_ref": [
+ "r5"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Title of a 12(g) registered security.",
+ "label": "Title of 12(g) Security"
+ }
+ }
+ },
+ "localname": "Security12gTitle",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "securityTitleItemType"
+ },
+ "dei_SecurityExchangeName": {
+ "auth_ref": [
+ "r4"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Name of the Exchange on which a security is registered.",
+ "label": "Security Exchange Name"
+ }
+ }
+ },
+ "localname": "SecurityExchangeName",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "edgarExchangeCodeItemType"
+ },
+ "dei_SecurityReportingObligation": {
+ "auth_ref": [
+ "r9"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "15(d), indicating whether the security has a reporting obligation under that section of the Exchange Act.",
+ "label": "Security Reporting Obligation"
+ }
+ }
+ },
+ "localname": "SecurityReportingObligation",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "securityReportingObligationItemType"
+ },
+ "dei_SolicitingMaterial": {
+ "auth_ref": [
+ "r10"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.",
+ "label": "Soliciting Material"
+ }
+ }
+ },
+ "localname": "SolicitingMaterial",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_TradingSymbol": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Trading symbol of an instrument as listed on an exchange.",
+ "label": "Trading Symbol"
+ }
+ }
+ },
+ "localname": "TradingSymbol",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "tradingSymbolItemType"
+ },
+ "dei_WrittenCommunications": {
+ "auth_ref": [
+ "r18"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.",
+ "label": "Written Communications"
+ }
+ }
+ },
+ "localname": "WrittenCommunications",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "presentation": [
+ "http://enzo.com/role/Cover"
+ ],
+ "xbrltype": "booleanItemType"
+ }
+ },
+ "unitCount": 3
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r1": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "b",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r10": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "14a",
+ "Subsection": "12",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r11": {
+ "Name": "Form 10-K",
+ "Number": "249",
+ "Publisher": "SEC",
+ "Section": "310",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r12": {
+ "Name": "Form 10-Q",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "308",
+ "Subsection": "a",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r13": {
+ "Name": "Form 20-F",
+ "Number": "249",
+ "Publisher": "SEC",
+ "Section": "220",
+ "Subsection": "f",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r14": {
+ "Name": "Form 40-F",
+ "Number": "249",
+ "Publisher": "SEC",
+ "Section": "240",
+ "Subsection": "f",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r15": {
+ "Name": "Forms 10-K, 10-Q, 20-F",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "13",
+ "Subsection": "a-1",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r16": {
+ "Name": "Regulation S-T",
+ "Number": "232",
+ "Publisher": "SEC",
+ "Section": "405",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r17": {
+ "Name": "Securities Act",
+ "Number": "230",
+ "Publisher": "SEC",
+ "Section": "405",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r18": {
+ "Name": "Securities Act",
+ "Number": "230",
+ "Publisher": "SEC",
+ "Section": "425",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r19": {
+ "Name": "Securities Act",
+ "Number": "7A",
+ "Publisher": "SEC",
+ "Section": "B",
+ "Subsection": "2",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r2": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "b-2",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r3": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "b-23",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r4": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "d1-1",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r5": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "g",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r6": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12, 13, 15d",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r7": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "13e",
+ "Subsection": "4c",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r8": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "14d",
+ "Subsection": "2b",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r9": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "15",
+ "Subsection": "d",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ }
+ },
+ "version": "2.2"
+}
+
+ZIP
+14
+0001213900-23-055883-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001213900-23-055883-xbrl.zip
+M4$L#!!0 ( (B*ZE:%K&+$114 $IW 7 96$Q.#$T.3$M.&M?96YZ
+M;V)I;RYH=&WM/6E7V\BRWSF'_]#/,[D'[O4BR0M@B.\QMDE(V()-(/G":4EM
+M6R!+HB6!S:]_5=V25QD,,0'F)C,)6+W47EU5W6KO_+??L\DMX[[E.A]3:E9)
+M$>88KFDYG8^I,&AG-E/_K:RN['0#Z =]'?]CJAL$7CF7N[N[R][ELR[OY-2M
+MK:U<'_ND9*=R/[&?IBAJ[N+PH&ET68]F+,9HP'CG4DXV3G0-$KL69=<@[FKY;D%3-Q["0_88#NC/ZZLB
+MSD AN]@]/1AU#Y+[C[KF DX=O^WR'@U ACA3,:-H&:TT-DG&9\;$1/ YVW%O
+M'YUG,Y-7XWEFA#-)*3;KU!]RW&13[(YA0@.,T/)Q1\[:/$ )\'LU/#PXE.C:.?
+MPT[,N7>SAML3'90-)9\2=L6H"3\)_MD)K,!FE9V<_ FM/190@N,S[":T;C^F
+M:JX3,"?(M 8>,-J0GSZF M8/=;\H-4_5:LG\ /1(YG,HJ/SA4N@\C*F[C*F[@E3% K#
+M4<\97BQ>,M I0!W^;SC O$$-N,*IO>^8K/^5#2X5^)-72UKQ2?-NC3:*[\#$IS)]==9EN_9=% FCNLPT6CURZBLC*,5B$^6:3)'V 1^A(Y'80_F
+M,J2Z]X-3]!=[W.VAKF24C8R2#]S1[RGB -4 BEGE1&U(54;JL).; +$$RPN$QL+=F^;Z:B
+MU@!4;_4\FTEW$$&:G%M"\]V0Q\"@FQ!].:*86.:#%,=N*Q[&!+.'3X?/
+M+1-;VA;C1%#"$E>BVO[72<%,#QZ!RR7"BZ!YP%[7G,4"P@$>U&G *B,2XIE&
+M;3/#0))S!L4MTVA-(! _C%@ZR>?0L223P>IFN-ECU \YJT3F688^\61QTR0(
+MG&W._-+6YX*(F" Z/1O&R*?,P '[!S'.\A;'"GN@@?N)_.U[L3GN4=RRG
+M3)041 V>:!Y? TY#FV5.:$-N6([+!*X'8[=)]%%W@\#MB2=WEAETT<$K
+M'U(3(W67 T)RY*Y-C6NBP1K@N[9E;I.H,9Y'MJNC=EPU,KYU#VL2/$U5_O67
+M6E*V)6G1OV/8YR;0GTMX/(DWU671)2HF'R:#KD [&FJ&VE8''AG@9!@'RH"2
+M#HPV
+M<)WTZDJ]1C2E6-AZ P2\$SW>.SX]!/1$=_3[&%-N*741*F7JFQFOD['64.A_I'O8O(%6S]M'+56
+M5TX;)\>GK3? N(51/PFY'U(G6%T)7 !L8!V#J'GB@]ZC8'ZZ@KPC#//Y0%9PP?(0T8A
+M"F-^0-@M0(J:F0D"6"^3:2=7G')R)R+2;\@\(-G;W?!OM=[^H&'42\_V=K(F
+M]S%E]8.R"9!Z,*YKTL$ D&=.DC><0"Q5^1+: Y)/$YSTCW_\1<.<5HK=2"ED
+MJ>&4=2P?*ZD!EEZ2=>*G7CHQV9EV<+.QA!4P"6ZJTG#N7;)KN9AOI\F^8V3?
+MKN 78_U:HT\-<.U('UKNB&)"?=+TF(%5 I-8#MD/?%*#K W KO]1ZNZ/S35^&W\/]"ZS2!,SC[BTJ
+M_Z3C6P#/5 59_,/EU^_>$@1IL)QQ<@PA B=?($+P34O&.V :$WQX8Q804-UF
+M,,JV 2M#[#(J*?'9HZ89?WXRAF/UBF$9 O"PJ> [AE/+ ,
+M:L?4!*[W "E1Z28PIXHA<;U#E_6.;'%4\8CP*FQ]2&+;E,1%>:1->Y8]*#]&
+M\'@I1<%:2H(5[TU8\9YE,U!YG?%DD[4[]H;]N7YUO)3$;!HFUG;5C+*UM5%8
+MQ/X"D=K!W?UX__=DZ^6PM
+M36IS$$A5U'Q&VRR58.R",H1_^))M[F6%LU9S>SW+Q],0!)672-+7'U3,IVKC
+M"Y.P?]HDC9YGNP/&=W0NMH FY4F.W.SZ*\CIJ4SYA?[O3O,2W$)APBU439,S
+MWX]^'%@.4Y-=0I_?'3>\VQ]?J\6EN80$X*G*IDH:?6:$@77+R*Y]:V9),P3>
+MD86RS/>I!(^O)*^\>D0BJL&OQ[SEWCG)2M([L :#H'5\KRQOM9\!G:KL4=Z#
+MH,ZD]LP.>*0(Z9DRRV82/2+F/>8G$/Y;CC$GZRA\_:%OU+]\NF'/)^K)64V@H!G+"VJ2H$-$HV[DB__8
+M8":B&7/"$PY::7G4'G/9QVT(")C_KH(;D!Q!TC$'L1$C,>U=T[D9Q(M
+M+VEBM;'>[G2829H8_) #Z@?D5&RFO;9:O&@%_BKT(:L>_#*':UUF7,L-7^I!
+ML.EQ"S4+]'^R>!R7,PM>?ZEA^-0RF8^6R7-N!: I6-\*G:@.Y">OE1=[AWK'[)1Z
+M/[2E;%KKKFLSZHAST..K:")**/2MC4)A>^Y*FA"L+I%_$5) Z#A6Q(O.EJ"9
+MX;E$4M"*D<%,'=/ TQEKZ@:I[9T2X&@6.KY4K2TQ$'^A L@+JF@U4M$FI*D&
+M,-'I'(+W Q=H)^NG<7_;WSC\?G9<-5]4/V?Q>6WE'&$$+E2B-*N9:H%F5&U,
+M.2<.#@U5LZ!D9<\_VOF@=L9%C!/.T%/A"Q3BQ"&NNAQ2Z'D91W%04,/BS].J
+M\OPR["):.A^OU]96P"QCC*'VJ$]5"V9&6]/7%]-=V?>/]CZHO9O)VKOO^R'C
+MC^IP^X)NN-W/!Z&QE&,?IET^W\R=5GX.$5^WF&-I6X[M/!U:11U@QI=
+M4K.I[[^)PR2_B7I.12&N.>CIKOW*A*/"9%##&;[B>\>I]YNY$1\/%:HP=+G@
+M#\Z[%CPY'3J-)>[N_%6K-1I[>[__R,#46J_&>93TD@-5TX5I)*_MSM6]GC?\
+MCG&47T)%?!IFJH(+.O"]&;C&=9K\K605E7B4DUMJA_,V@]_13M2\.DMDCM(:
+MY^2O/4WK%L)O[KVZ!,Y/ $Q5&D<__[G,C;4L-NSYA^Q;[7IGD+<_T\[)L;;;'5%'Q #"^8(
+M]1J:F3@%/57,MGP"DT*TCHAU"$QY%W0Q;@=8 WQEP&1MRY$O#,B"GE*,P\6I
+M:IY\URI/UI!/&]NBJ*<4HR(YP &Q>OBN 6Z-R.A?TS-:PF1);W -9\5, ,:I
+M9'K:;"R>UXI=7Q#28J)O1%)<79D2X[PWM.21CWC8)S&H)L?,>4_+WO0ZWSOM
+MW>NEG!R:F^@^@-C".>X[E/^+^(/VZLI\"T^#74M_02;=A36S[=4%9\!L2!O!
+M&3BN2")#GXE>@':TN8:78UDBL93W>Z"T!2Q[(!3SS@+8J)(.L 2:.+NU?!@(
+M/H8Z!M9IJ2&ND4)4\6HRDW+3E]MJYKP4-K]&ARGLN._(DJ&J+%B<1[*<;NK5C>O11OF^^(\S;TOPFQD 732@)$:#?+RZEK/,;SO'$YJ<#(
+M&5&51!0W>UW'.'>]2GRIR0P"G-'KC,[ Q@!+3V ]#K*4 !'1>"K(<:&^47E&
+MMI! \.2AR_&PW&1&]/)76=8?\8X_<)@!ZX$8%35+&OA6'!X=< DE\>86J6-$
+M9.'1P-65:HJ<.,#D13?0O,:B\!N.]PRQ$ ]A 6$XJ9(M6LX#F%7]U14/
+M_;T\=6%:OF&[X/O36'8XI-SH$K4DW[Y.D]D7<],@@F&F,/;B'EE#MX^'L#1E
+M.XH1Q"=U>SV:IP:"Q?H$.:"Z'\T&B^+CTS5#W;=,B_)X1EBZ -_ [4<[F
+M(K@;#D8@B,@O1:B."NN0JN^S@)R$P%H**_505R>FF&V.YP-QC:VV=Z(P)"-U
+M)(Q0["_/T\ #R&YY0"%)H C4%]3"KZ OPQ;;HKIERQ ?"+:@EQ%+Q@;)$#WT
+MP0)]?XI$^7"$%4#$=D$[Z@Z"\D/]"L(!$K4!'WH2!XA*34ON/B SP%5*D7$&
+M&*WY(=*$00L5L<2$ %NCYS'P+#EV2'1/P.J*5-49^8^T1F PPG5"/L/;[_ M
+M(UAB(LR?+"WP0?%,(UT3P@(-ZKEXF"G*^R*M,M%\F<3+BZ?S0/>8"-8DNI$@
+MVA#'D[_50HGT+-M&[0,T_U;5?%8K#A]Y=(#)-U@4L)S\G5>&+9RUP0^(DCZC
+MW,$+) C!L;//!?B1)2>X*:Z(0U_9%&<]2AZ%IX>EZW;;H,417!H ">M2-$@
+M,@P-*60JO$P4+8*(DWF:CI$F-!!=T!6)@U\RBAP3?9:TDL4R$B!D+VX0$X2\8!5A(&)>Q*0MHN/H*D)0:%^&Q(S?XF%T
+M#*\QD0(B(6Z/3($+FZJV\1 ;+%88-ELN'QI,1&,:D+/6)Y](XX9D>LJ.Y-$X
+M&KTR#0Z/PJK'D4L&*!$L&Z#C8Q8&HX93^EUJV^F8O_$%(F UK@&)/L0A&\2D
+M Q!8.T#3D*?M1^?MDNS Y5);M(+4ELBI CE 3^253O"RCT!"Q]R&]1Q8JB(.
+M67A>R7%DWC"6C(#L#/!E0JUP('-$JC2E"60-H7'PR6@^D,,"XOXZUDA$Z@LY
+MCFC0!_,(&&I,%M8@@OM9PN=,^MG'QDH? V0*/RH$ IX6B,5H$);+2 %9WQ)6
+M+E0 YQ7.1QR&=.9"&?,E9&UH16(^H;4Q4%!*(AA!(YK=063@XZ+O ;G9'#+>\3*1AI@NH M9OI"DEQHI\YD-@_R%+8'+N,F
+M!"3C.T70 >$KM)P% [2$H0<;>J%V"+HJ[DU= (U0\M&
+MBR8TUD(NS%Z>I<9E97@$6& YO.F!F:LKT>(_CEWVE4LY[Z*2]-0D:G5E"S>S
+M]H:E'?'N'XI5KMJ1(/W?]N['&\N>YK](8*Y'6%B5F$EX,='K8?3>3FG\RF&,
+MK0]+WFN/'1;$^8L>.U _+.ELQ9:R;&KJHU5DB6<#>$=?TY1"6LMOIK5BB6F^T&O50E(5F<
+ME]RGB2G"4"H"K_$[[=*XY(F\7*2%2266N>62!ZH7)*%X 8I.EZ4:YR]W"E15
+M"HNKPQ+AUMQ;D:IT&' 7(F/,+R"\K=. RNM4UEA/9R8&WYBC1&GLOO@2$H+?
+M0@*QF;S"<#W[R'[X[&W0<[<-EAJ&I"K_EK,M\F\MJA#AO?=F:#-_&-A%OA."
+MMF'\[_;PS9/)K:!3U@EMJ8U-B/E$";>DJ&OZ^IHF]IOQ UU?*ZY#$N?CRV,V
+M:!YP:%VF][5XOQNM2$!OA]RQ_"YD-]!7&!;D6 .L&AJNAPF]2!QC7&+$XP2N
+MV:B1T!,5D)L0TM[MX0Y6FG3=.W:+=8UA7A5#QTI!- 3H[:\U!\,,8#L*A#F
+M'Q,MPFFQB:X5%M]$3Z-7H#VQ5Y<621J"C74)EHZ8[&4F5Z^T::-MDV.Q2OEE
+MG#?:+-PFW_%FV"'6F<1\- RZ+H?US\S^
+MI@1OFOU/*MV\^>SFV>_E(!3D_\>4MNP61;"F^M'"Q;OG29+^W^0(37EE=CC9/E/C.ZI=]NV=W4'XP=WTL*5VF
+MRN7\'/D,8TW2X&WJ6-1YK??;7H+3_US*:EV+M6?N5N(O?:CW!6+07Y_PV?&>
+M]H\X=S8>5+^]DV4Y_!J_BOB.R*!G5Q;\TL#-W4MQ%E+< #+V98/L2W_ORFQ\
+M[5Q7OYWJN6J[?Z4=G]T::?2JUNB?[_E?O@)[N-0^^[)[FMZIVX5;I5KG9NJT%
+M5^?G7'?N-^^^^*SS0].O?M1ZIG)FZ#];M9.[+ULGSN&^M_NY<';0VU7W]C:<
+M?NG;@4V/M:;WHV-^*SJ>YWX_]YU@L_:II6]].0LN\M]WS6M7Z38:/_+_N3OI
+MUTO?OG4<&C8/_O.IT6F>'W2OVKS?W]_PSB\,M:4=>YUK[0ND\8-J[N9BZ^[L
+MW%#L/F]B:6\N:'1M[3UK;QK)LM^1^ ]]HWM66,($<.)DXQQ+V";'
+M7CFV99.-OS^6&Q\/&TV3B!_P7^^=@Z:YTW#S^^YO_AV]?ZZX]'ER??Q$WKVWGSWZ^Z
+MOA=]$+7J*!(M-92AN)!C<>T/':_,'Y3%C0Q4]Q6\"*]>W?6] S%T@I[R/@A\
+MM'H@(ODCVG4&J@''X\.FS_ZJJTB4:_4/KX^@G5<
+M;0("%^:401X(OWGM<'2PH6EIX;3,X\N+3V-\@^M,)_QX!JB5;API
+MWQ-_RB"$_S^^/CO\]9 \?]J/7PX;GYL7)_"W)2XN*P)8[,OV5P]@M"Y%X^:F
+MV1)77ZZ/3QLW3='XSW6SB8 ]"DCS"&*__5<<1JH[.1 /@R69M_(69V[U52@:
+M0^EUX&\D+GR@BHA\$?6E:(2AC,15'+A])X1?>X&4^%2Q4(KPM=\&G;]C_P#)
+M:@9 [/T6T,<[ AZA%QVI1NI
+M6RE.G$C:PY9%>R(_U %N?+H&=+#KM=IVA&DP^+).LYT[;#YS(#R;B
+MV ]&^#-N3@ 1P B4ZXA3?]!17@]><<2)'#AC)Y#"M9XMI: ?Q1,9V'#"CB_C
+M#B\6FMX_OC@>* _&' B8%@8\\]P*#HO0??.#[_.&O9<,BV>QCQ2OMN7
+MP[N.5BQL9Z(LDP>]@$LT7> N7"6H70\
+MI'*QT(/9/00_C-V^'I->G[\71 E@-5.UY< ?:P+A%(01Z;F *!CT!I?G>P9I
+MA,G\)XH%8,)%LU8V*RK6=T+L1OZ(!DT^:/M1Y _U9[/2D<3S=?/XK-4XO]F@
+M+$Y0])2$\=?3YG6S<5,FVFN6GQ*AWA1/% LI*W9 4G:TE/WLP/>BMJ_E; #2
+M*P(F-Z)]9%@*9"GM>'S'E4'D(&/B#"&_P]L97SF*0V#R,)R1V?@TB)09)K7%
+MRZ.@\PD0$L3O9V$"
+M7'(X8E( M18*(Q0\^( /_P2BE8XC3GPWQD= 2 *H 3UU>G,M&FXDY(^1 @Y[
+MYC2JUS61;B+?_=Z'HQ_0U!B- O\63NVQ@U*YC?N#SQ3'A3.VXX#H%F,5]2TZ
+MP@D_?JZXM 47'; .\B;)D$#>*F!6+62 V>EX77+0O> 1M8L0MB>BT$$5)L57
+MGM!%\8^H[/H!,*76- C[752O6+-Q$O2BQ'BF*-;*%HQ;J>TMX\-B >6 ZJ">
+MUG=0T$Z8&H3S)?:25CC;H&HZ'8G"8QSP&8#R.H3%LFB7#M"&M.,-ZW=WH\E:
+M)TF&_Z_=7?%)R4'G RRY)P]@C+]CU(1A*K&[J_UI'T_._C1PV!IEK9ZC4N[C
+M9V#3@>!./CL:..YW4:N\!9!"?Z Z ,)5=D2"UU[^Q](&T;'QDCR>'OQXO(KO(4;\M/E=;.,.P/4G1"V
+M66J+X\9"A/=\A=:^T7"&<03&)3P.%IN#:@W97&;' 12!' 4RA)]II)"-,C#@
+M02[RE7
+MOA.$>=Q7*&5!:./8Z*YPOWO^>" [/=EA2)27F.BHE<.*G#:L!]?STY:I_]^5:M6__5J(T8E;+;6M1GY%I0-=+H8-H87T:/^
+ML75BGABK3M3')=6U>&J='"[X^NBP5F&7+3]'KMTI_Q=^7^$'7K>N\1_$S"J;
+M:R6;>?70P>-M;,)3[9Z>.89E-U3_2 ;HU:$0&$@A#Q5BMT4R 9D<-X_QOK!"
+M:>^Z3H=53_)\Z=.^0D[G9>=]SM[Y-90B_A?GRW5]:*N>XA464W.<0AOSY# #
+ML4.*D/$99%S(Y$&>JPW9;HKYSN L"#/^X Q$.\6"[1.VI>.&-:DEZ'Q:!&5'
+MSS6>6[=XK$UAL5@@PI+G\EPY;350=%("F=@%G'B%M2O8)S>"0L]O.-+4:.3@ RI#,OE,&M0L?G2 ;PQ)!U8'H#+.U *#C4K=%&@<+Y
+M6-,^'O@ACH$J@SN(.^1/B8,P=E@;5]ZM3V/'([*;^,#5#Y*Q_T[S',+F#A19
+M3F#1Q_"_%P_;,@C%'AQ2]7?[U7*Q\/Y]]4UU;Z_&9_?[]_NUVIMJ[9?GK07"
+MO;Y1X4XB71D54#/QB6Q'(&>01D82@>"Q!/LRH8X!*7TT=.1 1NS(03Z#+\'$
+MCB:L7X+J"%8#?$LZ6&0?-L_@7'AU6)I,=K)RV$)][F$@2FH'Y4:QD"LX4%)D
+M10<[(=&*!F*Q 7P,@ >."V(ECL((Z$ &,HVBAB =4 S 89$K!TH9:*\"N:N_
+M 8 D\L!E&]#$EL#TV5$&X!EZ,2T@P_O @AP$(^HA"7-^MUA8(D)MN8GG:N(R
+M&#D*[))N5\"']C2VN+/TFWKE?T#V8(GJ?XO=Y8R9:Z"D"Z"K:$Z1MX<1"'ELEFC;XU,?GH0G%O
+M^T+Q&L281Y\=^5X&'G$2IH.[#6'HX$_D8@"8!SR1KK (,8OXVE.2JB^)$Z%'@O#6MK]0GX1
+M%FVLCV'0:W8!>GDA0ZM1(PUTEG\;7D#9Y_9E)QY(Y/&$-F3ED2R&P^R_:^7]
+M:K5MM^5-77VY>6M1J
+MSAT+#08!!Z(U&<$Z&P'H'NZ!N'"&DI%TX>/2ZQF/JGD+O_DYO+V_Z&GY9F.G
+M94-X\.J]$\-RY8E)!$)3%72QR,&'Z+CDS#:00SIWMEAHD/!)5+C$#T6';W+:
+MYJ;UZ#7\FH?H F9XNS%F2#7C^AT4( KN\4D&#WD]XZ5/_1C=P!\:!:!6KXJ.
+M,PF-W@6T3KYY5RQ87SVIR-Z6:+N_!=KN@=5S#_*R.@LF7HXS8'$HY=>@VF(?
+MT[TE*! #3K=+C_V[->UL*R-&1\Z$:-%ETUP>:$3\U<^>9KUL[NQIBJZ@(DBMS3/4=Y
+M(5O*>@ZM.FL $["*!1C&-OZGA@2)$7L="B,F'E%4H?$\&5O:]PD("8 D$,$4D/H-!,0'3? 3 3ALF.T0<
+M[2K K9!Q*NR5NJQ14XIK130RSH@\PL(I> ?*UFI[Y?I;(JT @&'Y8 4@A.A8
+MPIF:P.=#VJ5_.BZCYAKWYBTF:3%]X+W1('EM^KUBX0J8!$F8/FY/D[[@!OYX
+MSD.WT\#83I3LL_K11F*RM93[G3Q2GV3JQ;G22,O ?JM!R3A!)EH%T0MQ4<3 E*O*@4S#A9=IE
+M"@\FU56XE;4N#KL'/:/G,HHP8 .?DK&*([#L[:@0:!Z 445<1>-0!HF6L))\
+MM%;JII_ZB>G!)>YL4TF1YDJS04#6Z-,+/+
+M#%Y6. $0,%0VV(=7$L 4H'"QU;TW_:)8V@X!R:"
+M $G% ^0%D"OBC+>NQO8.2@&^B(G9M;)+B\>UX:)9):W
+M A2)@L&J!=N6O-&M>AU^RNQW+=V$)=Q@&ZU=NCE>GG"S,AX3_2EQ@!8+&0_H
+MXJ7/59RX!"D?L=LQJY]TN/;=5DPP]\4$6S??($[%A5\LX/F"# [[IHMJT7)E
+M0 N5C#APG8$;#TA,:K4QC21PQ1JF92"HH81]KW3$A_,BM2P)P?AR.K<.5:WA
+MMR.M6,L?(^F%^D.VI$RZ=(")B20/,G80TSY39C03#PY1K
+MY\\)]^);\RR)LDC- 5O!Y\CN;:YR#N9.*J%,0DRB[Z7':UZPA7%(.K*%&D%;
+M@O/'06- @G+0@Y0CUI(U-1$*V#D!J(J^QZ5$'1F!/#?0F,_AM1&I#I@VIRN"
+M=$YKFA^3MX(YXAB_\IRA)GD:M3%:!\AV!#:M!DVB.$FI$AWG1&&P8]6(6($_
+M8TEBV?!_,
+MRFD3Z$!$^V83 <(M]&!8XLA;(8BX]Q(OU/'"O9\\7O@K*K#OMZ+ =EX4V+4K
+ML(!3P";(>-_'TO)4&\'\.8<4H->"RZBNV6+OP[!][8
+M\4)CE!,?>T;?C5*-P)R^'/)QW"87IAQE'9>9V(?K
+M>Y01>$L1XWX[W):E"ZNNI.5"F+V"-?EH9$^R#3%/2R<1SL
+M:79)_4>FC,O$B)92B@._>E@'_4&HA)200F6KS\DBNHO+]E]:ZES0ZTNHS\OZ
+M+0CQ2ZI#_\OT$C%J\+R94K#SF(7<7A;Y=+X^LA'5#,.)K9NDJ#",@7R!H\+$
+MH5DLK+J^:?0#LFDJLZ05J3 SKK%N69&U?=UAW!YJ-[<"!)BV!QT5CN)()A[9
+MI5B;W>8B_?.5%&+?LP^[R;.]:QZ3X
+M[>2LX.'*#>""V,B;66^U3)!J/4DB,N1>-JD],1M5[*1Y>IQ=
+M,9"WI)VGS0&RWO"OV@$(B\UZ0+(>X:X"W"62QN$0AF&N67ESMT-@VE"Q;8J<
+M>%3)Y466;/L5.#8$A9@!Q4B%!A5-JY6&RXEP?:)%+S1(Y[TU7^#.#& 0DC/U
+M ANO+$KC'61_9IBNR:+!3-<:>U0T( O#M'5^-(R']&;#>G-^8)C\-D?VH_:)
+M#@@&]DHU"HR2D7#+AW*>Y;\2H"M$L6U@K>!UAOVF ^G$6!:XB?5;3J)URS&_
+MRGI@,Z\7\W1J,]K_V5D X0S6$P_*)M&>W?3S6J)I]\4\2A"Q*J+A38PO"X\[
+M[<1D98K:0JPH1;*])*;#.B3D'B%H[0>)1A1:[LXRA6J3;A>K1K.-_X^PJ9'V
+MG(OM?I\U?E+>!4,AE33X.,8FD[(S$D1P+J!=H1^:]KG-EJ4E SX#Z?0 )C#&
+M=*)C#!1O98S/#09)[,T9Z?PCUF"XD^&<(/2T87[744$R<&^>&0=A95[."SI/
+M!IS:!79HH-.YM"C\O;K0<+2=C_.J9^WE)%UD]6Z@CM\(OLFA8ADJHUVJX=59
+MQ=P^C /OR.)C[(S7B9?%LLRQH3M%3NN(;_CLN#?Y$2JK=EK,E$YS,'\L=398
+M CK XWR7GFY1JN6V=K'8"G^:9XHNM)Q0GJGW2V-W":VWDL/SZ)I>;9U-<^9H
+MA91U^^,NBN&<;@D_0S'PS]F5*A=-NA=5+:]/U:(73-4RYEDO?0NE0-I'34B4
+M?9YKI..,NBAAJ$8+$<&]7#)]*/431IR@]Y#+YZP0$,<1,EE!>3D]V5E:%AA6
+MN^%ICU,'BT\DW;I@&ZNZZ>4]^G,]Y&RNO;#G$O94J_$G.0782>["9[#B8"+P
+M5 UT@V-D.VV=H#LBC(C_+)3"2,2]VYII/Z^+6QW8+)L0L\GP3;;?U86V>[H+G'6GN'JV%>
+M#K;G)3F0Z"N)CMGS*O_;*/9,!5T@W?
+MO*0;ZG3#-\\SW?#QE9)UMNO*54KV[MMR(C?\,G(",,R<49\O5,(6)]9$)3FU[!,O9(-'"% *5_DSH#-R>/A4"$Y,TP.E3#D
+MM"(VZ7.DS-V0VI4Q:,_Z"T[F^5KWT1]2EUW'7'#C>[K<)J"E),$=6N*]]]U,O;?N
+M^A&F=^QP["_[%-;9)JM!G[)9[,,V#$4:8F1BF)N)XIM
+M!7O.H(SW&2B&KJVXIVFZAQ:!!ZPB/=BBKN14;1W%F+N:G#Q!*@7$I+XR-1D=
+M\44UJ(\G(V.=_<2HQ0,U5%IDM1WO>Q"/(G="Z224D^K!+R"E_:#G> EZAGR=
+MHXJU1@Y##)P KV,*,Q>@(=MS.W'XG>L4_2 4/>G)@)+QL%1[8G['N#("-@J4
+MYZH1]K0H84N/H(/)2\2\X[ZDC96W'A4FMT?HBZ,P*(5M5K5/5 _O4[ACX(QW
+M%L0Z?K5H-:EA.7W@%JA6IC?;V\K[!X:;LW
+M3H'6_5T(HTTF;+'BC$+ L_GI%>G\RPUZON
+M-4"LQ9C2CADQGC@+!W0J7'P#JN[5ZG=8>.[.W0(VWCZ(N!QNYMLA;K"X!-OP
+M\]6)M=_IGE6]B\MIN17*^:'?X38K'%6&,6D_P__I7<%M&8WQG,[#.-W^6TEO
+MUKXK/J
+MP"D,!(R]"!2A:]_I4.XF 6]?O/C:B__V
+M>7KQE[#060+0V:-TM68+,Z>Y]"8M3.V]=^Q+KZ8,S!>S\BF9E?7['/%/UZRL
+MO7LCFAT54ID;:@+GSGM!I,]A32NC1>#'$GXG'IMZ C/C1/%08>\[$G7
+MU;R.@:8,Q.G"8QVKG@R;;6CO/&;OAHG[-&G==^Z[.BYGNKS+']B?G=O$F9=U
+M3Q D2M=QT5O.'OIL9PBL:>MQ#4>Q@&&:6^[&F]>ESA1V/)\;QVHYC3V7;[3W
+ME:47WM]AHV$B@CN@%M#8K3)3!<1%/,*).#H^M0Q!P\PNH.X<<#,#*/
+M4;HDM$]%,SKEZ_DP;4XSK^5,^WNE1NWBGTE^[P832F=5!IU):>X%0*N4 ];8
+MLL8#*1\'CCLQ?;B2RS9TX!B.!2<('(^BM]R48%Z[=RH*R\3K:08:-C&\L*,\
+MF@A=T*DBZF5J0NDS/1+2<4JF8>E,@0O5#&Z'@(^_AY?U)%BPA]=X]NAS9R8A3@N+6VQQ2G6C
+MTU+D]M?)EIN_GV]W!/9 P4PL4/Y7[_*U$A^81B21Q
+ME:9,8$L8%S532;=RE77[*=)P 3CN$,:)'C/9/U:F&5T93R6H3F"N=YAI?[ D
+MEV@Z36QI"MCLO9B4"CX_Z2OMRDPL#A2*!]RL&Y""?=KB@ P0^[YWAV5T%NU)VVNCYWQE,WAU)6
+M!8Y9)MK6Z8ID27>KW2J?FQIR1DU7=6)78?97)XXF;(OC=1Z!Q%SZ,EZ(K%SF
+M1:>GL^]F$LW2"U7R;B^=(>5/# J_C]]U_\_MKO
+MO_^,_?Y/01&IWZEG2:H&[*,BLKJBD:-A[).&@3KSE(;!7_SBG9 6:!V $A*S
+MQ8+EGT'Y#=J:&A**M3L)^U ./7;!XCD\F=>?/='G6*^8:BB"=ETTX!HJ+KEB
+M^7ON@X89DNN!L_G*PK3O2,XQ.=!3E+21"(*'6EJZ8"G"Y]BYL+&3=JS0EV9]
+MBKWD7B=SCQ8WOB@;O85>F7MC%)]E@\DV?%5S:?7+%Q56*_6W=Z\KK!OQ@G&A
+MHU5>IJ?Q"F NWL,$^OO&+%"MT!(K52"0[0F4+X<86OAR>*\RU!5POSJC_:QM
+MKNJ5&F(2,_DUFHN%N9;HM$Z'&E^B-Z*2'*A0Y]C?&R;V2B6PI,TWD@(6+"RE
+M,\D$HVR[)<\1'L9D!@$J\:HY8371TK4"%=%,L_#YGCJ74M]-NR-]QYZ]7JXB
+M<4)C]R!A4JLIU:83(P)3^;4UDEO=*LFY;YJJ6QW"I^;5E57S:&2:Y W1 C(7
+MKE$./@VL9S0]\M*;A!PS 1DN' HT<0M:*8UJY8@7"[HG25;S-Y<^9UQ**T'<
+ME8$5.X%G[\U#9I*4HU=BX>=W&W6]4J?=CZ6 =!:C-QAQI6GN?O?\,:@2/8J)%[RV('-R'<_LE^(%L6.HBG/:=EVFZ)K%@Q_S\%=HZU<
+MGB5QHZ!?*:!Z53L0E,J'K/OG(+U2B.]CCE.ZC''M8URB]F!H%]9* U>XVI-'
+MZG)WSB64M@J3#+F2JT;14.OY=ERYG'%8K>;ZF2\3EA"Z6.CXDB^?3'MR4@^V
+MD>1"/[1/B*H!WS1I7=<0R(&2>)-NPA*,%<,E!+H*S"&"&&QTL>.!Z01L/X6W
+M#^367$A='MY,QT+
+MLXWNR!NF3*@H>36Y]LKL?_@8'^<+&1(6OG\_/N3]%'S=#]GSO5T&"-V8._H:
+M#[W[,HP^S>?SV=R<6'S[:I(Y88[B[#W =;;!=+3(.D:3Y!K]F\1(OV>DB(ZW
+M)0:,CB,.8V9" ZZ+WT=!QI5-H%EHX>0@.3HG(9(G.!O2,>U^=K?4+J
+M2V*1[E4VTK3BRV%#GSWS^OEAIR0P&D P(%6,/9J5/GSY=4;DD @B840B=<:"
+M2NJ4BP5L[8R%;_I&G9D[8MA8H#@"-6 (7#0RT&63-%V5"%\G98\%ZT'M#1X,
+M_+C7%XVX!Q03M7=PT-:K];WLG1[&"57;RT2SY@]>3L\08F::2]%]'PRA[&R0
+M2^M/@$W?;(I-SSS3W&"&"[,'QXVY(:E6K=1$B>\+"G?*^'M=E,XP+ !Z+BNY
+M_/&>*%W' U9YCGUJ"^6FW[XM%DI_Q"#W.HH^/1#_24)@Y\Z8']H7I:_) 0-/
+M3T##4:I L&+
+MJR@6\#$ .-E+K-7RY+A,_ V? 8BHQ@M6"P.%RX/OJ&]KI[A*D$TY-'2OO7W)
+M%ZN8U(T8XW[8JF%:W2O3!1TQHCD4^#]81W1ITJ-M@+6Z*O."3:\.2]BQE)K6
+M8W@6HSNFS32N?&?=*Y\*=2W+!EX(:-(*.-.&V0
+M\ML65G>JUUD=DDQES[KJ=1+8,T4DQY<(^L6_7]7O[:W/405 LSCZ\JUY_<&Z
+M?^*!)?NON MT^F\<71YW6A=
+M7G^#.:ZO\.>SRPMQ^4DT/C>OSXX;XO3R'%GYYN&TW [A7"%4WIML+P.7XNO:C!0SE <5<2IXX0/I/J&D4?Z0#XGK&^2GPHC+T/*YJ9UV:/#YL7_7(KC\[,+
+M4#;/!>BC-^+LXKCR=%>59Y*L8!J@94"*WGTTO+3E Z#.MHI'-L=T0RZCJ<<
+M;ZV:"&E4N=]L<%*CM&0^/.XKV15-[J<*\NB2ZPG6.O&6S(7\S2NN&M?-B]8O
+ML8>/SBZ/3YN?RQO9OENSZNZ]1;>S+7^*#;E.?9_^K5L--*8S>J?UVRU>CO'[
+MB[J\[4LGMA 6TBGB/_JJK2+12'*Z'P.61T=#4NU=J]1*W_G/SOI0\M (V57>
+MGMM@SOR:70>/Z+6H53>^NCP1BI'[72,KY@G-N02T;*U7F;=M[]20QNB/5ZU.BG,R8'7(
+M*']9!O>/CHYPZBV@"\AA5[)"NH*MNTL4C)6-EZ[!4ZXTX<$,/M1CPC1X#V?.
+M&2A="MW/H+2 AC"'4Q"4^N(-&X?!ERL%,%%NGY!X#.X1U4U%<\<,6$F]"#3&
+M>9"K1S&HI=#,-4.XO'X:0X&_"]N.*< [\ P(&$3 =4/(Z )Z)&$FA]>$,-JC
+M$#I($]D';?M+Q22 -4I%@Q+.A>EC,TRYQ=KBF)I&-88/-7NC52D8W)I4D5V8
+M"5K4M0Y\+LP+X" :UIUL:16,7JH10H]RF@;*Q\1'KAV*Q!9DEBFEAN?!4Q*)
+M@O [/TG7L01E>&GF+6/(B3ED!2D@+$C8=IQ)*DLIN:$XHW/4OHU1USC&YQ,[],9273"P7"*J^9H/3@YP\CCUM($!DLJ"Q,
+MN!$1,4A-34-.C7&6.=66?C,5!MDXRD'X'U3,2'?;B@T%V'\LM67UIVO,1P-/
+M9B/?S\]/S50KI$9\80C7/7_9P]T202JUAF)W;L%SK\[5!EW(P,*T*R\XI3#_]?Y%#*K-5
+M$C/7&6J)K805]5S/=\O^ZG3^Q$SW:J5O4$L#!!0 ( (B*ZE8M&F%+_@H ("&
+M 4 96YZ+3(P,C,P-S S7VQA8BYX;6S-G5UOX[@5AN\+]#^P[DT+C.-Q
+M@BV:[&07&4^R,#:;I+%GMNVB6- 2XPBAR8"2$_O?EY1$6:)X)"5%2<[%C$=\
+M#_52?$Q27\>??MQM*'HA(DTX.Q]-CSZ.$&$1CQ.V/A]]78PO%K/Y?(32#+,8
+M4\[(^8CQT8\__/$/2/[Y]*?Q&%TEA,9GZ N/QG/VP+]'-WA#SM!/A!&!,RZ^
+M1]\PW:HM_"JA1* 9WSQ3DA%94.SX#'UW-/T[1N/Q@'J_$19S\?5^7M7[F&7/
+MZ=ED\OKZ>L3X"W[EXBD]BOAF6(6+#&?;M*KMX^YC^:<(_T03]G2F_EKAE"!Y
+MO%AZMDN3\Y':;[G;UY,C+M:3XX\?IY-__G*]B![)!H\3IHY;1$8Z2M5BBYN>
+MGIY.\E(M;2EW*T'U/DXFVDY5LRQ-.O0U)VEREN;VKGF$L[S;>W>#0(7ZWUC+
+MQFK3>'H\/ID>[=)XI ]^?@0%I^2>/*"\F6?9_EFBE":*A%&Y[5&0![L9*L1$
+MQ4\86>.,Q&I'IVI'T[^I'?VYW'R-5X2.D%)*/L!VG3;J*H,FKLW>$9'P^)*]
+MS[49[>1.6/,/T7>;KD8;/5]
+M31,6 FUC, DUK:>!_9ZL$S6U* OJ_):HC1W#&*!W/?1WVC;G JLX"&B&. 1G
+MBWH0JJ(\<73!V!;3>_+,11<^39EK:FPF35CJFJ 8L1@#T2BTJ!![(N(?6WG&
+M3@3=]T+14KKF K!JHF'(@J+#[@T$I)+[960I,$L3-8#U0M*6.C_= ,RV3CT,
+M75"< .;@4Y)*[Y>4Q2.A5-T/P*Q_0+&)7=,"&S9Y:2N#(@:T!S*31Z R)!QL
+M+E_4ZEPNDP8VMJ;W"4_+=A<_E3A8A$R' RG*PY"*\T12[39$#T,MI6MZ *LF
+M-X8L*&+LWD!6"CG*]?XAN63Q($0JG1] #)MV/$I1@' TG?6A(=4^P;A*T@C3
+MPLN5W)9V-,^B=0T(:->$I"4,"A3('0A+$:"9R4.\ O,O@L4P7&I*/["TK-I1
+MJ60!@F)ZZ\-$Z;U ,ML*T7 -SSBPU-E-V1ZSU?U90!<$*#WF6G=M"WD#%$\S
+MT"7+DFROGJ>[V6Y61%@:UY:X8@,RIYDPRX-@ 3!E,E#(D-*A0NBEY_5= I:I
+MAQC!YI@RMP38338I:&H"(L%J#*#AH,V?*?5"Q$R.3 +3.8O)[F>R!]O5TKEE
+M K#9A,(0!42%W1F 12E&N1I)N1J:(M=(L&9+3)AJD*" [
+M&D!'J4:+^DN)Y\!Y*0+U;6'IL-YD!Q &AT^T0($@&H6:4
+M3Y#F+.+BF=<>=YCQK1P ]S,>PRN4GBBW4 UJ0A.MSI" !OB$\"L$?JA>"8%
+M3UX!4C5X(>XBCN6!2LM_KA-&IF#[K5JW='78;3)E$09$$NP.X*=4?M ?
+MD(I!MRP4:([?T-1C_] <#X7F.&AHCM\#S?*5!P+-R1N:>N(?FI.AT)P$#]UK)G)C[=BR5]M#V>#2B_(M*U:@3G(PL.EY:T/%A6@UC,JQ"%R'4W*T8%P<"(
+MT"QVULD64U4?U\K"Z.*VH58/Y]]KJ?'Q15;97>C=(V?P P)MB:N>ALSIWC;+
+M@^AQP)39Z[D,Y3I/5^-5AHG4/GS7RIS-[*:=:B+7!4'TKNFF-4WK]^:M(
+M,KGG&=]LMJR\RV-[;A#0N>KE3INZQZVB('J_RYE)0JE%3;%C+!:<)E&2)6S]
+MBSSY% FVM5!L &8
+M,EG(RQ!_0-/COZS^BG24X^Z_X4N!5?+8Q7ZSXA3(/F55N8*@PZ+FP"() @78
+METG##4>E%!5:']FI&F8MS3'*70%@M:6[OE$81*?;'+6^_(V^]C3D7^ZB1VF*
+M "\DV&6NAWZ;27/XKVN"0*##6.NDI)0BK?7Q0L)AREKW+P+6WA8!ZYY%P#K$
+M1 A
+MU:7K2^G% QB_$DI_9OR5+0A..2-Q<2W%=J>H6^_VB9D>V\V'9@!Q$#@-<0@\
+M.J."QD\J"NFP\DJ8%Y*^<;IE&1;YN^3"-C(!.K?D #:;Q!BB@$BQ.P,(J<2H
+M4/MY0;O('E$MLHK?'0(;",D=OZ[=:=IX:]NJ#8B93H/0.]QESH_#VKB(\O2*
+M94;4[T4D+^0+SG#I#6PO)'?]4F67:?-M2ILV((0Z#8+O3U8Q*E4,UDQY2QDC
+M9G*IM>8=3XD;*O>)8UH6V[EC*DE >-A\=620$4AKO;"PV&!*/V_3A)$4GH@,
+ME5L6K!:;+#0D ;%@\P6PD$N1UGIAX7)#Q%I.;S\)_IH]EOE9P;8!:K=L=%IN
+M,F*5!L1*ES^ &1V"BAB=4MH25'7U."LD>"+LN?H:MG@B_J\?5+(U&D7H@H5N4LQL*&4)?8^:^.
+M@(9;OSW24@8!4J\]^'=(J@BD0QQ3SL_20Q9 $G_>WY,'(M1[!TNRRS[+'3UUG&$,B'5]]C:X
+M.>;)7&]@$!"^U2UTJI>B>@5HI9X1*ZM OZE*4%Z+[??+ZYNNY2>Y66^2?ZUP
+M2N26_P)02P,$% @ B(KJ5N3X)\A3!P S%< !0 !E;GHM,C R,S W
+M,#-?<')E+GAM;,V<75/;.!2&[W=F_X,W>QU"R/8#"MN!E'0RI84EM-W=FXYB
+M*XD&6M+Z.VI>C_G#8BK0A(B%<"GK1$K+U_L]??XGLS_EO[78T8)0G
+M9]$'&;>'8B+?15](2L^BCU1018Q4[Z)OA&=NBQPP3E74E^F<4T/M%T7#9]&K
+MH^Y;$K7;@'J_49%(]?5^N*EW9LQ/U3%#_G3#R>N5]CHFED>0E]MM3LHN7:73>[Z!U)->V<'!]W.W]_OAG%
+M,YJ2-A..6TQ;92E72U6Y[NGI:2?_MI0>*)=CQIVR.YN:[;C8R)R<->VTSD5;C_VJ6L[3:UNR?M7O=HJ9-6"3\GJ"2G]W02N;\V>IM6
+MJ?A/NF!UW!>=OK0[H^UE7F2FZ.2B906VXI/>\9OCGJOV]QV-6GR;FBF@J3N[RQ&W:*T*6Q>Q)-RHI<\Y!.&6:<<+V/=*.VVZ&RU+9C/Q;*
+M=2?*;G 9[[3,'7BYY[+Q).@WTJB3Q8&NL[M2N8K]/VP&[5'$D54*595W6152\$Z;#
+M_7&MZ,R)LA6UXQGCFPA/E$Q]=-8DI*>CVZ!L$\W0O+3M)ZX/ TZFU3CW)$">
+M70R@E6ZPB'Z@.E9L[KC4@-U1 OF>H/*M\-8PYO+8N:=3YOKKNN+.LM1M#(\+
+MGB) \#W,D2+H%BD"ET)DA-_3N50UX'>50-Y_8/*N\H:$^:^,*$,57T%('XB!
+ML%]APO8X1.+]H(C0S/&! #]4 XF_1KWP\'A$0CZ:48U#T.
+M47E?BP1*>R,%YS_XL/?L(:$>,!T37O1H8+?I,.X*.10Y2LY9:Q,5^S^4*##T
+M+3$4.4H:6F.Q8>#]3*F=S@1'%;\:BAPE :TSV3#S:V&86;E;_5^R=/SSQNDN
+MZT,5E#%*TNDSA<*VO-,@C'N"$>*[KX0R1LDU0^90./>M'T7X4"1T^8FN0J /
+MI%#2*#EFT!X*ZCO%4J)6(Q;7#QJ'6BALE,PR;!"%]@-9#A/KBDU8\0RP'KJW
+M")0]2EH)LHL2@J&(I9K+K=O%?9G9XW'5ETEP2*\I" T'2K[Y#.LH0;E,$HM+
+MK__<,$&[H5!4RL'/B/ "$+#Y0K"?/ _["1P[2AY::_.%8.\]#WL/CATE%ZVU
+MB8F];S_>J@>Y\#R!]HJAR%%RT1J+F,#S,\VMNE/RB153H>JH'Y2 HD=,4<-F
+M47?XXB0/V=M+)90W8KI:;0Z3\YW4AO!_V;SN2K):#V6.F+B&C#9]@[&(N[MI
+MX9M*M">!\D7)52OM-(W415A1XM]]=Q50H"@):)69AGG>2/?L8R9%\'[LH0K*
+M%263])EJ>N!UDXBU]]#?^AH\@PUE6-VWT3#&[XH9VX.^3--,K._1>)Z*>:10
+MO"CI7]!>PZA'DK.8&2:FG^T5HF*$5W.NTD$AHR1[?F,-$[Y3U$6:VLON?!Z7
+M6V6@;B<3W\@;TD.)H^1Z]49QR0^USJAZ+O^*4M HH*1]4---CS,TSNRPM^J>
+MC!_.O2@9
+MG\\4$MMB;K@]HF['G$V)?R59L !XG0TF\8#5IM?OY4M^W.)ME>;]&-@/U=@]
+M4BAPG"62(7M-H\X29FA2=&G !!&Q3:DVZ]H\V7E]*6@ <-90 DVCW-[_3CG_
+M).1"C"C14M"DN-0/W>'W%H%& ?$98HU=E!!\DSRSE%0^$51YC@&/%(H<\=FA
+MQQ[.W,MB4O/FW%.\I2-$W%<""A[Q(6+8+-+\-$-=G]D3_4 ,6?>J0P_,]\30FDC3H6MM(8">902SJ\RS035P;%E3PB%C#CG
+MM=(:"N3KE*JI'=0^*KDPL_7:SA!L3P$H=,29K4&K./"7/]>1%^O?@N0KU."W
+M$R!B]YK$>NU&'+N)%,697"1$>:B']%#NJ LK_48;)G]K9E1M7S_EG1G:O"TT
+MZ:&^%#0**.DJU#3.N75K)7_PU+JC@_)&3$RKC.&LFT7$H\KF)E[=*1E3ZAZ?Z,W1!DB(@!5 0X*8GSX+!<[M IFF;C&1
+MC!]',VM:WV8F?VFI[5_PID&P'#0TF(LX <:1KH+TSX5>-+E:W=,)56Z:P@-=
+MFBO;T&/XH@A0'!H?U#<*@3%4A.F\<^#KQFYPKZ4MOG&_W*M7[9;_ 5!+ 0(4
+M Q0 ( (B*ZE:%K&+$114 $IW 7 " 0 !E83$X
+M,30Y,2TX:U]E;GIO8FEO+FAT;5!+ 0(4 Q0 ( (B*ZE9%:6AE]B$ +76
+M 9 " 7H5 !E83$X,30Y,65X,BTQ7V5N>F]B:6\N:'1M
+M4$L! A0#% @ B(KJ5HM_UM4C P G L ! ( !IS<
+M &5N>BTR,#(S,#

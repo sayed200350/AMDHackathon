@@ -1,0 +1,735 @@
+EX-10.2
+3
+d430074dex102.htm
+EX-10.2
+
+EX-10.2
+
+ 
+
+ Exhibit 10.2 
+
+HYPERFINE EXECUTIVE SEVERANCE PLAN 
+
+PLAN DOCUMENT AND SUMMARY PLAN DESCRIPTION 
+
+Effective as of February 13, 2023 
+  
+
+1.
+ Establishment of Plan. Hyperfine Operations, Inc., Liminal Sciences, Inc., and
+Hyperfine, Inc. (collectively, the “Company”), hereby establishes an unfunded severance benefits plan (this “Plan”) that is intended to be a welfare benefit plan within the meaning of Section 3(1) of ERISA.
+This Plan is in effect for Participants who experience certain terminations of employment occurring after the Effective Date and before the termination of this Plan. This Plan supersedes any and all (i) severance plans and separation policies
+applying to Participants that may have been in effect before the Effective Date with respect to any termination that would, under the terms of this Plan, constitute a termination by the Company without Cause or by Participant for Good Reason, and
+(ii) the provisions of any agreements between any Participant and the Company that provide for severance payments and benefits. 
+
+  
+
+2.
+ Purpose. The purpose of this Plan is to establish the conditions under which
+Participants will receive the severance payments and benefits described herein if their employment with the Company (or its successor in a Change in Control (as defined below)) terminates under the circumstances specified herein. The severance
+payments and benefits paid under this Plan are intended to assist employees in making a transition to new employment and are not intended to be a reward for prior service with the Company. 
+
+ 
+
+3.
+ Definitions. For purposes of this Plan: 
+
+ 
+
+ 
+(a)
+ “Base Salary” shall mean, for any Participant, such Participant’s base salary as in
+effect immediately before a Participant’s termination of employment (or immediately prior to the effective date of a Change in Control, if greater) and exclusive of any bonuses, “adders,” any other form of premium pay, or other forms
+of compensation. 
+
+  
+
+ 
+(b)
+ “Board” shall mean the Board of Directors of the Company. 
+
+ 
+
+ 
+(c)
+ “Cause” shall mean Participant’s: (i) willful misconduct or gross negligence in the
+performance of Participant’s duties; (ii) refusal to follow the lawful directions of the Company employee to whom the Participant reports or, in the case of the Chief Executive Officer, the Board of Directors; (iii) breach of a
+fiduciary duty owed to the Company; (iv) fraud, embezzlement or other material dishonesty with respect to the Company; (v) violation of applicable federal, state or local law or regulation governing the Company’s business;
+(vi) commission, conviction, plea of nolo contendere, guilty plea, or confession to a crime based upon an act of fraud, embezzlement or dishonesty or to a felony; (vii) habitual abuse of alcohol or any controlled substance or reporting to
+work under the influence of alcohol or any controlled substance (other than a controlled substance that Participant is properly taking under a current prescription); (viii) misappropriation (or attempted misappropriation) by Participant any material
+assets or business opportunities of the Company or any of its subsidiaries or affiliates; (ix) a material failure to comply with the Company’s written policies or rules, as they may be in effect from time to time during Participant’s
+employment, including policies and rules prohibiting discrimination or harassment; or (x) a material breach of Participant’s employment agreement or offer letter, the Non-Competition, Confidentiality
+and Intellectual Property Agreement or any other written agreement between the Company or one of its subsidiaries and Participant, provided that Participant will have 30 days after notice from the Company to cure a failure or a breach under (ii),
+(ix) or (x), if curable. 
+
+ 
+(d)
+ “Change in Control” shall mean the occurrence of any of the following events:
+
+  
+
+ 
+1.
+ any person or group of persons (other than the Company or its affiliates) becomes the owner, directly or
+indirectly, of securities of the Company representing more than 50% of the combined voting power of the Company’s then outstanding voting securities (the “Outstanding Company Voting Securities”) (but excluding any bona fide financing
+event in which securities are acquired directly from the Company); or 
+
+  
+
+ 
+2.
+ the consummation of a merger or consolidation of the Company with any other corporation, other than a merger or
+consolidation (i) that results in the Outstanding Company Voting Securities immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity) at least 50% of
+the combined voting power of the Outstanding Company Voting Securities (or such surviving entity or, if the Company or the entity surviving such merger is then a subsidiary, the ultimate parent thereof) outstanding immediately after such merger or
+consolidation, or (ii) immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the Board of the entity surviving such merger or consolidation or, if the Company or the
+entity surviving such merger is then a subsidiary, the ultimate parent thereof; or 
+
+  
+
+ 
+3.
+ the sale or disposition by the Company of all or substantially all of the Company’s assets, other than
+(i) a sale or disposition by the Company of all or substantially all of the Company’s assets to an entity, at least 50% of the combined voting power of the voting securities of which are owned directly or indirectly by stockholders of the
+Company following the completion of such transaction in substantially the same proportions as their ownership of the Company immediately prior to such sale or (ii) a sale or disposition of all or substantially all of the Company’s assets
+immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors of the entity to which such assets are sold or disposed or, if such entity is a subsidiary, the
+ultimate parent thereof; 
+
+  
+
+ 
+4.
+ provided that with respect to Sections (i), (ii) and (iii) above, a transaction or series of integrated
+transactions will not be deemed a Change in Control (A) unless the transaction qualifies as a change in control within the meaning of Section 409A of the Code, or (B) if following the conclusion of the transaction or series of
+integrated transactions, the holders of the Company’s Class B Common Stock immediately prior to such transaction or series of transactions continue to have substantially the same proportionate voting power in an entity which owns all or
+substantially all of the assets of the Company immediately following such transaction or series of transactions. 
+
+  
+
+ 
+(e)
+ “Change in Control Period” means: (i) the twelve (12) month period beginning on the
+date of a Change in Control. 
+
+  
+
+ 
+(f)
+ “COBRA” shall mean the Consolidated Omnibus Budget Reconciliation Act. 
+
+ 
+
+ 
+(g)
+ “Code” shall mean the Internal Revenue Code of 1986, as amended. 
+
+  
+ 2 
+
+ 
+(h)
+ “Company” shall mean Hyperfine, Inc. or, following a Change in Control, any successor thereto.
+
+  
+
+ 
+(i)
+ “Effective Date” shall mean February 13, 2023. 
+
+ 
+
+ 
+(j)
+ “Eligible Employee” shall mean the Chief Executive Officer, Alok Gupta, Khan Siddiqui, Tom
+Teisseyre, and Brett Hale. 
+
+  
+
+ 
+(k)
+ “ERISA” shall mean the Employee Retirement Income Security Act of 1974, as amended.
+
+  
+
+ 
+(l)
+ “Good Reason” shall mean the occurrence of any of the following events without
+Participant’s consent: (i) a material reduction of Participant’s Base Salary as in effect immediately prior to the reduction; (ii) a material reduction in Participant’s authority, duties or responsibilities, provided
+however, following a Change in Control, a change in job title or reporting relationship without a reduction in Participant’s Base Salary will not constitute Good Reason; (iii) relocation of the offices at which Participant is required to
+work to a location that would increase Participant’s one-way commute by more than 50 miles; provided that, within 30 days of the first occurrence of the event that Participant believes constitutes Good
+Reason, Participant notifies the Company in a writing of the event, the Company fails to correct the act or omission within 30 days after receiving Participant’s written notice and Participant actually terminates his or her employment within 60
+days after the date the Company receives Participant’s notice. 
+
+  
+
+ 
+(m)
+ “Participant” shall mean the Eligible Employees employed by the Company from time to time.
+
+  
+
+ 
+(n)
+ “Plan Administrator” shall have the meaning set forth in Section 14 hereof.
+
+  
+
+4.
+ Severance Not in Connection with a Change in Control. If the Company terminates
+Participant’s employment without Cause at any time other than during a Change in Control Period, subject to the provisions of Section 6 and 7, Participant shall be eligible to receive the following payments and benefits (collectively, the
+“Severance Package”): 
+
+  
+
+ 
+(a)
+ Participant shall be entitled to receive an amount equal to the product of (the “Normal
+Severance”): (i) the Normal Multiplier, as determined under Exhibit A; and (ii) the Participant’s then-current Base Salary. The Normal Severance shall be payable in the form of salary continuation in accordance with the
+Company’s regular payroll schedule over the Severance Period, commencing on such date determined in accordance with Section 6 or as a lump sum at the Company’s sole discretion. The “Severance Period” will equal the
+period of months equal to the product of (A) Participant’s Normal Multiplier and (B) 12. 
+
+  
+
+ 
+(b)
+ Participant shall be entitled to continue participating in the Company’s health benefits for the Severance
+Period (the “Severance Benefits”), as follows: (i) such continued benefits shall be subject to Participant’s timely election of continuation coverage under COBRA; (ii) the Company will pay the Company
+contribution and Participant shall be required to pay the employee contribution directly or as a reimbursement to Participant at the Company’s sole discretion, (iii) Participant’s right to receive further Severance Benefits shall
+terminate if and when Participant secures alternative health benefits from a new employer, of which Participant shall promptly notify the Company, or if and when Participant otherwise becomes ineligible for further coverage under COBRA; and
+(iv) the Company shall be required to provide the Severance Benefits only to the extent that the Company continues offering an employee health benefits plan and to extent that the Company is not required to provide and pay for such
+post-termination coverage to other employees to avoid a violation of applicable nondiscrimination requirements. 
+
+  
+ 3 
+
+ 
+(c)
+ The payments and benefits described in this Section 4 shall be in lieu of any other benefits or payments
+under any severance or similar plan, policy or arrangement of the Company. 
+
+  
+
+5.
+ Severance in Connection with a Change in Control. If during the Change in Control
+Period, the Company terminates Participant’s employment without Cause or Participant resigns Participant’s employment with Good Reason, subject to the provisions of Section 6 and 7, Participant shall be eligible to receive the
+following payments and benefits (collectively, the “CIC Severance Package”): 
+
+  
+
+ 
+(a)
+ Participant shall be entitled to receive an amount equal to the product of (the “CIC
+Severance”): (A) the CIC Multiplier, as determined under Exhibit A; and (B) the sum of Participant’s then-current Base Salary and the full amount of the Participant’s then-current target annual bonus opportunity. The CIC
+Severance shall be payable in a single lump sum, on such date in determined accordance with Section 6. 
+
+  
+
+ 
+(b)
+ Participant shall be entitled to continue participating in the Company’s health benefits for the CIC
+Severance Period (the “CIC Severance Benefits”), as follows: (i) such continued benefits shall be subject to Participant’s timely election of continuation coverage under COBRA; (ii) the Company will pay the company
+contribution directly or as a reimbursement to Participant at the Company’s sole discretion and Participant shall be required to pay the employee contribution; (iii) Participant’s right to receive further CIC Severance Benefits shall
+terminate if and when Participant secures alternative health benefits from a new employer, of which Participant shall promptly notify the Company, or if and when Participant otherwise becomes ineligible for further coverage under COBRA, whichever
+occurs first; and (iv) the Company shall be required to provide the CIC Severance Benefits only to the extent that the Company continues offering an employee health benefits plan and to extent that the Company is not required to provide and pay
+for such post-termination coverage to other employees to avoid a violation of applicable nondiscrimination requirements. The “CIC Severance Period” will equal the period of months equal to the product of (A) Participant’s CIC
+Multiplier and (B) 12. 
+
+  
+
+ 
+(c)
+ Any outstanding unvested equity awards held by Participant under the Company’s then-current outstanding
+equity incentive plan(s) will become fully vested as of the date the termination of Participant’s employment becomes effective. 
+
+  
+
+ 
+(d)
+ The payments and benefits described in this Section 5 shall be in lieu of any other benefits or payments
+under any severance or similar plan, policy or arrangement of the Company, and shall be in lieu of any benefits set forth in Section 5 of this Agreement. 
+
+ 
+
+6.
+ Release. A Participant’s rights to the Severance Package or the CIC Severance
+Package, as applicable, is conditioned upon Participant executing and not revoking a valid separation and general release agreement in a form provided by the Company (the “Release”), and provided such release becomes
+effective and irrevocable within 60 days following termination or such shorter time period set forth therein, releasing the Company, its subsidiaries, other affiliates and shareholders from any and all liability. Any payments or benefits due for the
+period after termination and before the Release becomes effective shall be paid with the first payment 
+
+  
+ 4 
+
+ 
+after the Release becomes effective. Notwithstanding any other provision herein, if the period during which Participant has discretion to execute or revoke the Release straddles two calendar
+years, the Company shall make payments conditioned on the Release no earlier than January 1st of the second calendar year, regardless of which year the Release becomes effective. 
+
+ 
+
+7.
+ Restrictive Covenants. A Participant’s rights to the Severance Package or the CIC
+Severance Package, as applicable, is conditioned on Participant’s compliance with Participant’s obligations under, as applicable: (a) Participant’s Non-Disclosure, Non-Solicitation and Assignment Agreement; and (b) any other applicable confidentiality, invention, work product, non-disparagement,
+non-competition, non-solicitation, non-interference, and/or other restrictive covenant obligations contained in any written
+agreement between the Participant and the Company. In the event that Participant fails to comply with any of these obligations, the Participant’s right to receive any additional Severance Package or CIC Severance Package payments or benefits
+shall cease immediately and Participant shall promptly refund any such payments or benefits previously paid by the Company. The Company’s rights under this Section 7 shall be full recourse. The Company shall have the right to offset
+Participant’s obligations under this Section 7 against any amounts otherwise owed to Participant from the Company or its affiliates. 
+
+  
+
+8.
+ Accrued Obligations. Notwithstanding anything to the contrary contained herein, a
+Participant shall be entitled to all Accrued Obligations as of his or her termination of employment, regardless of whether he or she is eligible for severance payments or benefits under this Plan. “Accrued Obligations” shall mean,
+for any Participant: (i) the portion of such Participant’s Base Salary that has accrued prior to any termination of such Participant’s employment with the Company and has not yet been paid; (ii) the portion of such
+Participant’s prior-year annual bonus that has been earned prior to any termination of such Participant’s employment with the Company and has not yet been paid; (iii) the amount of any expenses properly incurred by such Participant on
+behalf of the Company in accordance with Company policy prior to any such termination and not yet reimbursed; and (iv) the amount of such Participant’s vacation time that has accrued prior to any such termination that has not yet been
+used. A Participant’s entitlement to any other compensation or benefit under any plan of Company shall be governed by and determined in accordance with the terms of such plans, except as otherwise specified in this Plan. 
+
+ 
+
+9.
+ Non-Duplication of Benefits. Nothing in this Plan
+will entitle any Participant to receive duplicate benefits in connection with any voluntary or involuntary termination of employment. A Participant’s right to receive any payments under this Plan will be expressly conditioned upon such
+Participant not receiving severance payments or benefits under any other agreement, program or arrangement. 
+
+  
+
+10.
+ Death. If a Participant dies after the date Participant commences receiving benefits and
+payments under the Severance Package or the CIC Severance Package, as applicable, but before all such payments or benefits have been paid or provided, payments will be made to any beneficiary designated by Participant prior to or in connection with
+such Participant’s termination or, if no such beneficiary has been designated, to Participant’s estate. 
+
+  
+
+11.
+ Withholding. The Company may withhold from any payment or benefit under this Plan:
+(a) any federal, state, or local income or payroll taxes required by law to be withheld with respect to such payment; (b) such sum as the Company may reasonably estimate is necessary to cover any taxes for which the Company may be liable
+and which may be assessed with regard to such payment; and (c) such other amounts as appropriately may be withheld under the Company’s payroll policies and procedures from time to time in effect. 
+
+  
+ 5 
+
+12.
+ Section 409A. It is expected that the payments and
+benefits provided under this Plan will be exempt from the application of Section 409A of the Code, and the guidance issued thereunder (“Section 409A”). This Plan shall be interpreted consistent with this
+intent to the maximum extent permitted and generally, with the provisions of Section 409A. A termination of employment shall not be deemed to have occurred for purposes of any provision of this Plan providing for the payment of any amounts or
+benefits upon or following a termination of employment (which amounts or benefits constitute nonqualified deferred compensation within the meaning of Section 409A) unless such termination is also a “separation from service” within the
+meaning of Section 409A and, for purposes of any such provision of this Plan, references to a “termination,” “termination of employment” or like terms shall mean “separation from service”. Neither Participant nor
+the Company shall have the right to accelerate or defer the delivery of any payment or benefit except to the extent specifically permitted or required by Section 409A. Notwithstanding the foregoing, to the extent the severance payments or
+benefits under this Plan are subject to Section 409A, the following rules shall apply with respect to distribution of the payments and benefits, if any, to be provided to Participants under this Plan: 
+
+ 
+
+ 
+(a)
+ Each installment of the payments and benefits provided under this Plan will be treated as a separate
+“payment” for purposes of Section 409A. Whenever a payment under this Plan specifies a payment period with reference to a number of days (e.g., “payment shall be made within 10 days following the date of termination”), the
+actual date of payment within the specified period shall be in the Company’s sole discretion. Notwithstanding any other provision of this Plan to the contrary, in no event shall any payment under this Plan that constitutes “non-qualified deferred compensation” for purposes of Section 409A be subject to transfer, offset, counterclaim or recoupment by any other amount unless otherwise permitted by Section 409A.
+
+  
+
+ 
+(b)
+ Notwithstanding any other payment provision herein to the contrary, if the Company or appropriately-related
+affiliates is publicly-traded and a Participant is deemed on the date of termination to be a “specified employee” within the meaning of that term under Code Section 409A(a)(2)(B) with respect to such entity, then each of the following
+shall apply: 
+
+  
+
+ 
+(i)
+ With regard to any payment that is considered “non-qualified
+deferred compensation” under Section 409A payable on account of a “separation from service,” such payment shall be made on the date which is the earlier of (A) the day following the expiration of the six month period
+measured from the date of such “separation from service” of Participant, and (B) the date of Participant’s death (the “Delay Period”) to the extent required under Section 409A. Upon the expiration of the
+Delay Period, all payments delayed pursuant to this provision (whether otherwise payable in a single sum or in installments in the absence of such delay) shall be paid to or for Participant in a lump sum, and all remaining payments due under this
+Plan shall be paid or provided for in accordance with the normal payment dates specified herein; and 
+
+  
+
+ 
+(ii)
+ To the extent that any benefits to be provided during the Delay Period are considered “non-qualified deferred compensation” under Section 409A payable on account of a “separation from service,” and such benefits are not otherwise exempt from Section 409A, Participant
+shall pay the cost of such benefits during the Delay Period, and the Company shall reimburse Participant, to the extent that such costs would otherwise 
+
+  
+ 6 
+
+ 
+
+have been paid by the Company or to the extent that such benefits would otherwise have been provided by the Company at no cost to Participant, the Company’s share of the cost of such
+benefits upon expiration of the Delay Period. Any remaining benefits shall be reimbursed or provided by the Company in accordance with the procedures specified in this Plan. 
+
+ 
+
+ 
+(c)
+ The Company makes no representations or warranties and shall have no liability to any Participant or any other
+person, other than with respect to payments made by the Company in violation of the provisions of this Plan, if any provisions of or payments under this Plan are determined to constitute deferred compensation subject to Section 409A of the Code
+but not to satisfy the conditions of that section. 
+
+  
+
+13.
+ Modified 280G Cutback. 
+
+ 
+
+ 
+(a)
+ To the extent that any payment, benefit or distribution of any type to or for a Participant’s benefit by
+the Company or any of its affiliates, whether paid or payable, provided or to be provided, or distributed or distributable pursuant to the terms of this Plan or otherwise (including, without limitation, any accelerated vesting of stock options or
+other equity-based awards) (collectively, the “Total Payments”) would be subject to the excise tax imposed under Section 4999 of the Code, then the Total Payments shall be reduced (but not below zero) so that the maximum amount
+of the Total Payments (after reduction) shall be one dollar ($1.00) less than the amount which would cause the Total Payments to be subject to the excise tax imposed by Section 4999 of the Code, but only if the Total Payments so reduced result
+in Participant receiving a net after tax amount that exceeds the net after tax amount Participant would receive if the Total Payments were not reduced and were instead subject to the excise tax imposed on excess parachute payments by
+Section 4999 of the Code. Unless Participant shall have given prior written notice to the Company to effectuate a reduction in the Total Payments if such a reduction is required, any such notice consistent with the requirements of
+Section 409A to avoid the imputation of any tax, penalty or interest thereunder, the Company shall reduce or eliminate the Total Payments by first reducing or eliminating any cash severance benefits (with the payments to be made furthest in the
+future being reduced first), then by reducing or eliminating any accelerated vesting of stock options or similar awards, then by reducing or eliminating any accelerated vesting of restricted stock or similar awards, then by reducing or eliminating
+any other remaining Total Payments. The preceding provisions of this Section shall take precedence over the provisions of any other plan, arrangement or agreement governing Participant’s rights and entitlements to any benefits or compensation.
+
+  
+
+ 
+(b)
+ If the Total Payments to a Participant are reduced in accordance with Section 14(a), as a result of the
+uncertainty in the application of Section 4999 of the Code at the time of the initial reduction under Section 14(a), it is possible that Total Payments to a Participant which will not have been made by the Company should have been made
+(“Underpayment”) or that Total Payments to a Participant which were made should not have been made (“Overpayment”). If an Underpayment has occurred, the amount of any such Underpayment shall be promptly paid by the
+Company to or for the benefit of such Participant. In the event of an Overpayment, then Participant shall promptly repay to the Company the amount of any such Overpayment together with interest on such amount (at the same rate as is applied to
+determine the present value of payments under Section 280G of the Code or any successor thereto), from the date the reimbursable payment was received by such Participant to the date the same is repaid to the Company. 
+
+  
+ 7 
+
+ 14. Plan Administration. 
+
+ 
+
+ 
+(a)
+ Plan Administrator. The Plan Administrator shall be the Board or a committee thereof designated by the
+Board (the “Committee”); provided, however, that the Board or such Committee (as constituted prior to the closing of a Change in Control) may in its sole discretion appoint a new Plan Administrator to administer this Plan following
+a Change in Control, which such Plan Administrator shall not be removed or modified following a Change in Control other than at its own initiative. If such Plan Administrator designated by the Board or Committee prior to a Change in Control ceases
+to serve as Plan Administrator at any point after a Change in Control but prior to the later to occur of the first (1st) anniversary of the Change in Control or the final payment of benefits under this Plan to any Participant, then until the later
+to occur of the first (1st) anniversary of the Change in Control or the final payment of benefits under this Plan to any Participant, any such successor Plan Administrator appointed by the Board or the Committee shall be a qualified independent
+third party, such as a retired judge selected by the head of the American Arbitration Association in Manhattan, an independent compensation consultant or a law firm. The Plan Administrator shall also serve as the Named Fiduciary of this Plan under
+ERISA. The Plan Administrator shall be the “administrator” within the meaning of Section 3(16) of ERISA and shall have all the responsibilities and duties contained therein. Notwithstanding any provision of this Plan to the contrary,
+any employee(s) appointed to serve as Plan Administrator (whether individually or as members of a committee) shall serve as such only for so long as he or she is an employee of the Company and shall be deemed to resign his or her position effective
+as of his or her termination of employment (whether voluntary or involuntary). The Plan Administrator can be contacted at the following address: 
+
+Hyperfine, Inc. 
+ 351 New
+Whitfield Street 
+ Guilford, CT 06437 
+
+Attention: Chief People Officer 
+
+administrator@hyperfine.io 
+  
+
+ 
+(b)
+ Decisions, Powers and Duties. The general administration of this Plan and the responsibility for
+carrying out its provisions shall be vested in the Plan Administrator. The Plan Administrator shall have such powers and authority as are necessary to discharge such duties and responsibilities which also include, but are not limited to,
+interpretation and construction of this Plan, the determination of all questions of fact, including, without limit, eligibility, participation and benefits, the resolution of any ambiguities and all other related or incidental matters, and such
+duties and powers of the plan administration which are not assumed from time to time by any other appropriate entity, individual or institution. The Plan Administrator may determine from time to time, in its discretion, whether an employee of the
+Company who is not an Eligible Employee shall become a Participant in this Plan, provided the Plan Administrator delivers written notice to such employee that the employee will be a Participant in the Plan. The Plan Administrator may adopt rules and
+regulations of uniform applicability in its interpretation and implementation of this Plan. The Plan Administrator may delegate any of its duties hereunder to such person or persons from time to time as it may designate. 
+
+  
+ 8 
+
+ 
+(c)
+ The Plan Administrator shall discharge its duties and responsibilities and exercise its powers and authority in
+its sole discretion and in accordance with the terms of the controlling legal documents and applicable law, and its actions and decisions that are not arbitrary and capricious shall be binding on any employee, and employee’s spouse or other
+dependent or beneficiary and any other interested parties whether or not in being or under a disability. The Plan Administrator is empowered, on behalf of this Plan, to engage accountants, legal counsel and such other personnel as it deems necessary
+or advisable to assist it in the performance of its duties under this Plan. The functions of any such persons engaged by the Plan Administrator shall be limited to the specified services and duties for which they are engaged, and such persons shall
+have no other duties, obligations or responsibilities under this Plan. Such persons shall exercise no discretionary authority or discretionary control respecting the management of this Plan. 
+
+ 
+
+ 
+(d)
+ The Company shall promptly reimburse the Plan Administrator or the Committee for any expenses incurred in good
+faith in the course of carrying out its obligations under this Plan, including, but not limited to, attorney’s fees, claims, fines, judgments, taxes, causes of action or liability and amounts paid in settlement, actually and reasonably incurred
+by such Committee or Plan Administrator, unless such expense, claim, fine, judgment, taxes, cause of action, liability or amount arose from his or her negligence, fraud or willful breach of his or her fiduciary responsibilities under ERISA.
+
+  
+
+15.
+ Claims, Inquiries and Appeals. 
+
+ 
+
+ 
+(a)
+ Applications for Benefits and Inquiries. Any application for benefits under or inquiries about this Plan
+or inquiries about present or future rights under this Plan must be submitted to the Plan Administrator in writing, as follows: 
+
+Plan Administrator 
+ Hyperfine,
+Inc. 
+ 351 New Whitfield Street 
+
+Guilford, CT 06437 
+  
+
+ 
+(b)
+ Denial of Claims. In the event that any application for benefits is denied in whole or in part, the Plan
+Administrator must notify the applicant, in writing, of the denial of the application, and of the applicant’s right to review the denial. The written notice of denial will be set forth in a manner designed to be understood by the applicant, and
+will include specific reasons for the denial, specific references to this Plan provision upon which the denial is based, a description of any information or material that the Plan Administrator needs to complete the review and an explanation of this
+Plan’s review procedure. This written notice will be given to the applicant within 15 days after the Plan Administrator receives the application, unless special circumstances require an extension of time, in which case, the Plan Administrator
+has up to an additional 15 days for processing the application. If an extension of time for processing is required, written notice of the extension will be furnished to the applicant before the end of the initial
+15-day period. This notice of extension will describe the special circumstances necessitating the additional time and the date by which the Plan Administrator is to render his or her decision on the
+application. If written notice of denial of the application for benefits is not furnished within the specified time, the application shall be deemed to be denied. The applicant will then be permitted to appeal the denial in accordance with the
+review procedure described below. 
+
+  
+ 9 
+
+ 
+(c)
+ Request for a Review. Any person (or that person’s authorized representative) for whom an
+application for benefits is denied, in whole or in part, may appeal the denial by submitting a request for a review to the Plan Administrator within 30 days after the application is denied (or deemed denied). The Plan Administrator will give the
+applicant (or his or her representative) an opportunity to review pertinent documents in preparing a request for a review and submit written comments, documents, records and other information relating to the claim. A request for a review shall be in
+writing and shall be addressed to: 
+
+ Plan Administrator 
+
+Hyperfine, Inc. 
+ 351 New
+Whitfield Street 
+ Guilford, CT 06437 
+
+A request for review must set forth all of the grounds on which it is based, all facts in support of the request and any other matters that the
+applicant feels are pertinent. The Plan Administrator may require the applicant to submit additional facts, documents or other material as he or she may find necessary or appropriate in making his or her review. 
+
+ 
+
+ 
+(d)
+ Decision on Review. The Plan Administrator will act on each request for review within 15 days after
+receipt of the request, unless special circumstances require an extension of time (not to exceed an additional 15 days), for processing the request for a review. If an extension for review is required, written notice of the extension will be
+furnished to the applicant within the initial 15-day period. The Plan Administrator will give prompt, written notice of his or her decision to the applicant. In the event that the Plan Administrator confirms
+the denial of the application for benefits in whole or in part, the notice will outline, in a manner calculated to be understood by the applicant, the specific Plan provisions upon which the decision is based. 
+
+ 
+
+ 
+(e)
+ Rules and Procedures. The Plan Administrator may establish rules and procedures, consistent with this
+Plan and with ERISA, as necessary and appropriate in carrying out his or her responsibilities in reviewing benefit claims. The Plan Administrator may require an applicant who wishes to submit additional information in connection with an appeal from
+the denial (or deemed denial) of benefits to do so at the applicant’s own expense. 
+
+  
+
+ 
+(f)
+ Exhaustion of Remedies. No legal action for benefits under this Plan may be brought until the claimant
+(i) has submitted a written application for benefits in accordance with the procedures described by Section 15(a) above, (ii) has been notified by the Plan Administrator that the application is denied (or the application is deemed
+denied due to the Plan Administrator’s failure to act on it within the established time period), (iii) has filed a written request for a review of the application in accordance with the appeal procedure described in Section 15(c) above and
+(iv) has been notified in writing that the Plan Administrator has denied the appeal (or the appeal is deemed to be denied due to the Plan Administrator’s failure to take any action on the claim within the time prescribed by
+Section 15(d) above). 
+
+  
+
+16.
+ Indemnification. To the extent permitted by law, the Plan Administrator and all
+employees, officers, directors, agents and representatives of the Company shall be indemnified by the Company and held harmless against any claims and all associated expenses of defending against such claims, resulting from any action or conduct
+relating to the administration of this Plan, whether as a member of the Committee or otherwise, except to the extent that such claims arise from gross negligence, willful neglect, or willful misconduct. The Company shall advance all expenses for
+which a party is indemnified under this Section 16 to such indemnified party or shall arrange for direct payment of any such expenses by the Company. 
+
+  
+ 10 
+
+17.
+ Plan Not an Employment Contract. This Plan is not a contract between the Company
+and any employee, nor is it a condition of employment of any employee. Nothing contained in this Plan gives, or is intended to give, any employee the right to be retained in the service of the Company, or to interfere with the right of the Company
+to discharge or terminate the employment of any employee at any time and for any reason. No employee shall have the right or claim to benefits beyond those expressly provided in this Plan, if any. All rights and claims are limited as set forth in
+this Plan. 
+
+  
+
+18.
+ Severability. In case any one or more of the provisions of this Plan (or part
+thereof) shall be held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect the other provisions hereof, and this Plan shall be construed as if such invalid, illegal or
+unenforceable provisions (or part thereof) never had been contained herein. 
+
+  
+
+19.
+ Non Assignability. No right or interest of any Participant in this Plan shall be
+assignable or transferable in whole or in part either directly or by operation of law or otherwise, including, but not limited to, execution, levy, garnishment, attachment, pledge or bankruptcy. 
+
+ 
+
+20.
+ Integration With Other Pay or Benefits Requirements. The severance payments and
+benefits provided for in this Plan are the maximum benefits that the Company will pay to Participants on a termination of employment, except to the extent otherwise required by applicable law. To the extent that any federal, state or local law,
+including, without limitation, so called “plant closing” laws, requires the Company to give advance notice or make a payment of any kind to an employee because of that employee’s involuntary termination due to a layoff, reduction in
+force, plant or facility closing, sale of business, or similar event, the benefits provided under this Plan or the other arrangement shall either be reduced or eliminated to avoid any duplication of payment. The Company intends for the benefits
+provided under this Plan to partially or fully satisfy any and all statutory obligations that may arise out of an employee’s involuntary termination for the foregoing reasons and the Company shall so construe and implement the terms of this
+Plan. 
+
+  
+
+21.
+ Amendment or Termination. The Board may amend, modify, or terminate this Plan at
+any time in its sole discretion; provided, however, that: (a) any such amendment, modification or termination made prior to a Change in Control that adversely affects the rights of any Participant shall be approved by the Company’s Board
+of Directors; (b) no such amendment, modification or termination may adversely affect the rights of a Participant then receiving payments or benefits under this Plan without the consent of such person; and (c) no such amendment,
+modification or termination made after a Change in Control shall be effective until after the later to occur of the first (1st) anniversary of the Change in Control or the final payment of benefits under this Plan to any Participant. The Board
+intends to review this Plan at least annually. 
+
+  
+
+22.
+ Source of Benefit. The Company will pay benefits under the Plan from its general assets to
+the extent available. The benefits are not funded through a trust fund or insurance contracts. No employee shall have any right to, or interest in, any assets of the Company upon termination of employment or otherwise. 
+
+  
+ 11 
+
+23.
+ Statement of ERISA Rights. Participants are entitled to certain rights and protections
+under the Employee Retirement Income Security Act of 1974, as amended (“ERISA”). ERISA provides that Participants are entitled to the following rights: 
+
+ 
+
+ 
+(a)
+ Receive Information About the Plan and Benefits. A Participant may examine, without charge, at the Plan
+Administrator’s office all documents governing the Plan and, if applicable, a copy of the latest annual report (Form 5500) filed with the U.S. Department of Labor and available at the Public Disclosure Room of the Employee Benefits Security
+Administration. A Participant may also obtain copies of these documents upon written request to the Plan Administrator. There may be a reasonable charge for the cost of copying. A Participant is also entitled to receive a summary of the Plan’s
+annual financial report. The Plan Administrator is required by law to furnish each Participant with a copy of this summary annual report. 
+
+  
+
+ 
+(b)
+ Prudent Actions by Plan Fiduciaries. In addition to creating rights for Plan participants, ERISA imposes
+duties upon the people who are responsible for the operation of the Plan. The people who operate the Plan, called “fiduciaries,” have a duty to do so prudently and in the interest of the Plan’s Participants and their beneficiaries. No
+one, including the Company, may fire a Participant or otherwise discriminate against a Participant in any way to prevent the Participant from obtaining a welfare benefit or exercising the Participant’s rights under ERISA. 
+
+ 
+
+ 
+(c)
+ Enforce Participant Rights. If a Participant’s claim for a welfare benefit is denied or ignored, in
+whole or in part, the Participant has the right to know the reason and to obtain copies of documents relating to the decision without charge, and to appeal any denial, all within certain timeframes as set forth in this Plan. Under ERISA, there are
+steps a Participant can take to enforce the above rights. For instance, if a Participant requests a copy of Plan documents, or the latest annual report from the Plan and the Participant does not receive them within 30 days, the Participant may file
+suit in a federal court. In such a case, the court may require the Plan Administrator to provide the materials to the Participant and pay the Participant up to $110 per day until the Participant receives the materials, unless the materials were not
+sent because of reasons beyond the control of the Plan Administrator. If the Participant has a claim for benefits that is denied or ignored, in whole or in part, the Participant may file suit in federal or state court, provided the Participant has
+exhausted the Plan’s administrative remedies (i.e. claims procedures). If it should happen that the Plan fiduciaries misuse the Plan’s money, or if a Participant is discriminated against for asserting the Participant’s rights under
+this Plan or under ERISA, the Participant may seek assistance from the U.S. Department of Labor, or may file suit in federal court. The court will decide who should pay court costs and legal fees. If a Participant is successful, the court may order
+the person that the Participant sued to pay these costs and fees. If a Participant loses, the court may order the Participant to pay these costs and fees if it finds the Participant’s claim is frivolous. 
+
+ 
+
+ 
+(d)
+ Assistance With Questions. If a Participant has any questions about the Plan, the Participant should
+contact the Plan Administrator. If a Participant has questions about this statement or about the Participant’s rights under ERISA, the Participant should contact the nearest office of the Employee Benefits Security Administration, U.S.
+Department of Labor, listed in your telephone directory or the Division of Participant Assistance and Communications, Employee Benefits Security Administration, U.S. Department of Labor, 200 Constitution Avenue, N.W., Washington, D.C. 20210. The
+Participant may obtain publications about the Participant’s rights and responsibilities under ERISA by calling the publications hotline of the Employee Benefits Security Administration. A Participant may also access the Employee Benefits
+Security Administration’s website at www.dol.gov/ebsa. 
+
+  
+ 12 
+
+24.
+ Type of Plan. This Plan is a severance pay Plan. 
+
+ 
+
+25.
+ Plan Sponsor. The sponsor of this Plan is Hyperfine, Inc. (referred to in this Plan as the
+“Company”). The Plan sponsor’s address is: 
+
+ Hyperfine, Inc. 
+
+351 New Whitfield Street 
+
+Guilford, CT 06437 
+ Attention:
+Chief People Officer 
+ administrator@hyperfine.io 
+  
+
+26.
+ Agent for Legal Process. A Participant or beneficiary may serve legal process on the Plan
+Administrator, c/o: 
+
+ Hyperfine, Inc. 
+
+351 New Whitfield Street 
+
+Guilford, CT 06437 
+ Attention:
+Chief People Officer 
+ With a copy to: 
+
+Hyperfine, Inc. 
+ 351 New
+Whitfield Street 
+ Guilford, CT 06437 
+
+Attention: legal@hyperfine.io 
+  
+
+27.
+ Identification Number. The Plan’s number for purposes of discussion with a federal
+government agency is 501. 
+
+  
+
+28.
+ Summary Plan Description. This Plan constitutes both the governing document and the
+summary plan description for the Plan. 
+
+  
+
+29.
+ Governing Law. This Plan and the rights of all persons under this Plan shall be construed
+in accordance with and under applicable provisions of ERISA, and the regulations thereunder, and the laws of the State of Delaware (without regard to conflict of law provisions) to the extent not preempted by federal law. 
+
+  
+ 13 
+
+ EXHIBIT A 
+
+MULTIPLIERS 
+  
+
+ Participant
+
+  
+Normal Multiplier
+ 
+  
+CIC Multiplier
+ 
+
+ Chief Executive Officer
+
+  
+ 
+1.5
+ 
+  
+ 
+1.5
+ 
+
+ Alok Gupta, Khan Siddiqui, Tom Teisseyre, and Brett Hale
+
+  
+ 
+0.5
+ 
+  
+ 
+0.5
+ 
+
+  
+
+  
+ 14

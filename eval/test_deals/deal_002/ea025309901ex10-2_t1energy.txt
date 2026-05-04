@@ -1,0 +1,635 @@
+EX-10.2
+3
+ea025309901ex10-2_t1energy.htm
+AMENDMENT NO. 3 TO THE PREFERRED STOCK PURCHASE AGREEMENT, DATED AS OF AUGUST 13, 2025
+
+ 
+
+Exhibit 10.2
+
+ 
+
+Execution Version
+
+ 
+
+T1 ENERGY INC.
+
+ 
+
+AMENDMENT NO. 3 TO THE
+
+CONVERTIBLE SERIES A PREFERRED STOCK PURCHASE
+AGREEMENT
+
+ 
+
+This AMENDMENT NO. 3 TO THE
+CONVERTIBLE SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this “Amendment”) is made as of August 13, 2025, by and among
+T1 Energy Inc., a Delaware corporation (the “Company”), and the Purchasers listed on the signature pages hereto (collectively,
+the “Parties”).
+
+ 
+
+WHEREAS, the Company
+and the Purchasers are parties to that certain Convertible Series A Preferred Stock Purchase Agreement, dated as of November 6, 2024,
+as amended on March 21, 2025 and April 29, 2025 (as amended, restated, supplemented or otherwise modified from time to time, the “Preferred
+Stock Purchase Agreement”), pursuant to which the Company has agreed to issue, and the Purchasers have agreed to purchase, Series
+A Preferred Stock;
+
+ 
+
+WHEREAS, pursuant to
+Section 9.11 of the Preferred Stock Purchase Agreement, the Preferred Stock Purchase Agreement may be amended with the written
+instrument executed by or on behalf of the Company and the Purchasers; and
+
+ 
+
+NOW, THEREFORE, in consideration
+of the foregoing and the promises and conditions contained herein, the Parties hereby agree as follows:
+
+ 
+
+1. Definitions.
+Unless otherwise indicated herein, words and terms which are defined in the Preferred Stock Purchase Agreement shall have the same meaning
+where used herein (including the Recitals above).
+
+ 
+
+2. Amendments of Section
+1 and Exhibit C of the Preferred Stock Purchase Agreement. The Parties agree that:
+
+ 
+
+(a) The
+definition of “Second Tranche Closing Date” in Section 1 of the Preferred Stock Purchase Agreement is hereby
+amended and restated in its entirety as follows:
+
+ 
+
+““Second
+Tranche Closing Date” means the date of issuance of the Second Tranche, being 10 Business Days following the date the Company
+notifies the Purchasers of its decision to exercise the Second Tranche Option.”
+
+ 
+
+(b) The
+definition of “Second Tranche Closing Date” in Section 3(oo) of Exhibit C of the Preferred Stock Purchase
+Agreement (Form of Certificate of Designation of Series A Convertible Preferred Stock) is hereby amended and restated in its entirety
+as follows:
+
+ 
+
+““Second
+Tranche Closing Date” means the date of issuance of the Second Tranche, being 10 Business Days following the date the Corporation
+notifies the Purchasers of its decision to exercise the Second Tranche Option.”
+
+ 
+
+(c) The
+definition of “Conversion Price” in Section 3(j) of Exhibit C of the Preferred Stock Purchase Agreement
+(Form of Certificate of Designation of Series A Convertible Preferred Stock) is hereby amended and restated in its entirety as
+follows:
+
+ 
+
+““Conversion
+Price” means (x) with respect to the First Tranche, $1.70 per share of Common Stock; and (y) with respect to the Second Tranche,
+(i) if the 10-Day VWAP of the Common Stock immediately prior to the Conversion Date is $2.50 or more per share, then the Conversion Price
+shall be $1.90 per share of Common Stock and (ii) if the 10-Day VWAP of the Common Stock immediately prior to the Conversion Date is
+less than $2.50 per share, the Conversion price shall be $1.70 per share of Common Stock.”
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+(d) The
+definition of “TUM 2” in Section 1 of the Preferred Stock Purchase Agreement and Section 3(yy) of Exhibit
+C thereto (Form of Certificate of Designation of Series A Convertible Preferred Stock) is deleted.
+
+ 
+
+(e) The
+definition of “Trading Day” in Section 3 of Exhibit C of the Preferred Stock Purchase Agreement (Form
+of Certificate of Designation of Series A Convertible Preferred Stock) is hereby amended and restated in its entirety as follows:
+
+ 
+
+““Trading
+Day” means (i) a day on which the Common Stock is listed or quoted and traded on its Principal Trading Market (other than the
+OTC Bulletin Board), or (ii) if the Common Stock is not listed on a Trading Market (other than the OTC Bulletin Board), a day on which
+the Common Stock is traded in the over-the-counter market, as reported by the OTC Bulletin Board, or (iii) if the Common Stock is not
+quoted on any Trading Market, a day on which the Common Stock is quoted in the over-the-counter market as reported by OTC Markets Group
+Inc. (formerly OTC Markets Inc.) (or any similar organization or agency succeeding to its functions of reporting prices); provided, that
+in the event that the Common Stock is not listed or quoted as set forth in (i), (ii) and (iii) hereof, then Trading Day shall mean a Business
+Day.”
+
+ 
+
+(f) Section
+3 of Exhibit C of the Preferred Stock Purchase Agreement (Form of Certificate of Designation of Series A Convertible Preferred
+Stock) is hereby amended by inserting the definition “10-Day VWAP” in proper alphabetical order.
+
+ 
+
+““10-Day
+VWAP” means the volume weighted average price of the Common Stock in composite transactions for the principal U.S.
+national or regional securities exchange on which the shares of Common Stock are then listed as reported by Bloomberg L.P. (based on a
+Trading Day from 9:30 a.m. (New York City time) to 4:00 p.m. (New York City time)) (or a similar organization or agency succeeding to
+its functions of reporting prices) for the ten (10) consecutive full Trading Days prior to and including such determination date.”
+
+ 
+
+(g) Section
+3 of Exhibit C of the Preferred Stock Purchase Agreement (Form of Certificate of Designation of Series A Convertible Preferred
+Stock) is hereby amended by inserting the definition “Principal Trading Market” in proper alphabetical order.
+
+ 
+
+““Principal
+Trading Market” means the Trading Market on which the Common Stock is primarily listed on and quoted for trading, which, as
+of the date of the Preferred Stock Purchase Agreement, shall be the NYSE.”
+
+ 
+
+(h) Section
+3 of Exhibit C of the Preferred Stock Purchase Agreement (Form of Certificate of Designation of Series A Convertible Preferred
+Stock) is hereby amended by inserting the definition “Trading Market” in proper alphabetical order.
+
+ 
+
+““Trading
+Market” means whichever of the New York Stock Exchange, the American Stock Exchange, The Nasdaq Global Select Market, The Nasdaq
+Global Market, The Nasdaq Capital Market or the OTC Bulletin Board on which the Common Stock is listed or quoted for trading on the date
+in question.”
+
+ 
+
+ 2
+
+ 
+
+ 
+
+ 
+
+3. Amendment
+of Section 6.2(d) of the Preferred Stock Purchase Agreement. The Parties agree that Section 6.2(d) of the Preferred
+Stock Purchase Agreement is hereby amended and restated in its entirety by deleting the following paragraph:
+
+ 
+
+“TUM 2
+Final Investment Decision. The Company shall have proceeded with its final investment decision with regard to the TUM 2 facility.”
+
+ 
+
+and replacing it with
+the following paragraph:
+
+ 
+
+“No Going
+Concern Qualification. The most recent financial statements files with the SEC do not include a qualification that material uncertainty
+exists that may cast significant doubt on the Company’s ability to continue as a going concern.”
+
+ 
+
+4. Amendment
+of Section 2.1(b) of the Preferred Stock Purchase Agreement. The Parties agree that Section 2.1(b) of the Preferred Stock Purchase
+Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“Second
+Tranche. Following the completion of the First Tranche and subject to the terms of this Agreement, upon subsequent mutual agreement
+of the Parties in writing (each in their sole discretion) to issue and sell to the Purchasers, and for Purchasers to subscribe for an
+additional 5 million shares of Series A Preferred Stock (the “Second Tranche Option”), the Company shall issue and sell to
+the Purchasers an additional 5 million shares of Series A Preferred Stock and each Purchaser agrees to purchase from the Company, the
+additional number of shares of Series A Preferred Stock set out against their name in Schedule I, free and clear of all Encumbrances at
+the Second Tranche Closing (the “Second Tranche”). The Purchasers shall have the right, upon providing at least five (5) Business
+Days’ notice to the Company, to reallocate amongst themselves the Series A Preferred Stock to be issued pursuant to the exercise
+of the Second Tranche Option.”
+
+ 
+
+5. Amendment
+of Section 2.5 of the Preferred Stock Purchase Agreement. The Parties agree that the first sentence of Section 2.5 of the Preferred
+Stock Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“At the Second
+Tranche Closing, if any, the Purchasers and the Company (as applicable) shall take or cause to be taken the following actions (“Second
+Tranche Closing Actions”):”
+
+ 
+
+6. Amendment
+of Section 5.7 of the Preferred Stock Purchase Agreement. The Parties Agree that Section 5.7 of the Preferred Stock Purchase
+Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“In the event
+that between the date of this Agreement and one year following the Second Tranche Closing Date, if any, the Company has issued any shares
+of preferred stock with a conversion price for converting into shares of Common Stock that is lower than the conversion price set out
+in the Certificate of Designation and that would otherwise be applicable to the Second Tranche (such lower conversion price being referred
+to as the “Lower Conversion Price”), the Company shall make such amendment as is necessary to the terms of the Second
+Tranche so that the conversion price applicable to the Second Tranche is no higher than the Lower Conversion Price. In no event shall
+the Lower Conversion Price be below $1.05.”
+
+ 
+
+ 3
+
+ 
+
+ 
+
+ 
+
+7.
+Amendment of Section 5 of the Preferred Stock Purchase Agreement. The Parties agree that Section 5 of the Preferred Stock
+Purchase Agreement is hereby amended by adding the following paragraph as Section 5.9:
+
+ 
+
+“Issuance
+of Penny Warrants. If the Second Tranche Closing does not occur by December 31, 2026, the Company shall promptly (and in all events
+within 7 days) issue to Purchasers an aggregate 3,500,000 warrants of the Company exercisable for 3,500,000 shares of Common Stock at
+a purchase price of $0.01 per share (the “Warrants”). Subject to reasonable and customary terms and conditions, the
+Warrants shall be exercisable, in whole and not in part, commencing from the date of issuance of such warrants and ending on the three-year
+anniversary of the issuance of such Warrants. The Warrants shall provide that at the Purchasers’ option, the Company shall settle
+the exercise of the Warrants on a cashless basis on reasonable and customary terms. The Common Stock for which the Warrants are exercisable
+shall be deemed to be Registrable Securities under this Agreement such that, inter alia, they shall be registered for resale in accordance
+with Section 5.6 hereof.”
+
+ 
+
+8. Amendment
+of Section 6.2 of the Preferred Stock Purchase Agreement. The Parties agree that the lead in paragraph of Section 6.2 of the
+Preferred Stock Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+“If the Second
+Tranche Option is exercised, the obligations of the Purchasers to consummate the Second Tranche and the related transactions thereto pursuant
+to this Agreement on the Second Tranche Closing Date shall be subject to the satisfaction at or prior to the Second Tranche Closing Date
+of each of the following conditions, any one or more of which may be waived in writing by the Purchasers:”
+
+ 
+
+9. Continued
+Validity of the Preferred Stock Purchase Agreement. Except as specifically set forth herein, the Preferred Stock Purchase Agreement
+shall continue to be, and shall remain, unaltered and in full force and effect in accordance with their terms.
+
+ 
+
+10. Affirmations.
+Each party hereto hereby (a) ratifies and affirms all the provisions of the Preferred Stock Purchase Agreement and (b) agrees
+that the terms and conditions of the Preferred Stock Purchase Agreement (as amended and supplemented hereby) shall continue in full force
+and effect as amended hereby and that all of its obligations thereunder are valid and enforceable and shall not be impaired or limited
+by the execution or effectiveness of this Amendment or any other documents or instruments executed in connection herewith.
+
+ 
+
+11. Integration.
+This Amendment constitutes the sole agreement of the Parties with respect to the transactions contemplated hereby and shall supersede
+all oral negotiations and the terms of prior writings with respect thereto. From and after the date hereof, all references in the Preferred
+Stock Purchase Agreement modified hereby or in connection herewith shall be deemed to be references to the Preferred Stock Purchase Agreement
+modified in connection herewith as modified hereby or thereby.
+
+ 
+
+12. No
+Novation. This Amendment shall not constitute a termination of the Preferred Stock Purchase Agreement amended or amended and restated
+in connection herewith, nor a novation of any obligations owing to any Purchaser under the Preferred Stock Purchase Agreement.
+
+ 
+
+13. General
+Provisions. The provisions of Section 9 of the Preferred Stock Purchase Agreement shall apply mutatis mutandis to this
+Amendment.
+
+ 
+
+[Remainder of page intentionally left blank]
+
+ 
+
+ 4
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the Parties hereto have executed this Amendment No. 3 to the Convertible Series A Preferred Stock Purchase
+Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ T1 ENERGY INC.
+
+ 
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Daniel Barcelo
+
+ 
+  
+  
+ Name:
+  Daniel Barcelo
+
+ 
+  
+  
+ Title:
+  Chief Executive Officer
+
+ 
+ 
+
+[Signature Page to Amendment No. 3 to Convertible
+Series A Preferred Stock Purchase Agreement]
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+IN
+WITNESS WHEREOF, the parties hereto have executed this Amendment No. 3 to the Convertible Series A Preferred Stock Purchase
+Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ PURCHASERS
+
+ 
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ [***]
+  
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By:
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+ 
+
+[Signature Page to Amendment No. 3 to the Convertible
+Series A Preferred Stock Purchase Agreement]
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ PURCHASERS (CONTINUED)
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By:  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ [***]
+
+ 
+  
+  
+  
+  
+
+ 
+  
+ By:  
+ [***]
+
+ 
+  
+  
+  
+
+ 
+  
+ By: 
+ /s/ Syed Kazmi
+
+ 
+  
+  
+ Name:
+  Syed Kazmi
+
+ 
+  
+  
+ Title:
+  CFO
+
+ 
+ 
+
+[Signature Page to Amendment No. 3 to the Convertible
+Series A Preferred Stock Purchase Agreement]

@@ -1,0 +1,2187 @@
+0001193125-24-237673.txt : 20241015
+0001193125-24-237673.hdr.sgml : 20241015
+20241015172330
+ACCESSION NUMBER: 0001193125-24-237673
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 13
+CONFORMED PERIOD OF REPORT: 20241008
+ITEM INFORMATION: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE: 20241015
+DATE AS OF CHANGE: 20241015
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: Six Flags Entertainment Corporation/NEW
+ CENTRAL INDEX KEY: 0001999001
+ STANDARD INDUSTRIAL CLASSIFICATION: SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+ ORGANIZATION NAME: 07 Trade & Services
+ IRS NUMBER: 000000000
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-42157
+ FILM NUMBER: 241372732
+
+ BUSINESS ADDRESS: 
+ STREET 1: 8701 RED OAK BLVD.
+ CITY: CHARLOTTE
+ STATE: NC
+ ZIP: 28217
+ BUSINESS PHONE: (419) 626-0830
+
+ MAIL ADDRESS: 
+ STREET 1: 8701 RED OAK BLVD.
+ CITY: CHARLOTTE
+ STATE: NC
+ ZIP: 28217
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: CopperSteel HoldCo, Inc.
+ DATE OF NAME CHANGE: 20231027
+
+8-K
+1
+d875272d8k.htm
+8-K
+
+8-K
+
+ Six Flags Entertainment Corporation/NEW false 0001999001 0001999001 2024-10-08 2024-10-08 
+  
+  
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+  
+  
+
+ FORM 8-K
+  
+  
+
+ CURRENT REPORT
+ PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934
+ DATE OF REPORT (Date of earliest event reported): October 8, 2024
+  
+  
+
+ Six Flags Entertainment Corporation 
+ (Exact name of registrant as specified in its charter)
+  
+  
+
+  
+
+Delaware
+ 
+001-42157
+ 
+93-4097909
+
+ (State or other jurisdiction
+ of incorporation)
+
+ 
+ (Commission
+ File Number)
+
+ 
+ (I.R.S. Employer
+ Identification No.)
+
+ 8701 Red Oak Blvd.
+ Charlotte, North Carolina 28217
+ (Address of principal executive offices) (Zip Code)
+ (704) 414-4700
+ (Registrant’s telephone numbers, including area code)
+  
+ (Former name or former address, if changed since last report)
+  
+  
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+  
+
+ 
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+  
+
+ 
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+  
+
+ 
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+  
+
+ 
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ Securities registered pursuant to Section 12(b) of the Act:
+  
+
+ Title of each class
+
+ 
+ Trading
+ Symbols
+
+ 
+ Name of each exchange
+ on which registered
+
+Common Stock, par value $0.01 per share
+ 
+FUN
+ 
+New York Stock Exchange
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+ Emerging growth company ☐
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+  
+  
+  
+
+ 
+
+Item 5.02.
+ Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+
+ In connection with the recent closing of the merger (“Merger”) between former Six Flags Entertainment Corporation and Cedar Fair, L.P. (the “Closing”), the Company has entered into new employment agreements with certain of its executive officers. 
+ Employment Agreement with Richard Zimmerman 
+ On October 8, 2024, Six Flags Entertainment Corporation (the “Company”) entered into an employment agreement with Richard Zimmerman in connection with his service as President and Chief Executive Officer of the Company. Mr. Zimmerman’s employment agreement provides for, among other things, an initial base salary of $1,100,000 per year, subject to annual review by the Board of Directors of the Company (the “Board”) and participation in the Company’s annual bonus program at the initial target rate of 150% of his base salary. The employment agreement provides that Mr. Zimmerman has received an award of performance stock units under the Company’s 2024 Omnibus Incentive Plan (the “2024 Plan”) with respect to a target number of 163,116 shares of the Company’s common stock, as further described below under “Initial Incentive Grants.” The employment agreement also provides that Mr. Zimmerman will receive an annual equity grant during the term of the agreement with a target value of $8,500,000 on the date of grant, with the terms and conditions of awards to be determined by the Board. 
+ In the event of involuntary termination by the Company without Cause or by Mr. Zimmerman for Good Reason (each as defined in the employment agreement), either prior to July 1, 2026 or during the 24-month period following a Change in Control (as defined in the employment agreement), Mr. Zimmerman would be entitled to (i) a cash payment equal to three times the sum of base salary and target annual bonus, (ii) any unpaid annual bonus for the year prior to the year of termination, (iii) a pro-rata annual bonus for the year in which termination occurs, (iv) a cash payment equal to the cost of participation in the Company’s group medical plans for 36 months, and (v) full and immediate vesting of all equity awards with performance-based awards paid out at target. In the event that an involuntary termination occurs during the term of the agreement but outside the periods described above, Mr. Zimmerman is entitled to generally the same severance payments and benefits as described above, except that the cash severance payment is equal to two times the sum of base salary and target annual bonus, the cash payment in respect of group medical benefits is determined with respect to 24 months, and only outstanding equity awards that are scheduled to vest within 18 months following termination shall become fully vested. All severance payments and benefits under the employment agreement are subject to Mr. Zimmerman signing a release of claims against the Company. Upon his Retirement (as defined in the employment agreement), Mr. Zimmerman will continue to vest in all outstanding equity awards made after the Closing, other than the Initial Incentive Grant described below, in each case on a pro-rata basis as if Mr. Zimmerman remained employed for an additional 18 months following Mr. Zimmerman’s date of Retirement, subject to Mr. Zimmerman having completed the three-year term of his employment agreement and having given the Board at least 12-months’ advance notice of his retirement date. Mr. Zimmerman remains eligible to retirement vest in full in any awards granted prior to Closing, consistent with pre-Closing retirement terms for awards subject to service-based vesting. 
+ Under the employment agreement, Mr. Zimmerman is subject to restrictive covenants, during and for specified periods following his termination of employment, relating to competing against the Company, soliciting business partners, customers or employees of the Company, confidentiality restrictions and a non-disparagement covenant. Mr. Zimmerman’s employment agreement is for a term of three years, with no auto-renewal. The parties may mutually agree to an extension of the term of the employment agreement, and if the Company does not intend to extend the term of the agreement, the Company is required to give six-months’ advance notice to Mr. Zimmerman. 
+ The foregoing description of the employment agreement for Mr. Zimmerman does not purport to summarize all of the provisions of his employment agreements and is qualified in its entirety by reference to the full text of his employment agreement, to be filed as an exhibit to the Company’s next Quarterly Report on Form 10-Q. 
+ Employment Agreement with Brian Witherow 
+ On October 8, 2024, the Company entered into an employment agreement with Brian Witherow in connection with his service as Chief Financial Officer of the Company. Mr. Witherow’s employment agreement provides for, among other things, an initial base salary of $670,000 per year, subject to annual review by the Board and participation in the Company’s annual bonus program at the initial target rate of 100% of his base salary. The employment agreement provides that Mr. Witherow has received an award of performance stock units under the Company’s 2024 Plan with respect to a target number of 52,773 shares of the Company’s common stock, as further described below under “Initial Incentive Grants.” The employment agreement also provides that Mr. Witherow will receive an annual equity grant during the term of the agreement with a target value of $2,750,000 on the date of grant, with the terms and conditions of awards to be determined by the Board. 
+
+ 
+
+ In the event of involuntary termination by the Company without Cause or by Mr. Witherow for Good Reason (each as defined in the employment agreement), either prior to July 1, 2026 or during the 24-month period following a Change in Control (as defined in the employment agreement), Mr. Witherow would be entitled to (i) a cash payment equal to two and a half times the sum of base salary and target annual bonus, (ii) any unpaid annual bonus for the year prior to the year of termination, (iii) a pro-rata annual bonus for the year in which termination occurs, (iv) a cash payment equal to the cost of participation in the Company’s group medical plans for 30 months, and (v) full and immediate vesting of all equity awards with performance-based awards paid out at target. In the event that an involuntary termination occurs during the term of the agreement but outside the periods described above, Mr. Witherow is entitled to generally the same severance payments and benefits as described above, except that the cash severance payment is equal to one times the sum of base salary and target annual bonus, the cash payment in respect of group medical benefits is determined with respect to 12 months, and only outstanding equity awards that are scheduled to vest within 18 months following termination shall become fully vested. All severance payments and benefits under the employment agreement are subject to Mr. Witherow signing a release of claims against the Company. 
+ Under the employment agreement, Mr. Witherow is subject to restrictive covenants, during and for specified periods following his termination of employment, relating to competing against the Company, soliciting business partners, customers or employees of the Company, confidentiality restrictions and a non-disparagement covenant. Mr. Witherow’s employment agreement is for a term of three years, with no auto-renewal. The parties may mutually agree to an extension of the term of the employment agreement, and if the Company does not intend to extend the term of the agreement, the Company is required to give six-months’ advance notice to Mr. Witherow. 
+ The foregoing description of the employment agreement for Mr. Witherow does not purport to summarize all of the provisions of his employment agreements and is qualified in its entirety by reference to the full text of his employment agreement, to be filed as an exhibit to the Company’s next Quarterly Report on Form 10-Q. 
+ Employment Agreement with Tim Fisher 
+ On October 8, 2024, the Company entered into an employment agreement with Tim Fisher in connection with his service as Chief Operating Officer of the Company. Mr. Fisher’s employment agreement provides for, among other things, an initial base salary of $750,000 per year, subject to annual review by the Board and participation in the Company’s annual bonus program at the initial target rate of 125% of his base salary. The employment agreement provides that Mr. Fisher has received an award of performance stock units under the Company’s 2024 Plan with respect to a target number of 65,247 shares of the Company’s common stock, as further described below under “Initial Incentive Grants.” The employment agreement also provides that Mr. Fisher will receive an annual equity grant during the term of the agreement with a target value of $3,400,000 on the date of grant, with the terms and conditions of awards to be determined by the Board. 
+ In the event of involuntary termination by the Company without Cause or by Mr. Fisher for Good Reason (each as defined in the employment agreement), either prior to July 1, 2026 or during the 24-month period following a Change in Control (as defined in the employment agreement), Mr. Fisher would be entitled to (i) a cash payment equal to two and a half times the sum of base salary and target annual bonus, (ii) any unpaid annual bonus for the year prior to the year of termination, (iii) a pro-rata annual bonus for the year in which termination occurs, (iv) a cash payment equal to the cost of participation in the Company’s group medical plans for 30 months, and (v) full and immediate vesting of all equity awards with performance-based awards paid out at target. In the event that an involuntary termination occurs during the term of the agreement but outside the periods described above, Mr. Fisher is entitled to generally the same severance payments and benefits as described above, except that the cash severance payment is equal to one times the sum of base salary and target annual bonus, the cash payment in respect of group medical benefits is determined with respect to 12 months, and only outstanding equity awards that are scheduled to vest within 18 months following termination shall become fully vested. All severance payments and benefits under the employment agreement are subject to Mr. Fisher signing a release of claims against the Company. Upon his Retirement (as defined in the employment agreement), Mr. Fisher will continue to vest in all outstanding equity awards made after the Closing, other than the Initial Incentive Grant described below, in each case on a pro-rata 
+
+ 
+
+ 
+as if Mr. Fisher remained employed for an additional 18 months following Mr. Fisher’s date of Retirement, subject to Mr. Fisher having completed the three-year term of his employment agreement and having given the Board at least 12-months’ advance notice of his retirement date. Mr. Fisher remains eligible to retirement vest in full in any awards granted prior to Closing, consistent with pre-Closing retirement terms for awards subject to service-based vesting. 
+ Under the employment agreement, Mr. Fisher is subject to restrictive covenants, during and for specified periods following his termination of employment, relating to competing against the Company, soliciting business partners, customers or employees of the Company, confidentiality restrictions and a non-disparagement covenant. Mr. Fisher’s employment agreement is for a term of three years, with no auto-renewal. The parties may mutually agree to an extension of the term of the employment agreement, and if the Company does not intend to extend the term of the agreement, the Company is required to give six-months’ advance notice to Mr. Fisher. 
+ The foregoing description of the employment agreement for Mr. Fisher does not purport to summarize all of the provisions of his employment agreements and is qualified in its entirety by reference to the full text of his employment agreement, to be filed as an exhibit to the Company’s next Quarterly Report on Form 10-Q. 
+ Employment Agreement with Brian Nurse 
+ On October 8, 2024, the Company entered into an employment agreement with Brian Nurse in connection with his service as Chief Legal and Compliance Officer and Corporate secretary of the Company. Mr. Nurse’s employment agreement provides for, among other things, an initial base salary of $600,000 per year, subject to annual review by the Board and participation in the Company’s annual bonus program at the initial target rate of 100% of his base salary. The employment agreement provides that Mr. Nurse has received an award of performance stock units under the Company’s 2024 Plan with respect to a target number of 40,299 shares of the Company’s common stock, as further described below under “Initial Incentive Grants.” The employment agreement also provides that Mr. Nurse will receive an annual equity grant during the term of the agreement with a target value of $2,100,000 on the date of grant, with the terms and conditions of awards to be determined by the Board. 
+ In the event of involuntary termination by the Company without Cause or by Mr. Nurse for Good Reason (each as defined in the employment agreement), either prior to July 1, 2026 or during the 24-month period following a Change in Control (as defined in the employment agreement), Mr. Nurse would be entitled to (i) a cash payment equal to two and a half times the sum of base salary and target annual bonus, (ii) any unpaid annual bonus for the year prior to the year of termination, (iii) a pro-rata annual bonus for the year in which termination occurs, (iv) a cash payment equal to the cost of participation in the Company’s group medical plans for 30 months, and (v) full and immediate vesting of all equity awards with performance-based awards paid out at target. In the event that an involuntary termination occurs during the term of the agreement but outside the periods described above, Mr. Nurse is entitled to generally the same severance payments and benefits as described above, except that the cash severance payment is equal to one times the sum of base salary and target annual bonus, the cash payment in respect of group medical benefits is determined with respect to 12 months, and only outstanding equity awards that are scheduled to vest within 18 months following termination shall become fully vested. All severance payments and benefits under the employment agreement are subject to Mr. Nurse signing a release of claims against the Company. 
+ Under the employment agreement, Mr. Nurse is subject to restrictive covenants, during and for specified periods following his termination of employment, relating to competing against the Company, soliciting business partners, customers or employees of the Company, confidentiality restrictions and a non-disparagement covenant. Mr. Nurse’s employment agreement is for a term of three years, with no auto-renewal. The parties may mutually agree to an extension of the term of the employment agreement, and if the Company does not intend to extend the term of the agreement, the Company is required to give six-months’ advance notice to Mr. Nurse. 
+ The foregoing description of the employment agreement for Mr. Nurse does not purport to summarize all of the provisions of his employment agreements and is qualified in its entirety by reference to the full text of his employment agreement, to be filed as an exhibit to the Company’s next Quarterly Report on Form 10-Q. 
+
+ 
+
+ Employment Agreement with Monica Sauls 
+ On October 8, 2024, the Company entered into an employment agreement with Monica Sauls in connection with her service as Chief Human Resource Officer of the Company. Ms. Sauls’s employment agreement provides for, among other things, an initial base salary of $440,000 per year, subject to annual review by the Board and participation in the Company’s annual bonus program at the initial target rate of 80% of her base salary. The employment agreement provides that Ms. Sauls has received an award of performance stock units under the Company’s 2024 Plan with respect to a target number of 11,898 shares of the Company’s common stock, as further described below under “Initial Incentive Grants.” The employment agreement also provides that Ms. Sauls will receive an annual equity grant during the term of the agreement with a target value of $620,000 on the date of grant, with the terms and conditions of awards to be determined by the Board. 
+ In the event of involuntary termination by the Company without Cause or by Ms. Sauls for Good Reason (each as defined in the employment agreement), either prior to July 1, 2026 or during the 24-month period following a Change in Control (as defined in the employment agreement), Ms. Sauls would be entitled to (i) a cash payment equal to two and a half times the sum of base salary and target annual bonus, (ii) any unpaid annual bonus for the year prior to the year of termination, (iii) a pro-rata annual bonus for the year in which termination occurs, (iv) a cash payment equal to the cost of participation in the Company’s group medical plans for 30 months, and (v) full and immediate vesting of all equity awards with performance-based awards paid out at target. In the event that an involuntary termination occurs during the term of the agreement but outside the periods described above, Ms. Sauls is entitled to generally the same severance payments and benefits as described above, except that the cash severance payment is equal to one times the sum of base salary and target annual bonus, the cash payment in respect of group medical benefits is determined with respect to 12 months, and only outstanding equity awards that are scheduled to vest within 18 months following termination shall become fully vested. All severance payments and benefits under the employment agreement are subject to Ms. Sauls signing a release of claims against the Company. 
+ Under the employment agreement, Ms. Sauls is subject to restrictive covenants, during and for specified periods following her termination of employment, relating to competing against the Company, soliciting business partners, customers or employees of the Company, confidentiality restrictions and a non-disparagement covenant. Ms. Sauls’ employment agreement is for a term of three years, with no auto-renewal. The parties may mutually agree to an extension of the term of the employment agreement, and if the Company does not intend to extend the term of the agreement, the Company is required to give six-months’ advance notice to Ms. Sauls. 
+ The foregoing description of the employment agreement for Ms. Sauls does not purport to summarize all of the provisions of her employment agreements and is qualified in its entirety by reference to the full text of her employment agreement, to be filed as an exhibit to the Company’s next Quarterly Report on Form 10-Q. 
+ Initial Incentive Grants 
+ As described above, and in connection with the Closing of the Merger, the People, Culture and Compensation Committee of the Board previously approved grants of performance stock unit awards (“PSUs”) under the Company’s 2024 Plan to Messrs. Zimmerman, Witherow, Fisher, and Nurse and Ms. Sauls. Each PSU represents a contingent right to receive one share of the Company’s common stock. Based on actual results, each executive will be eligible to receive between 0% and 200% of the target number of PSUs. The PSUs will be eligible to vest based on the attainment of specified Adjusted EBITDA performance goals by the Company during the applicable performance period, which ends December 31, 2026, and subject to each executives’ continued employment with the Company through the determination date following the performance period. 
+
+ 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+  
+
+Date: October 15, 2024
+ 
+
+ 
+SIX FLAGS ENTERTAINMENT CORPORATION
+
+ 
+
+ 
+(Registrant)
+
+ 
+
+ 
+By:
+ 
+ /s/ Brian Witherow
+
+ 
+
+ 
+Name:
+ 
+Brian Witherow
+
+ 
+
+ 
+Title:
+ 
+Chief Financial Officer
+
+EX-101.SCH
+2
+fun-20241008.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100000 - Document - Document and Entity Information
+ link:calculationLink
+ link:presentationLink
+ link:definitionLink
+ 
+ 
+ 
+
+EX-101.LAB
+3
+fun-20241008_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+ 
+ 
+ 
+ Cover [Abstract]
+ Cover [Abstract]
+ 
+ 
+ Entity Registrant Name
+ Entity Registrant Name
+ 
+ 
+ Amendment Flag
+ Amendment Flag
+ 
+ 
+ Entity Central Index Key
+ Entity Central Index Key
+ 
+ 
+ Document Type
+ Document Type
+ 
+ 
+ Document Period End Date
+ Document Period End Date
+ 
+ 
+ Entity Incorporation State Country Code
+ Entity Incorporation State Country Code
+ 
+ 
+ Entity File Number
+ Entity File Number
+ 
+ 
+ Entity Tax Identification Number
+ Entity Tax Identification Number
+ 
+ 
+ Entity Address, Address Line One
+ Entity Address, Address Line One
+ 
+ 
+ Entity Address, City or Town
+ Entity Address, City or Town
+ 
+ 
+ Entity Address, State or Province
+ Entity Address, State or Province
+ 
+ 
+ Entity Address, Postal Zip Code
+ Entity Address, Postal Zip Code
+ 
+ 
+ City Area Code
+ City Area Code
+ 
+ 
+ Local Phone Number
+ Local Phone Number
+ 
+ 
+ Written Communications
+ Written Communications
+ 
+ 
+ Soliciting Material
+ Soliciting Material
+ 
+ 
+ Pre Commencement Tender Offer
+ Pre Commencement Tender Offer
+ 
+ 
+ Pre Commencement Issuer Tender Offer
+ Pre Commencement Issuer Tender Offer
+ 
+ 
+ Security 12b Title
+ Security 12b Title
+ 
+ 
+ Trading Symbol
+ Trading Symbol
+ 
+ 
+ Security Exchange Name
+ Security Exchange Name
+ 
+ 
+ Entity Emerging Growth Company
+ Entity Emerging Growth Company
+ 
+
+EX-101.PRE
+4
+fun-20241008_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+XML
+6
+R1.htm
+IDEA: XBRL DOCUMENT
+
+v3.24.3
+
+Document and Entity Information
+
+Oct. 08, 2024
+
+Cover [Abstract]
+ 
+
+Entity Registrant Name
+Six Flags Entertainment Corporation/NEW
+
+Amendment Flag
+false
+
+Entity Central Index Key
+0001999001
+
+Document Type
+8-K
+
+Document Period End Date
+Oct. 08, 2024
+
+Entity Incorporation State Country Code
+DE
+
+Entity File Number
+001-42157
+
+Entity Tax Identification Number
+93-4097909
+
+Entity Address, Address Line One
+8701 Red Oak Blvd.
+
+Entity Address, City or Town
+Charlotte
+
+Entity Address, State or Province
+NC
+
+Entity Address, Postal Zip Code
+28217
+
+City Area Code
+(704)
+
+Local Phone Number
+414-4700
+
+Written Communications
+false
+
+Soliciting Material
+false
+
+Pre Commencement Tender Offer
+false
+
+Pre Commencement Issuer Tender Offer
+false
+
+Security 12b Title
+Common Stock, par value $0.01 per share
+
+Trading Symbol
+FUN
+
+Security Exchange Name
+NYSE
+
+Entity Emerging Growth Company
+false
+
+X
+
+- DefinitionBoolean flag that is true when the XBRL content amends previously-filed or accepted submission.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_AmendmentFlag
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionArea code of city
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CityAreaCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCover page.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CoverAbstract
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFor the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentPeriodEndDate
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:dateItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentType
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:submissionTypeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAddress Line 1 such as Attn, Building Name, Street Name
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressAddressLine1
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the City or Town
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressCityOrTown
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCode for the postal or zip code
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressPostalZipCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the state or province.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressStateOrProvince
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:stateOrProvinceItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityCentralIndexKey
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:centralIndexKeyItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicate if registrant meets the emerging growth company criteria.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityEmergingGrowthCompany
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCommission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityFileNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:fileNumberItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTwo-character EDGAR code representing the state or country of incorporation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityIncorporationStateCountryCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarStateCountryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityRegistrantName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityTaxIdentificationNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:employerIdItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLocal phone number for entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_LocalPhoneNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 13e -Subsection 4c
+
++ Details
+
+ Name:
+dei_PreCommencementIssuerTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 14d -Subsection 2b
+
++ Details
+
+ Name:
+dei_PreCommencementTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTitle of a 12(b) registered security.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b
+
++ Details
+
+ Name:
+dei_Security12bTitle
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:securityTitleItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the Exchange on which a security is registered.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection d1-1
+
++ Details
+
+ Name:
+dei_SecurityExchangeName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarExchangeCodeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Section 14a -Number 240 -Subsection 12
+
++ Details
+
+ Name:
+dei_SolicitingMaterial
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTrading symbol of an instrument as listed on an exchange.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_TradingSymbol
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:tradingSymbolItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Securities Act -Number 230 -Section 425
+
++ Details
+
+ Name:
+dei_WrittenCommunications
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+EXCEL
+7
+Financial_Report.xlsx
+IDEA: XBRL DOCUMENT
+
+begin 644 Financial_Report.xlsx
+M4$L#!!0 ( .Z*3UD'04UB@0 +$ 0 9&]C4')O<',O87!P+GAM
+M;$V./0L",1!$_\IQO;=!P4)B0-!2L+(/>QLOD&1#LD)^OCG!CVX>;QA&WPIG
+M*N*I#BV&5(_C(I(/ !47BK9.7:=N')=HI6-Y #OGDK7A.YNJQ<&4GPZ4A!0W_J=0U[R;UEA_6\#MI7E!+ P04
+M " #NBD]90]$7L^\ K @ $0 &1O8U!R;W!S+V-O&ULS9++
+M:L,P$$5_I6AOCR7W <+Q)J&K%@H-M'0GI$DB8CV0IMCY^]INXE#:#^A2,U=G
+MSL T.DH=$KZD$#&1Q7PSN,YGJ>.*'8BB!,CZ@$[EFC
+MVB.(JKH'AZ2,(@43L(@+D;6-T5(G5!32&6_T@H^?J9MA1@-VZ-!3!EYR8.TT
+M,9Z&KH$K8((1)I>_"V@6XES]$SMW@)V30[9+JN_[LJ_GW+@#A_?GI]=YW<+Z
+M3,IK'']E*^D4<<4ND]_J]6;[R%I1B=N"5P6_VPHN12W%P\?D^L/O*NR"L3O[
+MCXTO@FT#O^ZB_0)02P,$% @ [HI/69E&UL[5I;<]HX%'[OK]!X9_9M"\8V@;:T$W-I=MNTF83M
+M3A^%$5B-;'EDD81_OTV23;J;/ 0LZ?O.14?GZ#AY\^XN8NB&B)3R
+M> +]O6N[!3+
+MUES@6QHO(];JM-O=5H1I;*$81V1@?5XL:$#05%%:;U\@M.4?,_@5RU2-9:,!
+M$U=!)KF(M/+Y;,7\VMX^9<_I.ATR@6XP&U@@?\YOI^1.6HCA5,+$P&IG/U9K
+MQ]'22(""R7V4!;I)]J/3%0@R#3LZG5C.=GSVQ.V?C,K:=#1M&N#C\7@XMLO2
+MBW A(5M>5 TR
+M6'!VULS2 Y9>*?IUE!K9';O=05SP6.XYB1'^QL4$UFG2&98T1G*=D 4. #?$
+MT4Q0?*]!MHK@PI+27)#6SRFU4!H(FLB!]4>"(<7K;YH]
+M5Z%82=J$^!!&&N*<<^9ST6S[!Z5&T?95O-RCEU@5 9<8WS2J-2S%UGB5P/&M
+MG#P=$Q+-E L&08:7)"82J3E^34@3_BNEVOZKR2.FJW"$2M"/F(9
+M-AIRM1:!MG&IA&!:$L;1>$[2M!'\6:PUDSY@R.S-D77.UI$.$9)>-T(^8LZ+
+MD!&_'H8X2IKMHG%8!/V>7L-)P>B"RV;]N'Z&U3-L+([W1]072N0/)J<_Z3(T
+M!Z.:60F]A%9JGZJ'-#ZH'C(*!?&Y'C[E>G@*-Y;&O%"N@GL!_]':-\*K^(+
+M.7\N?<^E[[GT/:'2MSAD6R4)RU3393>*
+M$IY"&V[I4_5*E=?EK[DHN#Q;Y.FOH70^+,_Y/%_GM,T+,T.WF)&Y
+M"M-2D&_#^>G%>!KB.=D$N7V85VWGV-'1^^?!4;"C[SR6'<>(\J(A[J&&F,_#
+M0X=Y>U^89Y7&4#04;6RL)"Q&MV"XU_$L%.!D8"V@!X.O40+R4E5@,5O& RN0
+MHGQ,C$7H<.>77%_CT9+CVZ9EM6ZO*7<9;2)2.<)IF!-GJ\K>9;'!51W/55OR
+ML+YJ/;053L_^6:W(GPP13A8+$DACE!>F2J+S&5.^YRM)Q%4XOT4SMA*7&+SC
+MYL=Q3E.X$G:V#P(RN;LYJ7IE,6>F\M\M# DL6XA9$N)-7>W5YYNTB42%(JP# 4A
+M%W+C[^^3:G>,U_HL@6V$5#)DU1?*0XG!/3-R0]A4)?.NVB8+A=OB5,V[&KXF
+M8$O#>FZ=+2?_VU[4/;07/4;SHYG@'K.'
+MYA,L0Z1^P7V*BH 1JV*^NJ]/^26<.[1[\8$@F_S6VZ3VW> ,?-2K6J5D*Q$_
+M2P=\'Y(&8XQ;]#1?CQ1BK::QK<;:,0QY@%CS#*%F.-^'19H:,]6+K#F-"F]!
+MU4#E/]O4#6CV#30,9FV-J/D3@H\W/[O#;#"Q([A[8N_ 5!+ P04
+M" #NBD]98V;L\U($ "?$ & 'AL+W=O_0[E)4NEO=G>Z%20Q8=>*L[0#]
+M]C=.:,+NA@EO( GVDY]G/(]M!ENI7O6:,4-VB4CUT%D;DUV[KH[6+*&Z(S.6
+MPB]+J1)JX%:M7)TI1N.B4R+LIDB.D\2JMYN
+MF9#;H>,[[P^>^&IM[ -W-,CHBLV9^9+-%-RYE4K,$Y9J+E.BV'+HW/C7MT%H
+M.Q0MOG*VU0?7Q YE(>6KO9G$0\>S1$RPR%@)"E\;-F9"6"7@^+87=:IWVHZ'
+MU^_J#\7@83 +JME8BA<>F_70Z3DD9DN:"_,DMW^Q_8 NK5XDA2X^R;9L&WH.
+MB7)M9++O# 0)3\MONML'XI0.P;Y#4'"7+RHH[ZBAHX&26Z)L:U"S%\50B]X
+MQU.;E;E1\"N'?F9T)Z,<@FP(36-RGQINWL@D+;,-41NX!EYBF[K17O"V% R.
+M"#Y&ID.\WAD)O"#\OKL+;!5@4 $&A=[%$;VQW#!%_KU9:*,@A?\U$94*8;."
+MG=?7.J,1&SHP<353&^:,?OO%O_(^('P7%=\%IC[:Q^R)K;@EA$A.:<*:*'&=
+M.=^1!T%7VF:!*0,%5>1E+%4F59$,=WK_@A"'%7&(OND&=.-"V[ZOB13OOZ1"
+M,X3CLN*X/"5R8R!15,"LB]F.?&1O342XDN=Y?K_?AT\$ZZK"ND+%JHIX?LL:
+M\XAW[YU_1""Z%43W-(@94US:RHP)U'J?D;9)&]=0D
+M :,)'.P\"_["(\
+MOE<[K'<*T3/=D4D,.>5+'I5!.\[7(MF_. ^]?K?O]3'"@S7 /X7P)H[!'_79
+M^P7Y!.W(8]J8RA;)7M?SP11C\DA?R:W8Q!V,M%X,?-3+?R(=VSNIR+/<-J]5
+MN-QX3960YL>Z^AZN7@G\DY:""JZL":";*;GA:=0<1UQS.L;0:LOW<<_^$6TF
+MM0'/_8=G1VNU13'H!3Y:'_4RX./N7>3P!K:4QU%P@=^[7O@'AE);OX^;]R<9
+M051F:YEBYM$B$OKA>=CU/(RH7@=\W+Y?%(?IF4)HDB1/]\:A&ZEPH;95VZ_M
+MW\=M>BX%C[CAZ8I\A@FN.!6-/+A**T]M^#[NUC/%BO PJ+!RX8;]#>P9'Y?+
+M(_G#]=K(@MKY ]RF?R*;:)T#61M@BVPK8&W\ >[2BL?Q:
+M1.P(BQV C%[/2$85V5"1,_*KUX$U((.!:K!9%/C@,( ;]K.BL9UX\[=D(1NG
+M78O PY&PO9KEMWDOSA
+MR+DCO9*ZW="C<\W[)&D/1ZY8^\XT7'ND,E8QYU5;)VUC.2M;<%(R6=[<9(EB
+M0M-BK3MUIUQ+#J;3;D-O:%*L*Z//EI0&@U_*%">/3&[HEDFQMV)8RY20IV!>
+M@N%@I+'$>2I\0Q=@:9\"O @:L!SC**&-!6,2,H3O_;C\&3!IK5>%E#/!)0V&
+M8MTPY[C5=UX9%@_&%Q 9Y=VI\0QKRTZ+Y2T].PP_/LG>V)+;.'36-/+T08I:*Q[V_LL)BS6;_,C16/'DL\&D'+R!6TH>N77B<&GY85FSX[V;
+MIJFO<,[+?Y#SGZUSS36W3%Z2]J/_-U?Y+8R3\?1<'-&K SI;"5R$&_H5[E=Y
+MYD#VG9!.Z%$[BK+D^L4Y]>$=V_L+_"J^7U_RBG72[69P0\_R%UZ*3N7SJGNH
+MR[CJ+'^&^VB1S;>PSR5TR7M>;D?5UOM!)%[P6<<'')XC=\,31S"?@,41P+ \
+M& /,)WAA>?ZG_:S0_00,X[:*(BO49X7Z!*\8LAT^6)ZX3^Z?^$[S/$VS#*OH
+M=AMEL,7JEF7P%X^&<0,/+ ]D>ENM\6[C$_+Z'& ]?6U"L)WBDXCM%*\U(/&Z
+M@4>>Q[N-Y0$/K O8[$#^>!Z8J;A/FD)7,6[8"<:1/,<0F,7XC&894IT,/O'^
+M8* \^>Q\ETWLJ.?]74_P$4$L#!!0
+M ( .Z*3UF7BKL-8?20$3;8T.P6BP^0"X99K>]9!:GH_ 0 / ( \ !X;"]W;W)K8F]O:RYX
+M;6R-49:EL@9OTDUL(,BDBN0-2TN'+#4$QJ8:
+M@+W+IGD^R[S!H)>+D6M#V743&4K&& 3L@!W".?W.NU:=,.$>'?)WH?NW ZT\
+M!O1X 5OH7*M4Q_-+)+S$P,9M2XK.%7HR#'9 C.4?>-N)_#3[U"-L]A]&A!1Z
+ME@MAA92XW^CYC6@\@2P/73>TFH=>Y!L/?P&HT=
+MS8\?M_P!4$L#!!0 ( .Z*3UDD'INBK0 /@! : >&PO7W)E;',O
+M=V]R:V)O;VLN>&UL+G)E;'.UD3T.@S ,A:\2Y0 U4*E#!4Q=6"LN$ 7S(Q(2
+MQ:X*MR^% 9 Z=&&RGBU_[\E.GV@4=VZ@MO,D1FL&RF3+[.\ I%NTBB[.XS!/
+M:A>LXEF&!KS2O6H0DBBZ0=@S9)[NF:*'3^ 5!+ P04 " #NBD]999!YDAD! #/ P $P %M#;VYT
+M96YT7U1Y<&5S72YX;6RMDTU.PS 0A:\295LE+BQ8H*8;8 M=< %C3QJK_I-G
+M6M+;,T[:2J 2%85-K'C>O,^>EZS>CQ&PZ)WUV)0=47P4 E4'3F(=(GBNM"$Y
+M2?R:MB)*M9-;$/?+Y8-0P1-XJBA[E.O5,[1R;ZEXZ7D;3?!-FI6.5
+MZ*U .EK >MKBRAE#VQH%.JB]XY8:8P*IL0,@9^O1=#%-)IXPC,^[V?S!9@K(
+MRDT*$3FQ!'_'G2/)W55D(TADIJ]X(;+U[/M!3EN#OI'-X_T,:3?D@6)8YL_X
+M>\87_QO.\1'"[K\_L;S63AI_YHOA/UY_ 5!+ 0(4 Q0 ( .Z*3UD'04UB
+M@0 +$ 0 " 0 !D;V-0&UL4$L!
+M A0#% @ [HI/64/1%[/O *P( !$ ( !KP &1O
+M8U!R;W!S+V-O&UL4$L! A0#% @ [HI/69E&PO=V]R:W-H
+M965T&UL4$L! A0#% @ [HI/69^@&_"Q @ X@P T
+M ( !E@P 'AL+W-T>6QE&PO
+M=V]R:V)O;VLN>&UL4$L! A0#% @ [HI/620>FZ*M ^ $ !H
+M ( !QQ$ 'AL+U]R96QS+W=O9(9 0 SP, !, ( !K!( %M#;VYT
+D96YT7U1Y<&5S72YX;6Q02P4& D "0 ^ @ ]A,
+
+end
+
+XML
+8
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+
+XML
+9
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+..report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+..report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+..report table.authRefData p {
+ margin-top: 0px;
+}
+
+..report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+..report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+..report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+..report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+..pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+..report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+..report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+..report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+..report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+..report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+..report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+..report td.pl div.a {
+ width: 200px;
+}
+
+..report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+..report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+..report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+..report .re, .report .reu {
+ background-color: #def;
+}
+
+..report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+..report .ro, .report .rou {
+ background-color: white;
+}
+
+..report .rou td {
+ border-bottom: 1px solid black;
+}
+
+..report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+..report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+..report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+..report .nump {
+ padding-left: 2em;
+}
+
+..report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+..report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+..report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+..report .text .more {
+ display: none;
+}
+
+..report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+..report .text .small {
+ width: 10em;
+}
+
+..report sup {
+ font-style: italic;
+}
+
+..report .outerFootnotes {
+ font-size: 1em;
+}
+
+XML
+11
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+ 3.24.3
+ 
+ html
+ 1
+ 22
+ 1
+ false
+ 0
+ 0
+ false
+ 0
+ 
+ 
+ false
+ false
+ R1.htm
+ 100000 - Document - Document and Entity Information
+ Sheet
+ http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation
+ Document and Entity Information
+ Cover
+ 1
+ 
+ 
+ false
+ false
+ All Reports
+ Book
+ All Reports
+ 
+ 
+ 
+ d875272d8k.htm
+ fun-20241008.xsd
+ fun-20241008_lab.xml
+ fun-20241008_pre.xml
+ 
+ 
+ 
+ http://xbrl.sec.gov/dei/2023
+ 
+ true
+ false
+
+JSON
+14
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "version": "2.2",
+ "instance": {
+ "d875272d8k.htm": {
+ "nsprefix": "fun",
+ "nsuri": "http://www.investors.sixflags.com/20241008",
+ "dts": {
+ "inline": {
+ "local": [
+ "d875272d8k.htm"
+ ]
+ },
+ "schema": {
+ "local": [
+ "fun-20241008.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd",
+ "http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd",
+ "https://www.xbrl.org/dtr/type/2022-03-31/types.xsd",
+ "https://xbrl.sec.gov/dei/2023/dei-2023.xsd",
+ "https://xbrl.sec.gov/naics/2023/naics-2023.xsd"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "fun-20241008_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "fun-20241008_pre.xml"
+ ]
+ }
+ },
+ "keyStandard": 22,
+ "keyCustom": 0,
+ "axisStandard": 0,
+ "axisCustom": 0,
+ "memberStandard": 0,
+ "memberCustom": 0,
+ "hidden": {
+ "total": 3,
+ "http://xbrl.sec.gov/dei/2023": 3
+ },
+ "contextCount": 1,
+ "entityCount": 1,
+ "segmentCount": 0,
+ "elementCount": 23,
+ "unitCount": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2023": 22
+ },
+ "report": {
+ "R1": {
+ "role": "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation",
+ "longName": "100000 - Document - Document and Entity Information",
+ "shortName": "Document and Entity Information",
+ "isDefault": "true",
+ "groupType": "document",
+ "subGroupType": "",
+ "menuCat": "Cover",
+ "order": "1",
+ "firstAnchor": {
+ "contextRef": "duration_2024-10-08_to_2024-10-08",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "p",
+ "div",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "d875272d8k.htm",
+ "first": true,
+ "unique": true
+ },
+ "uniqueAnchor": {
+ "contextRef": "duration_2024-10-08_to_2024-10-08",
+ "name": "dei:DocumentType",
+ "unitRef": null,
+ "xsiNil": "false",
+ "lang": "en-US",
+ "decimals": null,
+ "ancestors": [
+ "span",
+ "p",
+ "div",
+ "div",
+ "body",
+ "html"
+ ],
+ "reportCount": 1,
+ "baseRef": "d875272d8k.htm",
+ "first": true,
+ "unique": true
+ }
+ }
+ },
+ "tag": {
+ "dei_AmendmentFlag": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "AmendmentFlag",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Amendment Flag",
+ "terseLabel": "Amendment Flag",
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CityAreaCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "CityAreaCode",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "City Area Code",
+ "terseLabel": "City Area Code",
+ "documentation": "Area code of city"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_CoverAbstract": {
+ "xbrltype": "stringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "CoverAbstract",
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Cover [Abstract]",
+ "terseLabel": "Cover [Abstract]",
+ "documentation": "Cover page."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentPeriodEndDate": {
+ "xbrltype": "dateItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "DocumentPeriodEndDate",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Period End Date",
+ "terseLabel": "Document Period End Date",
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_DocumentType": {
+ "xbrltype": "submissionTypeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "DocumentType",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Document Type",
+ "terseLabel": "Document Type",
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressAddressLine1": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityAddressAddressLine1",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Address Line One",
+ "terseLabel": "Entity Address, Address Line One",
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressCityOrTown": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityAddressCityOrTown",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, City or Town",
+ "terseLabel": "Entity Address, City or Town",
+ "documentation": "Name of the City or Town"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityAddressPostalZipCode",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, Postal Zip Code",
+ "terseLabel": "Entity Address, Postal Zip Code",
+ "documentation": "Code for the postal or zip code"
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "xbrltype": "stateOrProvinceItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityAddressStateOrProvince",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Address, State or Province",
+ "terseLabel": "Entity Address, State or Province",
+ "documentation": "Name of the state or province."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityCentralIndexKey": {
+ "xbrltype": "centralIndexKeyItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityCentralIndexKey",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Central Index Key",
+ "terseLabel": "Entity Central Index Key",
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityEmergingGrowthCompany",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Emerging Growth Company",
+ "terseLabel": "Entity Emerging Growth Company",
+ "documentation": "Indicate if registrant meets the emerging growth company criteria."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityFileNumber": {
+ "xbrltype": "fileNumberItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityFileNumber",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity File Number",
+ "terseLabel": "Entity File Number",
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "xbrltype": "edgarStateCountryItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityIncorporationStateCountryCode",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Incorporation State Country Code",
+ "terseLabel": "Entity Incorporation State Country Code",
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_EntityRegistrantName": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityRegistrantName",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Registrant Name",
+ "terseLabel": "Entity Registrant Name",
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "xbrltype": "employerIdItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "EntityTaxIdentificationNumber",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Entity Tax Identification Number",
+ "terseLabel": "Entity Tax Identification Number",
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+ }
+ }
+ },
+ "auth_ref": [
+ "r1"
+ ]
+ },
+ "dei_LocalPhoneNumber": {
+ "xbrltype": "normalizedStringItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "LocalPhoneNumber",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Local Phone Number",
+ "terseLabel": "Local Phone Number",
+ "documentation": "Local phone number for entity."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "PreCommencementIssuerTenderOffer",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre Commencement Issuer Tender Offer",
+ "terseLabel": "Pre Commencement Issuer Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r3"
+ ]
+ },
+ "dei_PreCommencementTenderOffer": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "PreCommencementTenderOffer",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Pre Commencement Tender Offer",
+ "terseLabel": "Pre Commencement Tender Offer",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r4"
+ ]
+ },
+ "dei_Security12bTitle": {
+ "xbrltype": "securityTitleItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "Security12bTitle",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security 12b Title",
+ "terseLabel": "Security 12b Title",
+ "documentation": "Title of a 12(b) registered security."
+ }
+ }
+ },
+ "auth_ref": [
+ "r0"
+ ]
+ },
+ "dei_SecurityExchangeName": {
+ "xbrltype": "edgarExchangeCodeItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "SecurityExchangeName",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Security Exchange Name",
+ "terseLabel": "Security Exchange Name",
+ "documentation": "Name of the Exchange on which a security is registered."
+ }
+ }
+ },
+ "auth_ref": [
+ "r2"
+ ]
+ },
+ "dei_SolicitingMaterial": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "SolicitingMaterial",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Soliciting Material",
+ "terseLabel": "Soliciting Material",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r5"
+ ]
+ },
+ "dei_TradingSymbol": {
+ "xbrltype": "tradingSymbolItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "TradingSymbol",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Trading Symbol",
+ "terseLabel": "Trading Symbol",
+ "documentation": "Trading symbol of an instrument as listed on an exchange."
+ }
+ }
+ },
+ "auth_ref": []
+ },
+ "dei_WrittenCommunications": {
+ "xbrltype": "booleanItemType",
+ "nsuri": "http://xbrl.sec.gov/dei/2023",
+ "localname": "WrittenCommunications",
+ "presentation": [
+ "http://www.investors.sixflags.com//20241008/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "label": "Written Communications",
+ "terseLabel": "Written Communications",
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act."
+ }
+ }
+ },
+ "auth_ref": [
+ "r6"
+ ]
+ }
+ }
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b"
+ },
+ "r1": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "b-2"
+ },
+ "r2": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "12",
+ "Subsection": "d1-1"
+ },
+ "r3": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "13e",
+ "Subsection": "4c"
+ },
+ "r4": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Section": "14d",
+ "Subsection": "2b"
+ },
+ "r5": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Exchange Act",
+ "Section": "14a",
+ "Number": "240",
+ "Subsection": "12"
+ },
+ "r6": {
+ "role": "http://www.xbrl.org/2003/role/presentationRef",
+ "Publisher": "SEC",
+ "Name": "Securities Act",
+ "Number": "230",
+ "Section": "425"
+ }
+ }
+}
+
+ZIP
+15
+0001193125-24-237673-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001193125-24-237673-xbrl.zip
+M4$L#!!0 ( .Z*3UEKU%G#]!< %.] . 9#@W-3(W,F0X:RYH=&WM
+M75MWXCBV?L^OT**GIE-K<3,A-Y+*K!0AU9RN2C) K>XS+[V$+4!=QF8D.X'S
+MZ\_>DFQL,($DD$N%>D@!EJ6M?=^?9.OT7^.A2VZ9D-SW/OUJ%NLDZ/CXNJ:M1T[F6\0"5[5+*H>2_T4JVY
+M=\MDX M9E'S<,%[6UH*T'LV9_?FY]G38/LMM/FY8"
+M03W9\\60!J WV--^H5PI5 X2G11 +U(=17JRK)^CPIX5\Q(&Y_=-=8:+>-69
+MT4_3^*"D+YJFBS4&=3V'.L^H _\%/'#9V5'A]].2_KAS.F0!)7A[@?TWY+>?
+M/43*334U0?9=^*/179?$UPUTEK!6X&]W&E*SBK]S!'WJ<":(XR#+]
+M4;WY>UH^LSZ07\KJ7^[LG[]8!^63T])HT4![RP>J/'J@1+=5Z(3,
+M3X#T0#0%R?^/U:RC^'N/#KD[J77XD$ERQ>Y(RQ]2[T1=N]-T=WW7.K
+M9J=Q0=J=\TZCO9B<\C.1TV[4O[>:G6:C3U;L]UN
+M7E\]B<;*.FC\X[S]6_/J2^?Z*D\NBO4BJ93WJ\_HI%.)Q/YB"QY'3V33EU>M[Z14SFB7NR&!CQ@
+M!?C%9A I[P0=Y/NQA%%$Y7CHXGY:0KK.M\FQ >=9B
+M[.".6HVK#FDU;JY;G9=W/C??6^WOYT!0YYJ L^R 1R36'KEN$6M_U_GX\@1>
+M7Y+.;PV2<.2Q$S^O=PA@N@IH#'0SA]H%#)Q.@B'E)
+M5W(,7+8#O\N$MI6C/,&.YGW+UJFLVZE4JNO0O70T(HAD%/BXH&NTVK**>Y42
+MV<05\B1_4%['7'<;8VH'REK0O$0\%T(ED2-F8PGD$.X1'DAB#Z",86+6CVUU
+M-UMWG\"7G=. =EU&;.:ZF DA()LKY]3W$76>$6=)_;U#5,U1.=;63N
+MKJQV=T3B7.MD-ZBB0O/[DKL,KD$@
+M?WQA85D(+EF%:L7:/US(O)^7AQTZ;AHDS59,>S)#*[FSX[U"M7Q\>%P^7H&C
+M&W '1^OQ!H^-_&LINW>5 R&^('XP8(+\'0HN'6[K].0!:8FU >(@$^%)9_=1
+MA]>7L(^7%5+='PZYE*]!)N@-B;;>=RN.9K%5;!=)8SAR_0D3+RZ3M&LE5WYQ
+M*AKE]^ /II&/+^;74F0LB1'GCB.8E.:_KY#G6T^(#WNYLZ/#LD5:4+9*W&DSI\O!8=_\Y[ D>JN;,Z%&XNS&8N?\LOQDU2A*AH<2UN
+M(#_D:L%]<]GF?N[LRA?!@-2I@%K-HZLO)J=(OO%A$/<_?/2H]'A*ST'NK')4
+ML3*RM\?KT'KP"$PARX1X \L5]
+M :KZ.21E3Y36(?#EL%S].*\TC\YDO_H0A&X&OO?T:N H=U:UJH7J8;F\VEK#
+M"VC5%,_ZYR^H]R<2(K7+1L@ XBD.R#SF9VZ(, 2!JI "1^:UZRFPT.-4=#T,
+MN 1?!1FQQL2$$(N;KC\F7>;Z=R@SO(B27>X(U$*@!FA[W$45YQ+T/6"> S(/
+M?!#[,'0#ZC$_E.Z$2+!_V9NH$BR6N"RNTIGLU:N4$:CB/3LZ@ERN5X;DL9*_Z87$=H5OL
+M?SC)A#<6.?4_!(=TR,,"*_1, BV?G-9T?=_M4I!F +J7=/S'2/_Q8;5Z,N_W
+ME]11LW4/20N?/#ELSVSUR9T9W@ SDLPAHU#($!483* 5@D)5*_M&F5&+VY!W
+MP(T<^CZW [)K'9+Z98M4]LI%:+B\,-EJ^'HUO WNW 9Y>/UOX S!([H;4^]*
+M^2VI]Y0QT+7FS+QN+XT25I46K$H4**9FT!CK["!E!$M[JU3+1=WCQT0BN+67
+M9[27&\$P&N#&5+6A",.]N.[U'I'PKVPWUENRFZ5*#!PLV D61L:Q+(ZL8&M.
+MH;+;_;A>:]-];NWM==A;4\J0B6>QNLK6ZE:RNCU6J.[:Z[4ZT^?*5I?@K]Y9
+M]M12,9&FZIJ,":CJDMR!%L@RK>T6^HBH4(/I+J[+%'G;31YO=I/'(U9U5X!1
+M%DPQPSQ>="6I@\^VZ0V6]H#8+I7R>1;Y'LO"%UX*[ B*YOGB*X#MR1 N;65U
+M'X^NS.9&I=K,A*X7EYSO$? "0-$T"J6#X2O=PK80;M!Q=6)5NLJ9/'Z5I+*7
+M.\/,$#C4#GS[1YZ,J""WU T9^4>Y6+;("!_I&V1N1WN1/52+>&*\A#;2)S"D
+MFCN[_'[URB<;*4"4'#[F^>*Y'![-=6Z)N()+Q*#D_^N+'UI%XHPTDT?/EELV
+M/0?S;4:Z$V*K)0GH\0?8.5-[K&;6 ;@DD#!#SHZ#]DE?^'?! -/V$:X-4$D<
+MUN.>WGVM\=;R?I2)SH"M\*MUO+='=E'4AR<*X3[MG$Y:\7:40=U@%S_2?(+"YVSNN14R.;Y__\Y<@ZAJ+P_NT%TOFBM6#>XK5S7*IV;M'/W$%.%/9^=QZUP!4F;E05($J>[XJL4+)5"M@
+MF%E5PU=!<+5@IA]W1@:IL=P)#G['86@T"P_H@RN"W7()]X&!4,]&!)?:-NZ&
+MQL;X4@B'"D?J]33GWOIN;Y?&]5U2K8M&&V+F+RK[5GFT>85'E]_P,])Z>=TR*C#P#53UN+-D%7V]3[_OS )]GZ];%XU6H7[]]>OY3;M1BSZ\9J#/
+MLC)Q/*(^@B;-@U+SN\:; 1OBYI&R=;)?+%>*\SOL'N\BUVF,EY EIN-JMI)J>D//1R.=>H)X @ROS]V$
+M89ZDT'Q"SH5 _X.M95;S(GD(8':P( JH>8+[AE%JU0\/SG$PU'EFLLHO:W^/
+M-D5LUY=J X1VJ!@[(/'9166HE$^^J:_JBW7RD719< >97;3#9H4'YR $., 4
+M<.[DDG*1)U^+-T6RBT.9(>J:@&B,O"+#!&D=B3R-^(%0?!5-F-K-JT:B?<$,
+M\]7$;,-^W(\.O\UNK8ODL2 (;V)+79;IJ<\U'H#FVIC;Q-,YCZ:C9]/B^/R>
+M0_[#A\!NZ)TLW7.V$0VZ!GW.>$ VOY("I&0=IVU:GU*B5:G+O&07L8+/JS6F
+MI)*)6Y T9N,W@DGU5ABMA /.>I P1!IA+#12?$-:D7P313W+>*AX5UTF>29C
+MD6@4>4*A".Z;)S0@1?;Z,D\4L9 J0)#+M_PZR(8HD7PEV8.X$TNGK'TFJAFYZWNA2LKZ@@X)#53;:#(!J!D+B#!/>EO[Y0_X/THA,<\BZ6#>
+M>"_K@@%T/<]X9?[HIT!>#K(1GVA34P=NJ7P<=_-)54^&'AK\=,5C=D*HL.1Z
+MZ/$N3*CIH>]#+;AQ:5I%53O\->:94BU0I5$DE&CB>FNEFOK!7MZR#C3$,2N.
+MF 1;0R120R0PM5XHE*( "VS!NS!'O?E-S\(0U#3:\GCF]*""=00F(-#>80Q B<%!CN,)CACHS%C-/*#^GV4WS?Z
+M[6L]AED&SUB1JXS)41G:)L_5#<(\4RRE(2N!ZAD2PD/KB0T75
+M8E2B!U4X:!I>"!8('>(GXTJI1E"4"63<_X3NQ)1.RF\?X,@)B:ZP#%A0+T^(
+MJO^XWHLV05)PKJH* \+PU7K"=\GNRO1FZ:0?NF@,1+W R]6;.'?Y1]V.$IO*
+M ?@QW1=H*CHC'\: 3DF@A(7CR5!I:M+GHH(9)4UZN#QT'O<.@@J]$>5.V@FB
+M5+!7=-)3YL:_H$E,):\ZG-*[E,5@I07PHS1B\>*1>81")_7,M^U0J%G<+N41
+M PN32FM7"@1]X8
+M? NG23&I&WL68]G* R3<>0'%Y417E1C09##T*+D52N'%)2>
+M]H(H<](%63[.8JFF8T$B,IN](,YH%J45#V#TA_L_4%JNS(+W<**)M!_X1!5W
+M-%N8QATQ;W%TV@ 49FG*/6E]E)-,Q9!?(NH!O<4^%=K)$"55C@7#3T$YZS "U)U@%\M=Q69J9Q,'#N55Z[OD!5D*&#C%5,IQP
+M,9.OB/OR/D=$#&:>N"72).7>4:.\6'U4*H>(;1038P4"592X4AHEB"/!"N9B
+MLF^=^RDQZAX3S#?EG(D*)I(\?\+W_5[GD)_A)4]- 5QB(/ Y_5L,O2!LS-[S
+M44A"3<"I3U_=$X6>J>ZB^%)!K9<@(X_NAJH "X.A2C+U)WKHYZI$JPOH^*J>/)*/DL5J;04>(9
+MOCEF]BA$$$I[D7 (- ,U.A+J3J>/;MWGJK5&PT5,LE+OUD(# "\VP2HN?D-R
+ME&,K/ZE>B7Q/WWE3U_8XICM4KRZ/![S+@ZB?V73H&NMM1#C!AD
+M5WM2SBH7_EU<_C*S5X>$?A8<[OQ#5;;^W6N#09.FNCJD.3.GY7BF1C OXP74
+MI0AFU/<& +7_0IM!7A[#&ROE> =:I=3X.7[WS37H_H&YO"[0^
+M$]!:?N= ZS1#>BTX*[Y7Y?7@K%;E/>"LL18\&&9]C5A14J>W4-%:H*+5BITM
+M4O1TI"CB])L$BF++V^)$/R%.!'V32RXQ/?\I,*+$?%;%AZXA*&@?OQ0?TCUO
+M$!V*RO17A0Y5]M>##AFYO!0V=+"?KU0/WQ V9/BU461H+U_=[C=;#0TQXGBO
+M6$BDC5LD9(N$O!4D),H$MCC(^\5!C Z\U&:S9!#_*7::;1=YGK3(\Z T9B?>
+MT)=2IB=OZ9NI8U;=SQHIT&VRU NQ: =A6T80O//AV>
+MU7Q^D^"LL;DM-/L30K-ZN]L5E$;LY\!FDQ-:%9S]ROI4UZHXGLN5^48XK?Y9
+M/SF--9P-JFF0U&S\5HV]RRGTMEK.5XZ/WQ!ZJ]FUX6U]
+MUA:\70V\U=)XK]BMT<4M=+N%;M\*=&O2A"UR^WZ16ZT"/\/VM1F5WN(CZ\!'
+M5D[IMQC)DS&2!*_?)$ZB36\+DSP$)MDN\CS'(L]:(:-O/IZ&0MHT=.7/@1FE
+M9I0%&N'2[BQH]%N(SS6WF/1#8=_SXCIIO(/J?8.P4+7Z^F"A(X,* 4F/0H52
+MO'LQ5,BR\D?'1V\ %4JS:Z.HT$%EBPG=BPFE9?'>,*$93=QB0EM,Z+5C0FF5
+MW6)"[Q 32JO V\>$YE1ZO9@0$^\1$\K*Y[>0T$8@H12KWQ0DE+:\QT)"3&P.
+M$EK0]RN A%[5SIE%!=H+ 1_G&4F%4H;LTR3JZ6,D]+D1VHAOF#]RX>YZZ*J3
+M.:+=+^H,#>P$CX[C0&"T:((?BA1)>\V9SG6:%1F'QTZS_:&#-!6.#:< LI+8D
+MLU^^CU:@T#@=''75C,F7*OM7J?J+Y+-*<7''NQUHN$4"=\'7FR,3HT,.5&6.
+MY5!J&[ >,CK,H_Q!S:%B-M8HESP+3" ?=%#40622Y@
+MFHK\/5.Y:J$E$I,TK^((&SW6X"3=UE31#4T08?VPKW^+TEBMS@JA2"29@RQ2
+MMV^7>D%,.O-S1_R9QU!EJBTEU= #V5SK*3WO:5OH(-ZB#
+M)E"7A5(]TZ!RJ"@GZ.J%:&VK&,^[3$$?QO"4IS0-P-VQ$(%MU1W(:N!C,C$/
+MFCWCP=KK.:8KXV1M4,,=?9KV3L9)6U5UG/;.DT_$7K6;[+OWUT1$-3Z6V\QY
+MDT?7+CCH] )\94WK@5EF(=:^7F)Y\F&I*[%T+7U"R$"M]3[E]I:>M-9N_DDN
+MOYY_:9/&5:?1ZIPWK[[!)U*_;MUNKY.%KSW.P\/.Q:N/LWYTZP8\+
+M.)A@Q1PGHK,=P8/-TIJ\-!VRLO9F6Y'?TUR=,?AY4MN0=WC@">-+CMQ\8!Y0
+MDJ69EP(_\_GB;UDG\/#JC6G%K%2V$EE!(NI0^8V)9,'+L*>RV8F/VIRMLDY+
+M7=^9P/=!,'3/_A]02P,$% @ [HI/6?MZ-S%& P : L ! !F=6XM
+M,C R-#$P,#@N>'-DO5;?;]LV$'XOT/_AIJ<.F$3+;K-%B%-D2P,$2+/!38N^
+M%;1T3>'A3<
+M80;IB*5'C#3?0IJEOV;C(SC["!^"&04WHL(A5MP)F4,/,P2SPMFCLLDL[JTA:9S6^QXJ]? 5#"E,T4
+MF6RJ:>0ST25B.386]7(2"DF+30BCP;0?\<]PE EO,2N@26W\P#J
+M)3X]DP&B;-2&%Z'NT#IM;&+%LI1\T=;*YR<=C7X;( L4:V3@9C%/%OJ.D6#;
+MBY>+IZ,9CT831JWA*.$X@$BAON]!>/&2-Y)0C?J[X5*4 HN@12U;H7(;.IL:CIL%NFM>
+MH:UYCL],.O784Q$2Z91]_7CU*;1?=.H! *$C155KXZ!MS"N=AX'9DUC_*^[K
+M$?NK.!W'DS0A8Q&H)_GO*":P%Q/IR_PL(NL>.9B(W=7+_A#[PR[O3T_ LS.P
+M/>,^_F,??WIT4/R/=L1_P$2KZY>2&2RZY]=$<9&W>ZP]'EZ7!^2+>K/?#SX/
+M[_8ZWEXHG=?@DRNE77 T9,+K6JA2=U=TZ9LXZSMYAB6$199QDQLMS B"\NJ!78]UPGGP
+ME1>#E]/[R>7:M.^&:60I[7(PG?]OM+7!'XV6():V?"C:[J#_&FC]<.S>SPUI
+M@#]\GET>\DZL'PKF^%(K7:U:NN*#(I*K2^HP4P6"$0AZ46:D
+M_NT@]37=GG"!],=.A#8F"O2A_WV]A>&1JP):&UL
+MS9QM3^-&$,??GW3?89J^::5S@D-U%1'"[R0,W+2VQ#9^_SI_;OC[QP'SBXFU^# (HZ72=#/
+M5$/*_AWI+S/=/;Q_!Z >1B:3L=U*>
+M#I,$]^CH:)!<+49+:HI5XN[@SZO+>W]!(L]1#[_ZI]TP>S1\68DO%1'D'@8"1Z2BL+Z'WZINO
+M8ZYX/YW)6'A^O%TOU \1%_G)Q,1)SY TV&Y(QYT*?TO+$WZNHP[W^,\B!CY7
+M/[=E["2*>?J#X)&QBZP<-US\&LY"8YN:)'6DQYLPY\O]/J^I4-&8()*OA,*K
+MR8\V\?,I48:_<^U_C@?/M=]*JVH)D>2R:;]V2)ZSF,:;.S*GNA"+K[V(U"73
+MG-L1H)5&>'F,#:[E>DC4I@7@N0+H$M;LMM=W$>&FS=N!?!JI]5K]BR]";UZ7
+MX!=)':%K;IT;+MK :A!"HO2;,FAI:SI;:+2(9=UN,=;5L2HCO'"B=A+KW\BF
+MV<*ZD]SIREIFA5<$V:^M1D'LKPWZMT/ZC/LK/3=3
+MU7U=DK=S.@+8V#C?O6:#ZZX.$J6Y,&AE:S3QVRP26;-7' QOB: \.&?!F7IB
+MWI3'%\D=@VFVPBN",% U"&(SFY8 50-T$31\6VC=R''M_C$V"Q/F<['D(KE5
+MF.^4FO[9LR#AL_)]DAUNI&H9Y/73K'?9-20Q]UR;!6$I")D)4'71-J!
+M_ ^^#/N1UYO#&*(+&I+K530CHMG$%/,Z'0^# 6Z^;@_^2RU9XW7"+:'NU(8EW15"K9KX7+?
+MJA7#$+S"#\9(G :!,B"S_RXI(VZS<3 *=#H*59;XGD#[$2@5Q<4_T_^0'X"N
+M!#<,:Q_3F@T#^J_P@HC^6!W>B"E_8J\"OYC^%K WV#%!_QR&AOQ+R9: UV6
+M"]"%<&''-E"%>CT7B)@G3PINQ*W@CY3Y#9_;EFF\!>#+C)FH?Q&+AKY1MR7^
+MTV=W"IV\&NX0M&*E:A(:^$$\5L;A%+_/K3= U6S6#D3]SL3P=L%9PYN&NWD= 5EJ@)NOVX!IUD*",Q&'
+M1!WKYDD[_18A;=*T':A_"!K'A(UY%*U8=E-&UJ6U)+DC9*NM\(H@&W@K!)$(
+MSBK =@EKBEMLO(ART^[M<+[G(?5I3-G\2NVX!?7"NBR;,CL"N<($+XNP0;A,
+M#8G?9WG(]:WA;:OE(KF-^K;#]E80/1]$89&\BT9_1$#B1+NMP4C+M3H?+3FJG))&MBRW-\1?J?W4QAW.IC0.:]_CV,WK:FM3
+M9H";KUMM:XQ:6)N:3!R4.B3R]GN:5OK=VM$T:-H.U*GP] =N[S?1C-?>@K](
+MZ@A1<^O<<-$&3H,0$IF9,J32UE2VT&@1R;K=XJR;YVM_H=R2)I]&-.=VO'X:
+MC?#R&(QU=%RW-*^!\&K&]OHUK:LWF,5[?.X^(F*NI^57PIWBA-B-+CS7\
+M$%B)1*>O\%7;XGM#[5_CJY!%8CU[82PO!&DER$HAO<;7H@W#BWQUO11/7*HC
+M_7L+ZLQ_4$L#!!0 ( .Z*3UF 9ON3O@0 ) J 4 9G5N
+M+3(P,C0Q,# X7W!R92YX;6S5FEV/XC84AN]7VO_@IC>MM"$$9G=VT# KRLRL
+M4.=+P+95;U8F.8!5QT:V&>#?[W' %8$PA>FVBKG@P_%[_/H\CN.87'Y:9IP\
+M@]),BG80U^H! 9'(E(E).YCKD.J$L8!H0T5*N130#E:@@T]7;]]<_A"&Y/JV
+M]T!",C5FIEM1M%@L:NF8"2WYW&!(74MD%I$P=/6[PR_DMW5S+=('#E0#R:@V
+MH,@O<\;35J/>:,;UN%%K;,L44!N/I-1 B\3U*/X08
+M1I ARV!;*VO'U#\(6)%#HO;0*UZ2:H-MZ,W*B
+M8%NSW!,MFKDDOKBXB/*CQ?J:E=7&!N+HC_N[03*%C(8( :$E.TVAF]3\K=XV
+M]SY:'W3U-6OI/-*=3/+<']$M>T[+"@(8&E I)"Z,-;_?][UJS7HS6B622$5[H3.*6I(:A/Y
+M'*7 ;(M-^\4FJIDG"7]\[4J<0SHC;11-3#$9W X?J5PAIR/@[:!$%'U/0^ON
+M]F'";'AA'F@&Q_HJUQ;M;>/LJ*00F:K$1<6O>RR+)\:F1C2C"N.%R13G0*<>
+M*YF5IFK3FGS)KU0IJ';0:-1P7@C(3#&IL!J6!&2NT9*<6?.4VV,P!J4@O5LG
+MX:#9W"G.L1KRFM^960>':FJ'ZRT.\&-A[8BJ2VG'J,/3] ;/>IAUL0>*\AY.
+M5\M?877:.;4GKBZN X8=MC-OL+EKP!#3>"RMHJ:ZD(H^'9L/WK%Y O2*E^CT
+M&I>WIT+:$5>?UHYAA^W<&VQN+95(-9,JS^T 4PQ=.)-
+MPKZNNHSVO3I._FRR_([^#(BNS+*YV*R1];&P#HBK2^R 88?-GTV6@>0L88:)
+MR3U>C!6SUHYC5J:L+K RMXZ6/SLF3PKLD -<+>4;LO;O3/4X'A\_+;X4H;KT
+M7G+M*/JSG[+3FY[6#!6U3UX-5ME('GVYVQ%5E]".48?'G_T1-\1NELF4B@F<\E!)
+MN;:ZL,K].F:^[8/<9* F./8^*[DP4YS?9U2<^.S"@1#5)?BB;0?R?]@*N8SV
+M4G.'!?9!RO41^V8?"\22;U!+ 0(4 Q0 ( .Z*3UEKU%G#]!< %.] .
+M " 0 !D.#C'-D4$L! A0#% @ [HI/65AP,V-@!@ OT, !0 ( !
+ME!L &9U;BTR,#(T,3 P.%]L86(N>&UL4$L! A0#% @ [HI/68!F^Y.^
+M! D"H !0 ( !)B( &9U;BTR,#(T,3 P.%]P&UL
+64$L%!@ $ 0 _@ !8G $!
+
+end
+
+XML
+16
+d875272d8k_htm.xml
+IDEA: XBRL DOCUMENT
+
+ 
+ 
+ 
+ 0001999001
+ 
+ 
+ 2024-10-08
+ 2024-10-08
+ 
+ 
+ Six Flags Entertainment Corporation/NEW
+ false
+ 0001999001
+ 8-K
+ 2024-10-08
+ DE
+ 001-42157
+ 93-4097909
+ 8701 Red Oak Blvd.
+ Charlotte
+ NC
+ 28217
+ (704)
+ 414-4700
+ false
+ false
+ false
+ false
+ Common Stock, par value $0.01 per share
+ FUN
+ NYSE
+ false

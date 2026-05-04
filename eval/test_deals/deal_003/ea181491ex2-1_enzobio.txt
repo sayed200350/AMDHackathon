@@ -1,0 +1,652 @@
+EX-2.1
+2
+ea181491ex2-1_enzobio.htm
+AMENDMENT NO. 1 TO ASSET PURCHASE AGREEMENT, DATED AS OF JULY 3, 2023, BY AND AMONG ENZO BIOCHEM, INC., ENZO CLINICAL LABS, INC., AND LABORATORY CORPORATION OF AMERICA HOLDINGS
+
+ 
+
+Exhibit 2.1
+
+ 
+
+CONFIDENTIAL
+
+Execution Version
+
+ 
+
+AMENDMENT NO. 1
+
+TO ASSET PURCHASE AGREEMENT
+
+ 
+
+This Amendment No. 1 to the Asset Purchase Agreement
+(this “Amendment”) is entered into as of July 3, 2023 (the “Amendment Effective Date”), by and among
+Laboratory Corporation of America Holdings, a Delaware corporation (“Buyer”),
+Enzo Clinical Labs, Inc., a New York corporation (“Seller”), and Enzo Biochem, Inc., a New York corporation (“Seller
+Parent”). Buyer, Seller and Seller Parent are sometimes hereinafter referred to individually as a “Party”
+and collectively as the “Parties”. Capitalized terms used but not defined in this Amendment shall have the meanings
+given to such terms in the Asset Purchase Agreement (as defined below), and all references to Sections herein are references to Sections
+of the Asset Purchase Agreement.
+
+ 
+
+RECITALS
+
+ 
+
+WHEREAS, the Parties entered into an Asset Purchase
+Agreement dated as of March 16, 2023 relating to the purchase by Buyer of certain assets related to the Business (the “Asset
+Purchase Agreement”);
+
+ 
+
+WHEREAS, on May 1, 2023 the waiting period applicable
+to the transactions contemplated by the Asset Purchase Agreement and the other Transaction Documents under the HSR Act expired;
+
+ 
+
+WHEREAS, on May 22, 2023 Stockholder Approval was
+obtained in accordance with applicable Law;
+
+ 
+
+WHEREAS, the Parties have agreed to revise certain
+terms of the Asset Purchase Agreement;
+
+ 
+
+WHEREAS, the Parties desire to amend the Asset
+Purchase Agreement as set forth herein to reflect such agreement; and
+
+ 
+
+WHEREAS, Section 10.13 of the Asset Purchase Agreement
+provides that any amendment to the Asset Purchase Agreement shall be made in writing and signed by each Party.
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+NOW, THEREFORE, in consideration of the foregoing
+and the mutual covenants and agreements, representations, and warranties contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, and incorporating the above recitals with and into this Amendment, the Parties
+hereby agree as follows:
+
+ 
+
+1.Amendment.
+
+ 
+
+1.1
+The following defined terms are hereby added to Section 1.1 of the Asset Purchase Agreement:
+
+ 
+
+“Amendment” means
+that certain Amendment No.1 to Asset Purchase Agreement dated as of July 3, 2023 (the “Amendment Effective Date”)
+by and among the Parties.
+
+ 
+
+“Buyer Receivable”
+means all Liabilities of Seller, Seller Parent or their respective Affiliates to Buyer for reference testing services performed by Buyer
+or its Affiliates prior to the Closing , including pursuant to invoices up to and including May 27, 2023 for client account numbers 31002760,
+88040331, and 88611401.
+
+ 
+
+1.2
+The definition of “Debt Amount” in Section 1.1 of the Asset Purchase Agreement is hereby deleted in its entirety
+and replaced with the following:
+
+ 
+
+(yy) “Debt Amount” means (i) all
+Liabilities of Seller or Seller Parent under any Assigned Contract outstanding as of immediately prior to the Closing (“Pre-Closing
+Lease Obligations”), (ii) all Buyer Receivables outstanding as of immediately prior to the Closing and (iii) all Debt of
+Seller, Seller Parent or their Affiliates that shall be paid off at the Closing pursuant to Section 2.8(a)(iv); provided
+that the Debt Amount may not exceed the total amount of the Purchase Price before the exclusion of the Debt Amount.
+
+ 
+
+1.3
+The definition of “Retention Bonus Amount” in Section 1.1 of the Asset Purchase Agreement is hereby deleted in
+its entirety and replaced with the following:
+
+ 
+
+(kkkkkkk) “Retention Bonus Amount”
+means an amount equal to the lesser of (x) one-half of the aggregate amount of the retention bonuses previously paid or to be paid by
+Seller to Business Employees, in each case, in connection with the transactions contemplated by this Agreement, and which shall include
+the retention bonus amounts paid to the employees set forth on Schedule 1.1(kkkkkkk) and (y) $1,600,000.
+
+ 
+
+ 2
+
+  
+
+ 
+
+ 
+
+1.4
+A new Schedule 1.1(kkkkkkk) in the form attached hereto as Exhibit
+A shall be added to the Agreement Purchase Agreement.
+
+ 
+
+1.5
+Section 2.2 of the Asset Purchase Agreement is hereby amended by changing the reference from “120 days” to “127
+days”.
+
+ 
+
+1.6
+Section 2.3(a) of the Asset Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+(a)
+ On July 17, 2023, as payment for the Acquired Assets, Buyer shall pay to Seller $30,000,000,
+which amount represents an upfront payment of the Purchase Price that shall be fully credited against the amount paid by Buyer to Seller
+at Closing and shall be fully refundable to Buyer within two Business Days upon termination of this Agreement pursuant to Article VIII
+(the “Earnest Money Deposit”) as provided in Section 2.3(f) below. At the Closing, as payment for the
+Acquired Assets, Buyer shall pay to Seller $113,250,000 minus (i) the Estimated Vacation Rollover Amount plus (ii) the Estimated
+Prepaid Amount minus (iii) the Escrow Amount minus (iv) the Estimated Debt Amount minus (v) the Aggregate Ticking
+Fee Closing Payment plus (vi) the Retention Bonus Amount minus (vii) the Earnest Money Deposit and minus (viii) any
+amounts deducted for motor vehicles as provided in Section 2.8(a)(ix)
+below (such collective amount, as may be adjusted by this Section 2.3, the “Purchase Price”), by wire
+transfer of immediately available funds in lawful currency of the United States of America to the account designated by Seller in writing
+at least four Business Days prior to the Closing. At the Closing, Buyer shall (x) deposit the Escrow Amount in accordance with Section
+2.10 and (y) deliver or cause to be delivered on behalf of Seller or Seller Parent the amount payable to each holder of Debt identified
+in the Payoff Letters in order to fully discharge such Debt and terminate all applicable obligations and Liabilities of Seller or Seller
+Parent related thereto, as specified in the Payoff Letters and in accordance with this Agreement. Seller shall pay the portion of the
+Retention Bonus Amount payable to Business Employees (less any applicable Tax withholding) who are not Hired Employees (the “Seller
+Retention Bonus Amount”) on or before the first regularly scheduled payroll date following the Closing Date (the “Bonus
+Payroll Date”). If the Seller Retention Bonus Amount is not paid by Seller to such Business Employees in full on or before
+the Bonus Payroll Date, then the Seller Retention Bonus Amount shall be refunded to Buyer and Seller shall deposit by wire transfer of
+immediately available funds in lawful currency of the United States of America to an account designated in writing by Buyer an amount
+equal to the Seller Retention Bonus Amount within two Business Days after the Bonus Payroll Date.
+
+ 
+
+1.7
+Section 2.3(c) of the Asset Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+(c) No
+later than five Business Days prior to the Closing Date, Seller shall calculate (i) the amount of all reserves, security and other deposits,
+advances and prepaid expenses and credits that are assignable to Buyer and related to the Assigned Contracts or any other Acquired Asset
+(the “Prepaid Amount”), (ii) the Vacation Rollover Amount, (iii) the Debt Amount and (iv) the Retention Bonus
+Amount with respect to the applicable Business Employees, and provide to Buyer a statement setting forth each such calculation in reasonable
+detail with reasonable supporting documentation, including with respect to the Retention Bonus Amount the names and amounts payable to
+each individual employee and the date or anticipated date of the payment of such amounts to such individual employees. The Prepaid Amount
+set forth on such statement provided prior to the Closing (the “Estimated Prepaid Amount”), the Vacation Rollover
+Amount set forth on such statement provided prior to the Closing (the “Estimated Vacation Rollover Amount”)
+and the Debt Amount set forth on such statement provided prior to the Closing (the “Estimated Debt Amount”)
+shall, in each case, be used to calculate the Purchase Price to be paid by Buyer to Seller at the Closing pursuant to Section 2.3(a).
+
+ 
+
+ 3
+
+  
+
+ 
+
+ 
+
+1.8
+Section 2.3(d) of the Asset Purchase Agreement is hereby amended and restated in its entirety as follows:
+
+ 
+
+(d) As
+soon as reasonably practicable after the Closing Date, but in any event no later than 90 days thereafter, Buyer will calculate the Prepaid
+Amount, the Vacation Rollover Amount, and the Debt Amount and provide Seller with a statement (the “Post-Closing Adjustment
+Statement”) setting forth each such calculation in reasonable detail with reasonable supporting documentation. The Post-Closing
+Adjustment Statement will be deemed to be accepted by Seller and shall be conclusive for purposes of determining the Prepaid Amount, the
+Vacation Rollover Amount, and the Debt Amount, unless Seller delivers to Buyer, within 30 days following receipt of the Post-Closing Adjustment
+Statement from Buyer, a notice (each, a “Post-Closing Adjustment Objection Notice”) setting forth Seller’s
+objections to such Post-Closing Adjustment Statement in reasonable detail. If Seller and Buyer fail to resolve the issues raised in the
+Post-Closing Adjustment Objection Notice within 30 days of Buyer’s receipt of the Post-Closing Adjustment Objection Notice, Seller
+and Buyer shall submit the items under dispute in the Post-Closing Adjustment Statement (the “Disputed Items”)
+to Ernst & Young LLP (or if such firm is unable to serve, another nationally recognized independent firm jointly chosen by Buyer and
+Seller) (the “Independent Accountant”), for resolution in accordance with the dispute resolution provisions
+set forth in Section 2.3(d) and the relevant terms of this Agreement. Within ten Business Days following the final determination
+of the Prepaid Amount, the Vacation Rollover Amount, and the Debt Amount, in each case, pursuant to this Section 2.3(c) (such amounts
+as so finally determined pursuant to this Section 2.3(c), the “Final Prepaid Amount”, the “Final
+Vacation Rollover Amount”, and the “Final Debt Amount”), (w) if the difference of (1) the Final
+Prepaid Amount minus (2) the sum of (A) the Final Vacation Rollover Amount and (B) the Final Debt Amount is greater than (x) the
+difference of (1) the Estimated Prepaid Amount minus (2) the sum of (A) the Estimated Vacation Rollover Amount and (B) the Estimated
+Debt Amount, Buyer shall pay such difference to Seller, and (y) if the difference of (1) the Final Prepaid Amount minus (2) the
+sum of (A) the Final Vacation Rollover Amount and (B) the Final Debt Amount is less than (z) the difference of (1) the Estimated Prepaid
+Amount minus (2) the sum of (A) the Estimated Vacation Rollover Amount and (B) the Estimated Debt Amount, Seller and Seller Parent
+shall pay such difference to Buyer. Any payments required to be made pursuant to this Section 2.3(c) shall be made by wire transfer
+of immediately available funds in lawful currency of the United States of America to the account designated by Seller or Buyer, as applicable,
+in writing at least four Business Days prior to the date of such payment.
+
+ 
+
+1.9
+Section 2.3(f) of the Asset Purchase Agreement is hereby amended by adding the following sentence to the end of Section 2.3(f):
+
+ 
+
+Furthermore, if this Agreement is terminated
+pursuant to Article VIII, Seller shall return the Earnest Money Deposit without interest to Buyer within two Business Days after
+termination of this Agreement, and shall deposit by wire transfer of immediately available funds in lawful currency of the United States
+of America to an account designated in writing by Buyer an amount equal to the Earnest Money Deposit.
+
+ 
+
+1.10
+Section 2.4 of the Asset Purchase Agreement is hereby amended by deleting the fifth sentence thereof and replacing such
+sentence in its entirety with the following sentence:
+
+ 
+
+Seller
+shall be liable for all amounts apportioned to periods prior to the Closing and Buyer shall be liable for all amounts apportioned to periods
+on and after the Closing. Buyer and Seller shall settle all prorations within 90 Business Days following the Closing Date; provided
+that Buyer shall have the right to withhold and set-off against any amount otherwise due to be paid by Buyer to Seller pursuant
+to this Section 2.4, any Pre-Closing Lease Obligations that were not otherwise
+taken into account in the Debt Amount deducted from the Purchase Price paid to Seller at Closing. 
+
+ 
+
+1.11
+Section 2.8(a)(x) of the Asset Purchase Agreement is hereby deleted in its entirety and replaced with the following:
+
+ 
+
+(x)an agreement evidencing the termination of the STAT Services Agreement as of the Closing in a form reasonably acceptable to Buyer
+(the “STAT Services Termination Agreement”), duly executed by Seller; and
+
+ 
+
+(xi)such other customary instruments of transfer, assumption, filings or documents, in form and substance reasonably satisfactory to Buyer,
+as may be required to give effect to this Agreement.
+
+ 
+
+1.12
+Section 2.8(b)(vii) of the Asset Purchase Agreement is hereby deleted in its entirety and replaced with the following:
+
+ 
+
+(vii)the STAT Services Termination Agreement, duly executed by Buyer; and
+
+ 
+
+(viii)such other customary instruments of transfer, assumption, filings or documents, in form and substance reasonably satisfactory to Seller,
+as may be required to give effect to this Agreement.
+
+ 
+
+ 4
+
+  
+
+ 
+
+ 
+
+1.13
+Section 3.2 of the Asset Purchase Agreement is hereby amended by adding the following paragraph as a new Section 3.2(c):
+
+ 
+
+(c)
+ Each of Seller and Seller Parent has all requisite power and authority to execute and deliver
+the Amendment and to perform its obligations under the Amendment and this Agreement as amended by the Amendment and to consummate the
+transactions contemplated by the Amendment and this Agreement as amended by the Amendment. The execution and delivery by each of Seller
+and Seller Parent of the Amendment, the performance by each of Seller and Seller Parent of its obligations under the Amendment and under
+this Agreement as amended by the Amendment and the consummation by each of Seller and Seller Parent of the transactions contemplated the
+Amendment and this Agreement as amended by the Amendment, have been duly authorized by all necessary corporate action, and no other action,
+or approval on the part of Seller or Seller Parent or the stockholders
+of Seller Parent is necessary to authorize the Amendment and this Agreement as amended by the Amendment or to consummate the transactions
+contemplated hereby or thereby. The Amendment has been duly executed and delivered by each of Seller and Seller Parent and, assuming the
+due authorization, execution and delivery thereof by Buyer, constitutes the legal, valid and binding obligation of Seller and Seller Parent,
+enforceable against Seller and Seller Parent in accordance with its terms, except as such enforceability may be limited by bankruptcy,
+insolvency, reorganization, moratorium and similar Laws relating to or affecting creditors generally or by general equity principles (regardless
+of whether such enforceability is considered in a proceeding in equity or at law). 
+
+ 
+
+1.14
+Schedule 5.8 of the Asset Purchase Agreement is hereby amended by deleting references to the following therefrom:
+
+ 
+
+ 
+ 6. 
+ 4131 Richmond Avenue, Staten Island, NY 10312
+ Lease dated September 1, 2019 (as amended, restated and modified from time to time), by and between 4131 Richmond Avenue Corp. and Enzo Clinical Labs, Inc.
+
+ 
+ 10.
+ 248-260 Middle Country Road, Selden NY 11784
+ Commercial Lease (as amended, restated and modified from time to time), by and between 248-260 Middle Country Road Associates LLC and Enzo Clinical Labs, Inc.
+
+ 
+ 12.
+ 30 Newbridge Road, Suite LL2, East Meadow, NY 11554
+ Lease (as amended, restated and modified from time to time) by and between John Simon Realty LLC and Enzo Clinical Labs, Inc.
+
+ 
+ 
+
+ 5
+
+  
+
+ 
+
+ 
+
+1.15
+Schedule 5.8 of the Asset Purchase Agreement is hereby amended by adding a reference to the following:
+
+ 
+
+ 
+ 22.
+ 174 Edison Road, Lake Hopatcong, NJ 07849
+ Lease (as amended, restated and modified from time to time) by and between 174 Edison Rd, LLC and Enzo Clinical Labs, Inc. 
+
+ 
+ 
+
+1.16
+Section 7.6 of the Asset Purchase Agreement is hereby amended by adding the following sentence to the end of Section 7.6:
+
+ 
+
+Beginning on the Saturday before the Closing Date, Seller
+shall afford Buyer with unlimited access to the Assigned Locations for the express and limited purpose of facilitating Buyer’s integration
+activities with respect to the Business.
+
+ 
+
+1.17
+Section 8.3 of the Asset Purchase Agreement is hereby amended by adding the following new clause (c) prior to the period at
+the end of Section 8.3:
+
+ 
+
+; or (c) a Restraint is then in effect
+
+ 
+
+1.18
+Section 9.1(a)(i) of the Asset Purchase Agreement is hereby deleted in its entirety and replaced with the following:
+
+ 
+
+(i) any
+breach of or inaccuracy in any representation or warranty made by Seller or Seller Parent in this Agreement or in any Schedule or certificate
+delivered pursuant to this Agreement (other than the representations and warranties set forth in Section 3.2(c)), as of the Effective
+Date or as of the Closing Date;
+
+ 
+
+1.19
+Section 9.1(a) of the Asset Purchase Agreement is hereby amended by adding the following clause as a new Section 9.1(a)(v)
+after Section 9.1(a)(iv):
+
+ 
+
+(v) (A)
+any breach of or inaccuracy in any representation or warranty made by Seller or Seller Parent in Section 3.2(c), as of the Amendment
+Effective Date or as of the Closing Date or (B) any Proceeding (1) challenging, disputing or objecting to the Amendment or performance
+by the Parties of this Agreement, as amended by the Amendment or the consummation of the transactions contemplated by this Agreement,
+as amended by the Amendment, including as a result of any failure to obtain any required approval of the stockholders of Seller Parent
+or otherwise comply with Seller Parent’s governing documents or applicable Law in connection therewith, or (2) alleging violations
+of fiduciary duty by any director, officer or agent of Seller Parent or Seller in connection with the Amendment or the transactions contemplated
+by this Agreement or this Agreement, as amended by the Amendment.
+
+ 
+
+ 6
+
+  
+
+ 
+
+ 
+
+1.20
+Section 9.6(a) is hereby amended by adding the following as a new Section 9.6(a)(vi) after Section 9.6(a)(v):
+
+ 
+
+(vi) with
+respect to any claim by a Buyer Indemnified Party pursuant to Section 9.1(a)(v), Buyer shall be entitled to satisfy the Losses
+therefrom, at Buyer’s election (in its sole discretion), (A) from the Escrow Fund in the Escrow Account, or (B) from Seller or Seller
+Parent directly.
+
+ 
+
+2.Effect of this Amendment. 
+
+ 
+
+2.1 The
+Asset Purchase Agreement as amended by this Amendment comprises the entire
+agreement and understanding between the Parties with respect to the subject matter hereof and thereof. Except as specifically provided
+in this Amendment, and as the context of this Amendment otherwise may require to give effect to the intent and purposes of this Amendment,
+the Asset Purchase Agreement shall remain in full force and effect without any other amendments or modifications and all references to
+“this Agreement” set forth in the Asset Purchase Agreement shall refer to the Asset Purchase
+Agreement as amended by this Amendment.
+
+ 
+
+2.2 Each
+Party agrees and acknowledges that, solely for purposes of determining whether the conditions to Closing set forth in Article VI of the
+Asset Purchase Agreement, as amended by this Amendment, are satisfied and not for any other purpose, each Party waives any breaches of
+any representations, warranties or covenants by the other Parties occurring prior to the Amendment Effective Date; provided that such
+Party was aware of the breach prior to the Amendment Effective Date. Each Party further agrees and acknowledges that, except as set forth
+in the foregoing sentence, the Closing of the transactions contemplated by the Asset Purchase Agreement, as amended by this Amendment,
+does not and shall not operate as a waiver or be deemed to relieve any other Party or any of their respective Affiliates of any of their
+obligations under the Asset Purchase Agreement, this Amendment or any other Transaction Document that were to be taken
+or satisfied prior to or on the Closing and that were not complied with prior to Closing (whether or not such Party was aware
+of such non-compliance). The Parties further agree and acknowledge that, except as set forth in the first sentence of this Section
+2.2, (i) any amendments, restatements, eliminations, replacements or deletions of any of the provisions of the Asset Purchase Agreement
+by virtue of this Amendment shall not operate as a waiver of or consent to any breach or default of any Party’s obligations under
+any such provisions occurring prior to the Amendment Effective Date and (ii) no such amendments, restatements, eliminations, replacements
+or deletions of any such provisions shall relieve a defaulting or breaching Party from any Liability arising out of or relating to a breach
+or default of a Party’s obligations under any such provisions occurring prior to the Amendment Effective Date.
+
+ 
+
+3.
+Amended STAT Services Agreement Term Extension. The Parties hereto acknowledge and agree that this Amendment constitutes
+written notice of Buyer’s intention to exercise its right to extend the Amended STAT Services Agreement term through August 17,
+2023, pursuant to Section 13 of the Amended STAT Services Agreement, and that such term is so extended.
+
+ 
+
+4.
+Incorporation. The provisions of Sections 10.1 (Notices), 10.2 (Interpretation), 10.3 (Rules of Construction), 10.5
+(Jurisdiction; Governing Law), 10.6 (Waiver of Jury Trial), 10.7 (Severability), 10.10 (Assignment), 10.11 (No Third-Party Beneficiaries),
+10.13 (Amendments and Waivers), and 10.16 (Counterparts) of the Asset Purchase Agreement are hereby incorporated into, and shall be deemed
+to apply to, this Amendment, mutatis mutandis.
+
+ 
+
+(Signature pages follow)
+
+ 
+
+ 7
+
+  
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the Parties have executed
+this Amendment No. 1 to Asset Purchase Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ BUYER:
+
+ 
+  
+  
+  
+
+ 
+  
+ LABORATORY CORPORATION OF AMERICA HOLDINGS
+
+ 
+  
+  
+  
+
+ 
+  
+ By:
+ /s/ William B. Haas
+
+ 
+  
+ Name:
+ William B. Haas
+
+ 
+  
+ Title:
+ Senior Vice President
+
+ 
+
+ 
+
+[Signature Page to Amendment No. 1 to Asset Purchase Agreement]
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, the Parties have executed
+this Amendment No. 1 to Asset Purchase Agreement as of the date first written above.
+
+ 
+
+ 
+  
+ SELLER:
+
+ 
+  
+  
+
+ 
+  
+ ENZO CLINICAL LABS INC.
+
+ 
+  
+  
+
+ 
+  
+ By:
+ /s/ Hamid Erfanian
+
+ 
+  
+ Name: 
+ Hamid Erfanian
+
+ 
+  
+ Title:
+ Chief Executive Officer
+
+ 
+  
+  
+  
+
+ 
+  
+ SELLER PARENT:
+
+ 
+  
+  
+
+ 
+  
+ ENZO BIOCHEM, INC.
+
+ 
+  
+  
+  
+
+ 
+  
+ By:
+ /s/ Hamid Erfanian
+
+ 
+  
+ Name:
+ Hamid Erfanian
+
+ 
+  
+ Title:
+ Chief Executive Officer
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+Exhibit A
+
+ 
+
+Schedule 1.1(kkkkkkk)
+
+ 
+
+ 
+
+ 
+
+10

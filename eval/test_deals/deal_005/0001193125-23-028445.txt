@@ -1,0 +1,4189 @@
+0001193125-23-028445.txt : 20230208
+0001193125-23-028445.hdr.sgml : 20230208
+20230208162505
+ACCESSION NUMBER: 0001193125-23-028445
+CONFORMED SUBMISSION TYPE: 8-K
+PUBLIC DOCUMENT COUNT: 18
+CONFORMED PERIOD OF REPORT: 20230202
+ITEM INFORMATION: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION: Regulation FD Disclosure
+ITEM INFORMATION: Financial Statements and Exhibits
+FILED AS OF DATE: 20230208
+DATE AS OF CHANGE: 20230208
+
+FILER:
+
+ COMPANY DATA: 
+ COMPANY CONFORMED NAME: Hyperfine, Inc.
+ CENTRAL INDEX KEY: 0001833769
+ STANDARD INDUSTRIAL CLASSIFICATION: ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS [3845]
+ IRS NUMBER: 000000000
+ STATE OF INCORPORATION: DE
+ FISCAL YEAR END: 1231
+
+ FILING VALUES:
+ FORM TYPE: 8-K
+ SEC ACT: 1934 Act
+ SEC FILE NUMBER: 001-39949
+ FILM NUMBER: 23599398
+
+ BUSINESS ADDRESS: 
+ STREET 1: 351 NEW WHITFIELD STREET
+ CITY: GUILFORD
+ STATE: CT
+ ZIP: 06437
+ BUSINESS PHONE: 866-796-6767
+
+ MAIL ADDRESS: 
+ STREET 1: 351 NEW WHITFIELD STREET
+ CITY: GUILFORD
+ STATE: CT
+ ZIP: 06437
+
+ FORMER COMPANY: 
+ FORMER CONFORMED NAME: HealthCor Catalio Acquisition Corp.
+ DATE OF NAME CHANGE: 20201124
+
+8-K
+1
+d430074d8k.htm
+8-K
+
+8-K
+
+ false 0001833769 0001833769 2023-02-02 2023-02-02 
+  
+  
+ UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+ WASHINGTON, D.C. 20549
+  
+  
+
+ FORM 8-K
+  
+  
+
+ CURRENT REPORT
+ Pursuant to Section 13 or 15(d)
+ of the Securities Exchange Act of 1934
+ Date of Report (Date of earliest event reported): February 2, 2023
+  
+  
+
+ Hyperfine, Inc.
+ (Exact name of Registrant as Specified in Its Charter)
+  
+  
+
+  
+
+Delaware
+ 
+001-39949
+ 
+98-1569027
+
+ (State or Other Jurisdiction
+ of Incorporation)
+
+ 
+ (Commission
+ File Number)
+
+ 
+ (IRS Employer
+ Identification No.)
+
+  
+
+ 351 New Whitfield Street
+ Guilford, Connecticut
+
+ 
+06437
+
+(Address of Principal Executive Offices)
+ 
+(Zip Code)
+ Registrant’s Telephone Number, Including Area Code: (866) 796-6767
+ N/A
+ (Former Name or Former Address, if Changed Since Last Report)
+  
+  
+
+ Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+  
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+  
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+  
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+  
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ Securities registered pursuant to Section 12(b) of the Act:
+  
+
+ Title of each class
+
+ 
+ Trading
+ Symbol(s)
+
+ 
+ Name of each exchange
+ on which registered
+
+Class A common stock, $0.0001 par value per share
+ 
+HYPR
+ 
+The Nasdaq Stock Market LLC
+ Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+ Emerging growth company  ☒
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+  
+  
+  
+
+ 
+
+Item 5.02.
+ Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+
+ Appointment of New Chief Financial Officer and Chief Administrative Officer 
+ On February 8, 2023, Hyperfine, Inc. (the “Company”) announced that Brett Hale has been appointed by the Board of Directors of the Company (the “Board”) to serve as Chief Administrative Officer of the Company, effective as of February 13, 2023 (the “Appointment Date”), and Chief Financial Officer of the Company, effective as of the date immediately following the date (the “2022 Form 10-K Filing Date”) the Company files its Annual Report on Form 10-K for the year ended December 31, 2022 with the Securities and Exchange Commission (the “SEC”). On February 3, 2023, the Company determined that the employment of Alok Gupta, the Company’s current Chief Financial Officer, will terminate effective as of March 31, 2023. Mr. Gupta will assist with the transition by continuing to serve as the Company’s principal financial officer through the 2022 Form 10-K Filing Date. The Company expects to enter into a separation agreement with Mr. Gupta, the terms of which will be disclosed once available. 
+ Mr. Hale, age 49, has over 25 years of experience as a financial professional, more than 20 of which have been in the medical technology industry. From September 2017 to February 2023, Mr. Hale served as Chief Financial Officer of Bigfoot Biomedical, Inc., which develops an integrated decision support solution for insulin requiring diabetes. Prior to that, he served as Chief Financial Officer of CardioKinetix Inc., a developer of medical technology to treat heart failure, from 2013 to 2017. Prior to joining CardioKinetix, Mr. Hale served as Chief Financial Officer of Concentric Medical, Inc., which manufactured and marketed minimally invasive devices to remove blood clots causing ischemic stroke, from 2010 through 2012, including through the acquisition of Concentric Medical, Inc. by Stryker Corp. in 2011. He began his career at Guidant Corporation (acquired by Boston Scientific Corporation) in strategic planning, sales finance, financial planning, and internal audit, as well as serving as Assurance Manager at PricewaterhouseCoopers. Mr. Hale holds a B.S. in Accounting and an M.B.A. from Indiana University and is also a Certified Public Accountant (inactive). 
+ The selection of Mr. Hale to serve as the Company’s Chief Financial Officer and Chief Administrative Officer was not pursuant to any arrangement or understanding between Mr. Hale and any other person. There are no family relationships between Mr. Hale and any director or executive officer of the Company, and there are no transactions between Mr. Hale and the Company that would be required to be reported under Item 404(a) of Regulation S-K. 
+ As of February 2, 2023, the Company entered into an offer letter of employment with Mr. Hale, effective as of the Appointment Date (the “Offer Letter”). Pursuant to the terms of the Offer Letter, Mr. Hale’s initial annual base salary is $425,000. Mr. Hale is eligible to receive an annual discretionary bonus with a target of 50% of his base salary. He will receive a one-time sign-on bonus in the amount of $100,000, which is recoverable in full by the Company in the event that he voluntarily terminates his employment with the Company or is terminated for “cause” (as defined in the Hyperfine, Inc. Executive Severance Plan, as amended (the “Severance Plan”)) prior to the 18 month anniversary of the Appointment Date. The Offer Letter further provides that Mr. Hale will receive a grant of stock options to purchase 1,000,000 shares of Class A common stock of the Company as of the Appointment Date, with 25% of the stock options to vest at the mid-point of the calendar quarter that includes the one year anniversary of the Appointment Date, and 2.083% at the end of each month thereafter, subject to Mr. Hale’s continued service to the Company through the applicable vesting dates. These stock options are being granted as an “inducement” award under Nasdaq Listing Rule 5635(c)(4) and, accordingly, such award will be granted outside of the Company’s 2021 Equity Incentive Plan. Commencing on the Appointment Date, Mr. Hale will also become a participant in the Company’s Severance Plan. The foregoing description of the Offer Letter is not complete and is qualified in its entirety by reference to the full text of the Offer Letter, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K. 
+ Further, in connection with Mr. Hale’s appointment, Mr. Hale and the Company entered into an indemnification agreement in the form the Company has entered into with its other executive officers and directors, which form is filed as Exhibit 10.24 to the Company’s Current Report on Form 8-K filed with the SEC on December 28, 2021. 
+
+ 
+
+ Executive Severance Plan, As Amended 
+ On February 3, 2023, the Board amended the Severance Plan to include Brett Hale as an additional participant in the Severance Plan effective February 13, 2023. In addition to Mr. Hale and Mr. Gupta, participants in the Severance Plan include Maria Sainz, the Company’s Chief Executive Officer, Khan Siddiqui, the Company’s Chief Medical Officer and Chief Strategy Officer, and Tom Teisseyre, the Company’s Chief Product Officer. 
+ Under the Severance Plan, if the Company terminates a participant’s employment without cause (as defined in the Severance Plan) at any time other than during the twelve (12) month period following a change in control (as such term is defined in the Severance Plan) (the “Change in Control Period”), then the participant is eligible to receive the following benefits: 
+  
+
+ 
+•
+ 
+ Severance payable in the form of salary continuation or a lump sum payment. The severance amount is equal to participant’s then-current base salary times a multiplier included in the Severance Plan. 
+
+  
+
+ 
+•
+ 
+ The Company will pay for company contribution for continuation coverage under the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended (“COBRA”) during the severance period. 
+
+ Under the Severance Plan, if the Company terminates a participant’s employment without cause or a participant resigns for good reason, during the Change in Control Period, then the participant is eligible to receive the following benefits: 
+  
+
+ 
+•
+ 
+ Severance payable in a single lump sum. The severance amount is equal to participant’s then-current base salary and then-current target annual bonus opportunity, times a change in control multiplier included in the Severance Plan. 
+
+  
+
+ 
+•
+ 
+ The Company will pay for company contribution for continuation coverage under COBRA during the severance period. 
+
+  
+
+ 
+•
+ 
+ Any outstanding unvested equity awards held by the participant under any then-current outstanding equity incentive plan(s) will become fully vested as of the date the termination of such participant’s employment becomes effective. 
+
+ A participant’s rights to any severance benefits under the Severance Plan are conditioned upon the participant executing and not revoking a valid separation and general release of claims agreement in a form provided by the Company. 
+ The foregoing description of the Severance Plan is not complete and is qualified in its entirety by reference to the full text of the Severance Plan, a copy of which is filed as Exhibit 10.2 to this Current Report on Form 8-K. 
+ Separation Agreement 
+ On February 6, 2023, the Company entered into a Separation Agreement (the “Separation Agreement”) with Neela Paykel, the Company’s former General Counsel, Chief Compliance Officer, and Corporate Secretary, in connection with the previously disclosed termination of the employment of Ms. Paykel on December 5, 2022 (the “Separation Date”) as part of the organizational restructuring. The Separation Agreement provides, among other things, that (i) the Company will pay Ms. Paykel separation pay equal to $195,000; (ii) for up to six months following the Separation Date, the Company will pay the employer portion of Ms. Paykel’s COBRA health insurance if she enrolls in COBRA coverage; and (iii) all of Ms. Paykel’s outstanding equity awards that would have vested through March 31, 2023 will be vested and all her vested options will remain exercisable through June 30, 2024. The Separation Agreement also includes a release and waiver by Ms. Paykel and other customary provisions. 
+ The foregoing description of the Separation Agreement is not complete and is qualified in its entirety by reference to the full text of the Separation Agreement, a copy of which is filed as Exhibit 10.3 to this Current Report on Form 8-K. 
+  
+
+Item 7.01.
+ Regulation FD Disclosure. 
+
+ On February 8, 2023, the Company issued a press release announcing the appointment of Brett Hale, as described in Item 5.02 above. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. 
+
+ 
+
+ The information in Item 7.01 of this Current Report on Form 8-K (including Exhibit 99.1) shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. 
+  
+
+Item 9.01.
+ Financial Statements and Exhibits. 
+
+  
+
+(d)
+ Exhibits. 
+
+  
+
+ Exhibit
+No.
+
+  
+ Description
+
+10.1+
+  
+Offer Letter, dated as of February 2, 2023, by and between Hyperfine, Inc. and Brett Hale 
+
+10.2+
+  
+Executive Severance Plan, as amended 
+
+10.3+
+  
+Separation Agreement, dated as of February 6, 2023, by and between Hyperfine, Inc. and Neela Paykel 
+
+99.1
+  
+Press Release, dated February 8, 2023 
+
+104
+  
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+  
+
++
+ Management contract or compensatory plan or arrangement. 
+
+ 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+  
+
+ 
+
+ 
+
+ 
+HYPERFINE, INC.
+
+Date: February 8, 2023
+ 
+
+ 
+By:
+ 
+ /s/ Maria Sainz
+
+ 
+
+ 
+
+ 
+Maria Sainz
+
+ 
+
+ 
+
+ 
+President and Chief Executive Officer
+
+EX-10.1
+2
+d430074dex101.htm
+EX-10.1
+
+EX-10.1
+
+ 
+
+ Exhibit 10.1 
+  
+
+ 
+ February 2, 2023 
+
+Brett Hale 
+ Dear Brett, 
+
+On behalf of Hyperfine, I am pleased to offer you a position as Chief Administrative Officer & Chief Financial Officer starting
+on February 13, 2023. Your start date may change should the background check not clear in time. You will report to Maria Sainz, President & CEO. Your annualized compensation in this position will consist of an annual base salary of
+$425,000 paid in biweekly pay periods, less required deductions. 
+ In addition, Hyperfine will pay you a “signing” bonus of
+$100,000 paid in two (2) installments, less applicable tax and other withholdings. The first installment of $50,000 will be paid to you 30 days after your start date, in the next standard payroll cycle. The second installment of $50,000
+will be paid to you 6 months after your start date, in the next standard payroll cycle. Such payments will be recoverable in full by the company in the event you voluntarily terminate your employment or are terminated for “cause” (as
+defined in the Hyperfine, Inc. Executive Severance Plan) prior to eighteen (18) months from your Start Date. 
+ You are eligible to participate in our
+Bonus Plan, which provides you the opportunity to earn additional compensation based on business and individual performance. Your bonus target will be 50% of your base salary and based on corporate objectives. Your annual bonus for the
+current performance year will be prorated based on your Hire Date. To be eligible for the bonus, you must be actively employed at the time the bonuses are paid (generally March of the year following the plan year) and performance must be in good
+standing. 
+ You are eligible to participate in Hyperfine’s Equity Plan. The Company will recommend to the Compensation Committee of the Board of
+Directors the following equity awards for you for approval. 
+ As a material inducement to you joining the Company, you will receive the following
+additional options (the “Inducement Awards”). The Inducement Awards are intended as inducement grants under Nasdaq Rule 5635(c)(4). These awards are subject to the approval of the Compensation Committee. 
+
+ 
+
+ 
+
+2023 Plan Year
+
+ 
+
+ 
+
+Stock Options
+  
+
+ 
+
+1,000,000
+  
+
+ The Stock Options (i) will have an exercise price equal to the closing price of our Class A Common Stock on the
+Grant Date, (ii) will be subject to the terms of the grant documents therefore, and (iii) subject to continued service and the specific terms of your grant, will vest over a four-year period as follows: 25% [at the mid-point of the calendar quarter that includes the one year anniversary of your start date], and 2.083% at the end of each month thereafter. Additional information with respect to these awards will be forthcoming
+at the time of grant. 
+ You will be eligible for participation in the Hyperfine, Inc. Executive Severance Plan, and you will become a participant in such
+Executive Severance Plan filed with the SEC. 
+ You will be based out of Hyperfine’s facility in Palo Alto, CA with required travel. 
+
+ Hyperfine recognizes the need for employees to take time away from the office to creatively recharge. We
+also believe in taking personal responsibility for managing our own time, workload, and results. For these reasons our Flexible Time Off (FTO) policy affords eligible employees the flexibility to be given an indeterminate amount of paid time off
+from work for vacation, personal or family obligations and other personal requirements, subject to the requirements of the policy, including advance notice and prior approval in Hyperfine’s discretion. In no event will any employee be
+compensated for unused vacation time. You will also be eligible to participate in medical and other benefit plans in accordance with the rules and eligibility of those plans currently in effect. Health insurance shall commence on the first of the
+month after your hire date. Further, while we expect you to remain with Hyperfine for a long time, this letter is not an employment contract, and you will be an at-will employee . This letter is subject to
+successful completion of a background check. By signing this letter, you authorize Hyperfine to conduct such background check. 
+ Hyperfine considers the
+protection of its confidential information, proprietary materials, and goodwill to be extremely important. As a condition of this offer of employment, you are required to sign Hyperfine’s Non-competition/Non-solicit, Confidentiality and Intellectual Property Agreement. 
+ We appreciate your exceptional
+talent and are very excited about you joining our growing and dynamic team at Hyperfine. We firmly believe that Hyperfine offers a unique combination of emotional, intellectual, and interpersonal stimulation that will be truly enjoyable. As a member
+of our growing team, you will be in the rare position of helping to shape the culture and direction of our organization. We have tremendous opportunities ahead of us, and I am confident you have the expertise required to help us achieve our
+objectives. If you have any questions regarding this offer, the position, or the company’s benefits programs, please do not hesitate to reach out. 
+
+Please note that this offer will expire on February 6, 2023, unless accepted by you in writing prior to such date. 
+
+ 
+
+ Sincerely,
+
+ Hyperfine, Inc.
+
+By:
+ 
+/s/ Maria Sainz
+
+ Name: Maria Sainz
+
+ Title: President & CEO
+
+  
+
+ACCEPTED AND AGREED:
+
+Signature:
+ 
+/s/ Brett Hale
+
+Name:
+ 
+Brett Hale
+
+Address:
+ 
+ 
+
+ 
+
+EX-10.2
+3
+d430074dex102.htm
+EX-10.2
+
+EX-10.2
+
+ 
+
+ Exhibit 10.2 
+
+HYPERFINE EXECUTIVE SEVERANCE PLAN 
+
+PLAN DOCUMENT AND SUMMARY PLAN DESCRIPTION 
+
+Effective as of February 13, 2023 
+  
+
+1.
+ Establishment of Plan. Hyperfine Operations, Inc., Liminal Sciences, Inc., and
+Hyperfine, Inc. (collectively, the “Company”), hereby establishes an unfunded severance benefits plan (this “Plan”) that is intended to be a welfare benefit plan within the meaning of Section 3(1) of ERISA.
+This Plan is in effect for Participants who experience certain terminations of employment occurring after the Effective Date and before the termination of this Plan. This Plan supersedes any and all (i) severance plans and separation policies
+applying to Participants that may have been in effect before the Effective Date with respect to any termination that would, under the terms of this Plan, constitute a termination by the Company without Cause or by Participant for Good Reason, and
+(ii) the provisions of any agreements between any Participant and the Company that provide for severance payments and benefits. 
+
+  
+
+2.
+ Purpose. The purpose of this Plan is to establish the conditions under which
+Participants will receive the severance payments and benefits described herein if their employment with the Company (or its successor in a Change in Control (as defined below)) terminates under the circumstances specified herein. The severance
+payments and benefits paid under this Plan are intended to assist employees in making a transition to new employment and are not intended to be a reward for prior service with the Company. 
+
+ 
+
+3.
+ Definitions. For purposes of this Plan: 
+
+ 
+
+ 
+(a)
+ “Base Salary” shall mean, for any Participant, such Participant’s base salary as in
+effect immediately before a Participant’s termination of employment (or immediately prior to the effective date of a Change in Control, if greater) and exclusive of any bonuses, “adders,” any other form of premium pay, or other forms
+of compensation. 
+
+  
+
+ 
+(b)
+ “Board” shall mean the Board of Directors of the Company. 
+
+ 
+
+ 
+(c)
+ “Cause” shall mean Participant’s: (i) willful misconduct or gross negligence in the
+performance of Participant’s duties; (ii) refusal to follow the lawful directions of the Company employee to whom the Participant reports or, in the case of the Chief Executive Officer, the Board of Directors; (iii) breach of a
+fiduciary duty owed to the Company; (iv) fraud, embezzlement or other material dishonesty with respect to the Company; (v) violation of applicable federal, state or local law or regulation governing the Company’s business;
+(vi) commission, conviction, plea of nolo contendere, guilty plea, or confession to a crime based upon an act of fraud, embezzlement or dishonesty or to a felony; (vii) habitual abuse of alcohol or any controlled substance or reporting to
+work under the influence of alcohol or any controlled substance (other than a controlled substance that Participant is properly taking under a current prescription); (viii) misappropriation (or attempted misappropriation) by Participant any material
+assets or business opportunities of the Company or any of its subsidiaries or affiliates; (ix) a material failure to comply with the Company’s written policies or rules, as they may be in effect from time to time during Participant’s
+employment, including policies and rules prohibiting discrimination or harassment; or (x) a material breach of Participant’s employment agreement or offer letter, the Non-Competition, Confidentiality
+and Intellectual Property Agreement or any other written agreement between the Company or one of its subsidiaries and Participant, provided that Participant will have 30 days after notice from the Company to cure a failure or a breach under (ii),
+(ix) or (x), if curable. 
+
+ 
+(d)
+ “Change in Control” shall mean the occurrence of any of the following events:
+
+  
+
+ 
+1.
+ any person or group of persons (other than the Company or its affiliates) becomes the owner, directly or
+indirectly, of securities of the Company representing more than 50% of the combined voting power of the Company’s then outstanding voting securities (the “Outstanding Company Voting Securities”) (but excluding any bona fide financing
+event in which securities are acquired directly from the Company); or 
+
+  
+
+ 
+2.
+ the consummation of a merger or consolidation of the Company with any other corporation, other than a merger or
+consolidation (i) that results in the Outstanding Company Voting Securities immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity) at least 50% of
+the combined voting power of the Outstanding Company Voting Securities (or such surviving entity or, if the Company or the entity surviving such merger is then a subsidiary, the ultimate parent thereof) outstanding immediately after such merger or
+consolidation, or (ii) immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the Board of the entity surviving such merger or consolidation or, if the Company or the
+entity surviving such merger is then a subsidiary, the ultimate parent thereof; or 
+
+  
+
+ 
+3.
+ the sale or disposition by the Company of all or substantially all of the Company’s assets, other than
+(i) a sale or disposition by the Company of all or substantially all of the Company’s assets to an entity, at least 50% of the combined voting power of the voting securities of which are owned directly or indirectly by stockholders of the
+Company following the completion of such transaction in substantially the same proportions as their ownership of the Company immediately prior to such sale or (ii) a sale or disposition of all or substantially all of the Company’s assets
+immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors of the entity to which such assets are sold or disposed or, if such entity is a subsidiary, the
+ultimate parent thereof; 
+
+  
+
+ 
+4.
+ provided that with respect to Sections (i), (ii) and (iii) above, a transaction or series of integrated
+transactions will not be deemed a Change in Control (A) unless the transaction qualifies as a change in control within the meaning of Section 409A of the Code, or (B) if following the conclusion of the transaction or series of
+integrated transactions, the holders of the Company’s Class B Common Stock immediately prior to such transaction or series of transactions continue to have substantially the same proportionate voting power in an entity which owns all or
+substantially all of the assets of the Company immediately following such transaction or series of transactions. 
+
+  
+
+ 
+(e)
+ “Change in Control Period” means: (i) the twelve (12) month period beginning on the
+date of a Change in Control. 
+
+  
+
+ 
+(f)
+ “COBRA” shall mean the Consolidated Omnibus Budget Reconciliation Act. 
+
+ 
+
+ 
+(g)
+ “Code” shall mean the Internal Revenue Code of 1986, as amended. 
+
+  
+ 2 
+
+ 
+(h)
+ “Company” shall mean Hyperfine, Inc. or, following a Change in Control, any successor thereto.
+
+  
+
+ 
+(i)
+ “Effective Date” shall mean February 13, 2023. 
+
+ 
+
+ 
+(j)
+ “Eligible Employee” shall mean the Chief Executive Officer, Alok Gupta, Khan Siddiqui, Tom
+Teisseyre, and Brett Hale. 
+
+  
+
+ 
+(k)
+ “ERISA” shall mean the Employee Retirement Income Security Act of 1974, as amended.
+
+  
+
+ 
+(l)
+ “Good Reason” shall mean the occurrence of any of the following events without
+Participant’s consent: (i) a material reduction of Participant’s Base Salary as in effect immediately prior to the reduction; (ii) a material reduction in Participant’s authority, duties or responsibilities, provided
+however, following a Change in Control, a change in job title or reporting relationship without a reduction in Participant’s Base Salary will not constitute Good Reason; (iii) relocation of the offices at which Participant is required to
+work to a location that would increase Participant’s one-way commute by more than 50 miles; provided that, within 30 days of the first occurrence of the event that Participant believes constitutes Good
+Reason, Participant notifies the Company in a writing of the event, the Company fails to correct the act or omission within 30 days after receiving Participant’s written notice and Participant actually terminates his or her employment within 60
+days after the date the Company receives Participant’s notice. 
+
+  
+
+ 
+(m)
+ “Participant” shall mean the Eligible Employees employed by the Company from time to time.
+
+  
+
+ 
+(n)
+ “Plan Administrator” shall have the meaning set forth in Section 14 hereof.
+
+  
+
+4.
+ Severance Not in Connection with a Change in Control. If the Company terminates
+Participant’s employment without Cause at any time other than during a Change in Control Period, subject to the provisions of Section 6 and 7, Participant shall be eligible to receive the following payments and benefits (collectively, the
+“Severance Package”): 
+
+  
+
+ 
+(a)
+ Participant shall be entitled to receive an amount equal to the product of (the “Normal
+Severance”): (i) the Normal Multiplier, as determined under Exhibit A; and (ii) the Participant’s then-current Base Salary. The Normal Severance shall be payable in the form of salary continuation in accordance with the
+Company’s regular payroll schedule over the Severance Period, commencing on such date determined in accordance with Section 6 or as a lump sum at the Company’s sole discretion. The “Severance Period” will equal the
+period of months equal to the product of (A) Participant’s Normal Multiplier and (B) 12. 
+
+  
+
+ 
+(b)
+ Participant shall be entitled to continue participating in the Company’s health benefits for the Severance
+Period (the “Severance Benefits”), as follows: (i) such continued benefits shall be subject to Participant’s timely election of continuation coverage under COBRA; (ii) the Company will pay the Company
+contribution and Participant shall be required to pay the employee contribution directly or as a reimbursement to Participant at the Company’s sole discretion, (iii) Participant’s right to receive further Severance Benefits shall
+terminate if and when Participant secures alternative health benefits from a new employer, of which Participant shall promptly notify the Company, or if and when Participant otherwise becomes ineligible for further coverage under COBRA; and
+(iv) the Company shall be required to provide the Severance Benefits only to the extent that the Company continues offering an employee health benefits plan and to extent that the Company is not required to provide and pay for such
+post-termination coverage to other employees to avoid a violation of applicable nondiscrimination requirements. 
+
+  
+ 3 
+
+ 
+(c)
+ The payments and benefits described in this Section 4 shall be in lieu of any other benefits or payments
+under any severance or similar plan, policy or arrangement of the Company. 
+
+  
+
+5.
+ Severance in Connection with a Change in Control. If during the Change in Control
+Period, the Company terminates Participant’s employment without Cause or Participant resigns Participant’s employment with Good Reason, subject to the provisions of Section 6 and 7, Participant shall be eligible to receive the
+following payments and benefits (collectively, the “CIC Severance Package”): 
+
+  
+
+ 
+(a)
+ Participant shall be entitled to receive an amount equal to the product of (the “CIC
+Severance”): (A) the CIC Multiplier, as determined under Exhibit A; and (B) the sum of Participant’s then-current Base Salary and the full amount of the Participant’s then-current target annual bonus opportunity. The CIC
+Severance shall be payable in a single lump sum, on such date in determined accordance with Section 6. 
+
+  
+
+ 
+(b)
+ Participant shall be entitled to continue participating in the Company’s health benefits for the CIC
+Severance Period (the “CIC Severance Benefits”), as follows: (i) such continued benefits shall be subject to Participant’s timely election of continuation coverage under COBRA; (ii) the Company will pay the company
+contribution directly or as a reimbursement to Participant at the Company’s sole discretion and Participant shall be required to pay the employee contribution; (iii) Participant’s right to receive further CIC Severance Benefits shall
+terminate if and when Participant secures alternative health benefits from a new employer, of which Participant shall promptly notify the Company, or if and when Participant otherwise becomes ineligible for further coverage under COBRA, whichever
+occurs first; and (iv) the Company shall be required to provide the CIC Severance Benefits only to the extent that the Company continues offering an employee health benefits plan and to extent that the Company is not required to provide and pay
+for such post-termination coverage to other employees to avoid a violation of applicable nondiscrimination requirements. The “CIC Severance Period” will equal the period of months equal to the product of (A) Participant’s CIC
+Multiplier and (B) 12. 
+
+  
+
+ 
+(c)
+ Any outstanding unvested equity awards held by Participant under the Company’s then-current outstanding
+equity incentive plan(s) will become fully vested as of the date the termination of Participant’s employment becomes effective. 
+
+  
+
+ 
+(d)
+ The payments and benefits described in this Section 5 shall be in lieu of any other benefits or payments
+under any severance or similar plan, policy or arrangement of the Company, and shall be in lieu of any benefits set forth in Section 5 of this Agreement. 
+
+ 
+
+6.
+ Release. A Participant’s rights to the Severance Package or the CIC Severance
+Package, as applicable, is conditioned upon Participant executing and not revoking a valid separation and general release agreement in a form provided by the Company (the “Release”), and provided such release becomes
+effective and irrevocable within 60 days following termination or such shorter time period set forth therein, releasing the Company, its subsidiaries, other affiliates and shareholders from any and all liability. Any payments or benefits due for the
+period after termination and before the Release becomes effective shall be paid with the first payment 
+
+  
+ 4 
+
+ 
+after the Release becomes effective. Notwithstanding any other provision herein, if the period during which Participant has discretion to execute or revoke the Release straddles two calendar
+years, the Company shall make payments conditioned on the Release no earlier than January 1st of the second calendar year, regardless of which year the Release becomes effective. 
+
+ 
+
+7.
+ Restrictive Covenants. A Participant’s rights to the Severance Package or the CIC
+Severance Package, as applicable, is conditioned on Participant’s compliance with Participant’s obligations under, as applicable: (a) Participant’s Non-Disclosure, Non-Solicitation and Assignment Agreement; and (b) any other applicable confidentiality, invention, work product, non-disparagement,
+non-competition, non-solicitation, non-interference, and/or other restrictive covenant obligations contained in any written
+agreement between the Participant and the Company. In the event that Participant fails to comply with any of these obligations, the Participant’s right to receive any additional Severance Package or CIC Severance Package payments or benefits
+shall cease immediately and Participant shall promptly refund any such payments or benefits previously paid by the Company. The Company’s rights under this Section 7 shall be full recourse. The Company shall have the right to offset
+Participant’s obligations under this Section 7 against any amounts otherwise owed to Participant from the Company or its affiliates. 
+
+  
+
+8.
+ Accrued Obligations. Notwithstanding anything to the contrary contained herein, a
+Participant shall be entitled to all Accrued Obligations as of his or her termination of employment, regardless of whether he or she is eligible for severance payments or benefits under this Plan. “Accrued Obligations” shall mean,
+for any Participant: (i) the portion of such Participant’s Base Salary that has accrued prior to any termination of such Participant’s employment with the Company and has not yet been paid; (ii) the portion of such
+Participant’s prior-year annual bonus that has been earned prior to any termination of such Participant’s employment with the Company and has not yet been paid; (iii) the amount of any expenses properly incurred by such Participant on
+behalf of the Company in accordance with Company policy prior to any such termination and not yet reimbursed; and (iv) the amount of such Participant’s vacation time that has accrued prior to any such termination that has not yet been
+used. A Participant’s entitlement to any other compensation or benefit under any plan of Company shall be governed by and determined in accordance with the terms of such plans, except as otherwise specified in this Plan. 
+
+ 
+
+9.
+ Non-Duplication of Benefits. Nothing in this Plan
+will entitle any Participant to receive duplicate benefits in connection with any voluntary or involuntary termination of employment. A Participant’s right to receive any payments under this Plan will be expressly conditioned upon such
+Participant not receiving severance payments or benefits under any other agreement, program or arrangement. 
+
+  
+
+10.
+ Death. If a Participant dies after the date Participant commences receiving benefits and
+payments under the Severance Package or the CIC Severance Package, as applicable, but before all such payments or benefits have been paid or provided, payments will be made to any beneficiary designated by Participant prior to or in connection with
+such Participant’s termination or, if no such beneficiary has been designated, to Participant’s estate. 
+
+  
+
+11.
+ Withholding. The Company may withhold from any payment or benefit under this Plan:
+(a) any federal, state, or local income or payroll taxes required by law to be withheld with respect to such payment; (b) such sum as the Company may reasonably estimate is necessary to cover any taxes for which the Company may be liable
+and which may be assessed with regard to such payment; and (c) such other amounts as appropriately may be withheld under the Company’s payroll policies and procedures from time to time in effect. 
+
+  
+ 5 
+
+12.
+ Section 409A. It is expected that the payments and
+benefits provided under this Plan will be exempt from the application of Section 409A of the Code, and the guidance issued thereunder (“Section 409A”). This Plan shall be interpreted consistent with this
+intent to the maximum extent permitted and generally, with the provisions of Section 409A. A termination of employment shall not be deemed to have occurred for purposes of any provision of this Plan providing for the payment of any amounts or
+benefits upon or following a termination of employment (which amounts or benefits constitute nonqualified deferred compensation within the meaning of Section 409A) unless such termination is also a “separation from service” within the
+meaning of Section 409A and, for purposes of any such provision of this Plan, references to a “termination,” “termination of employment” or like terms shall mean “separation from service”. Neither Participant nor
+the Company shall have the right to accelerate or defer the delivery of any payment or benefit except to the extent specifically permitted or required by Section 409A. Notwithstanding the foregoing, to the extent the severance payments or
+benefits under this Plan are subject to Section 409A, the following rules shall apply with respect to distribution of the payments and benefits, if any, to be provided to Participants under this Plan: 
+
+ 
+
+ 
+(a)
+ Each installment of the payments and benefits provided under this Plan will be treated as a separate
+“payment” for purposes of Section 409A. Whenever a payment under this Plan specifies a payment period with reference to a number of days (e.g., “payment shall be made within 10 days following the date of termination”), the
+actual date of payment within the specified period shall be in the Company’s sole discretion. Notwithstanding any other provision of this Plan to the contrary, in no event shall any payment under this Plan that constitutes “non-qualified deferred compensation” for purposes of Section 409A be subject to transfer, offset, counterclaim or recoupment by any other amount unless otherwise permitted by Section 409A.
+
+  
+
+ 
+(b)
+ Notwithstanding any other payment provision herein to the contrary, if the Company or appropriately-related
+affiliates is publicly-traded and a Participant is deemed on the date of termination to be a “specified employee” within the meaning of that term under Code Section 409A(a)(2)(B) with respect to such entity, then each of the following
+shall apply: 
+
+  
+
+ 
+(i)
+ With regard to any payment that is considered “non-qualified
+deferred compensation” under Section 409A payable on account of a “separation from service,” such payment shall be made on the date which is the earlier of (A) the day following the expiration of the six month period
+measured from the date of such “separation from service” of Participant, and (B) the date of Participant’s death (the “Delay Period”) to the extent required under Section 409A. Upon the expiration of the
+Delay Period, all payments delayed pursuant to this provision (whether otherwise payable in a single sum or in installments in the absence of such delay) shall be paid to or for Participant in a lump sum, and all remaining payments due under this
+Plan shall be paid or provided for in accordance with the normal payment dates specified herein; and 
+
+  
+
+ 
+(ii)
+ To the extent that any benefits to be provided during the Delay Period are considered “non-qualified deferred compensation” under Section 409A payable on account of a “separation from service,” and such benefits are not otherwise exempt from Section 409A, Participant
+shall pay the cost of such benefits during the Delay Period, and the Company shall reimburse Participant, to the extent that such costs would otherwise 
+
+  
+ 6 
+
+ 
+
+have been paid by the Company or to the extent that such benefits would otherwise have been provided by the Company at no cost to Participant, the Company’s share of the cost of such
+benefits upon expiration of the Delay Period. Any remaining benefits shall be reimbursed or provided by the Company in accordance with the procedures specified in this Plan. 
+
+ 
+
+ 
+(c)
+ The Company makes no representations or warranties and shall have no liability to any Participant or any other
+person, other than with respect to payments made by the Company in violation of the provisions of this Plan, if any provisions of or payments under this Plan are determined to constitute deferred compensation subject to Section 409A of the Code
+but not to satisfy the conditions of that section. 
+
+  
+
+13.
+ Modified 280G Cutback. 
+
+ 
+
+ 
+(a)
+ To the extent that any payment, benefit or distribution of any type to or for a Participant’s benefit by
+the Company or any of its affiliates, whether paid or payable, provided or to be provided, or distributed or distributable pursuant to the terms of this Plan or otherwise (including, without limitation, any accelerated vesting of stock options or
+other equity-based awards) (collectively, the “Total Payments”) would be subject to the excise tax imposed under Section 4999 of the Code, then the Total Payments shall be reduced (but not below zero) so that the maximum amount
+of the Total Payments (after reduction) shall be one dollar ($1.00) less than the amount which would cause the Total Payments to be subject to the excise tax imposed by Section 4999 of the Code, but only if the Total Payments so reduced result
+in Participant receiving a net after tax amount that exceeds the net after tax amount Participant would receive if the Total Payments were not reduced and were instead subject to the excise tax imposed on excess parachute payments by
+Section 4999 of the Code. Unless Participant shall have given prior written notice to the Company to effectuate a reduction in the Total Payments if such a reduction is required, any such notice consistent with the requirements of
+Section 409A to avoid the imputation of any tax, penalty or interest thereunder, the Company shall reduce or eliminate the Total Payments by first reducing or eliminating any cash severance benefits (with the payments to be made furthest in the
+future being reduced first), then by reducing or eliminating any accelerated vesting of stock options or similar awards, then by reducing or eliminating any accelerated vesting of restricted stock or similar awards, then by reducing or eliminating
+any other remaining Total Payments. The preceding provisions of this Section shall take precedence over the provisions of any other plan, arrangement or agreement governing Participant’s rights and entitlements to any benefits or compensation.
+
+  
+
+ 
+(b)
+ If the Total Payments to a Participant are reduced in accordance with Section 14(a), as a result of the
+uncertainty in the application of Section 4999 of the Code at the time of the initial reduction under Section 14(a), it is possible that Total Payments to a Participant which will not have been made by the Company should have been made
+(“Underpayment”) or that Total Payments to a Participant which were made should not have been made (“Overpayment”). If an Underpayment has occurred, the amount of any such Underpayment shall be promptly paid by the
+Company to or for the benefit of such Participant. In the event of an Overpayment, then Participant shall promptly repay to the Company the amount of any such Overpayment together with interest on such amount (at the same rate as is applied to
+determine the present value of payments under Section 280G of the Code or any successor thereto), from the date the reimbursable payment was received by such Participant to the date the same is repaid to the Company. 
+
+  
+ 7 
+
+ 14. Plan Administration. 
+
+ 
+
+ 
+(a)
+ Plan Administrator. The Plan Administrator shall be the Board or a committee thereof designated by the
+Board (the “Committee”); provided, however, that the Board or such Committee (as constituted prior to the closing of a Change in Control) may in its sole discretion appoint a new Plan Administrator to administer this Plan following
+a Change in Control, which such Plan Administrator shall not be removed or modified following a Change in Control other than at its own initiative. If such Plan Administrator designated by the Board or Committee prior to a Change in Control ceases
+to serve as Plan Administrator at any point after a Change in Control but prior to the later to occur of the first (1st) anniversary of the Change in Control or the final payment of benefits under this Plan to any Participant, then until the later
+to occur of the first (1st) anniversary of the Change in Control or the final payment of benefits under this Plan to any Participant, any such successor Plan Administrator appointed by the Board or the Committee shall be a qualified independent
+third party, such as a retired judge selected by the head of the American Arbitration Association in Manhattan, an independent compensation consultant or a law firm. The Plan Administrator shall also serve as the Named Fiduciary of this Plan under
+ERISA. The Plan Administrator shall be the “administrator” within the meaning of Section 3(16) of ERISA and shall have all the responsibilities and duties contained therein. Notwithstanding any provision of this Plan to the contrary,
+any employee(s) appointed to serve as Plan Administrator (whether individually or as members of a committee) shall serve as such only for so long as he or she is an employee of the Company and shall be deemed to resign his or her position effective
+as of his or her termination of employment (whether voluntary or involuntary). The Plan Administrator can be contacted at the following address: 
+
+Hyperfine, Inc. 
+ 351 New
+Whitfield Street 
+ Guilford, CT 06437 
+
+Attention: Chief People Officer 
+
+administrator@hyperfine.io 
+  
+
+ 
+(b)
+ Decisions, Powers and Duties. The general administration of this Plan and the responsibility for
+carrying out its provisions shall be vested in the Plan Administrator. The Plan Administrator shall have such powers and authority as are necessary to discharge such duties and responsibilities which also include, but are not limited to,
+interpretation and construction of this Plan, the determination of all questions of fact, including, without limit, eligibility, participation and benefits, the resolution of any ambiguities and all other related or incidental matters, and such
+duties and powers of the plan administration which are not assumed from time to time by any other appropriate entity, individual or institution. The Plan Administrator may determine from time to time, in its discretion, whether an employee of the
+Company who is not an Eligible Employee shall become a Participant in this Plan, provided the Plan Administrator delivers written notice to such employee that the employee will be a Participant in the Plan. The Plan Administrator may adopt rules and
+regulations of uniform applicability in its interpretation and implementation of this Plan. The Plan Administrator may delegate any of its duties hereunder to such person or persons from time to time as it may designate. 
+
+  
+ 8 
+
+ 
+(c)
+ The Plan Administrator shall discharge its duties and responsibilities and exercise its powers and authority in
+its sole discretion and in accordance with the terms of the controlling legal documents and applicable law, and its actions and decisions that are not arbitrary and capricious shall be binding on any employee, and employee’s spouse or other
+dependent or beneficiary and any other interested parties whether or not in being or under a disability. The Plan Administrator is empowered, on behalf of this Plan, to engage accountants, legal counsel and such other personnel as it deems necessary
+or advisable to assist it in the performance of its duties under this Plan. The functions of any such persons engaged by the Plan Administrator shall be limited to the specified services and duties for which they are engaged, and such persons shall
+have no other duties, obligations or responsibilities under this Plan. Such persons shall exercise no discretionary authority or discretionary control respecting the management of this Plan. 
+
+ 
+
+ 
+(d)
+ The Company shall promptly reimburse the Plan Administrator or the Committee for any expenses incurred in good
+faith in the course of carrying out its obligations under this Plan, including, but not limited to, attorney’s fees, claims, fines, judgments, taxes, causes of action or liability and amounts paid in settlement, actually and reasonably incurred
+by such Committee or Plan Administrator, unless such expense, claim, fine, judgment, taxes, cause of action, liability or amount arose from his or her negligence, fraud or willful breach of his or her fiduciary responsibilities under ERISA.
+
+  
+
+15.
+ Claims, Inquiries and Appeals. 
+
+ 
+
+ 
+(a)
+ Applications for Benefits and Inquiries. Any application for benefits under or inquiries about this Plan
+or inquiries about present or future rights under this Plan must be submitted to the Plan Administrator in writing, as follows: 
+
+Plan Administrator 
+ Hyperfine,
+Inc. 
+ 351 New Whitfield Street 
+
+Guilford, CT 06437 
+  
+
+ 
+(b)
+ Denial of Claims. In the event that any application for benefits is denied in whole or in part, the Plan
+Administrator must notify the applicant, in writing, of the denial of the application, and of the applicant’s right to review the denial. The written notice of denial will be set forth in a manner designed to be understood by the applicant, and
+will include specific reasons for the denial, specific references to this Plan provision upon which the denial is based, a description of any information or material that the Plan Administrator needs to complete the review and an explanation of this
+Plan’s review procedure. This written notice will be given to the applicant within 15 days after the Plan Administrator receives the application, unless special circumstances require an extension of time, in which case, the Plan Administrator
+has up to an additional 15 days for processing the application. If an extension of time for processing is required, written notice of the extension will be furnished to the applicant before the end of the initial
+15-day period. This notice of extension will describe the special circumstances necessitating the additional time and the date by which the Plan Administrator is to render his or her decision on the
+application. If written notice of denial of the application for benefits is not furnished within the specified time, the application shall be deemed to be denied. The applicant will then be permitted to appeal the denial in accordance with the
+review procedure described below. 
+
+  
+ 9 
+
+ 
+(c)
+ Request for a Review. Any person (or that person’s authorized representative) for whom an
+application for benefits is denied, in whole or in part, may appeal the denial by submitting a request for a review to the Plan Administrator within 30 days after the application is denied (or deemed denied). The Plan Administrator will give the
+applicant (or his or her representative) an opportunity to review pertinent documents in preparing a request for a review and submit written comments, documents, records and other information relating to the claim. A request for a review shall be in
+writing and shall be addressed to: 
+
+ Plan Administrator 
+
+Hyperfine, Inc. 
+ 351 New
+Whitfield Street 
+ Guilford, CT 06437 
+
+A request for review must set forth all of the grounds on which it is based, all facts in support of the request and any other matters that the
+applicant feels are pertinent. The Plan Administrator may require the applicant to submit additional facts, documents or other material as he or she may find necessary or appropriate in making his or her review. 
+
+ 
+
+ 
+(d)
+ Decision on Review. The Plan Administrator will act on each request for review within 15 days after
+receipt of the request, unless special circumstances require an extension of time (not to exceed an additional 15 days), for processing the request for a review. If an extension for review is required, written notice of the extension will be
+furnished to the applicant within the initial 15-day period. The Plan Administrator will give prompt, written notice of his or her decision to the applicant. In the event that the Plan Administrator confirms
+the denial of the application for benefits in whole or in part, the notice will outline, in a manner calculated to be understood by the applicant, the specific Plan provisions upon which the decision is based. 
+
+ 
+
+ 
+(e)
+ Rules and Procedures. The Plan Administrator may establish rules and procedures, consistent with this
+Plan and with ERISA, as necessary and appropriate in carrying out his or her responsibilities in reviewing benefit claims. The Plan Administrator may require an applicant who wishes to submit additional information in connection with an appeal from
+the denial (or deemed denial) of benefits to do so at the applicant’s own expense. 
+
+  
+
+ 
+(f)
+ Exhaustion of Remedies. No legal action for benefits under this Plan may be brought until the claimant
+(i) has submitted a written application for benefits in accordance with the procedures described by Section 15(a) above, (ii) has been notified by the Plan Administrator that the application is denied (or the application is deemed
+denied due to the Plan Administrator’s failure to act on it within the established time period), (iii) has filed a written request for a review of the application in accordance with the appeal procedure described in Section 15(c) above and
+(iv) has been notified in writing that the Plan Administrator has denied the appeal (or the appeal is deemed to be denied due to the Plan Administrator’s failure to take any action on the claim within the time prescribed by
+Section 15(d) above). 
+
+  
+
+16.
+ Indemnification. To the extent permitted by law, the Plan Administrator and all
+employees, officers, directors, agents and representatives of the Company shall be indemnified by the Company and held harmless against any claims and all associated expenses of defending against such claims, resulting from any action or conduct
+relating to the administration of this Plan, whether as a member of the Committee or otherwise, except to the extent that such claims arise from gross negligence, willful neglect, or willful misconduct. The Company shall advance all expenses for
+which a party is indemnified under this Section 16 to such indemnified party or shall arrange for direct payment of any such expenses by the Company. 
+
+  
+ 10 
+
+17.
+ Plan Not an Employment Contract. This Plan is not a contract between the Company
+and any employee, nor is it a condition of employment of any employee. Nothing contained in this Plan gives, or is intended to give, any employee the right to be retained in the service of the Company, or to interfere with the right of the Company
+to discharge or terminate the employment of any employee at any time and for any reason. No employee shall have the right or claim to benefits beyond those expressly provided in this Plan, if any. All rights and claims are limited as set forth in
+this Plan. 
+
+  
+
+18.
+ Severability. In case any one or more of the provisions of this Plan (or part
+thereof) shall be held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect the other provisions hereof, and this Plan shall be construed as if such invalid, illegal or
+unenforceable provisions (or part thereof) never had been contained herein. 
+
+  
+
+19.
+ Non Assignability. No right or interest of any Participant in this Plan shall be
+assignable or transferable in whole or in part either directly or by operation of law or otherwise, including, but not limited to, execution, levy, garnishment, attachment, pledge or bankruptcy. 
+
+ 
+
+20.
+ Integration With Other Pay or Benefits Requirements. The severance payments and
+benefits provided for in this Plan are the maximum benefits that the Company will pay to Participants on a termination of employment, except to the extent otherwise required by applicable law. To the extent that any federal, state or local law,
+including, without limitation, so called “plant closing” laws, requires the Company to give advance notice or make a payment of any kind to an employee because of that employee’s involuntary termination due to a layoff, reduction in
+force, plant or facility closing, sale of business, or similar event, the benefits provided under this Plan or the other arrangement shall either be reduced or eliminated to avoid any duplication of payment. The Company intends for the benefits
+provided under this Plan to partially or fully satisfy any and all statutory obligations that may arise out of an employee’s involuntary termination for the foregoing reasons and the Company shall so construe and implement the terms of this
+Plan. 
+
+  
+
+21.
+ Amendment or Termination. The Board may amend, modify, or terminate this Plan at
+any time in its sole discretion; provided, however, that: (a) any such amendment, modification or termination made prior to a Change in Control that adversely affects the rights of any Participant shall be approved by the Company’s Board
+of Directors; (b) no such amendment, modification or termination may adversely affect the rights of a Participant then receiving payments or benefits under this Plan without the consent of such person; and (c) no such amendment,
+modification or termination made after a Change in Control shall be effective until after the later to occur of the first (1st) anniversary of the Change in Control or the final payment of benefits under this Plan to any Participant. The Board
+intends to review this Plan at least annually. 
+
+  
+
+22.
+ Source of Benefit. The Company will pay benefits under the Plan from its general assets to
+the extent available. The benefits are not funded through a trust fund or insurance contracts. No employee shall have any right to, or interest in, any assets of the Company upon termination of employment or otherwise. 
+
+  
+ 11 
+
+23.
+ Statement of ERISA Rights. Participants are entitled to certain rights and protections
+under the Employee Retirement Income Security Act of 1974, as amended (“ERISA”). ERISA provides that Participants are entitled to the following rights: 
+
+ 
+
+ 
+(a)
+ Receive Information About the Plan and Benefits. A Participant may examine, without charge, at the Plan
+Administrator’s office all documents governing the Plan and, if applicable, a copy of the latest annual report (Form 5500) filed with the U.S. Department of Labor and available at the Public Disclosure Room of the Employee Benefits Security
+Administration. A Participant may also obtain copies of these documents upon written request to the Plan Administrator. There may be a reasonable charge for the cost of copying. A Participant is also entitled to receive a summary of the Plan’s
+annual financial report. The Plan Administrator is required by law to furnish each Participant with a copy of this summary annual report. 
+
+  
+
+ 
+(b)
+ Prudent Actions by Plan Fiduciaries. In addition to creating rights for Plan participants, ERISA imposes
+duties upon the people who are responsible for the operation of the Plan. The people who operate the Plan, called “fiduciaries,” have a duty to do so prudently and in the interest of the Plan’s Participants and their beneficiaries. No
+one, including the Company, may fire a Participant or otherwise discriminate against a Participant in any way to prevent the Participant from obtaining a welfare benefit or exercising the Participant’s rights under ERISA. 
+
+ 
+
+ 
+(c)
+ Enforce Participant Rights. If a Participant’s claim for a welfare benefit is denied or ignored, in
+whole or in part, the Participant has the right to know the reason and to obtain copies of documents relating to the decision without charge, and to appeal any denial, all within certain timeframes as set forth in this Plan. Under ERISA, there are
+steps a Participant can take to enforce the above rights. For instance, if a Participant requests a copy of Plan documents, or the latest annual report from the Plan and the Participant does not receive them within 30 days, the Participant may file
+suit in a federal court. In such a case, the court may require the Plan Administrator to provide the materials to the Participant and pay the Participant up to $110 per day until the Participant receives the materials, unless the materials were not
+sent because of reasons beyond the control of the Plan Administrator. If the Participant has a claim for benefits that is denied or ignored, in whole or in part, the Participant may file suit in federal or state court, provided the Participant has
+exhausted the Plan’s administrative remedies (i.e. claims procedures). If it should happen that the Plan fiduciaries misuse the Plan’s money, or if a Participant is discriminated against for asserting the Participant’s rights under
+this Plan or under ERISA, the Participant may seek assistance from the U.S. Department of Labor, or may file suit in federal court. The court will decide who should pay court costs and legal fees. If a Participant is successful, the court may order
+the person that the Participant sued to pay these costs and fees. If a Participant loses, the court may order the Participant to pay these costs and fees if it finds the Participant’s claim is frivolous. 
+
+ 
+
+ 
+(d)
+ Assistance With Questions. If a Participant has any questions about the Plan, the Participant should
+contact the Plan Administrator. If a Participant has questions about this statement or about the Participant’s rights under ERISA, the Participant should contact the nearest office of the Employee Benefits Security Administration, U.S.
+Department of Labor, listed in your telephone directory or the Division of Participant Assistance and Communications, Employee Benefits Security Administration, U.S. Department of Labor, 200 Constitution Avenue, N.W., Washington, D.C. 20210. The
+Participant may obtain publications about the Participant’s rights and responsibilities under ERISA by calling the publications hotline of the Employee Benefits Security Administration. A Participant may also access the Employee Benefits
+Security Administration’s website at www.dol.gov/ebsa. 
+
+  
+ 12 
+
+24.
+ Type of Plan. This Plan is a severance pay Plan. 
+
+ 
+
+25.
+ Plan Sponsor. The sponsor of this Plan is Hyperfine, Inc. (referred to in this Plan as the
+“Company”). The Plan sponsor’s address is: 
+
+ Hyperfine, Inc. 
+
+351 New Whitfield Street 
+
+Guilford, CT 06437 
+ Attention:
+Chief People Officer 
+ administrator@hyperfine.io 
+  
+
+26.
+ Agent for Legal Process. A Participant or beneficiary may serve legal process on the Plan
+Administrator, c/o: 
+
+ Hyperfine, Inc. 
+
+351 New Whitfield Street 
+
+Guilford, CT 06437 
+ Attention:
+Chief People Officer 
+ With a copy to: 
+
+Hyperfine, Inc. 
+ 351 New
+Whitfield Street 
+ Guilford, CT 06437 
+
+Attention: legal@hyperfine.io 
+  
+
+27.
+ Identification Number. The Plan’s number for purposes of discussion with a federal
+government agency is 501. 
+
+  
+
+28.
+ Summary Plan Description. This Plan constitutes both the governing document and the
+summary plan description for the Plan. 
+
+  
+
+29.
+ Governing Law. This Plan and the rights of all persons under this Plan shall be construed
+in accordance with and under applicable provisions of ERISA, and the regulations thereunder, and the laws of the State of Delaware (without regard to conflict of law provisions) to the extent not preempted by federal law. 
+
+  
+ 13 
+
+ EXHIBIT A 
+
+MULTIPLIERS 
+  
+
+ Participant
+
+  
+Normal Multiplier
+ 
+  
+CIC Multiplier
+ 
+
+ Chief Executive Officer
+
+  
+ 
+1.5
+ 
+  
+ 
+1.5
+ 
+
+ Alok Gupta, Khan Siddiqui, Tom Teisseyre, and Brett Hale
+
+  
+ 
+0.5
+ 
+  
+ 
+0.5
+ 
+
+  
+
+  
+ 14 
+
+EX-10.3
+4
+d430074dex103.htm
+EX-10.3
+
+EX-10.3
+
+ 
+
+ Exhibit 10.3 
+
+SEVERANCE AGREEMENT 
+
+February 3, 2023 
+ PERSONAL AND
+CONFIDENTIAL 
+ BY EMAIL 
+ Neela Paykel 
+
+Dear Neela: 
+ The purpose of this Severance
+Agreement (the “Severance Agreement”) is to set forth the terms of your separation from Hyperfine, Inc. (the “Company”). Payment of the Separation Pay described below is contingent on your agreement to and compliance with the
+terms of this Severance Agreement. Neither this offer to you nor the Company’s entering into this Severance Agreement shall constitute an admission by the Company. 
+  
+
+1.
+ Separation of Employment. 
+
+(a) Your employment with the Company ended on December 9, 2022 (the “Termination Date”). By law, and regardless of whether you
+sign this Severance Agreement, you received, on the Termination Date, payment for all earned but unpaid wages and accrued unused PTO earned through December 9, 2022, less the usual payroll deductions. In addition, and regardless of whether you
+sign this Severance Agreement, any expenses that you have properly incurred but that have not been reimbursed as of the Termination Date will be paid, provided you submit the required documentation by December 31, 2022. 
+
+(b) If you sign this Severance Agreement, comply fully with its terms, and timely and properly elect continuation coverage under the
+Company’s group health plan through the Consolidated Omnibus Budget Reconciliation Act of 1985 (“COBRA”), the Company will pay for the Company portion of your regular premium until the earlier of (i) six months after the
+Termination Date; or (ii) the date you become eligible for health benefits through another employer or otherwise become ineligible for COBRA. From then on, or if you choose not to sign this Severance Agreement, you can continue coverage under
+COBRA as applicable, but you will pay the entire premium without Company contribution for the remainder of the applicable continuation period. You will receive your COBRA notice under separate cover. If you do not elect COBRA, your health insurance
+will cease on December 31, 2022. 
+ (c) The Company will not contest any application you may make for unemployment benefits after the
+Termination Date. You may apply for unemployment benefits directly from the through this website: https://edd.ca.gov/Unemployment/Filing_a_Claim.htm. 
+  
+
+2.
+ Separation Pay. 
+
+(a) In exchange for the mutual promises set forth in this Severance Agreement, the Company agrees to pay you Separation Pay equivalent to
+$195,000, which will be subject to all usual payroll deductions, and subject to the conditions set forth in this Severance Agreement (including but not limited to those set forth in Section 3). The Company will pay you the Separation Pay in a
+lump sum in the first payroll period after the Effective Date of this Severance Agreement (as that term is defined below). 
+
+ (b) The Company has agreed, and the Compensation Committee of the Board of Directors has
+approved, that, as additional consideration for you signing this Severance Agreement, your options and RSUs that would have vested through March 31, 2023 (28,999 additional options and 15,938 additional RSUs) shall fully vest and accelerate as
+of the Effective Date of this Severance Agreement. The accelerated options and RSU’s are granted on the same terms and conditions as previously issued to you under your Participant’s Option Agreements and RSU Agreements. Also as additional
+consideration for signing this Severance Agreement, the time allotted for you to exercise all vested options will be extended through June 30, 2024. If you do not sign this Severance Agreement: (i) any vested options must be exercised
+within three months of the Termination Date under the Company’s Equity Incentive Plan; and (ii) to the extent any options and RSUs are not vested as of the Termination Date, such options and RSUs shall be forfeited and will not vest. 
+
+(c) You acknowledge and agree that the Separation Pay referred to in this Severance Agreement is not otherwise due or owing to you under any
+Company employment agreement (oral or written) or Company policy or practice absent your execution of this Severance Agreement. You also agree that the Separation Pay to be provided to you is not intended to and does not constitute a separation plan
+and does not confer a benefit on anyone other than you. You further acknowledge that except for the specific financial consideration set forth in this Severance Agreement, you are not now and shall not in the future be entitled to any other
+compensation from the Company including, without limitation, other wages, commissions, bonuses, vacation pay, holiday pay, paid time off or any other form of compensation or benefit. 
+
+ 
+
+3.
+ Employee Covenants. 
+
+(a) You acknowledge that as of the date you execute this Severance Agreement (the “Execution Date”), you have not filed any
+complaints, claims, charges, actions, grievances, or arbitrations against the Company1 or otherwise contacted any U.S. federal, state or local governmental agency or commission that has applicable
+jurisdiction to regulate the Company (each a “Government Agency”) regarding the Company. 
+ (b) You agree that, no later than ten
+business days after the Termination Date, you will return to the Company all Company documents (whether in hard copy or electronic form and any copies thereof) and property (including, without limitation, all cell phones, laptops and other company
+equipment), and that you shall abide by the provisions of the Confidential and Intellectual Property Agreement you executed as of April 21, 2022 the terms of which shall survive the signing of this Severance Agreement. Further, you agree that
+you will abide by any and all common law and/or statutory obligations relating to protection and non-disclosure of the Company’s trade secrets and/or confidential and proprietary documents and
+information. You shall not be deemed 
+  
+
+1 
+ For purposes of Sections 3 and 4, the term “Company” includes Hyperfine, Inc. and any of its
+divisions, affiliates (which means all persons and entities directly or indirectly controlling, controlled by or under common control with the Company), subsidiaries and all other related entities and its and their former and current directors,
+officers, employees, agents, successors and assigns. 
+
+  
+ 2 
+
+ 
+to be in breach of this confidentiality provision (i) in the event such information is already in the public domain, (ii) in the event that you are required to disclose confidential
+information in connection with a judicial or special proceeding or pursuant to court order, (iii) if you share this information with any Government Agency or participate in a government investigation, or (iv) if you obtain the
+Company’s prior written permission to disclose such information. Also, notwithstanding any provision of this Severance Agreement prohibiting the disclosure of trade secrets or other confidential information, you may not be held criminally or
+civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that (A) is made (1) in confidence to a Federal, State or local government official, either directly or indirectly, or to an attorney, and
+(2) solely for the purpose of reporting or investigating a suspected violation of law, or (B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. In addition, if you file a
+lawsuit or other court proceeding against the Company for retaliating against you for reporting a suspected violation of law, you may disclose the trade secret to the attorney representing you and use the trade secret in the court proceeding, if you
+file any document containing the trade secret under seal and do not disclose the trade secret, except pursuant to court order. 
+ (c) You
+agree that all information relating in any way to this Severance Agreement, including the terms and amount of financial consideration provided for in this Severance Agreement, shall be held confidential by you and shall not be publicized or
+disclosed to any person (other than an immediate family member, legal counsel or financial advisor, provided that any such individual to whom disclosure is made agrees to be bound by these confidentiality obligations), business entity or Government
+Agency (except as mandated by state or federal law), except that nothing in this paragraph shall prohibit you from participating in an investigation with a state or federal agency if requested by the agency to do so. In addition, pursuant to S.B.
+331, nothing in this Severance Agreement prevents you from discussing or disclosing information about unlawful acts in the workplace, such as harassment or discrimination or any other conduct that you have reason to believe is unlawful. 
+
+(d) You agree that you shall not make any statements that are professionally or personally disparaging about, or adverse to, the interests of
+the Company and all other related entities and subsidiaries and their former or current officers, directors, employees, and consultants including, but not limited to, any statements that disparage any person, product, service, finances, financial
+condition, capability, or any other aspect of the business of the Company, and that you will not engage in any conduct which could reasonably be expected to harm professionally or personally the business or reputation of the Company and all other
+related entities and subsidiaries and their former or current officers, directors, employees, and consultants. 
+ (e) You agree that certain
+matters in which you have been involved during your employment may require your cooperation with the Company in the future. Included with this covenant of cooperation, you will make yourself reasonably available to the Company or its lawyers
+regarding any claims, disputes, negotiations, patent applications, investigations, or lawsuits involving the Company or its affiliates, and to reasonably cooperate with the Company in connection with any such matters, including by providing truthful
+declarations, statements, or testimony. Reasonable cooperation shall include, without limitation, promptly responding to any Company inquires, providing testimony, providing assistance to authorized Company representatives and outside counsel in
+preparation for trial, hearing, arbitration, mediation, or any other proceeding or investigation. 
+
+  
+ 3 
+
+ (f) You agree that by entering into this Severance Agreement, the Company is not admitting
+to and specifically denies any wrongdoing or violation of any law, and further, the Company by agreeing to provide you the Separation Pay is not admitting any liability and specifically denies any liability or that you suffered any damages. 
+
+(g) You acknowledge that as of the Execution Date you have received all leave to which you are entitled under any applicable Federal or state
+law, and you have been paid in full for all wages and compensation. 
+  
+
+4.
+ Your Release of Claims. 
+
+(a) You hereby agree and acknowledge that by signing this Severance Agreement and accepting the Separation Pay, and for other good and valuable
+consideration, you are waiving your right to assert any and all forms of legal claims against the Company of any kind whatsoever, whether known or unknown, arising from the beginning of time through the Execution Date. Except as set forth below,
+your waiver and release herein is intended to bar any form of the legal claim, complaint, or any other form of action by you, including but not limited to a class or collective action, whether you seek to participate as a party plaintiff or as a
+class member (each a “Claim” and jointly referred to as “Claims”) against the Company seeking any form of relief including, without limitation, equitable relief (whether declaratory, injunctive or otherwise), the recovery of any
+damages, or any other form of monetary recovery whatsoever (including, without limitation, back pay, front pay, compensatory damages, emotional distress damages, punitive damages, attorneys’ fees, and any other costs) against the Company, for
+any alleged action, inaction or circumstance existing or arising through the Execution Date. 
+ (b) Without limiting the foregoing general
+waiver and release, you specifically waive and release the Company from any Claim arising from or related to your prior employment relationship with the Company or the termination thereof, including, without limitation: 
+
+ 
+
+ 
+**
+ Claims under any local, state, or federal discrimination, fair employment practices, or other
+employment-related statutes, regulation, or executive order (as they may have been amended through the Execution Date) prohibiting discrimination or harassment based upon any protected status including, without limitation, race, national origin,
+age, gender, marital status, disability, veteran status or sexual orientation. Without limitation, specifically included in this paragraph are any Claims arising under the federal Age Discrimination in Employment Act, Civil Rights Acts of 1866 and
+1871, Title VII of the Civil Rights Act of 1964, the Civil Rights Act of 1991, the Americans With Disabilities Act, the Genetic Information Nondiscrimination Act of 2008, the Employee Retirement Income Security Act of 1974, COBRA, the California
+Fair Employment and Housing Act, the California Labor Code, the California Constitution, the California Family Rights Act, and any similar Federal, state, or local statute. 
+
+  
+ 4 
+
+ 
+**
+ Claims under any other local, state, or federal employment-related statute, regulation, or executive order (as
+they may have been amended through the Execution Date) relating to any other terms and conditions of employment. 
+
+  
+
+ 
+**
+ Claims under any state or federal common law theory including, without limitation, wrongful discharge, breach
+of express or implied contract, promissory estoppel, unjust enrichment, breach of a covenant of good faith and fair dealing, violation of public policy, defamation, interference with contractual relations, intentional or negligent infliction of
+emotional distress, invasion of privacy, misrepresentation, deceit, fraud or negligence. 
+
+  
+
+ 
+**
+ Any other Claim arising under local, state, or federal law. 
+
+(c) Section 1542 of the Civil Code of the State of California (“Section 1542”) provides, generally, that a release does not
+extend to unknown claims. Specifically, Section 1542 of the Civil Code of the State of California states: 
+ “A GENERAL RELEASE
+DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE
+DEBTOR OR RELEASED PARTY.” 
+ (d) Notwithstanding the provisions of Section 1542 and for the purpose of implementing a full and
+complete release, you expressly acknowledge and agree that this Severance Agreement releases all claims existing or arising prior to your execution of this Severance Agreement which you have or may have against the Company, whether the claims are
+known or unknown and suspected or unsuspected by you and you forever waive all inquiries and investigations into any and all of these claims. 
+
+(e) Notwithstanding the foregoing, this paragraph does not release the Company from any obligation expressly set forth in this Severance
+Agreement. Further, your waivers and releases in this Severance Agreement do not apply to any claims that cannot be waived or released as a matter of law under applicable, federal, state, or local laws, including without limitation unemployment and
+workers’ compensation claims or entitlement to indemnity or claims to receive any governmental bounties. However, you acknowledge and agree that you do not have any work-related injuries or occupational diseases. You acknowledge and agree that,
+but for providing this waiver and release, you would not be receiving the economic benefits being provided to you under the terms of this Severance Agreement. 
+
+(f) It is the Company’s desire and intent to make certain that you fully understand the provisions and effects of this Severance
+Agreement. To that end, you have been encouraged and given the opportunity to consult with legal counsel for the purpose of reviewing the terms of this Severance Agreement and you did engage counsel. Also, because you are over the age of 40, and
+consistent with the provisions of the Age Discrimination in Employment Act, which prohibits discrimination on the basis of age, you acknowledge that: 
+
+  
+ 5 
+
+ 
+(a) the Company provided you with forty-five (45) days in which to consider and accept the terms of this Severance Agreement when it provided the Severance Agreement to you
+on December 5, 2022; (b) any modifications to this Severance Agreement since that date do not restart the 45-day period as such modifications are not material; (c) you
+have had sufficient time to review this Severance Agreement before the end of the Review Period. In addition, you may rescind your assent to this Severance Agreement if, within seven (7) days after you sign this Severance
+Agreement, you deliver by hand or send by email (with a confirmation from the recipient of receipt) a notice of rescission to the undersigned. The eighth day following your signing of this Severance Agreement without rescission is the
+“Effective Date” of this Severance Agreement. In addition, because you are being terminated with a group of other Company employees in connection with a reduction in the number of Company executives, attached to this Severance
+Agreement as Attachment A is a schedule listing the positions and ages of all executives being retained with the Company and those executives being terminated. 
+
+(g) Notwithstanding the foregoing, nothing in this Severance Agreement, including the release contained in this Severance Agreement shall:
+(i) prohibit or restrict you from filing or limit your ability to file a charge or complaint with the Equal Employment Opportunity Commission or a state or local equivalent, or any other Government Agency, (ii) prohibit or restrict you
+from communicating with, providing documents or other relevant information to or otherwise cooperating with, or limit your ability to communicate with, provide documents or other relevant information to or otherwise to cooperate with, any Government
+Agency, including, but not limited to, responding to any inquiry from such authority, including an inquiry about the existence of this Severance Agreement, its release or its underlying facts, (iii) limit your right to receive an award for
+information provided to any Government Agency, or (iv) require you to notify the Company of your communications with or inquiries from any Government Agency. To the maximum extent permitted by law, however, nothing in this release or this
+Severance Agreement shall be deemed to limit the Company’s right to seek immediate dismissal of a charge or complaint on the basis that your signing of this Severance Agreement constitutes a full release of any Claims, including Claims of
+discrimination, or to seek restitution to the extent permitted by law of the economic benefits provided to you under this Severance Agreement in the event that you successfully challenge the validity of this release, provided, however, that you
+retain the right to receive, and the Company shall not seek restitution of, an award for information lawfully provided to a Governmental Agency. 
+  
+
+5.
+ Entire Agreement/Modification/Waiver/Choice of Law/ Venue/Enforceability. 
+
+(a) You acknowledge and agree that this Severance Agreement supersedes any and all prior or contemporaneous oral and/or written agreements
+between you and the Company, and sets forth the entire agreement between you and the Company. No variations or modifications hereof shall be deemed valid unless reduced to writing and signed by the parties hereto. The failure of the Company to seek
+enforcement of any provision of this Severance Agreement in any instance or for any period of time shall not be construed as a waiver of such provision or of the Company’s right to seek enforcement of such provision in the future. This
+Severance Agreement shall be deemed to have been made in the State of California and shall be construed in accordance with the laws of that state without giving effect to conflict of law principles. The provisions of this Severance Agreement are
+severable, and if for any reason any part hereof shall be found to be unenforceable, the remaining provisions shall be enforced in full, provided, however, that if any or all of the release in Section 4 is held unenforceable, this Severance
+Agreement shall be deemed null and void. 
+
+  
+ 6 
+
+ (b) By executing this Severance Agreement, you are acknowledging that: (1) you have
+carefully read and understand the terms and effects of this Severance Agreement, including Section 4 entitled Your Release of Claims; (2) you understand that the Your Release of Claims in Section 4 is legally binding and by signing
+this Severance Agreement, you give up certain rights, including your right to bring age related discrimination claims; (3) you have been afforded sufficient time to understand the terms and effects of this Severance Agreement; (4) your
+agreements and obligations hereunder are made voluntarily, knowingly, and without duress; and (5) neither the Company nor its agents or representatives have made any representations inconsistent with the provisions of this Severance Agreement.
+
+ The offers in this Severance Agreement will remain open until February 6, 2023 at 4 p.m. (which is at least 45 days after you
+receive this Severance Agreement). The date you sign and return this Severance Agreement to the Company is the “Execution Date.” 
+ Confirmed,
+Agreed and Acknowledged: 
+  
+
+ 
+
+ 
+Hyperfine, Inc.
+
+/s/ Neela Paykel
+ 
+
+ 
+By:
+ 
+/s/ Maria Sainz
+
+Neela Paykel
+ 
+
+ 
+Its:
+ 
+President & CEO
+
+Dated: 02/06/2023
+ 
+
+ 
+Dated:
+ 
+02/06/2023
+
+  
+ 7 
+
+EX-99.1
+5
+d430074dex991.htm
+EX-99.1
+
+EX-99.1
+
+ 
+
+ Exhibit 99.1 
+
+ 
+ 
+
+ 
+ Hyperfine, Inc. Announces Brett Hale as New Chief Administrative Officer & Chief Financial
+Officer 
+ GUILFORD, CONNECTICUT, February 8, 2023 (GLOBE NEWSWIRE) – Hyperfine, Inc. (Nasdaq: HYPR), the groundbreaking medical device
+company that created Swoop®, the world’s first FDA-cleared portable MRI system™, today
+announced that Brett Hale will join Hyperfine, Inc. on February 13, 2023 and will serve as Chief Administrative Officer & Chief Financial Officer (CFO). Alok Gupta, who currently serves as CFO, will step down on or about March 31
+after a transition period. 
+ Mr. Hale has over 25 years of experience as a financial professional, more than 20 of which have been in the medical
+technology industry. Prior to Hyperfine, Inc., Mr. Hale served as CFO of Bigfoot Biomedical, Inc., which develops an integrated decision support solution for insulin requiring diabetes. Previously, he served as CFO of CardioKinetix Inc. and
+Concentric Medical, Inc., including through the acquisition of Concentric Medical, Inc. by Stryker Corp. in 2011. He began his career at Guidant Corporation (acquired by Boston Scientific Corporation) in strategic planning, sales finance, financial
+planning, and internal audit, as well as serving as Assurance Manager at PricewaterhouseCoopers. Mr. Hale holds a B.S. in Accounting and an M.B.A. from Indiana University and was also a Certified Public Accountant. 
+
+“We are excited to welcome Mr. Hale as our new CAO and CFO. His strong finance background and decades of experience in the medical device industry
+bring critical skills and background to our company as we optimize and drive efficiencies to our technology, business model, and geographic expansion strategy,” said Maria Sainz, Chief Executive Officer (CEO) of Hyperfine, Inc. “I look
+forward to working with Brett as we continue to expand the adoption of Swoop globally.” 
+ “I’m very pleased to join the Hyperfine leadership
+team and advance the journey to transform the medical imaging industry,” said Mr. Hale. “I am passionate about bringing transformational technologies to the marketplace, and Hyperfine is uniquely positioned to build upon its strong
+foundation and better serve the needs of medical professionals and patients by improving access to MRI. It’s an exciting time at Hyperfine.” 
+
+“It has been an honor to spend the past two years with Hyperfine, and I am especially pleased with the initiatives we have implemented to reduce spending
+and extend the company’s cash runway into 2025,” said Mr. Gupta, outgoing CFO. “I am confident the company is on the right trajectory to drive strong growth over time.” 
+
+In connection with Mr. Hale’s appointment, Mr. Hale was granted inducement stock options to purchase 1,000,000 shares of Hyperfine, Inc.
+Class A common stock effective on his start date, February 13, 2023. The stock options were granted as an inducement material to Mr. Hale’s acceptance of employment with Hyperfine, Inc. in accordance with Nasdaq Listing Rule
+5635(c)(4). The stock options vest over a four-year period, with 25% of the stock options to vest at the mid-point of the calendar quarter that includes the one-year
+anniversary of his start date, and 2.083% at the end of each month thereafter, subject to the Mr. Hale’s continued service with Hyperfine, Inc. through the applicable vesting dates. 
+
+About Hyperfine, Inc. 
+ Hyperfine, Inc. is the
+groundbreaking medical device company that created Swoop®, the world’s first FDA-cleared portable MRI system™. Hyperfine, Inc. designed Swoop to enable rapid diagnoses and treatment for every patient regardless of income, resources, or location, pushing the boundaries of conventional imaging technology
+and expanding patient access to life-saving care. The Swoop Portable MR Imaging System™ produces high-quality images at a lower magnetic field strength, allowing clinicians to quickly scan,
+diagnose, 
+
+  
+ 1 
+
+ 
+
+ 
+  
+
+ 
+and treat patients in various clinical settings. Swoop can be wheeled directly to the patient’s bedside, plugged into a standard electrical wall outlet, and controlled by an iPad®. Designed as a complementary system to conventional MRIs at a fraction of the cost, Swoop captures images in minutes, providing critical decision-making capabilities in emergency departments,
+operating rooms outside the sterile field, and intensive care units, among others. 
+ Forward-Looking Statements 
+
+This press release includes “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities
+Litigation Reform Act of 1995. Hyperfine, Inc.’s actual results may differ from its expectations, estimates and projections and consequently, you should not rely on these forward-looking statements as predictions of future events. Words such as
+“expect,” “estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,” “plan,” “may,” “will,” “could,” “should,”
+“believes,” “predicts,” “potential,” “continue,” and similar expressions (or the negative versions of such words or expressions) are intended to identify such forward-looking statements. These forward-looking
+statements include, without limitation, expectations about Hyperfine, Inc.’s financial and operating results, cash runaway, the benefits and adoption of Hyperfine, Inc.’s products and services, and Hyperfine, Inc.’s future performance
+and its ability to implement its strategy. These forward-looking statements involve significant risks and uncertainties that could cause the actual results to differ materially from the expected results. Most of these factors are outside of
+Hyperfine, Inc.’s control and are difficult to predict. Factors that may cause such differences include, but are not limited to: the success, cost and timing of Hyperfine, Inc. product development and commercialization activities, including the
+degree that Swoop is accepted and used by healthcare professionals; the impact of COVID-19 on Hyperfine, Inc.’s business; the inability to maintain the listing of Hyperfine, Inc. Class A common stock
+on the Nasdaq; the inability to recognize the anticipated benefits of the business combination, which may be affected by, among other things, competition and Hyperfine, Inc.’s ability to grow and manage growth profitably and retain its key
+employees; changes in applicable laws or regulations; the inability of Hyperfine, Inc. to raise financing in the future; the inability of Hyperfine, Inc. to obtain and maintain regulatory clearance or approval for its products, and any related
+restrictions and limitations of any cleared or approved product; the inability of Hyperfine, Inc. to identify, in-license or acquire additional technology; the inability of Hyperfine, Inc. to maintain its
+existing or future license, manufacturing, supply and distribution agreements and to obtain adequate supply of its products; the inability of Hyperfine, Inc. to compete with other companies currently marketing or engaged in the development of
+products and services that Hyperfine, Inc. is currently marketing or developing; the size and growth potential of the markets for Hyperfine, Inc.’s products and services, and its ability to serve those markets, either alone or in partnership
+with others; the pricing of Hyperfine, Inc.’s products and services and reimbursement for medical procedures conducted using Hyperfine, Inc.’s products and services; Hyperfine Inc.’s estimates regarding expenses, future revenue,
+capital requirements and needs for additional financing; Hyperfine Inc.’s financial performance; and other risks and uncertainties indicated from time to time in Hyperfine Inc.’s filings with the Securities and Exchange Commission,
+including those under “Risk Factors” therein. Hyperfine, Inc. cautions readers that the foregoing list of factors is not exclusive and that readers should not place undue reliance upon any forward-looking statements, which speak only as of
+the date made. Hyperfine, Inc. does not undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change in its expectations or any change in events, conditions or
+circumstances on which any such statement is based. 
+ Investor Contact 
+
+Marissa Bych 
+ Gilmartin Group LLC 
+
+marissa@gilmartinir.com 
+
+  
+ 2 
+
+EX-101.SCH
+6
+hypr-20230202.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100000 - Document - Document and Entity Information
+ link:calculationLink
+ link:presentationLink
+ link:definitionLink
+ 
+ 
+ 
+
+EX-101.LAB
+7
+hypr-20230202_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+ 
+ 
+ 
+ Cover [Abstract]
+ Cover [Abstract]
+ 
+ 
+ Amendment Flag
+ Amendment Flag
+ 
+ 
+ Entity Central Index Key
+ Entity Central Index Key
+ 
+ 
+ Document Type
+ Document Type
+ 
+ 
+ Document Period End Date
+ Document Period End Date
+ 
+ 
+ Entity Registrant Name
+ Entity Registrant Name
+ 
+ 
+ Entity Incorporation State Country Code
+ Entity Incorporation State Country Code
+ 
+ 
+ Entity File Number
+ Entity File Number
+ 
+ 
+ Entity Tax Identification Number
+ Entity Tax Identification Number
+ 
+ 
+ Entity Address, Address Line One
+ Entity Address, Address Line One
+ 
+ 
+ Entity Address, City or Town
+ Entity Address, City or Town
+ 
+ 
+ Entity Address, State or Province
+ Entity Address, State or Province
+ 
+ 
+ Entity Address, Postal Zip Code
+ Entity Address, Postal Zip Code
+ 
+ 
+ City Area Code
+ City Area Code
+ 
+ 
+ Local Phone Number
+ Local Phone Number
+ 
+ 
+ Written Communications
+ Written Communications
+ 
+ 
+ Soliciting Material
+ Soliciting Material
+ 
+ 
+ Pre Commencement Tender Offer
+ Pre Commencement Tender Offer
+ 
+ 
+ Pre Commencement Issuer Tender Offer
+ Pre Commencement Issuer Tender Offer
+ 
+ 
+ Security 12b Title
+ Security 12b Title
+ 
+ 
+ Trading Symbol
+ Trading Symbol
+ 
+ 
+ Security Exchange Name
+ Security Exchange Name
+ 
+ 
+ Entity Emerging Growth Company
+ Entity Emerging Growth Company
+ 
+ 
+ Entity Ex Transition Period
+ Entity Ex Transition Period
+ 
+
+EX-101.PRE
+8
+hypr-20230202_pre.xml
+XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GRAPHIC
+9
+g430074g0208045853768.jpg
+GRAPHIC
+
+begin 644 g430074g0208045853768.jpg
+M_]C_X 02D9)1@ ! 0$ 8 !@ #_VP!# @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$ P$! 0$!
+M 0$! 0 $" P0%!@<("0H+_\0 M1$ @$"! 0#! <%! 0 0)W $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,! (1 Q$ /P#WJYF6VMI9
+MW!*Q(7./0#->?^#OB3)XE\1OIDMHD<0!V;\*[C6.=%O\ _KVD_P#0
+M37@?PPN8+;QO9S3RK%&(9 6-*&\+:.ES%$LD\LGEQJW3U)-3^$/$7_"2Z E
+M^T8CE#F.55Z!AZ5QOQ9U&RO-%L$MKJ*9Q]>(_$WPI_8^H'5K.,_
+M9+ILR #B-_\ UV'PV\7KK&GC2[M_P#3+9,(3_RT0#K]12:5KHTE!'[V.RT](I[A>9]_1!Z?6MWQ=XCB\-Z%+=D@SM\D">K'^@KQOPOHES
+MXT\1NTS'9N\ZZE/<$]!]:E(TH4HN\Y[(]OMM7CE\.QZQ(A2,V_GLO<#&37F[
+M_%N_,C&*PMQ&3\N2,_#ZPMM2\50VMY$
+MLL)B/!?AX'(TR'\JYSQ=X%TJ/1KF_LHS;RVT9DVKT?'8U+3+C4PDWRN%KG;Z
+M;J=IJ]DEW92B6%^X['T/O7#>(/B)H!AD?;3GZ9%3*3Y=#2AA(+$2A/5)7.C_P"%
+MHZF0"+6VQ]#2GXGZGQBVM_?@_P"-=TOA+0BBG^SH>F>E2?\ "*Z+C']G0_\
+M?-+DGW)^L8+_ )]G!?\ "SM3_P"?>V''H:]#TC51J.@P:D\9CWQEV7TQU_E4
+M(\+:(/\ F'0?]\U?EBC@TZ2*-%2-(B%4#@#%.,9+=G/B*E"=E2C8\ZF^)&H>
+M8WEVT"H6(7(.<4T?$;4SUBM_^^:Q/#%O%=^)[.WGC5XFAB/JF'DH.G?0XRT^(UUYP%S:Q-'GDIP:[K3-4M=6M1/:
+MON7^('JI]ZPO$'A/39-+GEMX4MYHUWAEX!QV-8/P[F=-7N8,DHT62.V0?_KU
+M493A-0D[W.>K3P]:C*K27*X]#L?$>KG1=*:Y10TC,$0'IDUQQ\>ZGC[D'M\M
+M;WC[']@QY_Y[#^1K*\"V%K>P7K7-NDA5E"[AG Q4574E6Y(NVA6&A1AAG6J1
+MOJ5_^$[U+:3M@X_V:5/'>I;@62 KGH%ZUV_]B:;C'V*'_OFE71=.0@K90@CI
+M\M"H5OYR'BL);^$3?:?^)?\ :2N/W7F%?PSBN9\.^)[O5-6-K<+'L925VC&,
+M5TM^/^)=<@#_ )9-_*O//!G'B2/_ *YO_*KK3E&I"*>YGAJ4)T*DFM5L=]K-
+M\VFZ3<7:J&:-<@'IFN6T3QI+/J(M]1,:QOP'"XVFM[Q9_P BS>?[H_F*\J6-
+MV6214)5>6..E98FM.G47*;8'#4ZU*7/OW/;@<@'UI';:C-Z#-E=;J%U]BT^>YV[C$A8#UKS/PV,>*;48_P"6A_D:]$U[_D!7O_7(UA0G
+M*4&VSJQ=*$*L8Q6]CA#XXUC/WHA[".C_ (3C6".L7M^[H\$P13ZXZS(LB^23
+MAAGN*]"_LZR_Y]8O^^165*%2I'FYCIQ%3#T9\GLTSSP^-M:S]^,?]LZLV'C#
+M6;B^@B94=7<*5$?;-=Y_9]G_ ,^T7_?(IT=G;1-NC@C5AW"ULJ-1._.&F7C_IX:E_X5IXOZ>+O W_"*V5OYLMCMM1L+?4[":RNHP\
+M,RE6'I[CWKY_U*UU'P+XN386$D#[X7(XECS_ %[U]%UP7Q8L;>;PG]K= 9X)
+MD$;]P&."/I6,79FM"?+*SV9YKKFMZAXY\10I%$RE\100 Y"^I->U>%/#=OX:
+MT:.TCPTS?/-)C[S]_P *\]^#EA!)>ZE?.@,T(6.-O[H;K_*O7A1+L:8F=G[.
+M.R,OQ*0/#.J$C_EUD_\ 037@OAS6G\/:K%J,42RLJ%=K-CJ*][\2?\BSJG_7
+MK)_Z":\4\ Z;::KXGM[6]@$UN8G8HW3('%2=&"<53FY;'3?\+NV;61CCMX).'$>2SCTKTT>!/#( _XE,''UJY9>%]$T^42VNFV
+M\<@Z-LR1^=2T^X+$X6+O&GJ-+_ (S_ *9_45[QBO!_$J_\5IJ&,C_3/ZBIFK)&N"JNK7G.75'K/B?Q"?#N
+MDQ7"0^;)(P103@#C/-<9_P +1O\ /_'C;_\ ?9KTF>SMKZS$%U"DL3 91QD5
+M0'A/00,V=N
+MP*YW'C-=Z/"VA@Y_LRVS_N"H[KPSHHMI6&FVX8(Q!V#CBH<*G\QT+$X*_P#"
+M_$\@TO47TO5H+]$#M$Q8*3P:Z\?$J]/_ "YP?]]&N<\+6L-SXHLH9HUDB:0@
+MJPX/!KU6?PMHLT#Q?8(5W#&Y5P1]*PIPFX^Z['9CJN&A42JPOHJ:'K,&M6"W$1PXXD3NIIT-9OG?O(PQ_N44J"M!]3'\??\@%#Z3"N/T7Q!
+M<:%'*L"1N)""=_M78^/O^0 G_79?ZUD^ ["UNX;TW%O'(590-ZYQD&HJQE*O
+M:+L["PTX0P3=2-U?8B_X3^_R/W$'YFM#1O&-WJ&J06LL$>V5MN4SD>]=-_8N
+MF8Q]A@_[X%30:?:6S;H+:*-O55 -:QI5DTW,YJF(PTHM1IV?J%]_R#[G_KDW
+M\J\[\&'_ (J6+GCRV_E7HM]_QX7'_7)OY5YQX,/_ !4T?NC9_*HQ'\:!>#_W
+M:J=KXK_Y%F]_W1_,5RW@>!+F;4()E#Q/$ 5/>NI\6?\ (LWO^Z/YBN:^'^#?
+MWASG]VH'YTZO^\1%0NL'/U_R,75K"Z\.:P!$[ [X9!W'I7?Z/K,>LZ.\XPL
+MJJ5E3T.*L:UI$.KV#02##CYHV_NFO-+*\N_#FJ2*5(*YCEC/1A4O_9Y_W6:)
+MK&4K?;C^)-X:_P"1HM"#G]X?ZUZ+KW&A7IQ_RR-><^&CN\2VA'>3/\Z]&UX9
+MT&][_NC3PKO3D3CDU7A?R/+-+U.XTBZ-Q:A2Y7:#?"L >/K'_KC)_P"@U]!LJNI5@"I&"#W%8VF>$]$T>_>]L;!(
+MKA@1O!/ /4#TK6G448M=R)1NTS:I:**R+/./C$/^*>L./^7K_P!E-3_" 8\)
+M3^]V_P#(5V6J:38ZS:?9;^W6:+<& ;L?6GZ;IMGI-FMI8P+#"O(5?7UJ^;W>
+M4=]"W7&?%#_D2)^.DT?_ *%79U7O;*VU"TDM;J)989!AD;H:@(NSN>8_!H'&
+MKGL6C_K7JU9^E:+IVBP-#I]JD",'-2"C)-M
+M)_Z":\?^&&[_ (3*#_KA)_*O<'19$9' *L,$'N*S--\.:1I-R]Q8V4<,KC!9
+M>N/04C6E64*">*V*>,=3('2YW8/?I7O=9-[X:T?4;DW%W8
+M12S$8+G()J91NCKP>(C0FY25TT<$GQ2NPH']GQ< #[]._P"%HW?_ #X1?]]U
+MV8\&^'Q_S#(OS-*/!_A\?\PR']:GEGW.CZQ@O^?;_KYG&#XH79'_ !X1?]]5
+MW.EZE_;/AU;X1E?.C8[/3J,5%_PB&@ Y&FP_K6O!;PVT"PPQK'$@PJ*. *<8
+MR6[,,15P\DO90LSQWP>H_P"$OL0.SL?T->S50MM%TVSNFN;>SBCF;JX'-:%*
+MG!P5A8S$K$34DK:&-XBT*/6]/,9PLR_.*
+M]AJA+H^G3W@NY;2-IP<[R*FI1YI*479EX;&>SA*E-7BS%\=AFT!"!D"92?;K
+M5'X=C%O?'_;7G\#793V\-S"T,\:R1MU5AP:CM+*UL8O*M84B3.2%'6CV3]K[
+M2Y"Q*6&=&W6Y9HHHK8Y""]!-C< #),;?RKSKP:#_ ,))%C/$;Y_*O2S@U5M]
+M.LK25I8+:..1NK*.36%2CSSC+L=5'$*G3G"WQ%'Q3_R+=[QGY!_,5S7P_4_;
+M[UL' 0#]:[QT26-DD4,C#!!'!J&ULK6R5EMH$B#')VCK3E2YJBG?84,0HT94
+MK;EBN7\6Z NH6K7D*_Z3$N2!_&*ZBDX(P:N<%./*S*E4E2FIQZ'E/AA6_P"$
+MDL0 ?ODG\J]'UI2^B7JCJ8FJ:/3[.&X-Q';1I*?XPN#5D@$8(R#VK*C1]G!Q
+MN;XG$^VJ*:6QX]I6I7&D7AN8%4R%"I#"MK_A.]3XQ'%S_LUWG]E:?DG['#D]
+M?D% TK3P<_8X./\ 8%9QP]2*LI&\\91J/FG"[."_X3K5,_
+
+GRAPHIC
+10
+g430074g14s50.jpg
+GRAPHIC
+
+begin 644 g430074g14s50.jpg
+M_]C_X 02D9)1@ ! $ 8 !@ #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$ @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1 (! @0$ P0'!00$ $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)BH*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_ !$( "H!,P,!$0 "$0$#$0'_V@ ,
+M P$ A$#$0 _ /3/B)X\B\$:9$RQ^9?70;[.K)N0E2N=V".S5K2I\[);L:7@
+MGQ1%XN\,6^J(NR0DQS)MVA7'7')XY!Z]ZF<.25AIW.AJ!A0!YOX6^*46O^-;
+MC1'A"0NSK9N(R&;:"3N.X]@>U:RI\L;EN-E#]4L+&"W65I4\V4O
+M&2 F2!M(8<\']*4(NQ:
+MKX7MM:<&*.2$R/E<;<9W<<\<&DU8SG!QGRGFUQ\9IOM,@M;.,P;CL,D1W8[9
+MP]%CT(X%-:O^ON&#XRWO_/E!_P!^C_\ %TBUE\>_]?<;NB_%O2[IUBU1)+9V
+M.!(L7R#Z_,3^E!G4R^:5X:GH+7,*VANO,4P!/,WJ.O%!YW*[\O4\MG
+M^+LWVB06UI&8-QV%XSNQVS\]1S'N1RI6]YZ_UY#!\6[P_P#+I#_W[/\ \72Y
+MRO[)AW_K[AX^+-X?^72'_OV?_BZGV@?V3#O_ %]QO>%/'S:]K T^X@5&="4*
+M(0,CDY^8]J<:EW8Y<7E_L*?/%_U]Q>\7^,1X;EM[>*,23RKO(9<@+G'J/>BI
+M4Y-#+!8+ZRG)O1'-#XI7?_/K#_W[/_Q58_6&>A_9$._]?<30?%"0R#S[5=G?
+M9'S^K4OK/<4LH5O=?]?<=IHGB33=>1C93'S$&6B<;67\._X5T0J1GL>3B,)5
+MP[]]:=R]?7<=A8SW'=_U\B6'XB2F5
+M?-MT\O/S;4.<>WS4+'N^J_K[Q2R=6]UZ_P!>1VMU?QVNER7Y!,:1^9C')XXX
+MKT)348.9X=.DYU52ZWL9'A?Q(VNBX2:-4EBP?D7 (/XFN?#8CVUT]T=F.P2P
+MMG%Z,G\3:_\ V%9QNB!YI20@(R..N>15XFO[&-UNR,#A/K4VGL@\.^(H-=MB
+M.$NHQ^\3&/Q')XHP^(59>8L9@Y8:7]U[&W72<)C>)=;.A::L\:!I7<(@89'K
+MSR/2N;$5O8PNMSMP6%^LU.5[(L:'J@U?28;S;M9LAAC&".M71J>U@I&>*H?5
+MZKIF1XC\6C1KU;2&,/*%W/N7(&>G<5SXC%>RERH[<%EWUB'/)V1C?\+"N?\
+MGWB_[X/_ ,57/]?EV_K[SM_L>'=_U\@_X6%<_P#/O%_WP?\ XJCZ_+M_7WA_
+M8\.[_KY"K\0I]PW6\>W/.$.?_0J/K[[?U]X/)XVT?]?<=Y!,MQ;Q3)G9(H89
+M&#@C->K%\R31\]*+A)Q?0DIDGA_[0_3PY_V\_P#M*NO#=3.9:^#_ (N\/Z)X
+M):TU/5K>UN/M3OY%?#)@_Q6TUE.5,LQ!_[9O714^ VE\)[%\3O
+M!G_"4Z#Y]G%NU2SRT(!QYB_Q)_4>X]ZYX2Y613GRO4\[^%'C,^'M4?0=38QV
+M=S)A"XQY,O3GT!Z'T('O6DXWU1O5AS+F1[7KVN6?AW1Y]3O6Q%$.%'5V[*/<
+MUBEXD7[L,?0 ?@,#\_6M'[J/3$[NTMHQ'!#9NB*.P"$"LSSHMN:;[GB/PMT?3];\3SVVI6J7$*VC.$
+M;. P=!GCZFFSUL5.5.FG%VU/7_\ A7_A7_H"P?FW^-2>=]:K?S'#?$CP3H^C
+M:-'J>F0_97$HC>,.2K@@] <\\=O>D>A@<54J3Y)ZFOX!U">]^&>H1SMN%J)H
+M8S_L[ P'_CQH,\9!0Q46NMOS..^&>E6.K^))[?4+9+B%;5G"OT!W*,_J:E;G
+MI9A5G2HIP=G?_,]8_P"$(\-#_F#V_P"1_P :?*CP_KN(_G8?\(3X;'_,(@_(
+M_P"-')$/KN(_G9E"BEL9U,15JJTY71YQ\5?
+M^0_9_P#7L/\ T)JYJ^Z/=RC^%+U_0ZW0O"6@W/A_3IYM-B>62VC=V)/)*@D]
+M:UC3@XJZ/.Q&,KQK2BI:)LNR^"/#LJ%?[-1/='8$?K3=&#Z&41S7%#W*UD>[B'[;!<\ETN>E^)_P#D5]2_ZX-7;6_A
+ML^>P7^\0]3@/ 6EV6J7MVE[;K,J1@J&SPA#_F&Q?F?\:[OJ]+^4\/Z_B?YV.3POHD;AETV'(.1G)'Y&CZM27V1/'8E
+MJW.QWB7CPUJ'_7(T8G^%(,#_ +S#U.2^'/\ Q^WW_7-?YFN#+_BD>OG/P0]2
+MS\1_]3IW^\__ ++5YAM$RR7XI_+]3DM/NKW0[FVU&)"H<$H6^[(N<$?F*\^G
+M*=%J:/9K4Z>)C*D^GX'K6F:C!JNGQ7<#95QR.ZGN#7OTZBJ14D?'5Z,J%1PE
+MT.:^(G_(*M/^NW_LIKBS#X%ZGJY-_%EZ%WP+_P BQ%_UT?\ G6N"_@HY\U_W
+ME^B..\;_ /(T3_[B?^@BO.QO\9GM97_NR^9WP\+Z)C_D'1?K7J_5J/\ *?/?
+M7L3_ #L/^$7T3_H&P_K1]6H_RA]>Q/\ .Q1X8T0$$:;#Q[&CZM1_E#Z]B?YV
+M:P P!70<84 >'_M#]/#G_ &\_^TJZ\-U,YG->!/!?@[7_ ^;S7/$7]GW
+M@F9/)^U11_* ,'##/JJ?":R^$^G:Y# \,^
+M+W@IK*_/B+3X&-M<'-V%&1&_][V#?S^M;0ET.NA._NLY?5O%>N^-+?2='D0S
+M/!A%6,9:>3H&/OCC\SWIV4=3HA"-.\CW7P-X5B\*>'8K4J#>2@27+]Q'H*MGO5*4:L>61UH^,/B0_\L+#_OTW_P 54&*P%+NS.O\ 6/%/
+MCV:&W,#W"(V5B@BPBGIDG^I-(Z:=.AA4W>QZWI/A]?#7@*XL,@S&WDDF8="Y
+M3G'L, ?A1L>/4K>VQ"ETNK'GWPB_Y&RX_P"O-_\ T-*F.YZ^:?P%Z_HSI/&?
+MCW6- UYK&TLH4@505DF1CYF1DD5E_W[;_ .*J?:R#^RJ'=_U\C"UW
+MQ#>>([N.YO5B5XTV#RU(&,D]R?6L9R3:)KMYH4TLMF(RTBA6WKGBO(IU
+M94G>)]7B,+#$I*?0W!\0M:_NVW_?L_XUI]=J>1R?V3A_/[S;\,^+M3U;68[2
+MXAB:)E)9HT(*8&<]?P_&ML/BJE2IRM'%C;@?]YAZG)?#G_C]OO^N:_S-<&7_%(]C.?@AZEGXC_ZG3O]Y_\ V6KS
+M#:)EDOQ3^7ZDVFZ)'KG@&S@.%G3>T3GLV]OT-.G15;#)==?S)K8IX;'2ETTO
+M]R,#P]K-QX9U:2RO%*0,^V93_ ?[P_SR*Y5_[LOF3_P#">ZR/X+?_ +]G
+M_&J^O5?(S_LG#]W]X?\ ">ZU_'/^WG
+M_P!I5UX;J9S,/X>_"JR\9>&SJEQJ<]LXG:+8B C YY^M54JN#M8<4=8/@!I
+M@_YCEU_WZ6LO;OL6M!P^ 6F#_F.77_?I:7MWV*4K' _"^,1?%+2XP0_"+_ )&RX_Z\W_\ 0TJ([GOYI_ 7K^C/
+M:B >H!JSYP38O]T?E0%PV+_='Y4#N>3?%0 :_9X&/]&'_H35R5]T?1Y1_"EZ
+M_H>C^&U'_",:5P/^/2+_ - %=$/A1X>*_CS]7^9Q7Q \*L)&UFPA)4\W*KV_
+MV\?S_/UKFQ%+[2/8RS&*WL9OT_R-#P%XJ:_B&E7T@^T1*/)8]9%'8^X_E]*=
+M"KS>ZS#,L%[-^UAL]_(Z/Q/_ ,BOJ7_7!JVK?PV<&"_WB'J<7\- #J-]D _N
+MA_.N+!_$SVLX_AQ]3TC8O]T?E7I6/G+L4*%Z "@1E^)?^1:U#_KD:PQ/\*1U
+MX'_>8>IR7PY_X_;[_KFO\S7!E_Q2/8SGX(>I9^(_^IT[_>?_ -EJ\PVB99+\
+M4_E^IN>#?^13L?\ @?\ Z&U=.#_@Q_KJ<.9?[U/Y?DC-\:>'#?1?VC:)FXC'
+M[Q1_&H[_ %%8XS#\ZYX[G3EF-]D_93V>WDSB)]8N+G1H=.F.]('W1MW P1BO
+M,E6E*FH/H>]##0A6=6/7<]"\"_\ (L1?]='_ )UZ^"_@H^;S7_>7Z(X[QO\
+M\C3/_N)_Z"*\[&_QF>UE?^[+YGJHZ"O=/D@H * "@ H \=^/FCZA?Z?I-]:6
+MKS6UB)C<.HSY88Q@$_D?RKJP\DFTR)HZ'X,Z;>:;\/HA>0-"UQ.\T:L,$H0
+M#CMG%9UVG/0<=CT&L2@H ^=_AQH&JP_%<&2RE1;"64W#,N!'E& Y]R1CUZUU
+M5&N0VDURGT17*8E74H7N-+NX8QF22%U4>I*D"A#6C/#_ (.Z9?1>-KF26UEC
+M2U@>.8NI&QB1A3[\'CVK:;T.VNUR'O58G"5-4@DN=)O+>(9DE@=%&<0?!_2[ZU\6:A)/:R1)!;M#(77&URZG;]< U3/3QLXNFDF>U5)Y04 5M
+M1@>YTR[MX\;Y871<^I! H+IM1FFSY]TQ_$7AC4I9+.WN+:Z"F)\P;N,@D<@C
+ML*SU1]9-4,1!*337J;8\;^./^>\W_@&G_P 32-?&W_/>;
+M_P !$_\ B:ARD'U+!]OQ?^9TW@GQ%XIU37E@U%7EL]C&1G@";...0!WXQ50E
+M)O4XL=AL+2I7I[^I4^*=GM>95INE*\3ZK!XJ&*IN
+M%3?KYGH5VM]J/@B430D7LUI\T8&"6QTQZ^U=DN:5+7>QX5-TZ6+5G[J9S/PU
+MM9TN;Z=HF6+8$#$8!;/2N7!Q:;9Z><3BXQBGJ>B5Z)\\% &=K\$EQH%]#"A>
+M1HCM4=36->+E2DD=.$DH5X2EM.Q]1EV.]K'V=1^\OQ.K\%V\MOX:@6:,H69
+MF 88.">#7=@XN-)7/(S.<9XE\K.4\<:==_V\URMN[PRHNUE4D9 P17#C:J(/^$G\4C_ ):R_P#@,O\ \34?6<1_2-/J."[+[W_F'_"4
+M>*?^>LO_ (#+_P#$T?6<1_2#ZC@NR^]_YBIXG\5%U >5B3P/LR\_^.TUB<3_
+M $A/ X%+I]__ 3OWGU 16["'$C1!G4#(#XZ?G7JN4[+0^=4*5VKZ7_ TJV.
+M8* "@ H * "@ H * "@ H * "@ H * "@ H * "@ H * "@ H * "@ H * "
+:@ H * "@ H * "@ H * "@ H * "@ H _]D!
+
+end
+
+XML
+11
+R1.htm
+IDEA: XBRL DOCUMENT
+
+v3.22.4
+
+Document and Entity Information
+
+Feb. 02, 2023
+
+Cover [Abstract]
+ 
+
+Amendment Flag
+false
+
+Entity Central Index Key
+0001833769
+
+Document Type
+8-K
+
+Document Period End Date
+Feb. 02, 2023
+
+Entity Registrant Name
+Hyperfine, Inc.
+
+Entity Incorporation State Country Code
+DE
+
+Entity File Number
+001-39949
+
+Entity Tax Identification Number
+98-1569027
+
+Entity Address, Address Line One
+351 New Whitfield Street
+
+Entity Address, City or Town
+Guilford
+
+Entity Address, State or Province
+CT
+
+Entity Address, Postal Zip Code
+06437
+
+City Area Code
+(866)
+
+Local Phone Number
+796-6767
+
+Written Communications
+false
+
+Soliciting Material
+false
+
+Pre Commencement Tender Offer
+false
+
+Pre Commencement Issuer Tender Offer
+false
+
+Security 12b Title
+Class A common stock, $0.0001 par value per share
+
+Trading Symbol
+HYPR
+
+Security Exchange Name
+NASDAQ
+
+Entity Emerging Growth Company
+true
+
+Entity Ex Transition Period
+false
+
+X
+
+- DefinitionBoolean flag that is true when the XBRL content amends previously-filed or accepted submission.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_AmendmentFlag
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionArea code of city
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CityAreaCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCover page.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CoverAbstract
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFor the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentPeriodEndDate
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:dateItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentType
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:submissionTypeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAddress Line 1 such as Attn, Building Name, Street Name
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressAddressLine1
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the City or Town
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressCityOrTown
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCode for the postal or zip code
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressPostalZipCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the state or province.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressStateOrProvince
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:stateOrProvinceItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityCentralIndexKey
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:centralIndexKeyItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicate if registrant meets the emerging growth company criteria.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityEmergingGrowthCompany
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Securities Act -Number 7A -Section B -Subsection 2
+
++ Details
+
+ Name:
+dei_EntityExTransitionPeriod
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCommission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityFileNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:fileNumberItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTwo-character EDGAR code representing the state or country of incorporation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityIncorporationStateCountryCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarStateCountryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityRegistrantName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityTaxIdentificationNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:employerIdItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLocal phone number for entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_LocalPhoneNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 13e -Subsection 4c
+
++ Details
+
+ Name:
+dei_PreCommencementIssuerTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 14d -Subsection 2b
+
++ Details
+
+ Name:
+dei_PreCommencementTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTitle of a 12(b) registered security.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection b
+
++ Details
+
+ Name:
+dei_Security12bTitle
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:securityTitleItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the Exchange on which a security is registered.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Number 240 -Section 12 -Subsection d1-1
+
++ Details
+
+ Name:
+dei_SecurityExchangeName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarExchangeCodeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Exchange Act -Section 14a -Number 240 -Subsection 12
+
++ Details
+
+ Name:
+dei_SolicitingMaterial
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTrading symbol of an instrument as listed on an exchange.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_TradingSymbol
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:tradingSymbolItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef -Publisher SEC -Name Securities Act -Number 230 -Section 425
+
++ Details
+
+ Name:
+dei_WrittenCommunications
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+XML
+12
+d430074d8k_htm.xml
+IDEA: XBRL DOCUMENT
+
+ 
+ 
+ 
+ 0001833769
+ 
+ 
+ 2023-02-02
+ 2023-02-02
+ 
+ 
+ false
+ 0001833769
+ 8-K
+ 2023-02-02
+ Hyperfine, Inc.
+ DE
+ 001-39949
+ 98-1569027
+ 351 New Whitfield Street
+ Guilford
+ CT
+ 06437
+ (866)
+ 796-6767
+ false
+ false
+ false
+ false
+ Class A common stock, $0.0001 par value per share
+ HYPR
+ NASDAQ
+ true
+ false
+
+EXCEL
+13
+Financial_Report.xlsx
+IDEA: XBRL DOCUMENT
+
+begin 644 Financial_Report.xlsx
+M4$L#!!0 ( "%8'04UB@0 +$ 0 9&]C4')O<',O87!P+GAM
+M;$V./0L",1!$_\IQO;=!P4)B0-!2L+(/>QLOD&1#LD)^OCG!CVX>;QA&WPIG
+M*N*I#BV&5(_C(I(/ !47BK9.7:=N')=HI6-Y #OGDK7A.YNJQ<&4GPZ4A!0W_J=0U[R;UEA_6\#MI7E!+ P04
+M " A@TA66WKUT>T K @ $0 &1O8U!R;W!S+V-O&ULS9+!
+M2L0P$(9?17)O)TU1)'1S43PI""XHWD(RNQMLTI",M/OVMG&WB^@#>,S,GV^^
+M@>E,E&9(^)R&B(DP3!^0UX)&TU:5B 55R)3'762)-0TY!.>&M6?/Q,?8%9 ]BCQT 9FKH!II:)
+M\3CU'5P "XPP^?Q=0+L22_5/;.D .R6G[-;4.([UV);&PO=&AE
+M;64O=&AE;64Q+GAM;.U:6W/:.!1^[Z_0>&?V;0O&-H&VM!-S:7;;M)F$[4X?
+MA1%8C6QY9)&$?[]'-A#+E@WMDDVZFSP$+.G[SD5'Y^@X>?/N+F+HAHB4\GA@
+MV2_;UKNW+][@5S(D$4$P&:>O\, *I4Q>M5II ,,X?+&A T%116F]?(+3E'S/X%/F7/Z3H=,H%N,!M8('_.;Z?D3EJ(X53"Q,!J9S]6:\?1
+MTDB @LE]E 6Z2?:CTQ4(,@T[.IU8SG9\]L3MGXS*VG0T;1K@X_%X.+;+THMP
+M' 3@4;N>PIWT;+^D00FTHVG09-CVVJZ1IJJ-4T_3]WW?ZYMHG J-6T_3:W?=
+MTXZ)QJW0> V^\4^'PZZ)QJO0=.MI)B?]KFNDZ19H0D;CZWH2%;7E0-,@ %AP
+M=M;,T@.67BGZ=90:V1V[W4%<\%CN.8D1_L;%!-9ITAF6-$9RG9 %#@ WQ-%,
+M4'RO0;:*X,*2TER0UL\IM5 :")K(@?5'@B'%W*_]]9>[R:0S>IU].LYKE']I
+MJP&G[;N;SY/\<^CDGZ>3UTU"SG"\+ GQ^R-;88C'(CN]WV6'WV3T=N(]>IP+,BUY1&)$6?R"VZ
+MY!$XM4D-,A,_")V&F&I0' *D"3&6H8;XM,:L$> 3?;>^",C?C8CWJV^:/5>A
+M6$G:A/@01AKBG'/F<]%L^P>E1M'V5;SC
+MFED)O816:I^JAS0^J!XR"@7QN1X^Y7IX"C>6QKQ0KH)[ ?_1VC?"J_B"P#E_
+M+GW/I>^Y]#VATK\>WZV22$KYI9+2,6D$N!LT$DN/R+RO JQ GH9%LE"
+M0AMNZ5/U2I77Y:^Y*+@\6^3IKZ%T/BS/^3Q?Y[3-"S-#MW)+ZK:4OK4F.$KT
+ML@'37[]EUVY".E,%.70[@:0KX#;;J=W#HXGIB1N0K3
+M4I!OP_GIQ7@:XCG9!+E]F%=MY]C1T?OGP5&PH^\\EAW'B/*B(>ZAAIC/PT.'
+M>7M?F&>5QE T%&ULK"0L1K=@N-?Q+!3@9& MH >#KU$"\E)58#%;Q@,KD*)\
+M3(Q%Z'#GEUQ?X]&2X]NF9;5NKREW&6TB4CG":9@39ZO*WF6QP54=SU5;\K"^
+M:CVT%4[/_EFMR)\,$4X6"Q)(8Y07IDJB\QE3ON>;G*YZ(G;ZEW?!
+M8/+]<,E'#^4[YU_T74.N?O;=X_INDSM(3)QYQ1$!=$4"(Y4U#VT%SU&\Z.9X!ZSAW.;>KC"1:S_6-8>^3+?.7#;.MX#7N83
+M+$.D?L%]BHJ $:MBOKJO3_DEG#NT>_&!()O\UMND]MW@#'S4JUJE9"L1/TL'
+M?!^2!F.,6_0T7X\48JVFL:W&VC$,>8!8\PRA9CC?AT6:&C/5BZPYC0IO0=5
+MY3_;U UH]@TT')$%7C&9MC:CY$X*/-S^[PVPPL2.X>V+OP%02P,$% @
+M(8-(5OX YP9S! -1$ !@ !X;"]W;W)KV;-&[",]?BGU>K1BLE.R*\J9DR3?9ID:FK%6N?7MJV"F*5478F<9?!+
+M)&1*-33EUE:Y9#0L.Z6)[3F.;Z>49]9L4MY;RME$%#KA&5M*HHHTI?+MAB5B
+M-[5WW@#TZ%\
+MX@_.=NKHFIBA;(3X:AJ/X=1R#!%+6*"-!(6O5[9@26*4@./;0=2JWVDZ'E^_
+MJ]^7@X?!;*AB"Y&\\%#'4VMDD9!%M$CTL]@]L,. 2L! )*K\)+OJV;YCD:!0
+M6J2'SD"0\JSZIOM#((XZ#$YU\ X=O)*[>E%)>4LUG4VDV!%IG@8UP-
+M<#PSL[+2$G[ET$_/;D500) UH5E([C+-]1MYS*K9AJA-; TO,8_:P4'PIA+T
+M3@C>L\T5<;P+XCE>[[_=;6"K ;T:T"OU>B?T%N*52?+W?*.TA"G\IXVH4NBW
+M*YB\OE8Y#=C4@L153+XR:_;3#Z[O_(KP]6J^'J8^FT/TPC*"]PG=MM'A_2.:
+M*(9P]&N./JISF+L%D$B:P!R&;$\^LK#=1YV9;
+M;C(<()]HVDJ&ZSQ ?&4$-R]@[H,KA&Q4DXW.(0,U(7,A2S\@*PUQ(PM10)I!
+MMHFP%147OKU#Z,8UW?@,/)4I!LFVT!P#4CTR]YXW,<2W74:)W7.(5K3
+M/7D,(=MXQ(,J:*?Y.B3'HTMWX(\=;X@1'GF]>P[A/ S!!]7%^P7Y!,^1+UGK
+M5'9(]@8N>8*]]R7F.N(L"2%#)&Q&&&]C_2[JW-_Q+DQ+2+(6N_:="9?[4'!3
+MQX086V/[+N[;_V>K%@; +:5XY5G0'DQ<<['&T)J=P#UK*ZC1ED)IV!+^XOG)
+M!=NAZ/C]'IJ"S7;@XH9>3N$<)JT\N$HG3^/Z+F[92\G*\#!8855= >47%(A?HNC$_.%Z761>
+M8_\>[M7?D3TJ50!9%V"';"=@X_X>;M4K%A32+#_7VY UUTGK\NL06214J:IX
+MGI, A@O;&QQ2@J\7Y$?GRI2.)*>2O-*D8 0J$J)B*E'^HX, ;M]K24.3AZNW
+M="-:L[!#X.'/Y3-&TGB_A_MT'W\-XRI,7WO+-._
+M2YGR/8$9A.-\61)5E7@K%JYV
+MM70(B_/Q1NAX91=7L:,PEHU#\#O
+MD1#ZO6&.VO4_);-_ 5!+ P04 " A@TA6GZ ;\+$" #B# #0 'AL
+M+W-T>6QEO%D
+MN7/ZZZ>S;"=I=67=A['-HN6/O.-%Q[I#)6,>=56R=M8SDK6W!2,EG>W&2)8D+38JT[=:=<2PZFTVY#
+M;VA2K"NCSY:4!H-?RA0GCTQNZ)9)L;=B6,N4D*=@7H+A8*2QQ'DJ?$,78&F?
+M KP(&K XU7=>&18/QA<0
+M&>7=J?$,:\M.B^4M/3L,/S[)WMB2VSG-@DZF8BUY!72LJ(_PZTR3 .B<45XH
+M!:N-9@.'R6,4?-@#E_(!6OBMNHK=5R3TXE,);2"PU4GTA$8QA D*Q+^,%F)?
+MA+W]K;"D$8_&?>S\;O2@?^^,X_>65Z(?]+Z:\V/1%WATUC3R]$&*6BL>]O[+
+M"8LUF_S(T5CQY+/!I!R\@5M*'KEUXG!I^6%9L^.]FZ:IKW#.RW^0\Y^M<\TU
+MMTQ>DO:C_S=7^2V,D_'T7!S1JP,Z6PEY7>>9 ]IV03NA1.XJRY/K%
+M.?7A'=O["_PJOE]?\HIUTNUF<$//\A=>BD[E\ZI[J,NXZBQ_AOMHD\%G'!QR>(W?#$T%^@2O&+(=/EB>N$_NG_A.\SQ-LPRKZ'8;9;#%ZI9E\!>/AG$#
+M#RP/9'I;K?%NXQ/R^AQ@/7UM0K"=XI.([12O-2#QNH%'GL>[C>4!#ZP+V.Q
+M_G@>F*FX3YI"5S%NV G&D3S'$)C%^(QF&5*=##[Q_F"G)$WS/(X %F>0IA@"
+MIQ%', ; 4/2='@//GL?)=-[*CG_5U/\!%!+ P04 " A@TA6EXJ[',
+M 3 @ "P %]R96QS+RYR96QSG9*Y;L,P#$!_Q=">, ?0(8@S9?$6!/D!
+M5J(/V!(%BD6=OZ_:I7&0"QEY/3P2W!YI0.TXI+:+J1C]$%)I6M6X 4BV)8]I
+MSI%"KM0L'C6'TD!$VV-#L%HL/D N&6:WO606IW.D5XA-/E_G;@2=&A(E@6FD7)TZ(=I7\=
+MQ_:0T^FO8R*T>EOH^7%H5 J.W&,EC'%BM/XU@LD/['X 4$L#!!0 ( "&#
+M2%8<.&7J/P$ #P" / >&PO=V]R:V)O;VLN>&ULC5'+;L) #/R5U7Y
+M$U"+5$2XE#Z0JA:5BON2=8C%/B*O RU?7R=15*1>>O)Z;(UG9A?G2,=]C$?U
+MY5U(A:Z9FWF6I;(&;])-;"#(I(KD#4M+ARPU!,:F&H"]RZ9Y/LN\P:"7BY%K
+M0]EU$QE*QA@$[( =PCG]SKM6G3#A'AWR=Z'[MP.M/ ;T> %;Z%RK5,?S2R2\
+MQ,#&;4N*SA5Z,@QV0(SE'WC;B?PT^]0C;/8?1H04>I8+8864N-_H^8UH/($L
+M#UW+\0D= ZT,PS/%ML%PZ&C$179EH\]AK$.(<_I/C+&JL(15+%L/@8<<"5PG
+M,*0:FZ15,!X*/:XH$ZQZ#"PAJ748J&2WEYIK=WDWM)J'7N0;#W\!J-'[IFBG#S^0W1UW6E\./VR./ /,+Q=Z*E%9"E*%1KD3,)HMC;!4N++
+M3):BJ#(9BBJ6<%H@XLD@;6E6?;!/3K3G>1,)KM\,<'AT_@%02P,$
+M% @ (8-(5F60>9(9 0 SP, !, !;0V]N=&5N=%]4>7!E&UL
+MK9--3L,P$(6O$F5;)2XL6*"F&V +77 !8T\:J_Z39UK2VS-.VDJ@$A6%3:QX
+MWKS/GI>LWH\1L.B=]=B4'5%\% )5!TYB'2)XKK0A.4G\FK8B2K636Q#WR^6#
+M4,$3>*HH>Y3KU3.T.EY&TWP39G 8ED\C<+,:DH9HS5*$M?%P>L?E.I$
+MJ+EST&!G(BY84(JKA%SY'7#J>SM 2D9#L9&)7J5CE>BM0#I:P'K:XLH90]L:
+M!3JHO>.6&F,"J;$#(&?KT70Q32:>,(S/N]G\P68*R,I-"A$YL01_QYTCR=U5
+M9"-(9*:O>"&R]>S[04Y;@[Z1S>/]#&DWY(%B6.;/^'O&%_\;SO$1PNZ_/[&\
+MUDX:?^:+X3]>?P%02P$"% ,4 " A@TA6!T%-8H$ "Q $
+M @ $ 9&]C4')O<',O87!P+GAM;%!+ 0(4 Q0 ( "%9;
+M>O71[0 "L" 1 " :\ !D;V-0&UL4$L! A0#% @ (8-(5OX YP9S!
+M-1$ !@ ("!# @ 'AL+W=O81 !X
+M;"]?7!E&UL
+64$L%!@ ) D /@( !44 $!
+
+end
+
+XML
+14
+Show.js
+IDEA: XBRL DOCUMENT
+
+// Edgar(tm) Renderer was created by staff of the U.S. Securities and Exchange Commission. Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection. 17 U.S.C. 105.
+var Show={};Show.LastAR=null,Show.showAR=function(a,r,w){if(Show.LastAR)Show.hideAR();var e=a;while(e&&e.nodeName!='TABLE')e=e.nextSibling;if(!e||e.nodeName!='TABLE'){var ref=((window)?w.document:document).getElementById(r);if(ref){e=ref.cloneNode(!0);
+e.removeAttribute('id');a.parentNode.appendChild(e)}}
+if(e)e.style.display='block';Show.LastAR=e};Show.hideAR=function(){Show.LastAR.style.display='none'};Show.toggleNext=function(a){var e=a;while(e.nodeName!='DIV')e=e.nextSibling;if(!e.style){}else if(!e.style.display){}else{var d,p_;if(e.style.display=='none'){d='block';p='-'}else{d='none';p='+'}
+e.style.display=d;if(a.textContent){a.textContent=p+a.textContent.substring(1)}else{a.innerText=p+a.innerText.substring(1)}}}
+
+XML
+15
+report.css
+IDEA: XBRL DOCUMENT
+
+/* Updated 2009-11-04 */
+/* v2.2.0.24 */
+
+/* DefRef Styles */
+..report table.authRefData{
+ background-color: #def;
+ border: 2px solid #2F4497;
+ font-size: 1em;
+ position: absolute;
+}
+
+..report table.authRefData a {
+ display: block;
+ font-weight: bold;
+}
+
+..report table.authRefData p {
+ margin-top: 0px;
+}
+
+..report table.authRefData .hide {
+ background-color: #2F4497;
+ padding: 1px 3px 0px 0px;
+ text-align: right;
+}
+
+..report table.authRefData .hide a:hover {
+ background-color: #2F4497;
+}
+
+..report table.authRefData .body {
+ height: 150px;
+ overflow: auto;
+ width: 400px;
+}
+
+..report table.authRefData table{
+ font-size: 1em;
+}
+
+/* Report Styles */
+..pl a, .pl a:visited {
+ color: black;
+ text-decoration: none;
+}
+
+/* table */
+..report {
+ background-color: white;
+ border: 2px solid #acf;
+ clear: both;
+ color: black;
+ font: normal 8pt Helvetica, Arial, san-serif;
+ margin-bottom: 2em;
+}
+
+..report hr {
+ border: 1px solid #acf;
+}
+
+/* Top labels */
+..report th {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+}
+
+..report th.void {
+ background-color: transparent;
+ color: #000000;
+ font: bold 10pt Helvetica, Arial, san-serif;
+ text-align: left;
+}
+
+..report .pl {
+ text-align: left;
+ vertical-align: top;
+ white-space: normal;
+ width: 200px;
+ white-space: normal; /* word-wrap: break-word; */
+}
+
+..report td.pl a.a {
+ cursor: pointer;
+ display: block;
+ width: 200px;
+ overflow: hidden;
+}
+
+..report td.pl div.a {
+ width: 200px;
+}
+
+..report td.pl a:hover {
+ background-color: #ffc;
+}
+
+/* Header rows... */
+..report tr.rh {
+ background-color: #acf;
+ color: black;
+ font-weight: bold;
+}
+
+/* Calendars... */
+..report .rc {
+ background-color: #f0f0f0;
+}
+
+/* Even rows... */
+..report .re, .report .reu {
+ background-color: #def;
+}
+
+..report .reu td {
+ border-bottom: 1px solid black;
+}
+
+/* Odd rows... */
+..report .ro, .report .rou {
+ background-color: white;
+}
+
+..report .rou td {
+ border-bottom: 1px solid black;
+}
+
+..report .rou table td, .report .reu table td {
+ border-bottom: 0px solid black;
+}
+
+/* styles for footnote marker */
+..report .fn {
+ white-space: nowrap;
+}
+
+/* styles for numeric types */
+..report .num, .report .nump {
+ text-align: right;
+ white-space: nowrap;
+}
+
+..report .nump {
+ padding-left: 2em;
+}
+
+..report .nump {
+ padding: 0px 0.4em 0px 2em;
+}
+
+/* styles for text types */
+..report .text {
+ text-align: left;
+ white-space: normal;
+}
+
+..report .text .big {
+ margin-bottom: 1em;
+ width: 17em;
+}
+
+..report .text .more {
+ display: none;
+}
+
+..report .text .note {
+ font-style: italic;
+ font-weight: bold;
+}
+
+..report .text .small {
+ width: 10em;
+}
+
+..report sup {
+ font-style: italic;
+}
+
+..report .outerFootnotes {
+ font-size: 1em;
+}
+
+XML
+16
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+ 3.22.4
+ 
+ html
+ 1
+ 23
+ 1
+ false
+ 0
+ 0
+ false
+ 0
+ 
+ 
+ false
+ false
+ R1.htm
+ 100000 - Document - Document and Entity Information
+ Sheet
+ http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation
+ Document and Entity Information
+ Cover
+ 1
+ 
+ 
+ false
+ false
+ All Reports
+ Book
+ All Reports
+ 
+ 
+ 
+ d430074d8k.htm
+ d430074dex101.htm
+ d430074dex102.htm
+ d430074dex103.htm
+ d430074dex991.htm
+ hypr-20230202.xsd
+ hypr-20230202_lab.xml
+ hypr-20230202_pre.xml
+ 
+ 
+ 
+ http://xbrl.sec.gov/dei/2022
+ 
+ true
+ false
+
+JSON
+18
+MetaLinks.json
+IDEA: XBRL DOCUMENT
+
+{
+ "instance": {
+ "d430074d8k.htm": {
+ "axisCustom": 0,
+ "axisStandard": 0,
+ "baseTaxonomies": {
+ "http://xbrl.sec.gov/dei/2022": 23
+ },
+ "contextCount": 1,
+ "dts": {
+ "inline": {
+ "local": [
+ "d430074d8k.htm"
+ ]
+ },
+ "labelLink": {
+ "local": [
+ "hypr-20230202_lab.xml"
+ ]
+ },
+ "presentationLink": {
+ "local": [
+ "hypr-20230202_pre.xml"
+ ]
+ },
+ "schema": {
+ "local": [
+ "hypr-20230202.xsd"
+ ],
+ "remote": [
+ "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+ "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+ "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+ "http://www.xbrl.org/dtr/type/nonNumeric-2009-12-16.xsd",
+ "http://www.xbrl.org/dtr/type/numeric-2009-12-16.xsd",
+ "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+ "https://xbrl.sec.gov/dei/2022/dei-2022.xsd",
+ "https://xbrl.sec.gov/naics/2022/naics-2022.xsd"
+ ]
+ }
+ },
+ "elementCount": 24,
+ "entityCount": 1,
+ "hidden": {
+ "http://xbrl.sec.gov/dei/2022": 2,
+ "total": 2
+ },
+ "keyCustom": 0,
+ "keyStandard": 23,
+ "memberCustom": 0,
+ "memberStandard": 0,
+ "nsprefix": "hypr",
+ "nsuri": "http://hyperfine.io/20230202",
+ "report": {
+ "R1": {
+ "firstAnchor": {
+ "ancestors": [
+ "span",
+ "p",
+ "div",
+ "div",
+ "body",
+ "html"
+ ],
+ "baseRef": "d430074d8k.htm",
+ "contextRef": "duration_2023-02-02_to_2023-02-02",
+ "decimals": null,
+ "first": true,
+ "lang": "en-US",
+ "name": "dei:DocumentType",
+ "reportCount": 1,
+ "unique": true,
+ "unitRef": null,
+ "xsiNil": "false"
+ },
+ "groupType": "document",
+ "isDefault": "true",
+ "longName": "100000 - Document - Document and Entity Information",
+ "menuCat": "Cover",
+ "order": "1",
+ "role": "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation",
+ "shortName": "Document and Entity Information",
+ "subGroupType": "",
+ "uniqueAnchor": {
+ "ancestors": [
+ "span",
+ "p",
+ "div",
+ "div",
+ "body",
+ "html"
+ ],
+ "baseRef": "d430074d8k.htm",
+ "contextRef": "duration_2023-02-02_to_2023-02-02",
+ "decimals": null,
+ "first": true,
+ "lang": "en-US",
+ "name": "dei:DocumentType",
+ "reportCount": 1,
+ "unique": true,
+ "unitRef": null,
+ "xsiNil": "false"
+ }
+ }
+ },
+ "segmentCount": 0,
+ "tag": {
+ "dei_AmendmentFlag": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission.",
+ "label": "Amendment Flag",
+ "terseLabel": "Amendment Flag"
+ }
+ }
+ },
+ "localname": "AmendmentFlag",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_CityAreaCode": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Area code of city",
+ "label": "City Area Code",
+ "terseLabel": "City Area Code"
+ }
+ }
+ },
+ "localname": "CityAreaCode",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_CoverAbstract": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Cover page.",
+ "label": "Cover [Abstract]",
+ "terseLabel": "Cover [Abstract]"
+ }
+ }
+ },
+ "localname": "CoverAbstract",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "xbrltype": "stringItemType"
+ },
+ "dei_DocumentPeriodEndDate": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.",
+ "label": "Document Period End Date",
+ "terseLabel": "Document Period End Date"
+ }
+ }
+ },
+ "localname": "DocumentPeriodEndDate",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "dateItemType"
+ },
+ "dei_DocumentType": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.",
+ "label": "Document Type",
+ "terseLabel": "Document Type"
+ }
+ }
+ },
+ "localname": "DocumentType",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "submissionTypeItemType"
+ },
+ "dei_EntityAddressAddressLine1": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Address Line 1 such as Attn, Building Name, Street Name",
+ "label": "Entity Address, Address Line One",
+ "terseLabel": "Entity Address, Address Line One"
+ }
+ }
+ },
+ "localname": "EntityAddressAddressLine1",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressCityOrTown": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Name of the City or Town",
+ "label": "Entity Address, City or Town",
+ "terseLabel": "Entity Address, City or Town"
+ }
+ }
+ },
+ "localname": "EntityAddressCityOrTown",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressPostalZipCode": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Code for the postal or zip code",
+ "label": "Entity Address, Postal Zip Code",
+ "terseLabel": "Entity Address, Postal Zip Code"
+ }
+ }
+ },
+ "localname": "EntityAddressPostalZipCode",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityAddressStateOrProvince": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Name of the state or province.",
+ "label": "Entity Address, State or Province",
+ "terseLabel": "Entity Address, State or Province"
+ }
+ }
+ },
+ "localname": "EntityAddressStateOrProvince",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "stateOrProvinceItemType"
+ },
+ "dei_EntityCentralIndexKey": {
+ "auth_ref": [
+ "r1"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.",
+ "label": "Entity Central Index Key",
+ "terseLabel": "Entity Central Index Key"
+ }
+ }
+ },
+ "localname": "EntityCentralIndexKey",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "centralIndexKeyItemType"
+ },
+ "dei_EntityEmergingGrowthCompany": {
+ "auth_ref": [
+ "r1"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate if registrant meets the emerging growth company criteria.",
+ "label": "Entity Emerging Growth Company",
+ "terseLabel": "Entity Emerging Growth Company"
+ }
+ }
+ },
+ "localname": "EntityEmergingGrowthCompany",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_EntityExTransitionPeriod": {
+ "auth_ref": [
+ "r7"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Indicate if an emerging growth company has elected not to use the extended transition period for complying with any new or revised financial accounting standards.",
+ "label": "Entity Ex Transition Period",
+ "terseLabel": "Entity Ex Transition Period"
+ }
+ }
+ },
+ "localname": "EntityExTransitionPeriod",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_EntityFileNumber": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.",
+ "label": "Entity File Number",
+ "terseLabel": "Entity File Number"
+ }
+ }
+ },
+ "localname": "EntityFileNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "fileNumberItemType"
+ },
+ "dei_EntityIncorporationStateCountryCode": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Two-character EDGAR code representing the state or country of incorporation.",
+ "label": "Entity Incorporation State Country Code",
+ "terseLabel": "Entity Incorporation State Country Code"
+ }
+ }
+ },
+ "localname": "EntityIncorporationStateCountryCode",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "edgarStateCountryItemType"
+ },
+ "dei_EntityRegistrantName": {
+ "auth_ref": [
+ "r1"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.",
+ "label": "Entity Registrant Name",
+ "terseLabel": "Entity Registrant Name"
+ }
+ }
+ },
+ "localname": "EntityRegistrantName",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_EntityTaxIdentificationNumber": {
+ "auth_ref": [
+ "r1"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.",
+ "label": "Entity Tax Identification Number",
+ "terseLabel": "Entity Tax Identification Number"
+ }
+ }
+ },
+ "localname": "EntityTaxIdentificationNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "employerIdItemType"
+ },
+ "dei_LocalPhoneNumber": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Local phone number for entity.",
+ "label": "Local Phone Number",
+ "terseLabel": "Local Phone Number"
+ }
+ }
+ },
+ "localname": "LocalPhoneNumber",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "normalizedStringItemType"
+ },
+ "dei_PreCommencementIssuerTenderOffer": {
+ "auth_ref": [
+ "r3"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.",
+ "label": "Pre Commencement Issuer Tender Offer",
+ "terseLabel": "Pre Commencement Issuer Tender Offer"
+ }
+ }
+ },
+ "localname": "PreCommencementIssuerTenderOffer",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_PreCommencementTenderOffer": {
+ "auth_ref": [
+ "r4"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.",
+ "label": "Pre Commencement Tender Offer",
+ "terseLabel": "Pre Commencement Tender Offer"
+ }
+ }
+ },
+ "localname": "PreCommencementTenderOffer",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_Security12bTitle": {
+ "auth_ref": [
+ "r0"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Title of a 12(b) registered security.",
+ "label": "Security 12b Title",
+ "terseLabel": "Security 12b Title"
+ }
+ }
+ },
+ "localname": "Security12bTitle",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "securityTitleItemType"
+ },
+ "dei_SecurityExchangeName": {
+ "auth_ref": [
+ "r2"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Name of the Exchange on which a security is registered.",
+ "label": "Security Exchange Name",
+ "terseLabel": "Security Exchange Name"
+ }
+ }
+ },
+ "localname": "SecurityExchangeName",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "edgarExchangeCodeItemType"
+ },
+ "dei_SolicitingMaterial": {
+ "auth_ref": [
+ "r5"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.",
+ "label": "Soliciting Material",
+ "terseLabel": "Soliciting Material"
+ }
+ }
+ },
+ "localname": "SolicitingMaterial",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "booleanItemType"
+ },
+ "dei_TradingSymbol": {
+ "auth_ref": [],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Trading symbol of an instrument as listed on an exchange.",
+ "label": "Trading Symbol",
+ "terseLabel": "Trading Symbol"
+ }
+ }
+ },
+ "localname": "TradingSymbol",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "tradingSymbolItemType"
+ },
+ "dei_WrittenCommunications": {
+ "auth_ref": [
+ "r6"
+ ],
+ "lang": {
+ "en-us": {
+ "role": {
+ "documentation": "Boolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.",
+ "label": "Written Communications",
+ "terseLabel": "Written Communications"
+ }
+ }
+ },
+ "localname": "WrittenCommunications",
+ "nsuri": "http://xbrl.sec.gov/dei/2022",
+ "presentation": [
+ "http://hyperfine.io//20230202/taxonomy/role/DocumentDocumentAndEntityInformation"
+ ],
+ "xbrltype": "booleanItemType"
+ }
+ },
+ "unitCount": 0
+ }
+ },
+ "std_ref": {
+ "r0": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "b",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r1": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "b-2",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r2": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "12",
+ "Subsection": "d1-1",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r3": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "13e",
+ "Subsection": "4c",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r4": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "14d",
+ "Subsection": "2b",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r5": {
+ "Name": "Exchange Act",
+ "Number": "240",
+ "Publisher": "SEC",
+ "Section": "14a",
+ "Subsection": "12",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r6": {
+ "Name": "Securities Act",
+ "Number": "230",
+ "Publisher": "SEC",
+ "Section": "425",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ },
+ "r7": {
+ "Name": "Securities Act",
+ "Number": "7A",
+ "Publisher": "SEC",
+ "Section": "B",
+ "Subsection": "2",
+ "role": "http://www.xbrl.org/2003/role/presentationRef"
+ }
+ },
+ "version": "2.2"
+}
+
+ZIP
+19
+0001193125-23-028445-xbrl.zip
+IDEA: XBRL DOCUMENT
+
+begin 644 0001193125-23-028445-xbrl.zip
+M4$L#!!0 ( "%:J02=@!5_UJ$ YK]DENN!_X?CQ.!M_>WE9I>GS!C<(:OE&#
+M0148)4+IV/?N/.E_S[UVVZ*7&@<'!S5Z:H?.C$P6:-;KK1H^[G,E[/#1=!(F
+MP^&#" ?2%U49(-RM.OPG@4'),@A@UD;MMV]?>\Y(C'E%^BKBOI/,'T?A7&@.
+M:O#4#I0JV&DVWM\#NAF1O' W;VP#QOJP4?';R=77='A4/CX=6HM"[JM!$(YY
+M!,R",^U6ZLU*198U%\^Q76HT$E["XO&^K!2SB4[? DF;P7DT_
+M-$/G,PFR]P;QN> N_AO)R!/'^Y5?CFKZ3_AN+"+.<(:*^".6-Q\VNH$?"3^J
+M7 -K;#!'?_JP$8F[J$8SLAJ^5S.3,L:.^H$[/3YRY0U3T=03'S9GR+W
+MBXUC=B3OVCA,+P?$[K/C[J0\8F79A
+MR9![9[XK[GX1TXT,2',&K A:'61GO]5ZOWL?),\2::(@DD[\[$?1%$PIF_Z00B@
+MVV\:DSNF D^Z[*UR;R%6HL7:CYXHPA#R_GI]=GWYD
+MO>O.]6EO/CCU9P*G=]K]]>KL^NRTQSKG']GI;]TOG?//IZQ[\>W;6:]W=G'^
+M*!B;ZX#QGYW>E[/SS]<7Y]OL8[5;9SFEQ32=#-61Y31:_^9>.K3Q=4W=J0FW$_4T$A&H@+?
+M. ),YVW()V!*YOD0'P,G1AG
+MY]?LZO3RXNKZY?7-91RJF/L1BP+6$PYRG$98H\6"D#5V-]VMEX"=9R(P>/&06MG/IS/15WT?!":*S$)PHAMVL^"@^U]V( (L>W"!&-X?>3RZ10@$CZH
+M+]$/8QY.-X9
+MY.H-EXXT\S17F,?"7/Y*<4+XCX$]M$,F?"@J_5#P[YCAA*"_S6\"8)"E$=<@
+MTN7791EF8CEN:A,?L<)>@"< PJP+7)3=A8H*U$L0@DTDC=2+P%!U@]B/PFDW
+M0;WY?@DT
+M/H6T[Z])V!]J]=<2<6^2?L#@Y )B@I#] T("Y4H*759R21I/ !QX(3E=MJ5-
+MZ\N(Q87*SH-J2AE2
+M?? ?="%?JT=* <[C7-+=^II=R9W]5^%*OFQ,N< 7Z+AN*)0R_WR%L*ZQLA_0
+MVFT04/\$5P0"5,]EO2@4(GI4@-UX.61TX<^+\#JX]5=&Q>=8>N"NN\6M;\]/
+MC.66)E_@(KP$YUY28\*Z0X5NX/N8%G7B4O*\@"5)0M!'15P&?Y"70S > FU]6.'
+M/IM 6H:TW9HA2XF!72UCOA8-D^;L_O;3?K/Q_E"Q:^&)R2CPKHCG#<@UAZ7!$>37 AVB;MY8-#X_F"OLO=^;[Z8
+M/:+FL18*GMW_01Z'&+!<\H$A\Q\-"*\S>0 L[_^4("I13O!OG(5
+MF2K-6S[X*8JEBU@++.M(.-^IK,"/J +AV-F')C
+MF-838I@G9-R?VF<#" B"6WP/O06)8:YJS^6DO0?'*VN-1Y(@) U,9B.@0H2T
+MG/DN6F03<+P[++59\Y3E/T,9 #$X87F*LD=KVT+3VL:QP0<@((L0-LG4[*]B8)*=YJ[AT$*5'(OC
+MFXWWK/OIBC5;]2H,7"7,?F/;I=BV!TK8 83[PV^@PD"/>7]BGDV1 5-K;,PR
+M[$)]WMCAE4;3JO24MW-M'Y:S%\[6W*E7]8Q;&;?I30C6*027H4"]C8W1U-"&
+MEC>$(&EUE_=_2!@6)DT&8Y?I'&7T* W$ISL[^U7A'2<[X)T3,)T9E2
+ML0C?1.F%1:DE*CN;SGI%RD8'FVJ9VL/>*7T.C>MML3@PIB_%Z=>X#/0!0!1:J?R!O5'+77/
+M3REHVSMM-/ND5%8N&W11^6CV[) +%*!/$CC?M]G/]2H>&&43'K(;[L6"3?",
+MZ:BT(?*%JEKS\&+TA1;7U1O:_W5Y]<-OT9+>.IPYHO3X4(MM(H7?
+M'YJS,)@NM:_ 8D","9X>P/+2DG%#LU])4EC+G6"R("P91,PLD(&S^J25P8WC
+MTW+,:^094;F_!<'.\)DFZ.KWGR3"W2N)<)\4.6>#>YAS&UBRE-/E3-EI!'PL
+M/(BR@(_]@&*N6 D:!2@RQ2V\U4-2W4H?M4>4T%K>%!>_E; TRH0/\,&34-Q(
+M!>^!='#?P?0L=QSLML?!>+^'RT-7Z;*6>V_ U]KD2<"7Y>;J*DQP=YW KX^Z
+M/5N.8TYTVECFL/\2A_E?\:T!NO9K*L!__0L8NS)):8CQC*3@5QGWJB^ ..!>
+M>;=\JM!UA[%UZ^=R]YIV_[Q8Z<@&XW2'"2C/X&19I-KLUU$9Y$8:^[8K=:;
+MU9*6I^QL+Y4RO"]2T-O\*,#GC>*00IB/,@1M%H0*E6(78.7@*>BNKE =LE-/
+MZ[K88,0GL^^A'1.^XC!\RCIAB$H11ZNRX56V2N)O[PD2?V6T
+MI[_;,@+4.1O'A1WC5-V1% /V*3$@9CM@95SSK...I4]6+-,L%[*%34MKV.+&
+M\87/\N>:]_6YYFU6.-'*-M%T8>-9LW[8M0X,?&H<;L%F?+"*#EK8$8_822BB
+MB'WAH _0*O?!E<;&%40-#.GK5I*3 &QG@;FT?32SYU:DTYO?>:.G-YU;.TA3/E5L@MC,DG"7OHH7Q(1XR9W(\%BZV
+M\WC33*-,\C@+"5Y#MV2/3Z.>-OE\TCT[6=AS:!Y(#WA"@M1U?#^&/9@3^2#/
+MJR^&_A1.CH?FF7:Z/@I'8#N?QG&K03AN:E^KX.,%W]CF>1#SW9M)G"1"&.'0.N;=A
+M-Y[']"I(MB*Y(6QT1LSLO55EWT+C^-&:^FT.>U51BI>,LXJ^;X!>9TS,D>'^
+M,F G20MNZK<&AB^C41C$0[W X_FIRJXS:!9W$]BT0OC(S\"FLH!Q !9,B>X6
+MX\-0D(K7V\RC0:,>D4@XTVDJ0DT?I$$JQPO0&0^P*9'?<.FA_M=FH5Q#ZHLJ
+M'JLB$R!1H8'4 VON'&R39@O ;K/F+G$[P8PH"*4@"(&=,P2 &&$@B)NYM\W&
+MX.HA+_I A'2O(PY$)6T)=@]Q@:H!O + B3/RP?T;3C$>BD'-3:OL4QB,07@@
+M@D7I@HD:[Q'U5AZ,'.2@UWSCIFJS5'&=R.$@@ CJ1 8& &T"M@V8KK@17C"A
+MI *J]"$0%R9UA4.]?4S%$U(@X#/'1'54"N!]Q< W$%+]$+FD#L>4
+M<((/:-_&$*HA"]QPA;H%MHI]]0AA*,8!,H\70% +@@)BZ/!8Z>Y.O!(/%@2V
+M";YG=EI/M %\:&*H;5O'LUJ".T PHX?NV0#JJ![PY7?89S<()U7D89BW465?
+MD*F'P"R4<^&@ <#]B4#=2A=CY6YZ!)1MTFJA]A). A7!=SU'FO-OV:%;.#_9
+M>S&$)Q,/?! ?9LICN9,"QYN-I7 9 CB%1DW]#&BART#TP'9;@5I82(D8@'^
+M["@%036*\S?N@^03X, 6CKC%AJU1$"O1#9#;5+7 #B/P&%$%G%1[A(M.FCG
+M]0$=WZHGU4Y5DP,3>K "^]67=-%M--50P@R>0B6*[K"^HN,R[H.S:>=##&["
+M'LG:;#V]-KPFZ4P=?KWCW-;U7XNLU(,=XUN8$!,\V60+Y3'3 +#%&H]H!P-
+MHAPTS2TJUCR--"&F+*"L*5(Q\,FF@78&/H5EF,8#R)>GFR)&#]$FOLQ9+X8!.9^4&H[85YH_=4ZS]X7E/!O\D'VE8$D2$0'N
+MCRCIJ/URO&H5U1L:=U ,/^\T=[?K]7I1\4C,@\JAQ'0,609'T%9\.P^Z4A"A
+MH2L",_4#/U8F\\DBH) @CWBW_@[_096=69>4.;EDR;2+623P124"6B9LLN@%
+M)8=^!<_"Z_$:0N,2\3%J/03MYT:]CONWIE-B[XV#+AEEHF#\($;?<9IC#3.-
+MOER,9 0^W8"G JHT1$E/G'A%FR^R2G8N=&M4^H+.)AN60.MKXRTP:[D:"\Y1
+M#*_3TW(]@5M FW,)%HLL$Q_K4"H7!^6&6:[;0N_?.E."-?8976.&I"?#@A2?
+MP]':F<_R)2 PU)I1)[B51EB>W0K<,*1D/"Q!%5063+3V GA 7T-D!ZS4(*K!
+M_W4A56=[YM5@BTF!^1*YK0G4W'UG1\R <(/WRID <"$7CJ5;H14*=2EP>00F
+M_MD?,5V2I9&BG2>A;1T>R*,(> FT:[W?K-;W6^\L;#!_TCF@Z4=V@0](6:BX
+M_V_03[BA.2>W'-A!%9&(EJDO
+M=*&&4SJ'4QQ@F!*C$]U2:%D?+P^R9L944K]*O0R6!DVJ=*^UN^EL;>YL);9L
+MFTHM(1IO;XI[!E3HN6Q$: $(X@@3NP5&29 !UJ'!3L'Z@4MU1KXK,BK*3)69
+M!E(ZTN3/H4X)MY-+U@==,T:.QSRIQ'@;*ZU^*0QY6=6"AMG^84#H%J"/Y21[
+MG"HGA5+[.U2F@E# .H; ?EYR:1NF;W!KH->GJ/*2F[$XBGYBY0O^E=%'P-87XS]])J.--5AF )K;[D9J&*9G84 0TIJ?W3&8]0)
+M,NM4*FOX:.(Y!&ON%&0_];\?3L#,\4'A9A)YIUV<)I_O:^J$AD5
+MCOZ\1;-GN[MC<>%BOO!\O5)'(I71UU<#Z0SI]G 48N=V8XFP90ALI
+MK!J2V^N5*>W"1&D04%XDJ((U26:3JM,TTGQV74P9M="*B6FF"^;
+M/_%E&( 7$-FWGSXG\6OF/&>>>V7>>?7VD+?
+MC=:0V/9IVK" %&XD&JST31^CO;MDE846_WAS)1 M-V*PL C ,@)
+MPCV@ME\ 3:Y8T'FEYG
+M-\'NNWOZ(,T!@R7Z#8A(>_/G*.]9*%GY2?L.EJ3![!'8A&TG?&KC]L1;PC!2
+MYSM,2&/N' !EQ;QX#'#&8WP1!59[U2J9SR0*D(G14Z8(M$3BD?,KMKR7S;!$
+MM!7.\"X$"2$2U;-(.<^1N24:%-YDXDTF%LM$MJ9*\29P>-*HB%^239#]M+B6
+MDPZ= @-]GQZ^ [5/#6R4I+J **4?*W82NYCKNX(X%D)@3^JWDP[;_=U\ZLG:
+MDHN3JT[21Y Q;JGD:7NV6K_.JW$$2/=DK60H,%VIB Y#K+Z!**@ ELS@9IX!
+M?C.\;TKF1S*\G&'%&/ZVQG7=1M4D4=*'IN!@*QR4Z0^H?2#V933=3LSPK$?\
+M9IC?9.8U&V:RI(^TH&]\^\:WB_FV@[7*.$J:(6(?*SV@+H4NBU!=1;$17J]K
+MRJ59=R2]T"VGNK,SFHED4E_!9IM-M66+-50JP1+$E)FE"VVPMCZ.3IFI@U"V
+M8X%OIF=6:;+N);S.3BF4E.U5MCDEE6WKM^5N(VMCQ8SIDU3'9HKPR]7'FL]5'WN*BTT6EPEZ*4=U$IYYH;+
+MWN+&'U8*;[Z)8G9 $MQ28>M<"(^S2S[]+KSRI/= 7Z#ZV8@7_AJ/PK$Z&8ZC
+M(;9&3LIETVTK(_6_ U_"ODKKE"3W> Y17\:9MD$7M.5L3_LW9:H/&OC9TMRN
+MZ<2?@Y#<@0%@<]0^=J4@'')?_H>;:@K$P%$88]*>,BH.'R=!R<^- ^J-.H3YY!:Y8O%$WVUZISLJ
+M5.&T16'C>;9*UD^QC%TQ(-@&^P6XTH((^7@CP3VL[/JVF52"=:,V#XAC/"H%
+MZ8'60SPD%@'0+3*XY]VW3(DI-C8]TP5(W>7&^MH&$#J7D#N8T4KZ*ZRAQEY&
+M^ 8I9;ZRS2"F]6>,Q[3 'H6.5.11VMG_$?NFP:-5I\EW[N$-:JI(NFAX8J9P
+M_5N.732HN8L,@$\U%SFQ LV"069ZR^P/8:U*]OI4-FMVJ:4M5^LI+5<&I0^_
+MT.I5QRGK/5KZOEIOO-ZCI9GVXD\?V4=MT>)P1=_]B8\_YGI&\6Y!%_.^]"L'
+MJ6:B4X_6@O#\X<^T^V!;7[&!JJ%O?V)3C!F>#V:\'V#0TDF$U-C[S#)X!B"*
+MN#."=[$+$#V;5'0/#JH-C-%#;L*O0
+M[$]FMY<3@)S!Q*A6'W35V8\YMW^;NVVRVR H<6AV"]MXFY>8T"_GBCL25KPF
+M7T2(1_#S8&VE?U#7R0.AFU@-'#.^R9N17*^1/'C51C(]&$6_VZ2O1=#GHTG.
+ME[D/X4^?'2Z_4W@E?MITRWZVZ'7PT(-8A>*B)[UR=CV\M,2=L^A3F'MGS1^N
+MQH+]-(=TN1MB6_?=$'O0>N8;8I>^W=6R:,D/ZBS%B4M1BV< \5FF
+M:?VHQN"]T8K$(^JS3"UWF1;!OZ>R7.$]:^JL0
+M9Y_/.]>_7IWVGKSF6KQ7Q=QMD]PWY)C\N;8
+MY4^WSU%EMB]&W!O8YBA]UY >@*67&-M/:#H@SB@(86/N??G>UYMR*4VR%))P
+MNS9'LDK:Y=X?YME9:<;[?N%G_:#MYC)"LZ'Y,_D#J_RBTFKYDM_:>"WA3; Q1;CF#_<\1ZA=-B
+MV@)PC%V.R24;,U=WE$; )0'.4:T?N%/X9A2-O>/_ E!+ P04 " A@TA6
+MF5PN*I,- !'- $0 &0T,S P-S1D97@Q,#$N:'1M[5MM;]LX$OYNP/^!
+M<*^+%+ =Y[59-S%@QTYB((V#Q-A>[W ?:(FVV4BBEJ22>'_]S0PI2\Y;M]ND
+MF]N]%&ULB2)GGGF?4?=/QA]/._LG@VZ_4ZWLCX?CTT%G\,_&1JNYL;_NOL+U
+M=;^ [?=&_<^L=WPX.AU='-0^G0S'@UJ'52NPZ% D5NC.?G_X"[L+[E,>>^34.C\E$Y-^P%V \S]7YWK_DEG>&3XX/:Z>AXY+!;
+MI;]T,#'PS @>B8G.N%XXKC?K;+.UN<6>X/Y9B.CTM+"6G?!(O#2_G;[@FM%Y
+M]9?G:Y2PB9CS:,K4E)TL4J&G,A%U-F0\9FDDN!$ALPKN3H5F"Y4QSE)EI)4J
+M8=R $78.YU),63>,92*-U=S*:\%&TZD,A";]1A6G7TYF/_$X_<#<4T51^@!G+M97)K%J!0U8%OK'E)-YDGU6FW4H6C_8X?.=,1.A#L71(\T;[5 IQ9PQM0ZK2]K
+M6MU)5K!$W%J\GH1?7PF$VUBAUUEP19'XAY>2- ]X'\
+M"\@I)*FC O3!@04R1;B 4R"I6NF1RB,S=78SER@CK:[!L1C"&M%0*3J@+)%V
+M09QR71@8CU;=RX1<,W[(#."'%D&Z%DK8$YT* JMTC!!Z3^6,#J"9";O4"["_
+MG=9;,CU03D*O[(YPT^51@=) (#*E)E]$@'(R*U[0'X'R!WZJE2#3&E6D1 M;
+MH/-=ZKZF_4IG$ 4GX,J\^,8*URW!]5N[@^J$7)R!=<,:3@2!JCK=A.VXI;7H
+MYHN' &\4%UG=VDPDH&41/ 0N'T0"$.!"HG$*-J5NP(W0I10$1]??$29ECG("
+M0-(SI<)JA2P3'GP5RKCMWP=!4#.P:W))UM]=
+M:AU\B:4%\\N1ZBGT0.C(^R"SP"IMZ'H!GG#'\1M8Z%0#A8:_P86#!?#HY6'J
+M@LQA$W!1F&N D62!(-_EW>X7)9-MX1+G
+M^8;%(5UBW7G!=P[R>W=)BA)2\21$Q35E(F?@!\&30Q(#(>&,FY#_RBXR$/;.
+M[M;.6O!N;=OM"E;+B\U,1C::BS$'.Q?85C&=7NG \B63D\O
+MS[N'P[/C@UJK1M_/N_U^_OW3L#\^.:AM[;RML=[HHC^XH,N>!'>E 87>:??\
+M=/R'?DX'Y"-OH5A;'_?QGXO2T@=009[]XR>#X?$)
+MU$9[=TD_'1R-8>4M,RH"M_.F13\?/*^-\>C\B;L7N.E#]U/4P&36P#*VO8H)&QO/LSX$\7PX1>U+C5#D9A[4'\KA?P+J)^_WQN-QZ./?U0_?Z0V;F U[,K_EU9!;!]30O*BR2;F=ROV
+MQ=:D+U0IG9QSR"4A)HA;H0-IL B24$5 G@S9F<_6@D@93$C=+4C9L"HZC+@Q
+M;J,NI6R0N;F#5.+JK6/,%*EPJL.A*Z=.[F6$6+";/!VD').%*LA5-_+JUHF)0'HIVH&\W3
+M6@?,J9%"/F]]K,TY#'@DL%_" &>-S14[Y]@5"J(,:W"JOQ-?^D$U"PF_-JXA
+M=[<-\Q^'R6:SM;?U-B\RL6*"I8)#%4G]" P*3
+M!G.^:8+R ;4-YM7*8YNPJ8Q 0E)//QR$OX+K\.(N*$ P>*2CC(A*K
+MC(GX'E]XJ12S)F30;1[=\(4A'W\"H6WX+T!HJY9O27E)^\W/]%-;J8ARSWTX
+M.!L/+E[=K*U3=*"QB3%+X#'CVZ6^*>D[0W@9C(U?>4,"@UNX[B%Y 1I%D'\#
+MV'Q/"7:<8^.LR3Z!G^61P;94)$$52>OY%7EKRR)HF.W)M+H.L<(,Q!!\[BL0MF1ZRCB,3MG8T
+M'KUC*43X8,'X% X"Q[&TT!*[V+J@IQU%EKIJ,^ -AQ#8;!!%@Y?'*G.]:M>:
+M=KYF6JT01$@Q<73- ^Y:_TN^X:H3#E,3((*[\%?TYDL D<+[AOZ=P%2^F7MO
+MQV+=^VO$D8?7Y 029?/(XWK$RT['0\VO4!J0*M+5!.<$#_MV-UDS-L%RS "?
+M:F79 Y-7BJ6Y<+$()D:B$R40D8BHM-1BQ[<-X$( 8B;>E
+M5]-9)!R0;F\G1<)&&>&?]=W6B)R-F$X!TB8[$3R"32!?S9S3-'-.91KIIB8VL'@#[-Y2_*(NM@+IQ5SZT%98
+M)/7[6*2PR4:*3[.Q2%@\ C[A7 YSHF*L@,F%YH&]%R5PGZ5ZU I F$,=/,]=HCTA,:U=T;)#99;\'\3*O,BVL;\@SDHL'_
+ME!!P^1(.YRBB/;#C2T>M@A::0H;"]6JK%; 7*X*<60E6!PNF-/.4JQE+'3OV
+M8&;"8FJ4=U2-DQ$VOTE&SKN(6XM&C.H8XUR#,A7JQ"(.,C^.P'/S9.TZ;"$#O6V@?DA
+M1,$H A0QBS\'D(2&.]V9%N3(7EZZGUR/%_+N8DAW&XC4I9W5BL7\UQ*M""KD
+M4 M<(-&W\0GF+^5.N,O6705=B@ #(GJ/&.2<1T3*K MM
+M(^&BW+-$_IK1O'&"D<8K@(B5H[%.#? GYB)*Z0F%;C-U
+M(X 0G2F7<0):>CA5U-DUS,.B0=W$0:@H6J/#"$)%[\+ 03LVH12",\#F%C3N#3L+$\GQM.BVTPPH$(C O,6LR@
+MTEAZ,))3W8=;X\?Z?M[F9\2YP?F@9= =0 T2 _7N;1$H(-,%K==!<]])!
+M@ :%XTKW<@/&.2VMK]3=?)J<>[@L'QRE/SE/?Y
+M-&5Y(^]].6:+,B-?N/K\SYM?&<>\3&,.!%/#MCY >X8E4ME]W^E'L0Z*VK\(.J;?P;JG=ZB7:;LKAWF0OA*%WFE4?Z0<%==R^/;K)OU\LMV_U=#
+M4,,S'HOV*BJ/*^+?"IFQM!% \]@+F8\U^UT;[7G>L?[?";J;K>^,NN]_?AU1
+MMWMX.#@?#_JL>P9_CR\&@W[[+^>7+Z&NY5A6O#KW7+SZ_B? 0K[P"42^PFCG
+M3R6^&X;@JL%4N\\ #:=P$ $0 &0T,S P-S1D97@Q,#(N:'1M
+M[7U9X[JO ?NI234V15BR8UV99DUZ5$VN(YLJ1+4G%RWS8:&T1'C6ZD
+M!U+(K[]KVE,/("F+#DDAE4I$H+&G7GO-ZULOWYS^]O;GEV\.]P]^'H]>GAZ=
+MOCW\^?#O#_=V=QZ]_([_A,^_DP>BEZ_>'_PC>O7KZ_=OWQ__].#W-T>GAP]^
+MCL8C>.BUSFM=_OSRX.AOT_O3@(IW6\^<_[#Q-\P>1RM*S_*<'F9[5
+M#VBL#^:QA2K/TOQA72R?[R[K%Y'\/2GJNECP1[,BKQ]6Z;_U\SWW]TPMTFSU
+M_#1=Z"IZIR^BXV*A8*;]MT>_OOOI09F>S6&JEZ]^/OP\3R=I'>&VHI??O?KY
+MY7_./#X?$O1^\.H\._'[[^>'KTM\/HY/!OA\?[
+M[UX?1A_>[K^[;&7/;F9A-/7!^]')Z^/
+MCSZ<'KW_3RWP<#;329V>ZTA543&+?M&3LE'EZK_S2;5\L?NP_^KMH1GKU?OC@\/CAT#Y;_<_G!P^-_]8NYWV
+MWA]$/,Q/#W8?1*\/W[[]L']PO#W@]
+MQU%5KS(=_10]6*HS_7!2:O7I89I7Z50_5^=%.I4'#\R/G_SU0?0W.5+8MSU>
+MOH5PN'L[?&ZG!^:7_A/!;_V3C<*SC/[H>W\1=9=&"X/_?OSYL*K5)$NK^0*H
+M DG@0Z;RE]]]-(_0'J(WJZ4N9VFNH_?P#U6G15[%T5&>[,31VW21YBJ+3I)4
+MYXFVGZM\.A[9'_*GT5929!F37+:*HWJNH__^R]Z3[U_ 4EX7BZ7*5S@Y?O;#
+MB^TXFNM23U:1-JN$C:D\:O)9DT_U-*KT.2P'9HTF.M>SM*ZB):P_VJKG:>5&
+M-GN286%:54?P0 H7@<:I"Q@@4M&%SF:JM*/Q8!'2*T^.L/$NDZ9[!6RJC#ZJLTR2%G<)B+^9%I#_#
+M$='118DN:X53Z1+/E(X9A]6+95:L^ TE25.6N 8U@\=H5>X6'ZA:X\'#!F N
+M3=]Z@^%8M5G:3N16636PADI/Z7A7-(+*LF@KW>;]N7/&$ZGH@4HO%9-"M"PR
+MV)*NQB.U7&8K7!V<:+!3.O*%6D5S=8[GJW/O7+S5MO:"9Q^5NEKB8S FKL[?
+M$ U[4339-(Z0)$J[Y2K8;!PE<)9U6C=X0,$00%[X&Z$^FK%HZNBU:BH=P0N#
+M[[V=T#O\M2BFT;%659$+G6^EYJAPK&59G*>5>7MTHF>EUO@"*]AL?8';QX_]
+M@?%,_870UFBDJ:99O9>@5CP6OVJF_)T(F2NQ&_B?8_P?9+(;IGTMIOWH+C#M
+M#TVY+"K=8=.G2'O\74#]R(7@\E@N2G0&%V*:,HOAFW,Q3Y/Y>!0RJ!380*D3
+MC3<2?W4)$4; 0I(RG0!/1=8-5SS%=>BT])D8W6J?UK> O/'759. !*GP+[@@
+MT>NYRL\T_OLU'%59 $=2. 4*%)PS*RZVM^UEUI7' I*T3)H%;!A%4H3\(YVE
+M=E4[=%1V+^-1_V:6*IW:,JJK2J97M:$[]?J$_$HJ,:QJ]29E5%
+ME,/K]8Z!V"R,EA=U5Q25^D*54[KXRS*EZU^>IXGN'-[0O??R_X*4PI<_E'W/KT4@S[Y9^K";IH"&\Y61J%3?2.T]%&/'Y(4\$9AO@<,$;F=MHKA%!5#U*NZ\B%&<0.J
+M%CQ1;A-_U9^3K*GP9Z*)38H<%#NP4OB$U!2X>Q7+L> #!^9Y-;?<\*$->]-XS(E[Y&@CI(
+M09VJBU)X]!>*\0WU7)MZDMM,/61M]E-/EX4^=X8YZN>S!IY,*]3G&^##P*3.
+MRJ*J0-L\R](SX\;6HPY%]$SJ M]:P!AH]\>%9D
+MH'(3U6;J N>=$C4;2]=7Z8T^C+^[F!<+^M*W=TN]+$I0LHLREO5%B3*&"XPS
+M3_4L.ORLDX:X_OO9#+3?,AZX3;1BLV0D)!!?R/''HUD*QY*BO(*] 7N_8"7;
+M6RO^]EQ^.BM5,XUA]1/][W]GFGTNANTO4*ZD"K==S8L<[*E5QT,1CFN&/4^+
+MS(H\=)*D"9AB8-=K$#\*Y!98*C6Y&[(B@0G@>/&/4I\U\KNS HP5IX^BL23/8
+M$7Y/L@Z^FVD:@.R<" R[A28- *RB98$NC$@EY#4<.#;OG%B2*]AQ5O#1V-9@[HEFDK!TS]#CUTS8J./C01)B=]-X=%&4GSP+,,UG
+M6:.%TJ\RX!:_Y'J.V^I_A'PR/A&#BKTL"[A6H*[4;/3Q"F" IBSQ&$"#0)-X
+MB8>_S?M.M_'" AG 3X&>Z/VB\J/J&JY-#5.VO]YNNZ%P%X8%UPO^?-N3Q
+M[+(K4#ZM^HAZTAD,0UO7RE_?O3FT4;Y[6^F&U5(E^GA<7I0+Y
+M\Z[('^(IZIH,O?CE=_B+GU'%!58&X\)BTGH%+QWV=@2WEQSJ>'T^$"7"7=OW
+ME^!T6O,RW J-+[)%&W!E>VD#9PRL!'%/3KL7@QQ'Y.M]O L:^ZH2?W5>U.C$
+MX'?L>SL+O#!H,ACBPJ6;0^<[A3(I1E_KYVUY2:3OP^^0EZY1H+X[./H;_"UA
+MU/$HHO^^7++^$<8H]:(CY?$C3T%AX^:YRBY@6QAO??GF.#HY^G_P/A\_,$-2
+M&/?Y7WZD_X3*CU$!7A^^.ST\_M(8[T:AF]YJA:YMF@Z;!AS2L9**^3)^P>H6
+M,BQ]CL[)YTC*&P-S/47]N(ZBUGL!,6![VP@*R0%C0"M"U0:%$1
+MF0L.W,'T3W?_:IZ$B2;DHC\O:A;'%[IL#6/=07.0/T53HX9%LEM^X\V_Y<+$
+M[[T'S7K^QC\XL3\P8=ZM25.S XB>%^\/2!B*J('TSQ/X''0(O%UX52D"XL^,
+MWGF5_*N!@YFZTVH+KVW2&397\P:OYJ-;>#4EB%8UBX4S[8"MEV=([&0^5:"'
+M3KW0>QAF]E2SI"A!75=LH 5VB!UO/ H'W'(19X76=-5D=64LZ2O=DSYG*\;'
+M:C8+T[R12+Z]\=&63FEQ$V0#"Y5R-H0W&0?,)QK_C48GZ*-P==(<1NE>;#F3
+MJBG/TW.2;;;4[(7HF,DD>.9'W"_
+MH 'DM:3"P)13E"6M!=Y&BK8#:(YD!M+)%K/MX+3\%\#ZL3]XYYV35>X\,_ZO
+MG:[ 3(PMX"FL> JF 6>:H*U6II7V7"AK*<#F2YBW@=;0/XN2SFL6.F(N/:GN
+MA1@Z<6#(7_7(-]SYIKGSXUO*G2N5:7%#+0L)P[?2?<@W1'XA\?*@>8VW$3_L
+M55C8U^)S:31)K;_@!N?D!"BY9G&;25ZN>?4R8&87J.B@4CCU=<+(J82XA:HN
+MDD_S(L. F0PY'ID].?XCRUAFVL@]NKV4":'(!8E"*MPYOZP%94Z12P]U6W80
+MI25KJ]4\7;:%:&^PD/F[O 7'+/O?S)>^"E"7__/,=V*8[[0=4Q(&2JYW4FGQ
+M3(2(\%4#&YZZH]!3PXSI.?DQ\-D.BQV/!GGLAL'>((-]<@L9;.C[:X=!3DQ8
+M"%AC3->0O(=>D$9-BG,=FQPIX0RI/]"RXG9H41JU%18@<0W_]5,G^?[/ZX[SC%5+.*
+M]LIH:+,.8\PI'\$9!$.[1X/<;-]_J&)=)^3#;2;U.H/+SDMXA=\M8/ 39-]K
+M6.;@:PB.7@P#\LV3>_=21H[,(I!&:>ZDF/ GX/"5,.+Q:) 3FRC'L!!PAWWU
+M+6VR-F[63:OOE)LV^@!$4OB)''CS_9 [7=H+G0'M;^T]D@_A@@'_6])O@2O!
+M6IE;2-Q]3+/)TT5?2JF9[I.CK6
+M*$O(NXOL;3^I-QE$-TQ*9[>:E$#Y&*8DC!.76*5UC,[NAG45Y$A[/_[PC&+Q
+M(+0Q_WR0'6%9Z7*@K+2SI\C?U \M0KKQZE13X/@H$L+=A(#OZ8V9Q,)JR7Y*ZZ_IWB@+-TPW
+M_[S5= .2),7\TT/)TEVC@P[EX>YGQ:?HUV99JSCZ7XQ5GJ33:?JO)HVCTV(Q
+M'IWJ%.SU%2:6HN?G%7"K.GJCAA.U-ASKZU#>IUM->5@A/TQMAAY!3ZW3DI,4
+M03X6"VW"N"LT=5AS_?Y)H+EN).'-TE5VF^G**\G_"IEV!@4@J(8VSE4,SL!#
+MGDO(RQ(N-19AB'^WY\=>.1[7ST4]Y7-!X9L=\440S>J9,>TK%HE4 ULI*6+(
+MQ1V<.5\M81OI),TH$NA2><>C>7&!A=&7ZZ.>Q_R?Q22JTSIKI>67FJL7*'AG
+MD!74I4OV#\GZ^KV8F/>R@[H/F*Y(@G2;@J15A5$T]C2WDO=++7&T@S8
+M12Z1$#M='#R&&=P5%P>4)<6#T'G/I4F%E*2T-\79+XPTT)_K;]/7)86\E8R.
+M$S0<@W!X %@"C=G]N@,_ %,_VT7'K)T;%TE^VC#7D: /JK[U\#HVVLS-2IW%
+M;98Z'E6LT6G:RK8I%T$,BS SI%/ZLE%J;IB\\EM-7H@WLC\%;I96=:GJHNQ0
+M&<5@_0!UI0FCJ)XCMPY"U7M/(D[6N!Y1;1!#!A!#GMP%Q) 3B]?SCE!F4'W+
+MF2HD![FKVOG0(H3]=Q1&W)V [=6/6Y+6@6DI+ELD_N;E.$MU7U\&!P=C$8UB
+M\D^OOC;$UPJ(_!GI!=^'R@Q?E0DH*X854U*S0S5RFFX_$% 7MFX\LK?4'?$'
+ME7P"XO*@YH:P5S;L^_Y"K_137D[FT=2G/,SO7Q0-/*8Q%C\)3E)IIIOK3: 5@:X=?^%2;X;%I"'P.#
+M@\E6H )HZY\+N$^"[ -H0OBCGYWSHL4>71$73 QLR#\9*MFIRW32T*AM+X5=
+MK.=YLD-8S)1@"#\CG_A/J=/%I"DK=H^'N[T:3XI]KUG/61&^MR^J9DU)"EOW
+MO?&.QB.K%&(>.>[Z HMT@JVC Q]]<1GEHE TJ4,_: K#R@1Q9>M4N@>)##!
+MQ1+/AOQ5P8N@3-RAM9#Z>8'I^*8L%F2 40Z1B,V&6U1!)/'"8+Z>]]!$_PL6
+M&-=0.-DC+/)L97'./M?6?^>/:PB_8DP)+FAU%-,^2$(N)DC98G#(E'Q8O0O%
+M7R)5SJ1@#H114=4/?>PV>S+P,];F'00F.E&1F<*K'$*^R1%^-(#AD'60^GV?
+MTI >;]*0[KF!8&'P/&F-C@V5<^FNY5FDG&(\$
+M]0@9H.5OR#O@>I.N3AC5]K 6'\-W]33N^6;^G*_E#B/
+M.%.E];S1/>,![]4E0$X=)/@0O:X"+GB5(4*T^!OV9(U'UW=E>1T8CEY'&V_6
+MQIOUIWBS@-@&75G[[,I">KRN'^N5IY.CCZ8_#6/(FV6[,,P:V*GL1P349WU=,C-OT57#Q)KXOG!OPS7\%M].)+73S]+^T;=//$O!P\
+MBO&(\JPJ3KHR$9,O%%K6/K@\/M*O)SW6%%;E(K#6HC-BH!P5E-FVC-#LTZA[40ZLX>H./
+M1S)HFJ/[$'DG7N.M:IL)G=D8::>K2):A;$JH35]L]=A8;Z0:UF@[;&R(_-L#
+MKOUB=^'3_ZR[D(N+AI;@-,?!K+BGME>21=-3Z*C[(9W?!!WFL$5U+=UR+
+M^WU,DW3FRB@3'4]9Y$RC( #.WW*MDM5^8M2]; \^TU'!%QZ::^Y(RYN*FG9>
+M2&.YDQFGTZQ*T=]442)RG0^56!DK[0JJS!:([44ZI.GGOA<
+MDQ&6[,@Y3*U*,MHHM_A_5(ZU[]%>916'"H%SIG;6""=%)G(&6CS!Q%D_!'YS
+MV6FV>[9O]()+]8+O[X9> $2:,D=^79SK'-OA&BT!A,$?4P\"S^G5U(.BMU*2
+M@%93Y_WO>:28 $=27J/?UDS/HRTU[ JY4KN: [C[65$UI;;=:OAWL,_UOSRA
+M1CTU+<_\%"7E?H7A51)U5BT7M]O$E,!:ON6YE)*P20[V!,+Z1$IYH_).\0#%
+MEV\LA^4A/JI"#QY;=)3P^?*_VP\L[D>K]$Q,ARIJD<-/:.\SO;
+MP:STR#H1L@XH!'V,RN9#HP.)E]0K*!_L8=Y5)3;QWSBXNQ :OHB *Y7Q@O5RBU8%^QYGI ^?5;?+,49Q6
+ME^<6J*G@]5K$]DN &8B?H^:O9!$6M<+/LKIDP':NE,\(D,'B^.CY6&D4.]A(
+M$-AD.U;;6G@O^Z+%/22-/DC0L+N@T>'K_$_?B;\5EW%"/50_8V]I[?683',*
+M&I"D:*\$5,3Q:*+AI<\Z&,G=VB;SE3A9@RTS>'++>6$6;Z/;T[XXJ-O T$&=
+M*X.M077N:ZFHLQ#[N'^4XU%3(7)EKU(N=]N$XOV6.ZYSMW?=(N>:I@ J[*03
+MV^5>K/P6\ C65Y&9@$QE3P4'!HU&?TXTL%3EBT@$4$?@#>=MYRN_\4A_!1GX
+MXUV0@5>SN!HR>7RS"8C+S[!A.Q6$Y=SF]@@QC4<<,^>+T18*OBH]E5FTDT6,
+MCA]FZL( YT4&UQ[% K4-<7\.2LEU-G1;G;=2L24)34P4&258-JA&=SSJ'8D@
+MGG0#-',EV>O9FL8*(L2DLU(M6O&IC;;Z-6[JWNY=N*H'6M5S=]F.$.#=I[0I
+M]98(T87\[Z4J65<>/5K*HQJS#N5?->PTZ%;"GH@2AT!I-FR;DG5H-14*WTKP
+M)W8_,!=PH:;:B%<>05JN4YH\X9>W4B.LG">&T68JV 6B7WT( T7DHLZE@X4_
+ML57IW KB@71!3;W7-_?VJ]S;O;MP;W\'"L.0']PW=WM]_PCV)+^0AUQ0T 3?
+M.LJB%4C/QR/K3"4\)SW%@&P<$8E1JB)"RV6HQV,>3^%0#&KU67MX='!;,G6!
+M%#MA-9+2B]I==OS;^\*Y1J7%X4):: 7;*JD0!7C!"@F?>SEA%J!&7&F2V 7G
+M];'Q0ZM"V]%UMO)'@\5AB#33W(Z<'Y(OL%U+A\-S
+M,8L>9(R12QIYF7#&69.R-9]654/+TJ7F*;<\0 NW<=EQ>ZN22(.2QBS4RUL#
+MF@<;!K>- )UI57N>I+3B;F"YK1M9]U0*PI
+M-,3UH34V:*K),L.&:Z;_EP"03DE(+)L2^PE6QH'E,@I,DAUMFU\<:KNFFL2*
+MUED8.BB]UTWF'.;L>["TPVO>DL:6=B2GV7I(LGF1FRYPZ,:9:=I*X!JZ8A.X
+M[4BZS'5\5MA(,:L05I:IQ4O:(LJL='F>)MKFLYOIQJ.U3>?@3<>]A\[RM??D
+MT34M\4'.T)$,&3=A:(,%J>4]=R<
+M=D"B9I@K?5; 7W&GJ$/WNQQ\0F^Q,^K8Z2J>.DN(6QAV98.I-7QNR/)6';UQ
+MBGB2IGY)F%YO]F_,I36K6#11ATP?7/# 9,MZ>?&75QU>+3\U],_RGE9/;<^/"4&]1AOZ2A]2#
+M ?LZ>(GO6K>&4_<$F1=XO@^8G5RVE1']>IF704:5*/T=^MV.R4C'U
+M=^K\+(91T-JN8O2&-:IQ%\G%C-@3OIEB$*Y5OG0 /&_5 =C=;MEBUJX;>#$[
+MT<>EG&'G',8C?XZ88FE6SYWB5ZB%-675*..U22N/FV^9K#!//^B!@"$$&PJ0
+M>7IU9=0Y-:E,YQ>&A\%YMUL51!QBF[7PJV@2!S!CZIU*O5!I'J!'87F3T]O&
+MH]!QU8X-TD0#23 Y0Q$;8IV2*'(B@P4<1P0V//I&>?1M9-*G7?"+H(2WY8#P
+M@-_\FTC.D@XSOPF#XD:X.54DNE@VVLRE)L^KXQ.^5[O'%^3=?6+O2?I'."A)\[F_X4LNP>[1&!\*LP3H!9:;@_W)[SV;!->NP/<7JPVT7LC#A1A*_1_\S4-':Q!4:1UWV#ILM'+_+O=
+M#IITM3C_HG-ILY/\7;@ME_(;B/K6X@>DOA=Q'TYNW?B)OR% G3#3YI/&;&YL
+M&@DD C=)ZBTPY832*FN3NN$%@N!Y6YEO++H@$]Y+V:2:?,)>]7H.M3T)5MLE
+MPZE+V &$53>>Z@78TE;DD[[WL$]ZHSM> CGC\YGX9']('R+DS4^_OQ;,64V_.B'W5^C
+MUTT]4/6L5?89V\(YZV-@R\KU*A8MS#,+XV"%_(3]D\RRT"?C5>8XCESX7IFM
+M-$^R9DJA?(,(GJ4+4Y_-Z2HV%6%*H&SBWJ[J(OD4%4LCT,8C 4DDB+>'$X4*
+M%:/';:_%Y3XM:I7!F;($\1U:K&*V(E?T(A-J1E[-OD@$H)J[YF'J>3R0^I$YCHG
+MA/LFL,ZT=T-588\(U(LFJS%SJX4<;U+]$0"U-O4!L C9$!TAIJCH*;MK>Y_R
+MA^3-FXJ9_H5=:'$DF.51OBY^B)Y%K:97.!TR)3!/&)5)'#<7J-7BOUY[=
+M3O210Z+=&EQ2ZLY@\;G4!;1Z/_:>BLLC>-(E6\9M3>+JI?%/,7GX=":6@5<4GT&WJ5SE=52)P7O5%>UEU'8
+M!W[#+PQ_H+-4P'=[-@FDRQA1]#RQ(/<+$UQ,5#7W\H]<5P!GKH57AO1A1LFM
+MZL@DILV:&@PZ^)Z;O#-!T>S;PD,FJ[7KN"+'M(" S"7_T-@&^@(^E6FN/3PF
+MN:\LDH:QE\/WP(4$2[R,%-+M,12$<.3UUH1M1,^S,]]T,0Q_Z86&RB /D,?T>'4B6
+ME%(4&,1L>^_N5G'0>_<#%"@XGC.5)M
+M5U?/;,!!K:'1!1!HX0G1O)&W V'?:S%Y*!+24B;ZM^(-#+\X8TN$*-J*;=.5
+M0WZ])218*2!!RDM6E&E#9$R>'4P/$$>/<'CR>"&89^/G]%5]A$JVND_Q8CC!
+M$E EX_,K=5T -8>1>-9>V(7+-I!)'52F\G0 44*.RHY"6R/-R826O9.\3T53
+MW]_SJ,Z-'21YOY[L8/M4LJ7WIT#M:( K4Q[C?$P;C](]]BCU$$!1\OM'!;G[
+MG9,7R%->%9BL1;XDK))':U S@\-\ZZ"JG*0)/]]J/V-^Z,FV%YZK:%Y%G94XH?T]L':_:L@#J2%G>E948F/T-*W;IH)53."I>]J\+)=%BCH4M4+I
+M.1.4\O)!$#3PO$;%D&)D!MQR:3DFF]M0<6+@)(884154L;@=P]I%)^EWLI3_#T8)5/
+M-XPE"@WH%FGFED8;OP5KLYJ24T#ZW@)3>,_;%LU!WKB]_"IR!7DI+ -L4,3S
+M1)]Q6DZI9=4J%KV+S8B:#&A1BK5A[>PN(2W41F@I5EL!EF/")*[HU(@8]]C^=
+M(K#25O/]<.4[M/SO1Q] .V^9/%T0.+)&1^F3XH*C--0&IGDUT#>D3 8CQ)5EBL2
+MH0WKOYZKWK)\ZV>W8AJZGE14M,QR0SV87O0L)AC$UJI
+M!FBL?.X(;0%'0'V$X]L2V339QA3A)H$5,_0$@5,X,% RALHFZ9P;NP:-F\N%
+MOV!'_VHP&"/AC)E"$/:AV'HL^+@I@[A[?4IM)Q53GR[O"(2='VI3BTEZUC@%
+M!>$2< >C[SCDS=@4K^(/$+2D?.4TU-5U2QL
+M08R/,!06BKHZ/5O%YA067B&;G)28-4 N:%XZMV)GRMC8GL[L=)D57?7%^64O
+MYH5I#PF/'1J\XD/SO"%T K)2[>(2CR <9D#_!@2PH>H)^G*!GYG1FNGV$U,J
+MWC.]EMS2-:>FI@6P(49+(&294I\UF;(TVN0IM4PR\'G, >0X>RY%"LNB>%J7
+MG5SR]C)]1OYBEP@9BQP%B4S4CH,_:L/QPK]SK4,+=;V?7+._G#/G;,;
+M[>*V9BT/2FLG>KW+VRMY*?3^69>47$.Z0Y]X3W,0NWT.P_QRB&EK1(,5ATH*
+M,A=889$T#H7#:YF2J0L6>Y1^EPC:/:%:BRXE^8!&N+'WI&0+-U$@P!+L8>$T
+MGTG*MG[!'40,M^99_,)P*F)8%IBS97+N,$1F7"X6L8=](TK::11BV7,43K-/
+MB)4:*:DL::%I+@DJ\+? ^.)1VH9N R\T)2QW?"F43HB#.$AUI^44(++/$'U5
+MBKP0!2>6L\8/*IVY:BY)W""&G>,7Q*#1*> A+XY'Z*"8GJ< L)\ ;^'UTI\'_H:"=!$C,Z;,Q9M\QC$M--P97G$-L6%#[*&H ]5+J6
+MU+,X8E@C::CDH=.:(QB/3&:".Z_>6$,<(/#)4?5N\>':W=)C;^&%A?)1
+M95&):>6Y9'-]!D=-O;;@.]6038D6R:P!IED:*!+O%S/KYQ]@9>SJOU:RW:8&
+M9Z@&Y^FMKL%Y+;?J*,>T8J,9[B^76F75IA;GV\Z9CZQ/O?*Z CB283+!
+MZET_57+6[5]!KB1+9Q.4%5X[D)YO368:9N9QKG>W[QQQX$53U5):(>!FHB/V
+M:=8YN7A(_"@#?W?=V!)![W_]Z$'/!V]R3-?&CELD')F]=9N(JG4,CU#KI4):QL\I2.'8EKA7IG:EK3QUMG##SWN;&YVG]MAOS<-)S$?2SNL>C>E4W%YKEC
+M_P$?.[H%YTWY'(0VX3I%R.KA.:IUC-$!H\'.3I=^K";-R:=A+ ?L2%'BSZR[
+MOXGB72S
+M)VHQ79\RIJOK]M.S:LFUKKI48RP7/&IT(*5ETBPP:29Q34%X3[ RFSICPCM\
+MXHFJ=#PP-7I8$ R$,[G\_KAFX3-&]D!?E'%W>"LT)0&=^=N_"\KJNO1I_)>RTHR)@]S)*Y RI5G,!H7K$#YC4?M
+M5S+(,;JLJ<,FT?IW)]\+(\P4UAZH)ZMIHH7K,B/SKP?GC5&BD4/ 13(D4R?@
+M$[V.;0S+A??4OJ I5Q_?I]C6CYO8UCU7OFYC; N4KV--^1F"WW!,5\[9EQ)U
+MWC+%:/RW$:3B2?\W%;T[&)]SO2W! &J@%7"O :4M[M?:*%K?X1?D%R2SDS/5
+MRV +1L<:-$>%XSW>;4MN?YE.G=RB5 5B>/S)<%XE,3W4%P*FC;F:1<#>VX>%
+MV!-+[&;@^B]M4/%!&5>
+M3MF[8,)K3BFCE!F_PS9JY]@QIG=.#W,>-$U6G,-D6$DJ)3%P!3CF&T\L';#]
+M_U2+=Y/<^F7)K4,4(1\A>WO^X[5S6P/*%KHF"]$98)11QDK665F S55%UO;A
+M8F)C\\"#F.U&-[9JZ'Z;7YIIPM"V)*-9 \CG(#.M,T[]LSQA;6Z1L1U"K9J2
+MB8@M>&HK+=)C"S8F[TRR(/T=AP>*G7I)B$68U)9BP?$GO/\!T\/CW.F\U(U'
+MYYY%2+UT7+P:ODJQ3FX"%1+0#(;/>JYAG[V-)@)8ULOVO?H#=G6T);!Y#,33
+M;S1OQWUF-4\JSEI^<2J
+MKE-,#L.(B$WZR TS1WT[F>.Q23R./EB(W+7L$04N-JN>9'#O7=ZRA[ ;#S2/
+MM!4-]!EE&5 (SDEN20KT17>06A((\%;N0IH+)_/0@R5KY$JZBU%S[F$] <,!(T*N
+MPIMN#2'W;Z72_F1.Q:@FNJZLI%TG]"[!X?;\IRV\P[VG6VH;7NU"%$S!_EO@DR\]DFM!)\)!
+M3.4@MJ\'/_WHF^6LEZ2^/;O%J6^V$?@1,,5%3BUW6SW#:?51B$D<=$^DFH6!
+M.R#E?N.1J32HJ(4C%B6C=P,4C@0>PU*_,UL.$3IB;15%F-]++DU9HFSB[22K;#N&+X#-3TGALN9_7)R5),K%9@,
+M$((\SG]7GOP-6<\S6U?G/\YC.-@.AMHDF<#TT^Y7[F<<5RW*N$_1R;W=37CR
+M7@B([^^"@"#F_D[JCQW@":$8 >/S!0;E2I]:_=K4+0N83()Y)/6%UD$79,27
+MF;8JU').QDCEMVQUM@!7Y,Z;'Q'&S1P9KH._\0N@R4]6$8]+N6PXEP;J^$4<
+MC,7^0Y,E1N!<_HC:U%NU!%0L0/A4$XQAQA2*TOV=KHF==B(S_AGS$@!/]2"I*\'W.1DH/R4X0>1:MNM6QG&(%B
+M9CKZV7[W9L6"YL$WQH#E]ZP=49K]Q7LSF .)['GD>.QP_:=LRCKF:*#!-C?P
+M*]S '^_"#7S'0'N(1-&]AB2Z06Y8^>#PE6>=QEZ!8#7TBW!I/#A'>D#BY]4,
+M[SQ?L'8(*-(IEQF3+L_ <*"S%TOM;"1$] OMGDMJ)_5GG3120JC/X>*>*8K/
+M29%C7:M$_KW,])3%[D3EG\IF62>#1D)_#&AS'0:NPZ/=NW =CH# SX34J#7Y
+M>R+'#XHHT99Z'7L-1[K.$5(&31\/BQM.CD2K5[6;,H=-Y[BBG;OTN"B(\2Y:
+M&*#4-) -&E)2MHL:AB4<\!.XODJV^?;$%G,(&L5.R_-C:SYF>HJP72 D:VH'
+M7D99D8!@0F\0HE2M[=-4%1C316N
+M,''NDCH8DM\AT)@_86(,)]M;A7BB;;4Q]_AI06%XF(W!P8IG%F%&5\5L%@?]
+M;L8CDL=QQ!O"@CV5L&X@FX.]JXQFG305UG"S,6)ZGU#HG;UI7<)I!R[$DRSX
+M55X+$@%;8,;J]8DJO*XU4]<@!X]HV@3M'>0 0Z\/FTNN)L6L<#P:7")UDEHM[P#/QK12H&6.7S/E^B/)!O/3GT9:2<)7U@"JS6)G9WNX0
+MOY::D*R%^&:6/T54.(W($&3:5,Z-4/7IABZ_&/,8SCLN>G-OZ92H(=V!"0:\
+MB+8FLIF\N.9>5IV%MM<9MM284Y31]("SDGM=N-C(LYJ1G2J1,QZ0#G>.WTH&
+M-S$>7?I&AC'2[8LE6E*9N(#N: 56;->P4GE-&""K6)::;X\>" ]JPIF\)"C@-[
+M.C7M2GF)K2 GI2D.PXS[QO"]"FGM;4):]X+MW.:6VX[MH.5JA!KW63@F1<&Q
+MG\#(9O \:M3(K>&Y1YX?]P!=I^:8=H7^6<.=+$[O,37(H#F/<@+K/=$@HM%
+MW$]H'7L_?O^$F_(M.#8E#>)H?;8G'*]6M$$QD]:NE6T@TTF 5WP5L)=-YN3]
+M S0ZEM[$1U[V[O[$Z+0V/=GXOJ3P-%"<*?OYLUI0JK[1B#F$&4=>2EP+V<-F
+M[U(*$-G]KL+)]4KUE\$A1NN3BBD6O+1:*ZJZ5FO$U"$LZ-KZ!9&BGS[%-M6<
+M4VA#L!]W3G:B ZS4K,W-?ZLF)E/)* 9V"\T$Y@73I$+W#>;:'1>@8LC<]E9;
+M+Z&YS,&V"1Z@>WR$]UY,B(/ CE*;Z51I[U"X7J&5#SF8&4@*3:E-2JMR$'Y:
+MWHYUB"0%._7Q,.',VRO$=BJX0)^'F)[6"NR9Q<(S'3P<#[1AZ56@U9 GJ7TI
+MZR!>??X)%P]Y8C46P[ZOBTE@EVDJ0_]##.BM3,>%;D?APLS8+@:M6SW O#-%G9KF1;J-CVS
+M'6 DNX\#'LO2%*;IX"FR^IB1-@*%S74C-N'_MRH1]\D
+M^,8A)U4$-.;L BX>[:,@3J7B6H4V";J2"Y1X9WE1,KP&ILKVHJ)Y<\^5YVS%
+MB_ I+RZDN!6E.U_3'EW":1'M-&1;]MA1W7(?#H@"0P(\AKJ:%!(8NP<]U;-2
+MX8&VDKLB+[?KH[M1,2>D(&L:%3*0(CN_!HH;9H*,_B*[D2_
+ML!.&"H=9/0P&$2VI\K0$8N0>Q$91#BN/MEUST'G(GV!::$YI- H1/+!H(9AT
+M7R/SQ QWWC"(O#)!5(*0YOI;]A1[\&'T50<]H+\[J=B#$DQFF(#*:HO>6LA4
+M5:O.YXQ)]E][>[OHRL:->.50X1E[X&EV*EOB'2Z VJ##><'.-:&(VT>4=P/#$/K0[1N").QY:Y%Y:>:58="6(M_T@MJ-=<*E
+MC4>:B]6\OCL6KL,7F4KER,^\&GM6MA#U=H!
+MIO W'OBYF78!XIMC49W[DU:!;)Y:X4RLK:H(ZN)*LMCB2ZM7>5R2WZM3>(@&4PT93I&3)&>)-X ?0*&*UA[/L$'.]
+MR_ C,CFHS^JLR=K7M"AEY]H -;F7XP?(&C:JY!I6VIM\8-H,=<[>Z3JCKQD8
+M7SB<$X*%5$,OD2]2BNV,TO,B*YIJHPQ]FZ A^^XV4G;4_S5]X_IU(6;$H#:X
+M_G(J\"QU+SY?PO%(&I^NX_K=J;K3X-UT?MW2G_XJ2O_0^B)_>;E68C_-O/S_
+M87=0%'J#8N)GXU$O0\M2TZEP!7<\JG6FEW-,AC;%&=
+MQ]*Q)C< YO%UE]G/=A_M[F*8V#;$B_;!-&M 97FW\_M.'/VN*BS"J'&0@YW7
+M._#\H[U=8L7C49OKB]ZZ)%^;ZA#-X%OK[>CDO4HT_=%H-L(JF&!>$,[(M=_=
+MH"=/D3SH'XQJ;/M&,SNZT),JK'%QL3,MLIVSXOP[^%3=J_#>HTUX[VZ(
+ML4O">T_N0GCO=+74QOCS$PJ\NC05INU^00.I3>;)$(W)PPU6U
+MX^Q#POQ3H3CO4AN,&U^":_,^'@WV>?\S%S3H'Q=AVU#V\I3G6APL@M9H\&IZ4@;B*/GN5@ 3;UCA/6&%
+M-T,>OWMY"09)>P-:?0= JX?6X(-6_Q'Z9$ZW$8Y_4#C>"9"4(Z185]CQKD$,
+MI]"N\(,P.7U/PG39E)120G';M$J:RL9G79QP/.(<.7+&(6)60N!*3W?W-M42
+M7X7([@:$AF2[D?5XX%IX]?DX$N.C122L0G(@7:*E"8F;,#?&IGGP)47,O?Y@
+M)GUI4_/XU:CM3L!%_&J)Y:VZZ",QDR'AU=AAF8[T?6^7B'5A3K NK /?B8/R
+M3[UR]!#_Q0 GF^GU&4*$2]6P+C7]W'V/Y>3&VW_")>LSN#WP,>;I;)E$&!@&
+MRS:IF5T^@YEK T#A9M]NU=%C*L@2-)W%4A 130":ZN?OD?O^\3UWW_]I)\E7
+MZ_#O;XY>'9V"Q6P+B*^OIO[!9?SV\>WIT8>W1X?')[;%]==FXVWNVN:^\B*_
+M?_;7@$E_7>[?VCK2!S-V$[>QC/O9#\#TZ<;:;PPKYITZTGMLGN3GUO_[ZXY&
+MW$1$DYS4@&"*KGQ2Q%D&%OGN_>_'^Q^N+8O"7)-%Z-GOPU8B9KGU[15^D2P6> #@6E%V^A^*A^?!:'@+V6ATR4M6Y=5Q]
+M*>'R_;P" ?4_:&B"M#@0]3M/OVCP.[+:FV">MYW>]K/B4_1KLZQ5'/WO',.>
+MZ72:_JM)X^BT6$2G.JTJO2HE"?Q5J>LZ>J,R?3L(2U5RML<;TA_8-'
+M',,J84L'NWM6QI/U5@8(F_<'_X /WYS^]O;G_P]02P,$% @ (8-(5O]=
+MEZT4(@ +8P !$ !D-#,P,#U=ZU,;.;;_[BK_#RKV
+MSA9L=0PDD,D0ABH#)OA> A0XF?D"\?_T]#TFM;C\@CTDR
+ML]G:V@UVMW0DG#YX?7%T>-[KGAZU6X>#_N"B=]3[YY/=GY>#KTJ*V8TS-]
+MF]NKR^Z%Z%Z>MELG5Y=G_5/8@SY\8K?ACV,)).#XG>B][O8?FN[++/A2J5B*
+M:SE_KV*QYHB??XG)3I7,!,UX\"DG6:@/Q1.=1,"K!WL_?>3<@XD2LS*;I;D2
+MZ4@4$YV+6W6G,IF$JMWJCC.EIC"RV"S@R;__;7?OYY?N>^&^QB]>O-P2\':1
+MBEP5,&M63 2^!!(TS7'P>5IF\-U,9K+0:2)&63H5Y_.9RD8Z48'H)V''G^%IE_$0Z&N$_4YQ#)&E&]'GD/W^9
+M"U(E0(W0"3RX:F"13V0<(^5YH8NR4$"DD-%4YSDN=#CWA^XTV<4[^A=P] TI
+M7."=C2-6(S0*VH_N\47/CG5\=7/:NWD"IN*B>WW;.[#_6,M03>[;$#S,KQL[
+M&^*D=W%QW3T][5^^&M4)JS;J4\V6Z!&=CNL/P:G]DW_
+MB=J[_LZ*^EZ*SY7ZEV*1M,,W1QY/ _?U@#53XOG#[3='':?YB'KXGQO\'SRS
+MCU5/GZ4R-N66>(>RI!QY3G0L9P*W1R")L(Q3%:KI4&7,:;^0P7KJ2_D 9$TG
+MO.9362@G[L=S$[*Z1@^
+MS%22*YQ5%K07$WD'&C]+0>O&<]!%89EE9J'T#'V?I 5H497 ['HZ+#-*TK!$$GD$4&GU[7JV
+MR_O566=X_QAKN#G<$OT1$[Y^<\ELS,6HC.%_B?MUD;.IXW,K8&SX"O_I=EO%
+M*BR,52IY]6&*@X^!)8#DC*U/PW",@:=F8J)D#+/,8IDX-F.!2_(TUA&<0R2N
+MIHD>EKDX+J,QV. ;!7.%&LP;S=4-R7;N_O)B7VP:$WMU?-,U$A?4!)C.%#B4
+M),+_8@:&W>@GLJC H&4, &:6J:DNI["00L?T!@A%K&%1\.2FWN+#S?4',84-
+MF( HC0J[XB9'O10PZ::V+^%@N$ ZF"$L:@J#@SNBAV ;D#ZS.4.5J!&=@]D@
+M"8R,XL*:"DF!_^(G]QKPCAD)L(<_%FU)1YPA.(%'8:$@B?"Y9KX()REB)900
+M1#H/*Y]0)O;(5>.X$4?#9"A:<@8H))1 1$"RB&^Z(Z#-A!$RY78962Z%Y^RI
+MX R ?DH&5N;(X%FIB:^,Y%:SU+D0V%.G40?5.L]J-":?,!,)*]:AY5.#XLR"
+M.E9HHI0VAOF<7@MX"'- 8+E+@RQIFE!)Q)U-*U'7 %\3#F^&6V+0E )<$FZ7
+MR@M2JF87:>=PU5,XHJE\S^Q3)IY9= RYAM=YUW$,''>^9I (&" L\!'#FYXB
+M Z\5\-<%^I 3(IBEA]L;ZLHZH2R,T[OMM]X VZ?@49(QO\G_^\DEGK:F133
+M'T!R 4CN/P0DG_Y9@"0X1]\;? 24HSZ$$PF^F5-6T[(@4 2\K1&Q5$ZD7J=B
+M?=-$SAUYH*@U430;/B(BD#L9L_O7;OW7[B_[P<[.3@"X2H<3AV, M/R.&@Q=
+M1/AD%5IC0^\]C+2 HF#X]L@5@)E+PKB,T#-$Q8_*)M: F1!.XI!H;6HCW2J:
+MWJA* ,H+"LNN?HF7#._+=BLNIS,@?,J$P1GH#'2;72%;@TIGB1ZXMS GV ."
+M>VO\8K$I#=9$*(0^>*30N3=.^9;#=-NG_;? ?B;HV&X)^N_AC.6TKNG5=($+
+M\2-/D(<*=@<$.;Z7\QRCDX?G-^*V_[_ SL\V[) 4]#SXVR_TG[J2L!)TTKL<
+M]&Z^2D3TLW&J?^H31!!X!I$!G^8[P/Y\]/ 'L%2AE$4"QREX%?C'*1F5-,MQ
+MD'8+;!# =QP'3S$@:&+\$T;PR?W
+M:1E'['7<@8'UG*C7,@LG-4#P3&P^?1' Z?DT^_/'OA?XL3;9F@"H/U
+M.S;CY,8!4"$4@RLW&_-X7F?!JT:)FBNT %X";AO#RP5[Q#A++J$C)?@!?(D:$M@:B+3L ,2J#RH+$6+CMIMCM9MCE2SP/P<)['G_
+M-Z ><]P[=-Q[35RY%FT?5$X&BD1CUFF9%SPK4Q8A H6AR)D"L3 ^R2H/UWEG
+MS:A>#RQ*,017*(A>[6S'8#>!E.U
+M, "S^)#LZ4B1^<#O'(#%@;^%1QU2L C$Y'V2WL<*_%(6/CPV8RD6K52F1HK"
+M$K!SZVPG?(QKJURZ"'PL]/'NB7E]J8%==YZU'[FJ L*;:8;J)!/W&:K*9 O_
+M77F] /GG^,DLDR%Y0G*8XVLDCL!686G=XM4*@W:"!'#M\H'PH:KB*&8=9K$Z
+ML7+# >PH5;EU45S,V ^S8\@ %'OC40Q82^M;H%J"5::)XKU$RLBW89)'94:?
+M^H=(M .(4[/"0;A\ID(]TB'@B026KA>!LHYD?!'A. AS^&*8;]
+MX!]WTOB @)L",:$@S)S_H( A:<=T-$*F<63A\J?()#7JX ES$HLB^L,5>] 5
+M>_9=NV(G<*Y*+(OS=WK*F@2;8K$^1";ZSEU!KT7X7U>TXC>D']H I!
+MHR2/=$QF:L["&DO0;2AN&); _Y_ 6E'2I/6WQIE6=SAG3B$YF0UUP:H%\2^\
+MGA>^D!_>OEDB1C_OPQX![:#$9?R$0/P!L<;NX3:\<%0/$F+@!^9G.L6;SFU'
+MC!0JM!@L<4$0,1-Q"D.),<;"$HILQT".2MA@5-K#1MC]<%^[]7N9Z3S2M$94
+M81Q0I6VNU-6FDF#UI=G<5VXFV'RW6L,S!-\S!202WS?,W%S'/O I,@M9/K+/M''_XQO[;9A=RL6FS)6 Q
+M)NCNA.F,3H3BDUF:H*5"=4R A(*H,TVY$I6I=+3E!>\!XFT^8#$H;:O0?9Z
+M'04&C>4,=I@A&NO^D$ELMS .,4,BMZR_9K(S;.7D$'2AS?42#"#;8^7Q!*RW
+MQH-! XNO]P$2Q+@FC%-<6X(KL?1DUT++[BS3,5N*IR;:6D_6L]Q1P.&;]\*-M]$-@=TOP3N'8
+MAB"H1M0S!9QD$!YL3\$!$1KF\.SJ/JIVM@7O0+1$&7T+@NMR2%#9W'SD$]%(A,Y_YX)MV2R?(7T0U
+M(ZD*Q0!NB7"[HJ9PQB 23R8*RWT.7G1V'C+Y*+_#- .-9#_9G7T0E!(2?]NA
+M_[SDJ,7N[D]_07#P0,+_DRR W:3O#4^TT&E'^4)$Z194P51*M+<<)<^N#$@9'Y>F2
+M%)@R2]Q?E)]*XYC4I_T#PX+T(+MH1OS-MPLU!5OH^@Z!$[3,M$W% QFL6TDG
+M*(\0_%J;( @\H1EZDR<(E@"SWJ 9(QO]"C !*X++"FPZ4*"'E@]E)/3#:@C
+MQS@9S9NC'LS9LBX".(QF'LY61 ,7F$+X7/&B >'_\#)+6^/X5!BM\",Z^Y%H
+MI]UBAQU@!BX8HS/&./JV L-$SI97L2KCS8(5Q>(O#.UX1@-]?AG#F-'0 !;K1KO "R#2F3]5(JQDJG B^3(Q1)2F4XG= /N30
+MHU%&-Y]3-:%2A#99,>6EY,*Z, 4 (,@J$8F.QI%%.9GQ(OR)>2K00POPEL:W
+M$<^"=EIZ=,AX7D+5HHL #K745]4*LYN.[M5_-H.)**
+ML+9 N@&H)+03%"QRQ[PN50)/45FS1>L5*J'7:MC#NB1U].&1$[A,M $7$Q6#
+MFLLT NF8U#$X6:#7\=^@T+$$P 7&Q!E[-#C-+?DT_NR$QVR(ITZDK#](7+?9
+MM1N? SWPY>9NQ:&6?-@(#-;8B0,S[1)72I!:UOB,J;A<;F'HU"D )"3(<9:H
+M>< @;/.IK3U)8Q57!2U>V6NFJ*J%&=EC)CQ/.'ED>+0M=SJ-77$>U:8AIQTW
+MUDO,Z?S9ZN@L-C1N+ST&@^2E]AZJ9"K BA/BNA'EZX4=WU9@R+A1+F8X'8>G
+M)%]S;)9*3VJ7N,RT.W"6DHJ&O&=H9/K.;M7ZG;'LZ 2(H$F-6]B'LZ>%(V<*
+M0ZHX..DN,+3ELC>-JFNNQ^Y N\5;X#F#[,;KQ,I:;;AJ0TU E61H)>&!#7NN
+MT'C?IFKE':[;"RLC,O*5J_.9-(5ZQ3W'F5<'8:NT=.47$O29IB478:^*\KK
+M]8BD:>#[N%I:!F>@(05I2=Y5AQ-)\LHR;AADESI=P
+M&2!,X$)3)EB%0KGE.)<6@K5QAB'HA#!A, 8?V7K]UCZQZ&/\O#+!CI'JIM>B
+MA879331,CPB,<([+Q#?,5VAK4_!;&SK-E[';SG&GW7J&R> F[]#JH4W"24R:9^ +L*'B
+M(=GDVK!^%?C''&\9>M",PJ" [7)&&D,5:R 8&<=._BWR=5$S8,WMXZ1\7L8%!NS];-%BD4ZP=#_L
+MC:-[[!ZOLP,0*K=
+MP)A2VIPO;3RZ&BRJ7(4&0?)->5DU6:%XT@0X%5C.
+MD<\N\D[JF#R,1I@>X0"(!RBW.:P43]MF*X@)3=H'!:U,T/9X4,[LW-EC62(9:(*K!E1"3UEV!7K)9NW8)[;"&!.4,?/ V-
+M.\A(*BN+"2AVP"T*EIM9JBO=P6X,+FF:8N;FQM*D:@?*^M@$]);G(["0ATK"WD;M/$$VD"%M5163U$DQ$*\$B^Q
+MFCQW)*=8^O(M .CXP7J$>FF!CZ7YFA\!BECA1^2866.*"-75"E7!+^]2C!<'
+M(Y5,010^LKHUI@(?L 184NKN#%8W!/WBGA]W*SZ^H&?ONR[HH=?N*QKGP[\;>,O574C778(
+MJ-PAHT6:M&-FF ;/15-VQZ_F'$I62+9$$&?SUAM40>4&(+(O<)V4"9W50.CB
+MQ1*)@[)W%J94/((5'CQ"X-\SAF6I]WRGIDK 8 D3?3 73)$V=8XY1IYY9 ZQ
+M-2J72%9,/AIWY'U3_EXFO#=^69BY+ L6!R-RENL UK/=7'$^ *NY3,2]5W'H
+M@_5%0Y!=KBX%1DT*_JZ
+M/DJK2!>7@6FY_AS:!PT[T;-%?]5DNPJOILX4N 7K9>1@32GR\_],X++G
+M55!5V.11J.8?__C^X SK5P\*4_+5A","/WY?#VR#S$M=8T%[*8(UGPGF5=\_
+ML3S,]7SXF*ERM=Z]N4!!:A:IX7N$:DYQK0IWRVG]SM"BMMBJY=47 _)>P'XH
+M,6]4SOCR@ZTDM%3F#UF0C!(!/#+Y#!K.)L D''P\1CH!=L"):2P'YB$IN.6B
+MN7>J0*QEIT.G0WTH>2C;'J-35T1FZIIRT39XMYC(08SE%$ON-$MUF\F>;Q?P
+MX&E]KV"TJO\,]HX(Q G6#X@;Q&DY?D*(;/?%\^><:-]]\?-N( ;H7XFW_;X+
+M]3;>XAX4STVUVO)O?]GE;[M3<-I#+#C#;4 2>??0E262\*%7H(N!^43?R^)<
+M8L2KMAXS]M.=G1?\FJO+OU'86H&6V4^H)<0M<%2&#K(CZ&<@US0T(*IEK&&R
+M1 /:.4-9\+8*U?QY6M)..QJK%\2%'-+%(@S<-;XZL5=XZ)0;7YYQYK+:JLI(
+MY[!,[,%Q5JM,#ZIZ"B-W?Z5ZM;V_>,#LA\7\,UA,AL9J$_@8"TCYST\Q
+M@7Z!?$7ETOO&H-TJ(E?JAQ\8\#^&HQ=J-[Q;&ON6ICV&QX"WK3]9[T&.#B*C1":E%D>V/ ,E@5S\L@%7NP=>!!*:D"!
+M)M*$@DU8N2-N/?^BU[WMM5NG5[U;<7DU$+U_#GJ7IV)P)4XNNOW7MV)PWAW __3$R4WOM#^X
+MNA'P7WX/)%)<=V\&[X1[_7\NKW[#!V[?W%[W3@8X3N^?_=N!Z%^*\_XM?G7>
+MNQ%GW;?P+S/PH/^Z)Z[.X,'>R9L!#HJ?&M*PLS31$(C^&0U_*8[?P5BOS5B!
+M^.WJS<6I..^^[8G77<#6_>[%Q3O1/3L# GJG_K2WO<'@@KMT_]8?G.,\L/3>
+M<6U5\ HMJF,"TE\]SAAM@:-:OS^P>.5SD?]LNJ51Q8[6E-Q8KLZFW"0YYI0W
+M4(6J1RB-'<:"G77-.58DA&H&V
+MD7LJ"K>A#M5N-7,]IIK,%JW3%]6?7L6Q*7:GN+R)W5*Y#9;+N+MEMHUQ?G<*M'LN#ER+J>3B2D4IZ$C$T!7TK2PE:9&R]Q3L+C7Z[XY6A5#
+MP;HR/ZFV"'WK?1M)]+!D&!9H4BNUIA^&;'3]N"C!MB7'\YXFIC[#+BYU/3EQ
+MR;56 UA5CA&QCCA/[SG;.5_?RPJ]T
+M2)T'NOH$>+N?.\-XM674IG)%PH0;@9G#X[5:AL4VMN 6A%4KS*%BW5+OD%/%
+M-1_1P/WKB^-H2QP>'_6I;=&2V^8 7'2FC&XI#"]0D:6I$:W.CCN9T7))LIM6
+M@V[D4B.S)9M0$\=!RJ,"$@H:-2[@88"(RK'I)#6&8^.J4?#*0-!+XE"Z^D(5
+MM>PHU>]3++UJ=:?5??U:R3I;8-5QI"-;M&Q&MS?PABJ4>$W(%A6@:-B;!3CT
+MWDY@S6""98S*[U>^V%WA<:%P-E$VU9 O)!IXIX;@X=' E!-H"B5N_ $6C/QI
+MBQ;W_^(QV#_RSC"H BS3\2ULK7,ZL2A:U/F3$:K]S;W]+:HNP@(C^C\^<>J=
+MXHK&C3SJR*A8KMMYI*S=8[MK7?@7GM32!UG?MEM>Y^9EI.US8Y&7 A/JN,!I
+M&I%?Q9!I[<]@:"HVIHL4Z%,9:X4W0V3&ZWFPU_I,(>]]RBP_;U30WI=HU
+M4FRWL2EVJ-$R!I+#I;M-RR8=.9$1U4SJ4-.64)U0:O3;ZH4Q8[-92R*K=&[X
+MK6O3A[MV!I(2UAYJU848U4DFQ=@OUB,-S&ONNH>[>_'DU W'SG16-[SV+
+MP>1$*B8C/D14GD2--ZI RP=9!("5QS"W_^"=F'FY1X\";-Q%;Y7;+
+M]*^J]0$U#N(Z0$&*O'9P3Q36"GUJ10,2!>O)&?V3[$
+M]C)'4E*]%48?[ @VI-U8NH!O%";PM %D<'"2]4V?:,BY <\IT?<0&S>
+MH;5.E;F+[&7L5_X0T$&[Y3I%N/N8Y-+D1:9#[VZFN22.W@KZ(T9+F#IO.'.^
+M$FUZJIFV9.:&NCN6WK\PONU!G2L/Z9U4;*WQ::.?A-*U:M
+MJ=VB16'J 68/.9F%=/JW4JIF2Z[T%+?X3G( WM4"P.H;+=W,11HWYLI=JPA0
+MM>G5)T].@_J7BX)&RPM[L[=6G;7LTN'BO1X.4!A/G6^H\E6=PA^-;^WRDWS9
+ME8S1!X+&X=J6QP%=G;)\;&Y2D6:.YU2RAK=E:QT_O&UU];V5(ROD/?9EHPI"
+M?]-\QVYI0Y!&CP_OXAN^@G9D5/NE+/=K)1Y'<3-B8'VZ1&1#.R[*L3"G<984
+M:)L/>EI.;3]?:AA2F @2W1>86#>\J22\G<._VZW5OP!6]0>#!?$N+O$9W9Y2
+MD6YURQW<$116&9L,V1*IK[DHUK-\G/&L.LWF-LZ85>7P5<&1SW0FSXC9L&8Q
+M&<<':06H TS]BS7\*W;9(J?%V,"JJ, JF+2T;X[I]\2.=H@GHI(QPS;02]G_KJ^E]/@7@AQG;[_V7)SMWRCLMGTR20W$OI#WV^*M
+M2DJUW4,."I6Q>]_C199/R5#D)=Y(5Y&Y]6;C\IR0X$:.!6#L%-Y3*=5?<@.8
+M;:\9E.L.#KIZJ(I[C(O9),'"+?L<.S55OWNI^#RDY_JM'* #X,NT%,&-#WZ097Y;CA@CHCML;-K4>+V1?Z"?V*&)O
+M(L:I:8?D39TU2%YN%AOD-P9I7(4??(Q=KH*EMO/3JBQPU<>FMC[$>JC6Q&0W@[P3U%F:KHO>>2XE\WC[D;E
+M:DNJF?O,A4MS^!9[-'\;9P_=5^HLM$#1*O^W><:)R:$*M!=_WLOESW_$:;_@
+MU:!C%UEYZ$=ON #?V2Y^7N)/E=B>>#;ETFZ%\"QC-^SWR,W/Z@F>JGYS96YG
+M>?"A(17N#O3RBZPOA>N8Y^"S)<+\7L7R%Y<+(&6$L(F,M@T2(^_6*9:XKMM
+MS#J)W+VLT]^!2A\=DTE:$25$#??V?.*:'3,_4,"ME-N?M?&Y^APKD8$_,.M..[8J,@=("FP[D
+M\,V^J,?4T?GCD,>JVYA=U78_0C+$;
+M:N]R5!6I6))*;I7[QGJ.O+:*1OO@8DGKVO>7O;3_N9.Z6\7>E7 R0,?72*0.6IT3*_VH;X'WF*\M9SW^J_.!["S
+MS^OT>)]7DSW]PL\LH?*/.2G+1G4Y.KX:#*Y>+_XFP<;1=KX-HX.1QA82[U7\
+M:2>UC.,__NWC^<&:KUTPE6(:K'X*\^O01-("=WGFZO?-\&U'/MV0!)N;SQFBL
+MQ-BQ/_,=V)_7^_4 L:Y.W\&'YX/7%T?_#U!+ P04 " A@TA6, !E3D00
+M !F+P $0 &0T,S P-S1D97@Y.3$N:'1MU5IK;QLYLOUNP/^!\&(&"2 K
+M=A+/)+9C7+\M7"<.;&>R<[]1W93$N+O9(=F1-;_^GJIBZ^7'9&:= 7:QBZPE
+MDE6LQZE31>V>7;\_W]L].]X_VEM=V;WN79\?[QW_>_WMV^[F[@OY$Y^_2 O4
+M[L'%T>_JX/3PXOSB\MW:Y[/>]?':GEI=P:)#4T7C]W:/>K^IJ^O?SX_?K8UM
+M'D?;;[I;MEI3NK##ZMU:809QC<_ZV"XKM1_::CVZ>GNCCCLJ_=UW,;I2/AJX
+M*JX'^X?9WIS]/="E+2;;U[8T07TP8W7I2@U)^^>]TP_OUKP=CB!J]V#O^'9D
+M^S;^7/5#O4-W4[LO#O9V7WRDRTW5F)/Q$C*6M+JCU-J>G$?'/'R9>[:1M2"W
+M]_Y475T>OEL;OGZUL?'KZ^'FZ["UT?U2#^D&U^_6SB].+\12#TI@19_*7AD[
+MD UV-JF-']C*=%2ORKIJOZI<4V78=N!-C.I,%T9I.>1P9,U [>>EK6R(7D?[
+MS:B+PI*6C/UQ0^\XM[II][YR<7E44<=7GSX
+M<'QXW3O\=-U1)Z;O&^TGHN>;CGJY\?*5>G9Z?G%PK#X/E\XZ*(Z.&'H;*^][H&UL-56ERF^E"Y>8;[KJZ
+MDKFRUM4$2W54&59%DZNKL7/U[M6G>R+QUZV?=M0WXR.=LLXIM VK(/:\&2+T
+ML&E/!(^=+W(H^OJ7G: &UH>H=D\N/EQ/RQGMD13$128%%G5QTDO1H:I6[<46J.J]TWS51O=<^&XG,5YNX^0!)I;2"
+M4E6PT6(IKFE=WOW1>;WWWG=%#S;T"+H[.$R]W%(3^!Q_#92Y)64,/$-7TPB<
+MUC*U=P,3 O3514>5SAMR704'T#Y$4S;"D;!RWYA*P7T4A"G<5U>BR4:5*]QP
+M@J_R!BZ9=-5'7-LC(I8]W5&+FK*M\V1KDG9@AP/G$#;6)0GM1M$#V64*5^,"
+MI$DT0\]YE9O,T@54:&J*:Q5A0^]RZ_\4-HKV5:$5,KJX0D)8X $<,1
+MVTMGD)VB@HY]8+OJ3]053'@#[QTZ7W?)WB\W-C>[ZHP<,,2]1S:H#)E,P181
+MPS;75>35CM(! IZQ-.0Z'7?@0L1G5QF<'RV28'[ID<%
+MN">D(('S!C,PGZVAY"0G> 2.TKAS[)#EQ@89@W_)EF0&_-_]$!I/)R%G*CT4
+MS1$DF1E#LA_! >80T&@\7+(4S*[(*5X/NE=LC/TL [Y$/ACR88_WW8/N?E<-
+MO"MA0[BVTNI3!5CPL/=$((1"O@@.YQP2D TL;/.QZ1>X-51;5W_X)O@K!$*" "X#0'&R0/
+MJ;[.;J0B\3(DA,[-F0\=[L(#1M3MAKM;K2MOJCD[#^^-9DS7PY -8?7SPG&RP7''%#3Q7.
+MW:RN "/&2'/V@_-0T%W70GYT%3V:V-0OVLG,"OW[S>VR%53PT4VMEE#+D,/1B!B!L)86^)[ ;LLHYB&9-"JKNK%
+MEJ@!J#C?^;IP(B'@] +SP?(/X$\O,D?@>DX%Q552K4-M4ES#55'%L4O\@=-A
+M+HGH_NQ2@RU4%HI9T/%:.@,$+5KF9YQ!3"%@J,*4U'ZP=U"B&@0=R[7D%SK8
+MW,96C00RK0TS'4;*-]58$]G ?G#$K?N#+U$[1-G0D0D7;BEI+C\8K+H/">#X%H"7J#A&!=EGD7^_,=S 5E*A ?HN4?;)HR=A-1Z(4D+HPGA/Z$J(&24,"FN7.K&7^775-=&Q!H['Q
+M9JJW3AQPJGU)3(+X+.7>O09!:B(H".6H+"(2W81W+D*7-U]GE;8>73@5\(9\@]BO,3##'C9G05$+7[SD;<,JJ
+MIZ.YS6.&!<>1G&6G4AZ_[&Z\>?53JSZE-)E=@\4C,@0CT!93TP2ZV?0IT5JH
+MO]=_;0G.A5FV7EEVW +KKFM0/.YRR91,_37S_L?2],U3I.GNP=X^%[EE_1X?
+M@OSR%++OQ#)[>77ET9&%^J^=6*RN_+V91?>.;Y /6-E>F[E>Q1*A$JH+>HMA
+MY8(1 A#)1 P@U&0:85Y""E#8AF"4!5$!!#UR#>2^@T\#, $H4-#A,)ES$ Z
+MP%FP,6X80>29F7@K((N8_T9M&Y.BEG;-6'1;,(F/TC>M^!D+*>P EM7,3:AI
+M%)"2ZWV@0IJLXS+\7]PHQ$EA%N')E'=4H8]J&'B=
+MX=79^]6]O<
+MV/AIJNGA\8?KX\N_.?9_;/#_=+/R)_'YCWRCV),<9;"8]0Q@%]^0Y*X)*/"1"G55%J]*PJ9&!&O^JCSOXZM,]SOJJ,62GG:
+M2+5%B#\1!L%NNL@"O@'6$T(,O,[:MEKX>8"FK5GJV! '39 "4Y:@!9%0E;NP
+M?&&(T8X&UTLI>MBN^Q:89&4OE/)#4V43K*Q!8$C' 'RA891FQN"=*VD0$\F^
+MB:>!P $W&;EF<[ J$,4EE*5N%*>@T:!6P1'3"8].@9^*",9TKSE68MZT52,$P53/T3<;KIG$K3H+$-
+M CD@Z 'UDK[O?-K!3@],F=/*CVC4:,IP9;+&LZ=75\[Q[U Z_DO#$XU]\$UL
+MV'S[=NL.$YCU#!$%C IW4\"&)1K/W**;\3)NI)$"S=>RR"?#X\0RJ1-),P+O
+MODBC%MH\"^9KPP\-'35Q#?HIUZ#Z58XX Y);VD_8[6%#44;!QN!NL;WTH*&4
+M( Z"[[OJ,]H6\/$&5%OCZF(XT;/MEM-G2=O%3Y/6BQ_VFWQHECZC*H.>?.E3
+M]&>HVO6=8SE%\B51!8KYPB('] "S^$E&)EO\2,R8/FMOW#>%A4G"\NW8
+M=,N?ND@XI.^(DIZC_92<&"R"'^T4#.IE)!34,QJ@\-QH*"]2/'U.WF%'C-DG
+M;F';=)F4B=20/&8*.=\U*9I
+MW ,I,'LHHLO/P:+D1&C.A%Q9O
+MPXVH2.^;H,YP'(\GN5_B-,YT$TQZ[UD #IH>"6ZT8PKD.D,(]\;L#$1 6MY5
+M[UV("< XJ9J+];&%)-L,!_-,1\*_JT[2H:P^ 9LH
+MSX$GNAK^'< TC/J($3J.L(I#B4-V6RIBPQU'ARNU=$=8(=B]W&0E;[=O>>P>
+M <<2M9@BS?Z11K,T-&+\7GQ6@[-S,_3&B/+""VP[X3'R!-($83,CHXLXXJJ\
+M,,3=D2$E>EZI W_:D1Y>_-8[6M]\.QVOW'G(GG*Q]+211%1S$5E2U.A4X(HT
+M2;K'2 \.T\!,9+-,H^X1 4QVB-H_4B!.T3B?Y66JD],G& CHXPR!!GEII8@
+M^]0\NF-++M 9155ZR XO:[1QTU'Z0X5TIA]-3GEIR6^![225G&.I'Y4G.V_8
+M3*3MC4&C*_,Z8V#4;*2KQ/SF!CR%'C.^@H0VA0#;LG'NL3/92UO*,8$Y?M7@
+M;0(QWW>$Z[.R-"?$!,A?JRO
+M Z+L,P(Q@W!V(BU.0Y+9T29OC_P^Y=N:T_GS% WA+E!=,TT";Q*C\T ^MPN
+M/]],OD^%J=%@#[CZMLT+WP)]DMJAF&D(#ALOS]0- D ")J>?@]B^//MK0H?$
+MEM*;97)1#OY%W##MI.G,G ^^3UV)^31_E'20X1F5@]DO2>3!*EW$5$,M;1F+
+MF <_@O)[2Z# VSW3O =DI$/QE]PCM"^R;8JU)*<% -D=.!3_>FU>*K;MZYD+
+MTX/!,RR;1Q>NXNC']:G+JMH'R)D)D^UKQ/O]F/BH1@DS;-EO?##3J=S<\UUF
+M78DQ>>2:8I,#TF?^RG/C \)5Y7@?(BYV(JL0Z80*D+/DC1=H'_G
+M?Z:U)*T@Y)^]\\VZ+!9Q?"OXK Y1M2Q76UQYOGQ3@#1@O#Z1[$NHU]*1Q+/Y
+M;T("F"?EY>L25%&*_1C,A;'Y55[HH2PT'"$&LA<
+M%\;ORZ1>0QXK+,,VOQ\3V#Y,&=NZ&6JC;\ -"OYI!*4VISM!3@EA]\RO8$<
+M-Z QD106<6,JP@L- RFXL$(ZSPXGEVW7(-"MSYHR\*,;/ZV*C6@O\\RIM)9.Y^VBOEBO\S;,5;WT5AA.A/>_^M4_J7CT_I$3D71[_C
+M0_Y]_?\#4$L#!!0 ( "%92M,&F.P, #\+ 1 :'EPXZ=I,O:K;=LB&IJ'9_G.7[.BT^V_^ZFDG"%Q@JM#J(T&46 JM"E
+M4/.#J+$QMX40T;O#Y\_V_XEC.#XYO8 8%L[5-F?L^OHZ*6="62T;1QYL4NB*
+M01SW^ ^77^!KZSV'"4KD%J'BUJ&!]XV099Z-LBQ-1V^3-T.:0>[]0)HEE1;-%99)Y_7&EKDM%ECQY\\ *%W*YHI<-M5!Y//0
+MI>%F:F2BS9R5SC"WK)$1*"84&E%$ ^K_\S8X5 =OL2OBC-MI(/46GYYLP%@L
+M:[-"TP,:JA(F0H<\CNAK "Y1K+!!CL4BF>LK1H9UQ]XN[@\@&XWV&/6"HQSC
+M@"*%^K&%XH:UY@3NGF1KIOIA(9LJ^
+MG9]]#CT6'7H"0&@[4=7:.&B[[TP7X4YL2:5_BOL*Q'XK3K-X+TW(601J0_&6
+M\@%[LI"^L(\2LNJ*G878A[K7+V*_>.CT^WO^T1E8O\@^_K&//WVS4_P;@^ /
+M*-'JXJEB!M/L\3517!3ML&J7N]?EEOFDWNPG@L_#ZZT'KX^0[M1P)E=*NW#0
+M4 FO:Z%FNMNB3=_$>=_)$YQ!&%TY-X71$KA=; P.",V
+MS?BXGS/?)9\F-&=ZR,8!=Z^7-S.BH#R[E==SG7">?.;-X.WTEN1RY=JWPT%D
+M*>]R<#W_ZZ+Q[Y[^]TB5'Q7)6IY25YDJ2(I T%MD0O#O.\%7 GN))9(,$5HW
+M'?D/_3O7>Q@NN2JA=0<#?_MLWJMV9
+MM\H>YG6[?;'Z*\S6[W"W,[SK[58[:^CQ%U!+ P04 " A@TA6<@V?H8D&
+M "H1@ %0 &AY<'(M,C R,S R,#)?;&%B+GAM;,V<;4_C1A#'WY]TWV&:
+MOFFEDE7MW6C7@>3;=]BOI^3*@M 7!V$^9Y-$J49*R'_!X
+M )Y7Q$^F7^#WK-P8;DE$?$D@]F5"!/RZHE$X'AV,1L/AP2_]G\MI@OA:#T(_
+M(6,8#8X&*NX01N.1^O,3G'Z"\U2$P93&I)S)EQM!YXL$?@A^A#3IC#-&HHAL
+MX((RGP74C^"N:/@=7+*@#Z=1!+/A7YF5C/1-3G8JYZ/3@<%"F]IXSU3LKC89HP/#HZ&J1'R]&2FF*5
+M^'#PYZ>KNV!!8M]3)U]]LX*\C*1CF>Z_XD%Z!BT:A,H(_957A'EZES<<>8?#
+M_EJ&O?>Z8'YV_!F)KM06I![&@D>DIK ^G%;OY?')9JGBR3HA+"2Y\C=M'N11
+M"T'N,U6-7BHI2="?\X=!2*@&9*0W/+VA._Q>??%UPA7MIS.9"#](MNM%^A1Q
+M4>Q,39ST#$F#[89TW*D(MK1\$10Z:G./_SQB$'#U?5LF7JI8I-\+'AN[R,MQ
+MP\&OT2PRMJE)4EMZN GSOMSM\YH)E8T)(OE**+R:?&M3/^]39?B[T/[G>/!4
+M^[6TJBXADEPU[=<-R=-88:[^)A>1/[=%\EE21TB:6^>&@RY(&H20D/RF#%K:
+M&<@6&BT#:=NM&X[G+*')9J+*"#^Z5!?@]6]D8XME17)'>-9;X35!+KC6"")A
+MFU6 O 2D-4 5<0:XQ=;+(#?OWPWI,QZL]-Q,5?>V)&_G= 2PL7&^>\P%UUT=
+M)$H+8=#*SFCBMUDFTK)7' QOB* \/&?AF7HUTY3'9\D=@VFVPFN",% U"&(S
+MFY4 50-T$31\6VC=R+%U_QB+A5LRIWJ1S)+/?FQ-M#FWTZ5"A1%>'>.^4##I
+MX:X3GBJ +H&T2FBC;\,BP;IY#) O6<#%DHOT5LE=H@9GPE=JD;*9\+ AUWND
+M.L7@4A07_US_7;$!NA)<,ZQU3&LV#.B_P LB^A.U>2VF
+M_)&]"/QR^FO WF#'!/U3&!KRSR5; EZ7 2Y %\*%'=M '>IV+A Q3U\47(L;
+MP1\H"QJ^MJW2> W 5QDS4?\L%@U]HVY+_&>O[A0Z137<(6C%2MTD-/"#. XW
+M7"9^]!==-K_18U9X#:-@-F4:A*U(M#$PJ+8T!%DE4*4P;]ZT9Z-N *R].#X(
+MI0T*XC@3(WSW6-.#T'MZ""!F_Z [1+.%+?8>!GEIMV[X7S'(QK0
+MA++Y)[7B%M2/;%DV978$V&[8T@
+M>CZ(PB)]'$Q_1$!X#8-!Y'6-0;= \##OQB"-1H=W68&3E6IV/EAS53DDC
+M6X[+&Q*LU'IJ,QS-IC2)K.]Q[.9UM;2I,L#-QYV6-48MK$5-+@Y*'5)Y]S5-
+M*_UNK6@:-.T&ZE3X^N.V=YMXQJV7X,^2.D+4W#HW''2!TR"$1&:N#)FT,Y4M
+M-%I&TK9;G.OF^3I8*+>DR1/=YMR.KY]&([PZ!N,ZNJN'?2TM*N \T=U>W\9K
+MJF7S&._OG<=$S-74?!3\,5FHQD[?/6V^-Y0]_?X:F216,_?
+M&"L*058)\E)([_&U:,/P)E]C+R@CL%8_.9BD^FYB]K&@AOP;\KN%O]H0KX]#
+MP+Y"$YGY-3R5R3_+A05\2P9,M-NX*.^X4EOZ5ZSDNVCVBT;4GO\ 4$L#!!0
+M ( "%;)F?[TR@0 #,L 5 :'EP&UL
+MU9I=C^(V%(;O5]K_X*8WK=20 6:W.VB8%65F*M3Y$K!MU9N520Y@U;$CVPSP
+M[WL1) Q2V%;*;.U8K.Y(3_$/Y)<
+M="V% ,YA36Z9H")FE).1,_P3&8BX07J(YI#1$!(@LWND*W23FBWK;W+MH<]"UUZRC\TAW,LXK?T1:
+MY& +^RETS4*[*VRVPG:SL=))<&6[W%1520Y#F!*[_30B"F4J5Y%@')"]J9*YAB]'6F
+M0A?->OE^B($^GQ+(H+-NH%F:<0A(M)5+IG#<").WOL,=)0&L#(@$$A?&)O ?
+M9'NUH5D,61F7LR^^LSDJ#7%C)I^C!)CML67?V-)LRH(?/OIIW8U&\YG1UK:$=4-K2-K*?B4DBJ8A<.WY9X
+M[8_WHD64487QPGB.$YM33Y5,*XM3]"8KC4J5@.H&F#Y^SP.2*285PL8] 5EH
+M]"(SZYIR>PRFH!0D=YNT#[K,+>*T--C>?C+&,Q](J:^H+J>S3L7GG'9LG0*\XW2?7>#9T*J0=+Y=E1>IY+_CC^I)R6=FUPI?0W OAB<8
+M]WP[EOY9+:4/X7RTX_-:V.X G''=>.XKDW%.U\TE- 3^%6UM275-FG
+M8^//@HN]^<&?YE*<>)&PKZLOHWVOCI,_*RQ_H#\#HB_3="&*IQ.CY\67XI07WHON784_5E/V'2=_5D_&BMJ'JT;K="*/_KG;$=67T(Y1A\>?
+M]1$WQ&Y6\9R*&9QRKZY:6U]8U7X=,]_606Y24#,<>[\JN31SG-\S*DY\WN1
+MB/H2?-&V ^G/4DB1S@IG$:&9-;>Y]W\BQ0I][1%6>';\_H?EDLMHKRYWN,,^
+M[;HY8E_LLYNXYQ]02P$"% ,4 " A@TA6JD$G7+D; =JP #@
+M @ $ 9#0S,# W-&0X:RYH=&U02P$"% ,4 " A@TA6F5PN
+M*I,- !'- $0 @ 'E&P 9#0S,# W-&1E>#$P,2YH=&U0
+M2P$"% ,4 " A@TA6A>L%4N\\ #:=P$ $0 @ &G*0
+M9#0S,# W-&1E>#$P,BYH=&U02P$"% ,4 " A@TA6_UV7K10B MC
+M$0 @ '%9@ 9#0S,# W-&1E>#$P,RYH=&U02P$"% ,4
+M" A@TA6, !E3D00 !F+P $0 @ $(B0 9#0S,# W-&1E
+M>#DY,2YH=&U02P$"% ,4 " A@TA64K3!ICL# _"P $0
+M @ %[F0 :'EP&UL4$L! A0#% @ (8-(5LF9_O3*! ,RP !4 ( !
+MH:, &AY<'(M,C R,S R,#)?<')E+GAM;%!+!08 " ( /T! ">J
+" !
+
+end
