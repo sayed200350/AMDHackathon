@@ -25,7 +25,7 @@ def legal_llm_config() -> LLMConfig:
     return LLMConfig(
         base_url=f"http://localhost:{port}/v1",
         model_name="qwen3-32b-legal",
-        max_tokens=8192,
+        max_tokens=4096,
         temperature=0.1,
     )
 
