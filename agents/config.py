@@ -15,7 +15,7 @@ class LLMConfig:
 
     base_url: str
     model_name: str
-    max_tokens: int = 8192
+    max_tokens: int = 4096
     temperature: float = 0.1
 
 
