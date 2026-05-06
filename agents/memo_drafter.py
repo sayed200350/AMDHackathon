@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 from dataclasses import dataclass
 from typing import Any
 
@@ -189,4 +190,5 @@ class MemoDrafterAgent:
             temperature=0.2,
         )
 
-        return response.choices[0].message.content or ""
+        raw = response.choices[0].message.content or ""
+        return re.sub(r"<think>.*?</think>", "", raw, flags=re.DOTALL).strip()
