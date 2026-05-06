@@ -9,7 +9,7 @@ from typing import Any
 from crewai import Agent, Task
 from openai import OpenAI
 
-from agents.config import SEVERITY_ORDER, LLMConfig, legal_llm_config
+from agents.config import SEVERITY_ORDER, LLMConfig, extract_json, legal_llm_config
 
 
 # ---------------------------------------------------------------------------
@@ -145,12 +145,7 @@ class CrossRefAuditorAgent:
         )
 
         raw = response.choices[0].message.content or "[]"
-
-        if raw.startswith("```"):
-            lines = raw.split("\n")
-            raw = "\n".join(lines[1:-1])
-
-        findings: list[dict[str, Any]] = json.loads(raw)
+        findings: list[dict[str, Any]] = extract_json(raw)
 
         return sorted(
             findings,

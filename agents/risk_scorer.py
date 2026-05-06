@@ -12,6 +12,7 @@ from openai import OpenAI
 from agents.config import (
     SEVERITY_ORDER,
     LLMConfig,
+    extract_json,
     legal_llm_config,
 )
 
@@ -123,12 +124,7 @@ class RiskScorerAgent:
         )
 
         raw = response.choices[0].message.content or "[]"
-
-        if raw.startswith("```"):
-            lines = raw.split("\n")
-            raw = "\n".join(lines[1:-1])
-
-        findings: list[dict[str, Any]] = json.loads(raw)
+        findings: list[dict[str, Any]] = extract_json(raw)
 
         return sorted(
             findings,

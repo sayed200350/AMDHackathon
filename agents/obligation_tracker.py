@@ -9,7 +9,7 @@ from typing import Any
 from crewai import Agent, Task
 from openai import OpenAI
 
-from agents.config import LLMConfig, legal_llm_config
+from agents.config import LLMConfig, extract_json, legal_llm_config
 
 
 # ---------------------------------------------------------------------------
@@ -122,9 +122,4 @@ class ObligationTrackerAgent:
         )
 
         raw = response.choices[0].message.content or "[]"
-
-        if raw.startswith("```"):
-            lines = raw.split("\n")
-            raw = "\n".join(lines[1:-1])
-
-        return json.loads(raw)
+        return extract_json(raw)

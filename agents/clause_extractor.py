@@ -9,7 +9,7 @@ from typing import Any
 from crewai import Agent, Task
 from openai import OpenAI
 
-from agents.config import CLAUSE_TYPES, LLMConfig, legal_llm_config
+from agents.config import CLAUSE_TYPES, LLMConfig, extract_json, legal_llm_config
 
 
 # ---------------------------------------------------------------------------
@@ -115,10 +115,4 @@ class ClauseExtractorAgent:
         )
 
         raw = response.choices[0].message.content or "[]"
-
-        # Strip markdown fences if model wraps output
-        if raw.startswith("```"):
-            lines = raw.split("\n")
-            raw = "\n".join(lines[1:-1])
-
-        return json.loads(raw)
+        return extract_json(raw)

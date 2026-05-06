@@ -2,8 +2,11 @@
 
 from __future__ import annotations
 
+import json
 import os
+import re
 from dataclasses import dataclass
+from typing import Any
 
 
 @dataclass(frozen=True)
@@ -78,3 +81,21 @@ SEVERITY_ORDER: dict[str, int] = {
     SEVERITY_LOW: 3,
     SEVERITY_INFO: 4,
 }
+
+
+def extract_json(raw: str) -> list[dict[str, Any]]:
+    """Extract a JSON array from model output that may contain thinking tags or fences."""
+    # Strip <think>...</think> blocks (Qwen3 reasoning mode)
+    raw = re.sub(r"<think>.*?</think>", "", raw, flags=re.DOTALL).strip()
+
+    # Strip markdown fences
+    if raw.startswith("```"):
+        lines = raw.split("\n")
+        raw = "\n".join(lines[1:-1])
+
+    # Find the JSON array in the remaining text
+    match = re.search(r"\[.*\]", raw, flags=re.DOTALL)
+    if match:
+        return json.loads(match.group())
+
+    return []
