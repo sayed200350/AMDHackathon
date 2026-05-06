@@ -96,6 +96,22 @@ def extract_json(raw: str) -> list[dict[str, Any]]:
     # Find the JSON array in the remaining text
     match = re.search(r"\[.*\]", raw, flags=re.DOTALL)
     if match:
-        return json.loads(match.group())
+        text = match.group()
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError:
+            pass
+
+        # Try to repair truncated JSON by closing open brackets
+        repaired = text.rstrip()
+        if not repaired.endswith("]"):
+            # Find last complete object (ends with "}")
+            last_brace = repaired.rfind("}")
+            if last_brace > 0:
+                repaired = repaired[: last_brace + 1] + "]"
+                try:
+                    return json.loads(repaired)
+                except json.JSONDecodeError:
+                    pass
 
     return []
