@@ -1,0 +1,820 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  .ds-root {
+    font-family: 'Crimson Pro', Georgia, serif;
+    color: var(--color-text-primary);
+    padding: 2rem 0;
+  }
+
+  .ds-section { margin-bottom: 2.5rem; }
+
+  .ds-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-text-secondary);
+    margin-bottom: 0.75rem;
+    display: block;
+  }
+
+  .ds-divider {
+    border: none;
+    border-top: 0.5px solid var(--color-border-tertiary);
+    margin: 2rem 0;
+  }
+
+  .ds-masthead {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .ds-monogram {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 1.5px solid #6B1F2E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #6B1F2E;
+    flex-shrink: 0;
+  }
+
+  .ds-wordmark {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    font-weight: 500;
+    color: var(--color-text-primary);
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+
+  .ds-tagline {
+    font-family: 'Crimson Pro', serif;
+    font-size: 15px;
+    font-style: italic;
+    color: var(--color-text-secondary);
+    margin-top: 2px;
+  }
+
+  .color-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 10px;
+  }
+
+  .color-swatch {
+    border-radius: var(--border-radius-md);
+    overflow: hidden;
+    border: 0.5px solid var(--color-border-tertiary);
+  }
+
+  .color-block {
+    height: 52px;
+    width: 100%;
+  }
+
+  .color-meta {
+    padding: 8px 10px;
+    background: var(--color-background-primary);
+  }
+
+  .color-name {
+    font-family: 'Crimson Pro', serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-text-primary);
+    display: block;
+    line-height: 1.3;
+  }
+
+  .color-hex {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--color-text-secondary);
+    display: block;
+    margin-top: 1px;
+  }
+
+  .color-usage {
+    font-family: 'Crimson Pro', serif;
+    font-size: 11px;
+    color: var(--color-text-tertiary);
+    display: block;
+    margin-top: 2px;
+    font-style: italic;
+  }
+
+  .type-row {
+    padding: 12px 0;
+    border-bottom: 0.5px solid var(--color-border-tertiary);
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .type-row:last-child { border-bottom: none; }
+
+  .type-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+  }
+
+  .t-display {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    font-weight: 500;
+    color: var(--color-text-primary);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  .t-headline {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: var(--color-text-primary);
+    line-height: 1.2;
+  }
+
+  .t-subhead {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--color-text-secondary);
+    line-height: 1.4;
+  }
+
+  .t-body {
+    font-family: 'Crimson Pro', serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: var(--color-text-primary);
+    line-height: 1.7;
+  }
+
+  .t-body-small {
+    font-family: 'Crimson Pro', serif;
+    font-size: 14px;
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+  }
+
+  .t-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-secondary);
+  }
+
+  .t-citation {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: #6B1F2E;
+    background: rgba(107, 31, 46, 0.08);
+    padding: 1px 6px;
+    border-radius: 3px;
+  }
+
+  .component-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+  }
+
+  .finding-card {
+    border: 0.5px solid var(--color-border-tertiary);
+    border-radius: var(--border-radius-lg);
+    padding: 14px 16px;
+    background: var(--color-background-primary);
+    position: relative;
+  }
+
+  .finding-card.severity-high {
+    border-left: 3px solid #6B1F2E;
+    border-radius: 0 var(--border-radius-lg) var(--border-radius-lg) 0;
+  }
+
+  .finding-card.severity-med {
+    border-left: 3px solid #B8860B;
+    border-radius: 0 var(--border-radius-lg) var(--border-radius-lg) 0;
+  }
+
+  .finding-card.severity-low {
+    border-left: 3px solid #2C4A3A;
+    border-radius: 0 var(--border-radius-lg) var(--border-radius-lg) 0;
+  }
+
+  .finding-type {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+  }
+
+  .severity-high .finding-type { color: #6B1F2E; }
+  .severity-med .finding-type { color: #B8860B; }
+  .severity-low .finding-type { color: #2C4A3A; }
+
+  .finding-summary {
+    font-family: 'Crimson Pro', serif;
+    font-size: 14px;
+    color: var(--color-text-primary);
+    line-height: 1.5;
+    margin-bottom: 8px;
+  }
+
+  .finding-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
+  }
+
+  .finding-monogram {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid #6B1F2E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 9px;
+    font-weight: 700;
+    color: #6B1F2E;
+  }
+
+  .severity-badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 3px;
+  }
+
+  .badge-high {
+    background: rgba(107, 31, 46, 0.1);
+    color: #6B1F2E;
+  }
+
+  .badge-med {
+    background: rgba(184, 134, 11, 0.1);
+    color: #B8860B;
+  }
+
+  .badge-low {
+    background: rgba(44, 74, 58, 0.1);
+    color: #2C4A3A;
+  }
+
+  .btn-row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .btn-primary {
+    font-family: 'Crimson Pro', serif;
+    font-size: 15px;
+    font-weight: 600;
+    background: #6B1F2E;
+    color: #F5F1E8;
+    border: none;
+    padding: 9px 20px;
+    border-radius: var(--border-radius-md);
+    cursor: pointer;
+    letter-spacing: 0.01em;
+  }
+
+  .btn-secondary {
+    font-family: 'Crimson Pro', serif;
+    font-size: 15px;
+    font-weight: 500;
+    background: transparent;
+    color: var(--color-text-primary);
+    border: 0.5px solid var(--color-border-primary);
+    padding: 9px 20px;
+    border-radius: var(--border-radius-md);
+    cursor: pointer;
+  }
+
+  .btn-ghost {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    background: transparent;
+    color: #6B1F2E;
+    border: none;
+    padding: 6px 0;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .dropzone {
+    border: 1.5px dashed rgba(107, 31, 46, 0.35);
+    border-radius: var(--border-radius-lg);
+    padding: 2.5rem;
+    text-align: center;
+    background: rgba(107, 31, 46, 0.02);
+  }
+
+  .dropzone-icon {
+    font-size: 28px;
+    color: rgba(107, 31, 46, 0.4);
+    margin-bottom: 0.75rem;
+    display: block;
+  }
+
+  .dropzone-text {
+    font-family: 'Crimson Pro', serif;
+    font-style: italic;
+    font-size: 16px;
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+  }
+
+  .dropzone-sub {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--color-text-tertiary);
+    margin-top: 6px;
+    letter-spacing: 0.06em;
+  }
+
+  .narration-box {
+    border: 0.5px solid var(--color-border-tertiary);
+    border-radius: var(--border-radius-lg);
+    padding: 16px 20px;
+    background: var(--color-background-secondary);
+    font-family: 'Crimson Pro', serif;
+    font-size: 15px;
+    font-style: italic;
+    color: var(--color-text-primary);
+    line-height: 1.7;
+    position: relative;
+  }
+
+  .narration-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+
+  .narration-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #6B1F2E;
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  .narration-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-secondary);
+  }
+
+  .spacing-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 6px 0;
+    border-bottom: 0.5px solid var(--color-border-tertiary);
+  }
+
+  .spacing-row:last-child { border-bottom: none; }
+
+  .spacing-block {
+    background: rgba(107, 31, 46, 0.15);
+    height: 12px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+
+  .spacing-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--color-text-secondary);
+  }
+
+  .spacing-use {
+    font-family: 'Crimson Pro', serif;
+    font-size: 13px;
+    color: var(--color-text-tertiary);
+    font-style: italic;
+  }
+
+  .memo-header {
+    border-bottom: 2px solid var(--color-text-primary);
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+  }
+
+  .memo-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-text-primary);
+  }
+
+  .memo-field {
+    display: grid;
+    grid-template-columns: 60px 1fr;
+    gap: 8px;
+    padding: 3px 0;
+  }
+
+  .memo-key {
+    font-family: 'Crimson Pro', serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+  }
+
+  .memo-val {
+    font-family: 'Crimson Pro', serif;
+    font-size: 13px;
+    color: var(--color-text-primary);
+  }
+
+  .voice-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 6px;
+  }
+
+  .voice-box {
+    padding: 12px 14px;
+    border-radius: var(--border-radius-md);
+    font-family: 'Crimson Pro', serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .voice-dont {
+    background: rgba(107, 31, 46, 0.06);
+    border: 0.5px solid rgba(107, 31, 46, 0.2);
+    color: var(--color-text-secondary);
+    font-style: italic;
+  }
+
+  .voice-do {
+    background: rgba(44, 74, 58, 0.06);
+    border: 0.5px solid rgba(44, 74, 58, 0.25);
+    color: var(--color-text-primary);
+    font-style: italic;
+  }
+
+  .voice-tag {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 6px;
+    font-style: normal;
+  }
+
+  .voice-dont .voice-tag { color: #6B1F2E; }
+  .voice-do .voice-tag { color: #2C4A3A; }
+
+  .css-block {
+    background: var(--color-background-secondary);
+    border: 0.5px solid var(--color-border-tertiary);
+    border-radius: var(--border-radius-md);
+    padding: 14px 16px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    line-height: 1.8;
+    color: var(--color-text-primary);
+    overflow-x: auto;
+  }
+
+  .css-comment { color: var(--color-text-tertiary); }
+  .css-prop { color: #6B1F2E; }
+  .css-val { color: #2C4A3A; }
+</style>
+
+<div class="ds-root">
+
+  <div class="ds-section">
+    <div class="ds-masthead">
+      <div class="ds-monogram">J</div>
+      <div>
+        <div class="ds-wordmark">Junior</div>
+        <div class="ds-tagline">Your associate has read the deal.</div>
+      </div>
+    </div>
+    <span class="ds-label">Brand mark — the monogram appears on every finding</span>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">Color tokens</span>
+    <div class="color-grid">
+      <div class="color-swatch">
+        <div class="color-block" style="background:#6B1F2E;"></div>
+        <div class="color-meta">
+          <span class="color-name">Oxblood</span>
+          <span class="color-hex">#6B1F2E</span>
+          <span class="color-usage">Brand / high severity</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="color-block" style="background:#F5F1E8;border-bottom:0.5px solid #C8C0AE;"></div>
+        <div class="color-meta">
+          <span class="color-name">Parchment</span>
+          <span class="color-hex">#F5F1E8</span>
+          <span class="color-usage">App background</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="color-block" style="background:#1A1814;"></div>
+        <div class="color-meta">
+          <span class="color-name">Ink</span>
+          <span class="color-hex">#1A1814</span>
+          <span class="color-usage">Primary text</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="color-block" style="background:#2C4A3A;"></div>
+        <div class="color-meta">
+          <span class="color-name">Forest</span>
+          <span class="color-hex">#2C4A3A</span>
+          <span class="color-usage">Confirmed / low severity</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="color-block" style="background:#B8860B;"></div>
+        <div class="color-meta">
+          <span class="color-name">Ochre</span>
+          <span class="color-hex">#B8860B</span>
+          <span class="color-usage">Medium severity</span>
+        </div>
+      </div>
+      <div class="color-swatch">
+        <div class="color-block" style="background:#C8C0AE;"></div>
+        <div class="color-meta">
+          <span class="color-name">Warm grey</span>
+          <span class="color-hex">#C8C0AE</span>
+          <span class="color-usage">Dividers / borders</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">Typography scale</span>
+    <div class="type-row">
+      <div class="type-meta">Playfair Display<br>500 · 32px · –0.02em<br>display / hero</div>
+      <div class="t-display">Counsel-in-a-Box</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">Playfair Display<br>500 · 22px<br>section headings</div>
+      <div class="t-headline">Merger Agreement Review</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">Playfair Display<br>400 italic · 16px<br>subheadings</div>
+      <div class="t-subhead">Three issues require your attention before signing.</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">Crimson Pro<br>400 · 17px · lh 1.7<br>body / findings</div>
+      <div class="t-body">The indemnification clause on §8.3 departs from NVCA market standard. Buyer's liability cap is uncapped for IP breaches.</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">Crimson Pro<br>400 · 14px<br>secondary text</div>
+      <div class="t-body-small">Junior reviewed 14 documents · 284,000 words · 3 high-severity findings</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">JetBrains Mono<br>400 · 11px · +0.08em UC<br>labels / metadata</div>
+      <div class="t-label">Cross-document conflict</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">JetBrains Mono<br>400 · 12px<br>citations / refs</div>
+      <div><span class="t-citation">§8.3 ↔ Side Letter 4</span></div>
+    </div>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">Finding cards — severity system</span>
+    <div class="component-grid">
+      <div class="finding-card severity-high">
+        <div class="finding-type">Cross-document conflict</div>
+        <div class="finding-summary">Definition of "Material Adverse Effect" in §1.1 conflicts with Side Letter 3, §2(b).</div>
+        <div class="finding-footer">
+          <span class="t-citation">§1.1 ↔ SL3 §2(b)</span>
+          <div style="display:flex;align-items:center;gap:6px;">
+            <span class="severity-badge badge-high">High</span>
+            <div class="finding-monogram">J</div>
+          </div>
+        </div>
+      </div>
+      <div class="finding-card severity-med">
+        <div class="finding-type">Non-standard clause</div>
+        <div class="finding-summary">Termination fee of 4.5% exceeds NVCA median of 3.5% for deals of this size.</div>
+        <div class="finding-footer">
+          <span class="t-citation">§9.2(c)</span>
+          <div style="display:flex;align-items:center;gap:6px;">
+            <span class="severity-badge badge-med">Medium</span>
+            <div class="finding-monogram">J</div>
+          </div>
+        </div>
+      </div>
+      <div class="finding-card severity-low">
+        <div class="finding-type">Obligation — deadline</div>
+        <div class="finding-summary">Buyer must deliver officer's certificate no later than 5 business days before closing.</div>
+        <div class="finding-footer">
+          <span class="t-citation">§7.1(a)</span>
+          <div style="display:flex;align-items:center;gap:6px;">
+            <span class="severity-badge badge-low">Low</span>
+            <div class="finding-monogram">J</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">Interactive components</span>
+    <div style="display:grid;gap:14px;">
+
+      <div class="dropzone">
+        <i class="ti ti-file-text dropzone-icon" aria-hidden="true"></i>
+        <div class="dropzone-text">Drop the deal package here.<br>PDFs, Word docs, emails.</div>
+        <div class="dropzone-sub" style="margin-top:10px;">or browse files</div>
+      </div>
+
+      <div class="narration-box">
+        <div class="narration-header">
+          <div class="narration-dot"></div>
+          <span class="narration-label">Junior is reading</span>
+        </div>
+        Reading the merger agreement… 187 pages, 84,000 words. Cross-referencing definitions to the side letters. Three definitions appear to conflict — flagging for your review.
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-primary">Generate memo</button>
+        <button class="btn-secondary">Export as DOCX</button>
+        <button class="btn-ghost">View all findings →</button>
+      </div>
+    </div>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">Memo component</span>
+    <div style="border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:20px 24px;background:var(--color-background-primary);">
+      <div class="memo-header">
+        <div class="memo-title">Memorandum</div>
+      </div>
+      <div class="memo-field">
+        <span class="memo-key">To</span>
+        <span class="memo-val">Maria Chen, Esq.</span>
+      </div>
+      <div class="memo-field">
+        <span class="memo-key">From</span>
+        <span class="memo-val">Junior <span style="color:var(--color-text-tertiary);font-style:italic;">— reviewed May 11, 2026</span></span>
+      </div>
+      <div class="memo-field">
+        <span class="memo-key">Re</span>
+        <span class="memo-val">Acme Corp / Buyer LLC — Merger Agreement Review</span>
+      </div>
+      <div style="margin-top:14px;border-top:0.5px solid var(--color-border-tertiary);padding-top:12px;">
+        <div style="font-family:'Crimson Pro',serif;font-size:15px;line-height:1.7;color:var(--color-text-primary);">
+          Junior identified <strong>3 high-severity</strong> and <strong>2 medium-severity</strong> issues across 14 documents. The most significant finding is a conflict between the definition of Material Adverse Effect in the main agreement and Side Letter 3 — you may wish to verify which governs.
+        </div>
+        <div style="display:flex;justify-content:flex-end;margin-top:16px;">
+          <div class="finding-monogram" style="width:24px;height:24px;font-size:11px;">J</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">Spacing scale</span>
+    <div>
+      <div class="spacing-row">
+        <div class="spacing-block" style="width:4px;"></div>
+        <span class="spacing-meta">4px</span>
+        <span class="spacing-use">icon gap, inline badge padding</span>
+      </div>
+      <div class="spacing-row">
+        <div class="spacing-block" style="width:8px;"></div>
+        <span class="spacing-meta">8px</span>
+        <span class="spacing-use">component internal gaps</span>
+      </div>
+      <div class="spacing-row">
+        <div class="spacing-block" style="width:16px;"></div>
+        <span class="spacing-meta">16px / 1rem</span>
+        <span class="spacing-use">card padding, section rhythm</span>
+      </div>
+      <div class="spacing-row">
+        <div class="spacing-block" style="width:24px;"></div>
+        <span class="spacing-meta">24px / 1.5rem</span>
+        <span class="spacing-use">between sections</span>
+      </div>
+      <div class="spacing-row">
+        <div class="spacing-block" style="width:40px;"></div>
+        <span class="spacing-meta">40px / 2.5rem</span>
+        <span class="spacing-use">page margins, major breaks</span>
+      </div>
+    </div>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">Junior's voice — do / don't</span>
+    <div class="voice-row">
+      <div class="voice-box voice-dont">
+        <span class="voice-tag">✕ don't</span>
+        "🚀 Analyzing your documents with cutting-edge AI technology!"
+      </div>
+      <div class="voice-box voice-do">
+        <span class="voice-tag">✓ do</span>
+        "Reading the merger agreement… 187 pages."
+      </div>
+    </div>
+    <div class="voice-row" style="margin-top:8px;">
+      <div class="voice-box voice-dont">
+        <span class="voice-tag">✕ don't</span>
+        "Anomaly detected in document cluster."
+      </div>
+      <div class="voice-box voice-do">
+        <span class="voice-tag">✓ do</span>
+        "This clause appears to conflict with §1.1 — you may want to verify."
+      </div>
+    </div>
+    <div class="voice-row" style="margin-top:8px;">
+      <div class="voice-box voice-dont">
+        <span class="voice-tag">✕ don't</span>
+        "Analysis complete! Your results are ready."
+      </div>
+      <div class="voice-box voice-do">
+        <span class="voice-tag">✓ do</span>
+        "Junior has reviewed 14 documents. Three findings require your attention."
+      </div>
+    </div>
+  </div>
+
+  <hr class="ds-divider">
+
+  <div class="ds-section">
+    <span class="ds-label">CSS variables — drop into your Streamlit app</span>
+    <div class="css-block">
+      <span class="css-comment">/* junior_theme.css — inject via st.markdown */</span><br>
+      :root {<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-oxblood</span>: <span class="css-val">#6B1F2E</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-parchment</span>: <span class="css-val">#F5F1E8</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-ink</span>: <span class="css-val">#1A1814</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-forest</span>: <span class="css-val">#2C4A3A</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-ochre</span>: <span class="css-val">#B8860B</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-rule</span>: <span class="css-val">#C8C0AE</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-font-display</span>: <span class="css-val">'Playfair Display', Georgia, serif</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-font-body</span>: <span class="css-val">'Crimson Pro', Georgia, serif</span>;<br>
+      &nbsp;&nbsp;<span class="css-prop">--j-font-mono</span>: <span class="css-val">'JetBrains Mono', monospace</span>;<br>
+      }
+    </div>
+  </div>
+
+</div>

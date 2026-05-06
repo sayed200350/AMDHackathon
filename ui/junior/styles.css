@@ -1,0 +1,269 @@
+/* Junior — Counsel-in-a-box. Old-money law firm × contemporary editorial. */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --j-oxblood: #6B1F2E;
+  --j-oxblood-soft: rgba(107, 31, 46, 0.08);
+  --j-oxblood-mid: rgba(107, 31, 46, 0.18);
+  --j-parchment: #F5F1E8;
+  --j-parchment-deep: #EFE9DB;
+  --j-paper: #FBF8F1;
+  --j-ink: #1A1814;
+  --j-ink-soft: #4B463D;
+  --j-ink-mute: #7A7468;
+  --j-forest: #2C4A3A;
+  --j-ochre: #B8860B;
+  --j-sage: #8A9A8A;
+  --j-rule: #C8C0AE;
+  --j-rule-soft: #DCD5C2;
+
+  --j-font-display: 'Playfair Display', Georgia, serif;
+  --j-font-body: 'Crimson Pro', Georgia, serif;
+  --j-font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --density: 1;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--j-parchment);
+  color: var(--j-ink);
+  font-family: var(--j-font-body);
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* subtle paper grain */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(107, 31, 46, 0.012) 0, transparent 60%),
+    radial-gradient(circle at 80% 70%, rgba(44, 74, 58, 0.012) 0, transparent 50%);
+}
+
+#root { position: relative; z-index: 1; min-height: 100vh; }
+
+/* ============ chrome ============ */
+.app-chrome {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+.masthead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 56px 18px;
+  border-bottom: 0.5px solid var(--j-rule);
+}
+
+.masthead-brand { display: flex; align-items: center; gap: 14px; }
+
+.monogram {
+  width: 36px;
+  height: 36px;
+  border: 1.25px solid var(--j-oxblood);
+  display: grid;
+  place-items: center;
+  font-family: var(--j-font-display);
+  font-weight: 700;
+  font-size: 17px;
+  color: var(--j-oxblood);
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
+  position: relative;
+}
+.monogram::after {
+  content: "";
+  position: absolute;
+  left: 22%; right: 22%;
+  bottom: -3px;
+  height: 1px;
+  background: var(--j-oxblood);
+  opacity: 0;
+}
+.monogram.signed::after { opacity: 1; }
+
+.monogram.tiny {
+  width: 18px; height: 18px;
+  font-size: 9px;
+  border-width: 1px;
+}
+.monogram.med { width: 24px; height: 24px; font-size: 11px; }
+.monogram.lg { width: 64px; height: 64px; font-size: 30px; border-width: 1.5px; }
+
+.wordmark {
+  font-family: var(--j-font-display);
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  line-height: 1;
+}
+
+.brand-tag {
+  font-family: var(--j-font-body);
+  font-style: italic;
+  font-size: 13px;
+  color: var(--j-ink-mute);
+  margin-top: 3px;
+}
+
+.masthead-nav {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+
+.nav-step {
+  font-family: var(--j-font-mono);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--j-ink-mute);
+  background: none;
+  border: none;
+  padding: 6px 0;
+  cursor: pointer;
+  position: relative;
+  transition: color 180ms ease;
+}
+.nav-step:hover { color: var(--j-ink); }
+.nav-step .num {
+  font-size: 9px;
+  margin-right: 6px;
+  color: var(--j-rule);
+}
+.nav-step.active { color: var(--j-oxblood); }
+.nav-step.active .num { color: var(--j-oxblood); }
+.nav-step.active::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  bottom: -19px;
+  height: 1px;
+  background: var(--j-oxblood);
+}
+.nav-step.done { color: var(--j-ink-soft); }
+.nav-step.done .num::before {
+  content: "✓ ";
+  color: var(--j-forest);
+  margin-right: 2px;
+  font-family: var(--j-font-body);
+}
+
+.masthead-meta {
+  font-family: var(--j-font-mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--j-ink-mute);
+  text-transform: uppercase;
+}
+
+.app-main {
+  position: relative;
+  padding: 0;
+  min-height: 0;
+}
+
+.foot {
+  padding: 14px 56px;
+  border-top: 0.5px solid var(--j-rule);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--j-font-mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--j-ink-mute);
+}
+
+/* ============ shared ============ */
+
+.label {
+  font-family: var(--j-font-mono);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--j-ink-mute);
+}
+
+.cite {
+  font-family: var(--j-font-mono);
+  font-size: 11px;
+  color: var(--j-oxblood);
+  background: var(--j-oxblood-soft);
+  padding: 1.5px 6px;
+  border-radius: 2px;
+  white-space: nowrap;
+}
+
+.btn-primary {
+  font-family: var(--j-font-body);
+  font-size: 15px;
+  font-weight: 600;
+  background: var(--j-oxblood);
+  color: var(--j-parchment);
+  border: none;
+  padding: 11px 22px;
+  cursor: pointer;
+  letter-spacing: 0.005em;
+  transition: background 160ms ease, transform 80ms ease;
+  border-radius: 2px;
+}
+.btn-primary:hover { background: #56172a; }
+.btn-primary:active { transform: translateY(1px); }
+.btn-primary:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.btn-secondary {
+  font-family: var(--j-font-body);
+  font-size: 14px;
+  font-weight: 500;
+  background: transparent;
+  color: var(--j-ink);
+  border: 0.5px solid var(--j-ink);
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 140ms ease;
+}
+.btn-secondary:hover { background: rgba(26, 24, 20, 0.04); }
+
+.btn-ghost {
+  font-family: var(--j-font-mono);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--j-oxblood);
+  border: none;
+  padding: 6px 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 0.5px;
+}
+.btn-ghost:hover { color: #56172a; }
+
+.divider {
+  border: none;
+  border-top: 0.5px solid var(--j-rule);
+  margin: 0;
+}
+
+.fade-in { animation: fadeIn 600ms ease both; }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
