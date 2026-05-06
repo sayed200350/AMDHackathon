@@ -1,21 +1,41 @@
 // Screen 1 — Empty state / drop zone.
 // First impression. Maria opens the app, sees the masthead, drops the deal package.
 
-const DropScreen = ({ onContinue, showRecent }) => {
+const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId }) => {
   const [hover, setHover] = useState(false);
   const [dragOver, setDragOver] = useState(false);
   const [staged, setStaged] = useState([]);
+  const [uploading, setUploading] = useState(false);
   const fileInputRef = useRef(null);
   const data = window.JuniorData;
 
   const onDragOver = (e) => { e.preventDefault(); setDragOver(true); };
   const onDragLeave = (e) => { e.preventDefault(); setDragOver(false); };
+
+  const handleLiveUpload = (files) => {
+    if (!files || !files.length) return;
+    setUploading(true);
+    var name = files[0].name.replace(/\.\w+$/, "");
+    window.JuniorAPI.createMatter(name, files).then(function (matter) {
+      setLiveMatterId(matter.id);
+      setUploading(false);
+      onContinue();
+    }).catch(function () {
+      setUploading(false);
+      setStaged(data.documents);
+      setTimeout(onContinue, 700);
+    });
+  };
+
   const onDrop = (e) => {
     e.preventDefault();
     setDragOver(false);
-    // Real demo: pretend the user dropped the matter package. Stage all 8 docs.
-    setStaged(data.documents);
-    setTimeout(onContinue, 700);
+    if (backendAvailable && e.dataTransfer.files.length) {
+      handleLiveUpload(e.dataTransfer.files);
+    } else {
+      setStaged(data.documents);
+      setTimeout(onContinue, 700);
+    }
   };
   const onPick = () => {
     setStaged(data.documents);
@@ -43,7 +63,14 @@ const DropScreen = ({ onContinue, showRecent }) => {
           onClick={() => !staged.length && fileInputRef.current?.click()}
         >
           <input ref={fileInputRef} type="file" multiple style={{ display: "none" }}
-                 onChange={() => { setStaged(data.documents); setTimeout(onContinue, 700); }} />
+                 onChange={(e) => {
+                   if (backendAvailable && e.target.files.length) {
+                     handleLiveUpload(e.target.files);
+                   } else {
+                     setStaged(data.documents);
+                     setTimeout(onContinue, 700);
+                   }
+                 }} />
           <div className="dropzone-corner tl"></div>
           <div className="dropzone-corner tr"></div>
           <div className="dropzone-corner bl"></div>
@@ -63,7 +90,17 @@ const DropScreen = ({ onContinue, showRecent }) => {
                 browse files
               </button>
               <div className="dropzone-hint">
-                {dragOver ? "release to begin" : "Junior accepts up to 250 MB · stays on your machine"}
+                {uploading ? "Uploading to MI300X\u2026" : dragOver ? "release to begin" : backendAvailable ? "MI300X online \u2014 drop files for live review" : "Junior accepts up to 250 MB \u00b7 stays on your machine"}
+              </div>
+              <div style={{ marginTop: 16, display: "flex", gap: 12, justifyContent: "center" }}>
+                <button className="btn-ghost" onClick={(e) => { e.stopPropagation(); onPick(); }}>
+                  run demo
+                </button>
+                {backendAvailable && (
+                  <span style={{ fontFamily: "var(--j-font-mono)", fontSize: 9, letterSpacing: "0.1em", color: "var(--j-forest)", textTransform: "uppercase", alignSelf: "center" }}>
+                    \u25cf live
+                  </span>
+                )}
               </div>
             </React.Fragment>
           ) : (

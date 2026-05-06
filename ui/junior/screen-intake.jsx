@@ -1,7 +1,7 @@
 // Screen 2 — Intake / loading. Junior reads the documents and narrates.
 // The narration is the demo's secret weapon. Typewriter on a scripted timeline.
 
-const IntakeScreen = ({ progress, setProgress, onContinue }) => {
+const IntakeScreen = ({ progress, setProgress, onContinue, liveMatterId }) => {
   const data = window.JuniorData;
   const narration = data.narration;
   const totalDuration = narration[narration.length - 1].t + 1500;
@@ -9,8 +9,35 @@ const IntakeScreen = ({ progress, setProgress, onContinue }) => {
   const [tick, setTick] = useState(progress);
   const [paused, setPaused] = useState(false);
   const [hoveredDoc, setHoveredDoc] = useState(null);
+  const [liveStatus, setLiveStatus] = useState(null);
   const startRef = useRef(null);
   const rafRef = useRef(null);
+  const pollRef = useRef(null);
+
+  // Live mode: poll the backend for real results
+  useEffect(() => {
+    if (!liveMatterId) return;
+    var active = true;
+    var poll = function () {
+      window.JuniorAPI.pollMatter(liveMatterId).then(function (matter) {
+        if (!active) return;
+        setLiveStatus(matter.status);
+        if (matter.status === "completed" || matter.status === "failed") {
+          var mapped = window.JuniorAPI.mapMatterToJuniorData(matter);
+          window.JuniorData.findings = mapped.findings;
+          window.JuniorData.memo = mapped.memo;
+          window.JuniorData.liveNarration = mapped.narration;
+          setTimeout(onContinue, 1000);
+        } else {
+          pollRef.current = setTimeout(poll, 3000);
+        }
+      }).catch(function () {
+        if (active) pollRef.current = setTimeout(poll, 5000);
+      });
+    };
+    poll();
+    return function () { active = false; clearTimeout(pollRef.current); };
+  }, [liveMatterId, onContinue]);
 
   // Drive the timeline.
   useEffect(() => {

@@ -25,6 +25,13 @@ function App() {
   const [intakeProgress, setIntakeProgress] = useState(0); // ms into narration
   const [activeFinding, setActiveFinding] = useState(null);
   const [memoGenerated, setMemoGenerated] = useState(false);
+  const [backendAvailable, setBackendAvailable] = useState(false);
+  const [liveMatterId, setLiveMatterId] = useState(null);
+
+  // Check if the MI300X backend is reachable
+  useEffect(() => {
+    window.JuniorAPI.checkBackendHealth(3000).then(setBackendAvailable);
+  }, []);
 
   const goTo = useCallback((id) => {
     setScreen(id);
@@ -69,8 +76,8 @@ function App() {
       <div className="app-chrome" data-density={tweaks.density}>
         <Masthead screen={screen} completed={completed} onJump={goTo} />
         <main className="app-main">
-          {screen === "drop"     && <DropScreen onContinue={() => goTo("intake")} showRecent={tweaks.showRecentMatters} />}
-          {screen === "intake"   && <IntakeScreen progress={intakeProgress} setProgress={setIntakeProgress} onContinue={() => goTo("findings")} />}
+          {screen === "drop"     && <DropScreen onContinue={() => goTo("intake")} showRecent={tweaks.showRecentMatters} backendAvailable={backendAvailable} setLiveMatterId={setLiveMatterId} />}
+          {screen === "intake"   && <IntakeScreen progress={intakeProgress} setProgress={setIntakeProgress} onContinue={() => goTo("findings")} liveMatterId={liveMatterId} />}
           {screen === "findings" && <FindingsScreen active={activeFinding} setActive={setActiveFinding} onMemo={() => { setMemoGenerated(true); goTo("memo"); }} />}
           {screen === "memo"     && <MemoScreen freshlyGenerated={memoGenerated} onPrintConsumed={() => setMemoGenerated(false)} onBenchmark={() => goTo("bench")} />}
           {screen === "bench"    && <BenchmarkScreen onRestart={() => { setCompleted({}); setIntakeProgress(0); setActiveFinding(null); goTo("drop"); }} />}
