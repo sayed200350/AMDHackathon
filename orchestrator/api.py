@@ -81,11 +81,36 @@ def _matter_to_response(matter: Matter) -> MatterResponse:
     )
 
 
+MAX_INPUT_TOKENS = 32000  # Leave ~8K for system prompt + output within 40K context
+
+
+def _estimate_tokens(text: str) -> int:
+    """Rough token estimate: ~4 chars per token for English text."""
+    return len(text) // 4
+
+
 def _concatenate_documents(file_contents: dict[str, str]) -> str:
-    """Concatenate all documents with clear headers for context."""
+    """Concatenate documents with headers, truncating to fit context window."""
     parts: list[str] = []
+    total_tokens = 0
+
     for name, content in file_contents.items():
-        parts.append(f"=== DOCUMENT: {name} ===\n{content}\n=== END: {name} ===\n")
+        header = f"=== DOCUMENT: {name} ===\n"
+        footer = f"\n=== END: {name} ===\n"
+        doc_tokens = _estimate_tokens(content)
+
+        if total_tokens + doc_tokens > MAX_INPUT_TOKENS:
+            remaining = MAX_INPUT_TOKENS - total_tokens
+            if remaining > 1000:
+                char_limit = remaining * 4
+                truncated = content[:char_limit]
+                parts.append(f"{header}{truncated}\n[... TRUNCATED — document exceeds context window ...]{footer}")
+                total_tokens += remaining
+            break
+        else:
+            parts.append(f"{header}{content}{footer}")
+            total_tokens += doc_tokens
+
     return "\n".join(parts)
 
 
