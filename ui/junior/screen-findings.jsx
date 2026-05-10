@@ -210,17 +210,32 @@ const SeverityBadge = ({ severity }) => {
 
 const SingleDocViewer = ({ activeDoc, setActiveDoc, flashAnchor, docViewerRef }) => {
   const data = window.JuniorData;
-  const doc = data.docBodies && data.docBodies[activeDoc] ? data.docBodies[activeDoc] : (data.docBodies ? data.docBodies.spa : null);
+  const doc = data.docBodies && data.docBodies[activeDoc] ? data.docBodies[activeDoc] : (data.docBodies && Object.keys(data.docBodies).length ? data.docBodies[Object.keys(data.docBodies)[0]] : null);
+
+  // In live mode, find uploaded text by matching document name
+  var uploadedText = null;
+  if (!doc && data._uploadedTexts) {
+    var docInfo = (data.documents || []).find(function (d) { return d.id === activeDoc; });
+    var docName = docInfo ? docInfo.name : activeDoc;
+    uploadedText = data._uploadedTexts[docName] || data._uploadedTexts[Object.keys(data._uploadedTexts)[0]] || null;
+  }
+
   return (
     <div className="doc-viewer">
       <DocTabs activeDoc={activeDoc} setActiveDoc={setActiveDoc} />
       <div className="doc-page" ref={docViewerRef}>
         {doc ? (
           <DocPage doc={doc} flashAnchor={flashAnchor} />
+        ) : uploadedText ? (
+          <article className="doc-body">
+            <header className="doc-header">
+              <h1 className="doc-title">{((data.documents || []).find(function (d) { return d.id === activeDoc; }) || {}).name || "Uploaded Document"}</h1>
+            </header>
+            <pre style={{ whiteSpace: "pre-wrap", wordWrap: "break-word", fontFamily: "var(--j-font-body)", fontSize: 13, lineHeight: 1.7, color: "var(--j-ink)", padding: "0 1rem" }}>{uploadedText.substring(0, 20000)}{uploadedText.length > 20000 ? "\n\n[... truncated for display ...]" : ""}</pre>
+          </article>
         ) : (
           <div style={{ padding: "3rem 2rem", textAlign: "center", color: "var(--j-ink-mute)", fontFamily: "var(--j-font-display)", fontSize: 16 }}>
-            <p>Document viewer not available in live mode.</p>
-            <p style={{ fontSize: 12, marginTop: 8, fontFamily: "var(--j-font-mono)" }}>Click findings on the left to see details.</p>
+            <p>No document text available.</p>
           </div>
         )}
       </div>

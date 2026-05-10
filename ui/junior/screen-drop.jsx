@@ -18,10 +18,18 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
     if (!files || !files.length) return;
     setUploading(true);
     setUploadError(null);
-    setUploadedFiles(Array.from(files).map(function (f) { return f.name; }));
+    var fileArr = Array.from(files);
+    setUploadedFiles(fileArr.map(function (f) { return f.name; }));
     var name = files[0].name.replace(/\.\w+$/, "");
+    // Read file contents for the document viewer
+    Promise.all(fileArr.map(function (f) {
+      return f.text().then(function (t) { return { name: f.name, text: t }; });
+    })).then(function (results) {
+      window.JuniorData._uploadedTexts = {};
+      results.forEach(function (r) { window.JuniorData._uploadedTexts[r.name] = r.text; });
+    });
     console.log("[Junior] Uploading", files.length, "files to", window.JuniorAPI.getBaseUrl());
-    window.JuniorAPI.createMatter(name, files).then(function (matter) {
+    window.JuniorAPI.createMatter(name, fileArr).then(function (matter) {
       console.log("[Junior] Upload success, matter:", matter.id);
       setLiveMatterId(matter.id);
       setUploading(false);
