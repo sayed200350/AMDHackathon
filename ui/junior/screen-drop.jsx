@@ -30,11 +30,8 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
   const onDrop = (e) => {
     e.preventDefault();
     setDragOver(false);
-    if (backendAvailable && e.dataTransfer.files.length) {
+    if (e.dataTransfer.files.length) {
       handleLiveUpload(e.dataTransfer.files);
-    } else {
-      setStaged(data.documents);
-      setTimeout(onContinue, 700);
     }
   };
   const onPick = () => {
@@ -64,11 +61,8 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
         >
           <input ref={fileInputRef} type="file" multiple style={{ display: "none" }}
                  onChange={(e) => {
-                   if (backendAvailable && e.target.files.length) {
+                   if (e.target.files.length) {
                      handleLiveUpload(e.target.files);
-                   } else {
-                     setStaged(data.documents);
-                     setTimeout(onContinue, 700);
                    }
                  }} />
           <div className="dropzone-corner tl"></div>
