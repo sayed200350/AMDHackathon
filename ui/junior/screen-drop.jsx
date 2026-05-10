@@ -112,10 +112,14 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
               <div className="dropzone-hint">
                 {dragOver ? "release to begin" : "MI300X online \u2014 drop files for live review"}
               </div>
-              <div style={{ marginTop: 16, display: "flex", gap: 12, justifyContent: "center" }}>
-                <span style={{ fontFamily: "var(--j-font-mono)", fontSize: 9, letterSpacing: "0.1em", color: "var(--j-forest)", textTransform: "uppercase", alignSelf: "center" }}>
-                  \u25cf live \u2014 MI300X
+              <div style={{ marginTop: 16, display: "flex", gap: 12, justifyContent: "center", alignItems: "center" }}>
+                <span style={{ fontFamily: "var(--j-font-mono)", fontSize: 9, letterSpacing: "0.1em", color: "var(--j-forest)", textTransform: "uppercase" }}>
+                  \u25cf live
                 </span>
+                <span style={{ color: "var(--j-rule)" }}>|</span>
+                <button className="btn-ghost" onClick={(e) => { e.stopPropagation(); onPick(); }} style={{ fontSize: 11 }}>
+                  run demo
+                </button>
               </div>
             </React.Fragment>
           ) : (
