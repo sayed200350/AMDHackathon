@@ -6,6 +6,8 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
   const [dragOver, setDragOver] = useState(false);
   const [staged, setStaged] = useState([]);
   const [uploading, setUploading] = useState(false);
+  const [uploadError, setUploadError] = useState(null);
+  const [uploadedFiles, setUploadedFiles] = useState([]);
   const fileInputRef = useRef(null);
   const data = window.JuniorData;
 
@@ -15,15 +17,16 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
   const handleLiveUpload = (files) => {
     if (!files || !files.length) return;
     setUploading(true);
+    setUploadError(null);
+    setUploadedFiles(Array.from(files).map(function (f) { return f.name; }));
     var name = files[0].name.replace(/\.\w+$/, "");
     window.JuniorAPI.createMatter(name, files).then(function (matter) {
       setLiveMatterId(matter.id);
       setUploading(false);
       onContinue();
-    }).catch(function () {
+    }).catch(function (err) {
       setUploading(false);
-      setStaged(data.documents);
-      setTimeout(onContinue, 700);
+      setUploadError("Upload failed: " + (err.message || "Could not reach backend"));
     });
   };
 
@@ -70,7 +73,24 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
           <div className="dropzone-corner bl"></div>
           <div className="dropzone-corner br"></div>
 
-          {!staged.length ? (
+          {uploading ? (
+            <div style={{ textAlign: "center", padding: "2rem 0" }}>
+              <div style={{ fontSize: 18, fontFamily: "var(--j-font-display)", marginBottom: 12 }}>
+                Uploading to MI300X\u2026
+              </div>
+              <div style={{ fontFamily: "var(--j-font-mono)", fontSize: 11, color: "var(--j-ink-mute)", marginBottom: 16 }}>
+                {uploadedFiles.map(function (f, i) { return React.createElement("div", { key: i }, f); })}
+              </div>
+              <div className="reading-dot" style={{ margin: "0 auto" }}></div>
+            </div>
+          ) : uploadError ? (
+            <div style={{ textAlign: "center", padding: "2rem 0" }}>
+              <div style={{ fontSize: 14, color: "#dc2626", marginBottom: 12 }}>{uploadError}</div>
+              <button className="btn-ghost" onClick={(e) => { e.stopPropagation(); setUploadError(null); }}>
+                try again
+              </button>
+            </div>
+          ) : !staged.length ? (
             <React.Fragment>
               <div className="dropzone-instruction">
                 {dragOver ? (
@@ -79,12 +99,12 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
                   <em>Drop the deal package here.<br/>PDFs, Word docs, emails.</em>
                 )}
               </div>
-              <div className="dropzone-or">— or —</div>
+              <div className="dropzone-or">\u2014 or \u2014</div>
               <button className="dropzone-browse" onClick={(e) => { e.stopPropagation(); fileInputRef.current?.click(); }}>
                 browse files
               </button>
               <div className="dropzone-hint">
-                {uploading ? "Uploading to MI300X\u2026" : dragOver ? "release to begin" : backendAvailable ? "MI300X online \u2014 drop files for live review" : "Junior accepts up to 250 MB \u00b7 stays on your machine"}
+                {dragOver ? "release to begin" : "MI300X online \u2014 drop files for live review"}
               </div>
               <div style={{ marginTop: 16, display: "flex", gap: 12, justifyContent: "center" }}>
                 <span style={{ fontFamily: "var(--j-font-mono)", fontSize: 9, letterSpacing: "0.1em", color: "var(--j-forest)", textTransform: "uppercase", alignSelf: "center" }}>
