@@ -18,30 +18,38 @@ const IntakeScreen = ({ progress, setProgress, onContinue, liveMatterId }) => {
   useEffect(() => {
     if (!liveMatterId) return;
     var active = true;
+    var pollCount = 0;
     var poll = function () {
+      pollCount++;
+      console.log("[Junior] Poll #" + pollCount + " for matter " + liveMatterId);
       window.JuniorAPI.pollMatter(liveMatterId).then(function (matter) {
         if (!active) return;
+        console.log("[Junior] Status:", matter.status, "clauses:", (matter.clauses||[]).length, "risks:", (matter.risks||[]).length);
         setLiveStatus(matter.status);
         if (matter.status === "completed" || matter.status === "failed") {
           var mapped = window.JuniorAPI.mapMatterToJuniorData(matter);
           window.JuniorData.findings = mapped.findings;
           window.JuniorData.memo = mapped.memo;
+          window.JuniorData.documents = mapped.documents;
+          window.JuniorData.matter = mapped.matter;
           window.JuniorData.liveNarration = mapped.narration;
+          console.log("[Junior] Review complete. Findings:", mapped.findings.length);
           setTimeout(onContinue, 1000);
         } else {
-          pollRef.current = setTimeout(poll, 3000);
+          pollRef.current = setTimeout(poll, 10000);
         }
-      }).catch(function () {
-        if (active) pollRef.current = setTimeout(poll, 5000);
+      }).catch(function (err) {
+        console.error("[Junior] Poll failed:", err);
+        if (active) pollRef.current = setTimeout(poll, 15000);
       });
     };
     poll();
     return function () { active = false; clearTimeout(pollRef.current); };
   }, [liveMatterId, onContinue]);
 
-  // Drive the timeline.
+  // Drive the timeline — pause when in live mode waiting for backend
   useEffect(() => {
-    if (paused) return;
+    if (paused || liveMatterId) return;
     let last = performance.now();
     const step = (now) => {
       const dt = now - last;
@@ -190,18 +198,25 @@ const IntakeScreen = ({ progress, setProgress, onContinue, liveMatterId }) => {
               <div className="intake-progress-fill" style={{ width: `${overallPct * 100}%` }}></div>
             </div>
             <div className="intake-actions">
-              {!done ? (
+              {liveMatterId ? (
+                <div style={{ fontFamily: "var(--j-font-mono)", fontSize: 11, letterSpacing: "0.05em" }}>
+                  <span className="reading-dot" style={{ display: "inline-block", marginRight: 8 }}></span>
+                  {liveStatus === "completed" ? "Review complete — loading findings\u2026" :
+                   liveStatus === "failed" ? "Review failed — check server logs" :
+                   "MI300X is analyzing your documents\u2026 (" + (liveStatus || "connecting") + ")"}
+                </div>
+              ) : !done ? (
                 <React.Fragment>
                   <button className="btn-ghost" onClick={() => setPaused(!paused)}>
                     {paused ? "resume" : "pause"}
                   </button>
                   <button className="btn-ghost" onClick={() => setTick(totalDuration)}>
-                    skip to findings →
+                    skip to findings \u2192
                   </button>
                 </React.Fragment>
               ) : (
                 <button className="btn-primary" onClick={onContinue}>
-                  Review findings →
+                  Review findings \u2192
                 </button>
               )}
             </div>
