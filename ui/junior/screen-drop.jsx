@@ -87,14 +87,9 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
                 {uploading ? "Uploading to MI300X\u2026" : dragOver ? "release to begin" : backendAvailable ? "MI300X online \u2014 drop files for live review" : "Junior accepts up to 250 MB \u00b7 stays on your machine"}
               </div>
               <div style={{ marginTop: 16, display: "flex", gap: 12, justifyContent: "center" }}>
-                <button className="btn-ghost" onClick={(e) => { e.stopPropagation(); onPick(); }}>
-                  run demo
-                </button>
-                {backendAvailable && (
-                  <span style={{ fontFamily: "var(--j-font-mono)", fontSize: 9, letterSpacing: "0.1em", color: "var(--j-forest)", textTransform: "uppercase", alignSelf: "center" }}>
-                    \u25cf live
-                  </span>
-                )}
+                <span style={{ fontFamily: "var(--j-font-mono)", fontSize: 9, letterSpacing: "0.1em", color: "var(--j-forest)", textTransform: "uppercase", alignSelf: "center" }}>
+                  \u25cf live \u2014 MI300X
+                </span>
               </div>
             </React.Fragment>
           ) : (
