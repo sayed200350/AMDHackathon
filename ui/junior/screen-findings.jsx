@@ -198,11 +198,13 @@ const FindingCard = ({ f, expanded, active, onClick }) => (
 
 const SeverityBadge = ({ severity }) => {
   const map = {
+    critical: { label: "Critical", cls: "badge-high" },
     high: { label: "High", cls: "badge-high" },
     medium: { label: "Medium", cls: "badge-medium" },
     low: { label: "Low", cls: "badge-low" },
+    info: { label: "Info", cls: "badge-low" },
   };
-  const m = map[severity];
+  const m = map[severity] || { label: severity || "Unknown", cls: "badge-low" };
   return <span className={`severity-badge ${m.cls}`}>{m.label}</span>;
 };
 
