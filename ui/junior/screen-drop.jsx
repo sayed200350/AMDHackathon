@@ -20,11 +20,14 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
     setUploadError(null);
     setUploadedFiles(Array.from(files).map(function (f) { return f.name; }));
     var name = files[0].name.replace(/\.\w+$/, "");
+    console.log("[Junior] Uploading", files.length, "files to", window.JuniorAPI.getBaseUrl());
     window.JuniorAPI.createMatter(name, files).then(function (matter) {
+      console.log("[Junior] Upload success, matter:", matter.id);
       setLiveMatterId(matter.id);
       setUploading(false);
       onContinue();
     }).catch(function (err) {
+      console.error("[Junior] Upload failed:", err);
       setUploading(false);
       setUploadError("Upload failed: " + (err.message || "Could not reach backend"));
     });
@@ -53,14 +56,34 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
           </p>
         </div>
 
+        {uploading && (
+          <div style={{ textAlign: "center", padding: "3rem 2rem", border: "2px solid var(--j-oxblood)", borderRadius: 8, marginBottom: 24, background: "var(--j-oxblood-soft)" }}>
+            <div style={{ fontSize: 22, fontFamily: "var(--j-font-display)", marginBottom: 12, color: "var(--j-oxblood)" }}>
+              Uploading to MI300X\u2026
+            </div>
+            <div style={{ fontFamily: "var(--j-font-mono)", fontSize: 12, color: "var(--j-ink-mute)", marginBottom: 16 }}>
+              {uploadedFiles.map(function (f, i) { return React.createElement("div", { key: i, style: { marginBottom: 4 } }, "\u2022 " + f); })}
+            </div>
+            <div style={{ fontSize: 11, fontFamily: "var(--j-font-mono)", color: "var(--j-ink-mute)" }}>Processing on AMD Instinct MI300X \u2014 this may take a few minutes\u2026</div>
+          </div>
+        )}
+
+        {uploadError && (
+          <div style={{ textAlign: "center", padding: "2rem", border: "2px solid #dc2626", borderRadius: 8, marginBottom: 24, background: "#fef2f2" }}>
+            <div style={{ fontSize: 14, color: "#dc2626", marginBottom: 12 }}>{uploadError}</div>
+            <button className="btn-ghost" onClick={() => setUploadError(null)}>try again</button>
+          </div>
+        )}
+
         <div
           className={`dropzone ${dragOver ? "dragging" : ""} ${hover ? "hovered" : ""} ${staged.length ? "staged" : ""}`}
+          style={uploading ? { opacity: 0.3, pointerEvents: "none" } : {}}
           onMouseEnter={() => setHover(true)}
           onMouseLeave={() => setHover(false)}
           onDragOver={onDragOver}
           onDragLeave={onDragLeave}
           onDrop={onDrop}
-          onClick={() => !staged.length && fileInputRef.current?.click()}
+          onClick={() => !staged.length && !uploading && fileInputRef.current?.click()}
         >
           <input ref={fileInputRef} type="file" multiple style={{ display: "none" }}
                  onChange={(e) => {
@@ -73,24 +96,7 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
           <div className="dropzone-corner bl"></div>
           <div className="dropzone-corner br"></div>
 
-          {uploading ? (
-            <div style={{ textAlign: "center", padding: "2rem 0" }}>
-              <div style={{ fontSize: 18, fontFamily: "var(--j-font-display)", marginBottom: 12 }}>
-                Uploading to MI300X\u2026
-              </div>
-              <div style={{ fontFamily: "var(--j-font-mono)", fontSize: 11, color: "var(--j-ink-mute)", marginBottom: 16 }}>
-                {uploadedFiles.map(function (f, i) { return React.createElement("div", { key: i }, f); })}
-              </div>
-              <div className="reading-dot" style={{ margin: "0 auto" }}></div>
-            </div>
-          ) : uploadError ? (
-            <div style={{ textAlign: "center", padding: "2rem 0" }}>
-              <div style={{ fontSize: 14, color: "#dc2626", marginBottom: 12 }}>{uploadError}</div>
-              <button className="btn-ghost" onClick={(e) => { e.stopPropagation(); setUploadError(null); }}>
-                try again
-              </button>
-            </div>
-          ) : !staged.length ? (
+          {!staged.length ? (
             <React.Fragment>
               <div className="dropzone-instruction">
                 {dragOver ? (
