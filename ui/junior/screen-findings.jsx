@@ -94,14 +94,20 @@ const FindingsScreen = ({ active, setActive, onMemo }) => {
           <div className="findings-header">
             <div className="findings-meta-line">
               <span className="label">Junior's notes</span>
-              <span className="findings-time">tonight · 11:47 PM · {data.matter.words.toLocaleString()} words read</span>
+              <span className="findings-time">{new Date().toLocaleDateString("en-US", { month: "short", day: "numeric" })} {"\u00b7"} {(data.matter.docs || 0) + " docs"}</span>
             </div>
             <h2 className="findings-title">{data.matter.name}</h2>
-            <p className="findings-summary"><em>
-              I found <strong>three high-severity issues</strong>. Two are cross-document — one
-              between the SPA and Side Letter 3 on the MAE definition, the other an off-record
-              earnout cap referenced in correspondence but not papered. I'd start there.
-            </em></p>
+            <p className="findings-summary"><em>{(() => {
+              var high = findings.filter(function(f){ return f.severity === "high"; }).length;
+              var cross = findings.filter(function(f){ return f.type.indexOf("Cross-document") === 0; }).length;
+              var ob = findings.filter(function(f){ return f.type.indexOf("Obligation") === 0; }).length;
+              var parts = [];
+              if (high > 0) parts.push(high + " high-severity issue" + (high > 1 ? "s" : ""));
+              if (cross > 0) parts.push(cross + " cross-document conflict" + (cross > 1 ? "s" : ""));
+              if (ob > 0) parts.push(ob + " obligation" + (ob > 1 ? "s" : ""));
+              if (parts.length === 0) return "Review complete. No critical issues found.";
+              return "I found " + parts.join(", ") + ". I\u2019d start with the high-severity items.";
+            })()}</em></p>
           </div>
 
           <div className="filter-row">
@@ -202,12 +208,19 @@ const SeverityBadge = ({ severity }) => {
 
 const SingleDocViewer = ({ activeDoc, setActiveDoc, flashAnchor, docViewerRef }) => {
   const data = window.JuniorData;
-  const doc = data.docBodies[activeDoc] || data.docBodies.spa;
+  const doc = data.docBodies && data.docBodies[activeDoc] ? data.docBodies[activeDoc] : (data.docBodies ? data.docBodies.spa : null);
   return (
     <div className="doc-viewer">
       <DocTabs activeDoc={activeDoc} setActiveDoc={setActiveDoc} />
       <div className="doc-page" ref={docViewerRef}>
-        <DocPage doc={doc} flashAnchor={flashAnchor} />
+        {doc ? (
+          <DocPage doc={doc} flashAnchor={flashAnchor} />
+        ) : (
+          <div style={{ padding: "3rem 2rem", textAlign: "center", color: "var(--j-ink-mute)", fontFamily: "var(--j-font-display)", fontSize: 16 }}>
+            <p>Document viewer not available in live mode.</p>
+            <p style={{ fontSize: 12, marginTop: 8, fontFamily: "var(--j-font-mono)" }}>Click findings on the left to see details.</p>
+          </div>
+        )}
       </div>
     </div>
   );
