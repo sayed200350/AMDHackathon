@@ -2,7 +2,7 @@
 // Attaches to window.JuniorAPI (matches window.JuniorData pattern).
 
 (function () {
-  var DEFAULT_BASE = "http://134.199.200.48:8080";
+  var DEFAULT_BASE = "http://129.212.186.87:8080";
 
   function getBaseUrl() {
     var params = new URLSearchParams(window.location.search);
