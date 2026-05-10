@@ -62,6 +62,7 @@ Severity guide:
 - info: informational observation, no action needed
 
 Output a JSON array sorted by severity (critical first). No commentary outside JSON.
+/no_think
 """
 
 TASK_DESCRIPTION = """\

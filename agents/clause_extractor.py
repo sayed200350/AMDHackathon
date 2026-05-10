@@ -48,6 +48,7 @@ Your task:
 
 Output a JSON array of clause objects. No commentary outside the JSON.
 Be exhaustive — missing a clause is worse than a false positive.
+/no_think
 """
 
 TASK_DESCRIPTION = """\

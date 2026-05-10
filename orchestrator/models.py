@@ -53,7 +53,7 @@ class Matter(Base):
 # ---------------------------------------------------------------------------
 DATABASE_URL = os.environ.get(
     "DATABASE_URL",
-    "postgresql://counsel:counsel_dev_pw@localhost:5432/counsel",
+    "sqlite:///counsel.db",
 )
 
 engine = create_engine(DATABASE_URL, echo=False)

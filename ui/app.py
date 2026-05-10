@@ -234,24 +234,43 @@ def show_results(data: dict):
 if start_review and matter_name and uploaded_files:
     with st.spinner("Uploading documents..."):
         files = [("files", (f.name, f.getvalue(), "text/plain")) for f in uploaded_files]
-        resp = httpx.post(
-            f"{API_BASE}/api/matters",
-            params={"name": matter_name},
-            files=files,
-            timeout=60,
-        )
-        resp.raise_for_status()
-        matter = resp.json()
-        st.session_state["matter_id"] = matter["id"]
+        try:
+            resp = httpx.post(
+                f"{API_BASE}/api/matters",
+                params={"name": matter_name},
+                files=files,
+                timeout=60,
+            )
+            resp.raise_for_status()
+            matter = resp.json()
+            st.session_state["matter_id"] = matter["id"]
+            st.session_state["matter_name"] = matter_name
+            st.rerun()
+        except httpx.HTTPError as e:
+            st.error(f"Failed to submit: {e}")
 
 if "matter_id" in st.session_state:
-    matter_data = poll_matter(st.session_state["matter_id"])
+    try:
+        matter_data = poll_matter(st.session_state["matter_id"])
+    except httpx.HTTPError:
+        st.error("Lost connection to backend. Retrying...")
+        time.sleep(2)
+        st.rerun()
 
     if matter_data["status"] in ("pending", "running"):
         show_results(matter_data)
         time.sleep(3)
         st.rerun()
+    elif matter_data["status"] == "failed":
+        show_results(matter_data)
+        st.error("Review failed. Check server logs.")
     else:
         show_results(matter_data)
+
+    # Reset button in sidebar
+    with st.sidebar:
+        if st.button("New Review", use_container_width=True):
+            del st.session_state["matter_id"]
+            st.rerun()
 else:
     show_landing()

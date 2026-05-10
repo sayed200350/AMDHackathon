@@ -78,6 +78,7 @@ Output a JSON array sorted by severity. No commentary outside the JSON.
 
 THIS IS THE MOST IMPORTANT AGENT IN THE SYSTEM. A missed cross-reference conflict
 is the error that gets associates fired and costs firms millions. Be thorough.
+/no_think
 """
 
 TASK_DESCRIPTION = """\

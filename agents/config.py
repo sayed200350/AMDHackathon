@@ -15,15 +15,16 @@ class LLMConfig:
 
     base_url: str
     model_name: str
-    max_tokens: int = 4096
+    max_tokens: int = 8192
     temperature: float = 0.1
 
 
 def legal_llm_config() -> LLMConfig:
     """Config for the Qwen3-32B legal reasoning model."""
+    host = os.environ.get("VLLM_HOST", "localhost")
     port = os.environ.get("LEGAL_PORT", "8000")
     return LLMConfig(
-        base_url=f"http://localhost:{port}/v1",
+        base_url=f"http://{host}:{port}/v1",
         model_name="qwen3-32b-legal",
         max_tokens=4096,
         temperature=0.1,
@@ -32,9 +33,10 @@ def legal_llm_config() -> LLMConfig:
 
 def orch_llm_config() -> LLMConfig:
     """Config for the Qwen3.6-A3B orchestration model."""
+    host = os.environ.get("VLLM_HOST", "localhost")
     port = os.environ.get("ORCH_PORT", "8001")
     return LLMConfig(
-        base_url=f"http://localhost:{port}/v1",
+        base_url=f"http://{host}:{port}/v1",
         model_name="qwen3-a3b-orch",
         max_tokens=4096,
         temperature=0.0,

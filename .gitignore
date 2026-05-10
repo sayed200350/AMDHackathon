@@ -28,3 +28,4 @@ eval/test_deals/*.pdf
 
 # Docker
 pgdata/
+counsel.db

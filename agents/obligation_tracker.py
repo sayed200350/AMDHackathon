@@ -60,6 +60,7 @@ No commentary outside the JSON.
 
 Be exhaustive — every "shall", "must", "will deliver", "agrees to", and
 "is required to" should be captured.
+/no_think
 """
 
 TASK_DESCRIPTION = """\
