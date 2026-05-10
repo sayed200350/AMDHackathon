@@ -65,10 +65,12 @@ const IntakeScreen = ({ progress, setProgress, onContinue, liveMatterId }) => {
 
         if (matter.status === "completed" || matter.status === "failed") {
           var mapped = window.JuniorAPI.mapMatterToJuniorData(matter);
+          window.JuniorData._liveMode = true;
           window.JuniorData.findings = mapped.findings;
           window.JuniorData.memo = mapped.memo;
           window.JuniorData.documents = mapped.documents;
           window.JuniorData.matter = mapped.matter;
+          window.JuniorData.docBodies = {};
           window.JuniorData.liveNarration = mapped.narration;
           console.log("[Junior] Review complete. Findings:", mapped.findings.length);
           setTimeout(onContinue, 1500);
