@@ -86,7 +86,7 @@ const DropScreen = ({ onContinue, showRecent, backendAvailable, setLiveMatterId 
                 )}
               </div>
               <div className="dropzone-or">— or —</div>
-              <button className="dropzone-browse" onClick={(e) => { e.stopPropagation(); onPick(); }}>
+              <button className="dropzone-browse" onClick={(e) => { e.stopPropagation(); fileInputRef.current?.click(); }}>
                 browse files
               </button>
               <div className="dropzone-hint">
